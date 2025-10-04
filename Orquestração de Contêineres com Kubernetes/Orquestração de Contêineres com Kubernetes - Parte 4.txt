@@ -1,0 +1,13 @@
+Kubernetes oferece **Horizontal Pod Autoscaler (HPA)** para ajustar dinamicamente o número de réplicas com base em métricas como CPU ou uso de memória. ⚡ Além disso, o **Cluster Autoscaler** adiciona ou remove nós conforme a demanda de recursos.  
+
+Para workloads com padrões de tráfego imprevisíveis, combine HPA com **Vertical Pod Autoscaler (VPA)**, que recomenda ajustes de recursos (CPU/memória) para pods individuais. 🛠️  
+
+▸ **Metric Server**: coleta métricas de uso para o HPA.  
+▸ **Custom Metrics**: permite usar métricas de aplicação específicas.  
+
+→ **Thresholds**: defina limites superiores e inferiores para evitar sobrecarga.  
+→ **Cooldown Period**: intervalo entre ajustes para estabilizar o sistema.  
+
+Implementar essas estratégias garante alta disponibilidade e otimização de custos.  
+
+═══════════════════
