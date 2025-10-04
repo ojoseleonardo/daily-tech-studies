@@ -1,0 +1,10 @@
+Um **Pod** é a menor unidade implantável no Kubernetes, encapsulando um ou mais contêineres que compartilham rede e armazenamento. ⚙️ Cada pod recebe um endereço IP único dentro do cluster, facilitando a comunicação direta entre eles.  
+
+Para expor pods externamente, utilizamos **Services**, que criam abstrações de rede estáveis e balanceamento de carga. Existem quatro tipos principais: ClusterIP, NodePort, LoadBalancer e ExternalName. ▸ **ClusterIP**: acesso interno ao cluster; ▸ **NodePort**: mapeia uma porta do nó para o serviço; ▸ **LoadBalancer**: provisiona um balanceador externo; ▸ **ExternalName**: redireciona para um nome DNS externo.  
+
+→ **Label Selector**: mecanismo que associa pods a serviços.  
+→ **Endpoint**: lista de IPs de pods que atendem ao serviço.  
+
+Compreender como pods e serviços interagem é crucial para projetar aplicações resilientes e escaláveis.  
+
+═══════════════════
