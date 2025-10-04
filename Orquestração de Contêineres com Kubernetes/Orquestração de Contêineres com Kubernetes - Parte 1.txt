@@ -1,0 +1,10 @@
+Kubernetes, também conhecido como K8s, é a plataforma padrão para orquestração de contêineres em ambientes de produção. 🚀 Ele abstrai a infraestrutura subjacente, permitindo que desenvolvedores foquem no código em vez da gestão de servidores.  
+
+A arquitetura centraliza o controle em um **control plane**, que toma decisões de agendamento, monitoramento e manutenção do estado desejado dos recursos. 💡 Cada nó do cluster executa um **kubelet**, responsável por comunicar o estado do nó ao control plane.  
+
+→ **Cluster**: conjunto de nós que compartilham recursos e políticas.  
+→ **Node**: máquina física ou virtual que hospeda os contêineres.  
+
+Ao entender esses componentes básicos, você está pronto para explorar recursos avançados como serviços, volumes e políticas de segurança.  
+
+═══════════════════
