@@ -1,0 +1,12 @@
+🔐 **RBAC (Role‑Based Access Control)** deve ser configurado para limitar permissões a usuários e serviços, seguindo o princípio do menor privilégio.  
+
+🛡️ **Network Policies** isolam tráfego entre namespaces e pods, reduzindo a superfície de ataque. Use políticas de ingress e egress para controlar fluxos de rede.  
+
+📦 Mantenha imagens de contêineres **imunizadas**: escaneie vulnerabilidades, use bases mínimas (e.g., Alpine) e evite executar como root.  
+
+→ **Audit Logs**: registre ações críticas para rastreabilidade.  
+→ **Pod Security Standards**: aplique políticas de segurança de pod (privileged, seccomp, AppArmor).  
+
+Seguindo estas recomendações, seu cluster Kubernetes permanecerá robusto, seguro e pronto para evoluir com as necessidades do negócio.  
+
+═══════════════════
