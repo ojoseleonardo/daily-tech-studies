@@ -22,6 +22,7 @@ Este repositório é alimentado automaticamente por um workflow do n8n que simul
 
 - n8n (Workflow Automation)
 - GitHub API
+- Groq API
 - JavaScript/Node.js
 - Cron expressions
 
