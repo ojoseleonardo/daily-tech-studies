@@ -1,0 +1,11 @@
+A observabilidade permite que equipes compreendam o comportamento interno de sistemas distribuídos a partir de dados externos. 🚀 Em ambientes de microserviços, a complexidade aumenta, exigindo uma abordagem estruturada.
+
+Ela se baseia em três pilares fundamentais: métricas, logs e traces. Cada pilar oferece uma perspectiva única sobre a saúde da aplicação, e sua combinação fornece um panorama completo. 📊
+
+→ Métricas: medem valores numéricos ao longo do tempo (latência, taxa de erro).  
+→ Logs: registram eventos detalhados que ajudam a diagnosticar falhas.  
+→ Traces: rastreiam a jornada de uma requisição entre serviços.
+
+Ao adotar observabilidade, as equipes ganham capacidade de detectar anomalias proativamente e reduzir o MTTR (Mean Time to Recovery). 💡
+
+═══════════════════
