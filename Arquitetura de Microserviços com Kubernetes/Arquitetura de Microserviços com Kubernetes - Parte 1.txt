@@ -1,5 +1,0 @@
-Microserviços são aplicações divididas em componentes independentes que executam funções específicas. Cada serviço pode ser desenvolvido, testado e implantado de forma autônoma. Essa abordagem aumenta a flexibilidade e permite escalar partes do sistema conforme a demanda.
-
-A comunicação entre microserviços costuma ser feita por APIs leves, como HTTP/REST ou gRPC. Essa separação reduz o acoplamento e facilita a manutenção. Falhas em um serviço não afetam diretamente os demais, desde que haja mecanismos de tolerância.
-
-Apesar das vantagens, microserviços introduzem complexidade operacional. É necessário gerenciar múltiplas instâncias, versionamento de APIs e monitoramento distribuído. Ferramentas de orquestração ajudam a controlar esses desafios.
