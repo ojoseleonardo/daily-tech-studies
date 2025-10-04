@@ -1,36 +1,19 @@
-# 🤖 Automated Daily Tech Studies
+# 🤖 Daily Tech Studies (Automated)
 
-> N8N + GitHub API
+Este repositório é atualizado automaticamente usando **n8n + GitHub API**.
+O objetivo é simular estudos e registrar atividade no GitHub de forma automatizada.
 
-## 📌 Sobre o Projeto
+## 🚀 O que faz
 
-Este repositório é alimentado automaticamente por um workflow do n8n que simula atividade de estudos e documentação. O objetivo é demonstrar habilidades em:
+* Gera commits automáticos em horários variados
+* Cria conteúdo dinâmico simples
+* Segue padrões de commit semântico
 
-- ✅ Automação de processos com n8n
-- ✅ Integração com GitHub API
-- ✅ Lógica de randomização inteligente
-- ✅ Boas práticas de commits semânticos
+## 🛠️ Tecnologias
 
-## 🎯 Funcionalidades
-
-- Commits automáticos em horários variados
-- Conteúdo gerado dinamicamente
-- Padrões de commit semântico (conventional commits)
-- Simulação de padrão humano de atividade
-
-## 🛠️ Stack Tecnológica
-
-- n8n (Workflow Automation)
-- GitHub API
-- Groq API
-- JavaScript/Node.js
-- Cron expressions
-
-## 📊 Status
+* n8n (automação de workflows)
+* GitHub API
+* JavaScript/Node.js
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ojoseleonardo/daily-tech-studies)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ojoseleonardo/daily-tech-studies)
-
----
-
-**Nota:** Este é um projeto educacional para demonstrar capacidades de automação.
