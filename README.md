@@ -27,8 +27,8 @@ Este repositório é alimentado automaticamente por um workflow do n8n que simul
 
 ## 📊 Status
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ojoseleonar/daily-tech-studies)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ojoseleonar/daily-tech-studies)
+![GitHub last commit](https://img.shields.io/github/last-commit/ojoseleonardo/daily-tech-studies)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/ojoseleonardo/daily-tech-studies)
 
 ---
 
