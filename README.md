@@ -5,7 +5,7 @@ O objetivo é simular estudos e registrar atividade no GitHub de forma automatiz
 
 ## 🚀 O que faz
 
-* Gera commits automáticos em horários variados
+* Gera commits automáticos diários
 * Cria conteúdo dinâmico simples
 * Segue padrões de commit semântico
 
