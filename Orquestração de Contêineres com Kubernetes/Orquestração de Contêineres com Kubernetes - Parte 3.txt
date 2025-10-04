@@ -1,0 +1,13 @@
+**Deployments** gerenciam a criação e atualização de pods declarativamente. Eles permitem rollouts controlados, rollback automático e estratégias de atualização como *RollingUpdate* e *Recreate*. 📈  
+
+Para cargas de trabalho que requerem identidade persistente, como bancos de dados, usamos **StatefulSets**. Eles garantem nomes estáveis, ordens de inicialização e volumes persistentes associados a cada réplica. 🗄️  
+
+▸ **ReplicaSet**: garante o número desejado de pods.  
+▸ **Strategy**: define como as atualizações são aplicadas.  
+
+→ **RollingUpdate**: atualiza pods gradualmente, mantendo disponibilidade.  
+→ **Recreate**: remove todos os pods antigos antes de criar novos.  
+
+Dominar essas abstrações simplifica a gestão de ciclos de vida de aplicações complexas.  
+
+═══════════════════
