@@ -1,6 +1,6 @@
 # 🤖 Daily Tech Studies (Automated)
 
-Este repositório é atualizado automaticamente usando **n8n + GitHub API**.
+Este repositório é atualizado automaticamente usando **N8N + GitHub API**.
 O objetivo é simular estudos e registrar atividade no GitHub de forma automatizada.
 
 ## 🚀 O que faz
