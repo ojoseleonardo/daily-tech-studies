@@ -1,6 +1,6 @@
 # 🤖 Automated Daily Tech Studies
 
-> Demonstração de automação com n8n + GitHub API
+> N8N + GitHub API
 
 ## 📌 Sobre o Projeto
 
