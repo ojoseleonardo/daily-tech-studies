@@ -1,0 +1,11 @@
+A verificação contínua combina autenticação multifator (MFA) e análise de comportamento. Cada requisição passa por um motor de decisão que avalia risco, localização e integridade do endpoint. ⚡🔍
+
+▸ **MFA**: combina algo que o usuário sabe (senha) e algo que possui (token).  
+▸ **Telemetry**: logs de acesso, padrões de tráfego e anomalias alimentam IA para detecção precoce.  
+
+→ **Política baseada em risco**: decisões são ajustadas dinamicamente conforme o contexto.  
+→ **Feedback em tempo real**: alertas são gerados instantaneamente para ações suspeitas.
+
+Essa abordagem garante que, mesmo após o login inicial, a identidade do usuário e a segurança do dispositivo são constantemente reavaliadas. 📊
+
+═══════════════════
