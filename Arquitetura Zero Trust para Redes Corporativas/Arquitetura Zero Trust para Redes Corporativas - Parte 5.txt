@@ -1,0 +1,11 @@
+Implementar Zero Trust é uma jornada em fases. Comece com **inventário de ativos**, depois **defina políticas de acesso** e **implemente segmentação**. Por fim, automatize a verificação contínua e monitore métricas de sucesso. 📅🔧
+
+▸ **Fase 1 – Descoberta**: mapear fluxos de dados e identificar recursos críticos.  
+▸ **Fase 2 – Política**: criar regras baseadas em risco e contexto.  
+▸ **Fase 3 – Tecnologia**: adotar SDP, MFA e soluções de identidade.  
+▸ **Fase 4 – Automação**: integrar CI/CD para atualizar políticas em tempo real.  
+
+→ **Métricas chave**: tempo de detecção, taxa de falsos positivos e percentual de acesso mínimo concedido.  
+→ **Cultura de segurança**: treinar equipes e promover a mentalidade “confiança zero”.  
+
+Seguindo este roadmap, sua organização evolui de um modelo tradicional de perímetro para uma defesa adaptativa e resiliente. 🌐✨
