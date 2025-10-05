@@ -1,0 +1,11 @@
+Zero Trust divide a rede em segmentos lógicos menores, criando microperímetros ao redor de recursos críticos. Cada segmento tem políticas de acesso próprias, limitando a “lateral movement” de invasores. 🔧🛡️
+
+▸ **Software‑Defined Perimeter (SDP)**: controla o tráfego entre segmentos via políticas declarativas.  
+▸ **Network Access Control (NAC)**: valida dispositivos antes de conceder conectividade.  
+
+→ **Isolamento granular**: comprometer um segmento não expõe toda a rede.  
+→ **Visibilidade total**: monitoramento centralizado de fluxos entre microperímetros.
+
+Com a segmentação, a superfície de ataque é drasticamente reduzida, e incidentes são contidos rapidamente. 📈
+
+═══════════════════
