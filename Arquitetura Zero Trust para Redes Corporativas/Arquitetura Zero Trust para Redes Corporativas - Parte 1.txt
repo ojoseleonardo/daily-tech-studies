@@ -1,0 +1,11 @@
+Zero Trust parte do princípio “nunca confiar, sempre verificar”. Em vez de presumir que usuários internos são seguros, cada acesso é avaliado de forma independente. 🚀💡
+
+▸ **Verificação explícita**: credenciais, dispositivos e contexto são analisados a cada solicitação.  
+▸ **Acesso mínimo**: privilégios são concedidos apenas ao que for estritamente necessário.  
+
+→ **Confiança Zero**: não há zona “confiável” fixa.  
+→ **Autorização Dinâmica**: políticas adaptam-se ao risco em tempo real.
+
+Ao adotar esses pilares, organizações reduzem superfícies de ataque e aumentam a resiliência contra ameaças internas e externas. 📌
+
+═══════════════════
