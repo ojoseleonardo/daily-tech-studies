@@ -1,0 +1,13 @@
+OpenTelemetry é um padrão aberto que unifica coleta de métricas, traces e logs em aplicações distribuídas. 🚀 Ele nasce da fusão dos projetos OpenTracing e OpenCensus, oferecendo uma API consistente para diferentes linguagens.  
+
+▸ Principais benefícios:
+  → Redução de custos com ferramentas proprietárias  
+  → Visibilidade completa do fluxo de requisições  
+  → Compatibilidade com back‑ends como Jaeger, Prometheus e Grafana  
+
+→ **Ponto importante**: escolher um back‑end antes da instrumentação evita retrabalho.  
+→ **Outro ponto relevante**: a especificação evolui rapidamente; mantenha dependências atualizadas.  
+
+Ao adotar OpenTelemetry, equipes ganham uma camada de observabilidade que cresce junto com a arquitetura de microserviços. 📈
+
+═══════════════════
