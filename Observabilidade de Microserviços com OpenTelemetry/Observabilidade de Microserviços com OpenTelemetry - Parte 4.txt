@@ -1,0 +1,11 @@
+A grande força do OpenTelemetry está na correlação entre os três pilares da observabilidade. Por exemplo, ao analisar um spike de latência (métrica), pode‑se seguir o trace correspondente e inspecionar logs específicos daquele span.  
+
+▸ Fluxo típico de correlação:
+  → Métrica → Identificador de trace → Span → Logs associados  
+
+→ **Boa prática**: padronize nomes de atributos (ex.: `service.name`, `http.method`) para facilitar buscas.  
+→ **Cuidado**: evite incluir dados sensíveis nos atributos; use hashing ou elimine antes da exportação.  
+
+Ferramentas como Grafana Loki + Tempo ou Elastic APM já oferecem painéis que mesclam esses dados, proporcionando uma visão holística do sistema. 🎯
+
+═══════════════════
