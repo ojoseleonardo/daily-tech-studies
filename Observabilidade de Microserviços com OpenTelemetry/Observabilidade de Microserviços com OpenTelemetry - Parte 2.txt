@@ -1,0 +1,12 @@
+A instrumentação pode ser manual ou automática, dependendo da linguagem e do framework. Em Java, por exemplo, basta adicionar o agente Java (`javaagent`) ao iniciar a JVM; já em Node.js, o SDK oferece wrappers para Express e Koa.  
+
+▸ Estratégias:
+  → **Automática**: menos código, porém menos controle fino.  
+  → **Manual**: maior granularidade, ideal para negócios críticos.  
+
+→ **Dica**: use anotações (`@WithSpan`) para marcar pontos de interesse sem poluir a lógica.  
+→ **Atenção**: não sobrecarregue o serviço com spans excessivos; isso pode gerar latência.  
+
+Com a instrumentação correta, cada chamada entre microserviços gera um trace que pode ser correlacionado com métricas e logs. 🔧
+
+═══════════════════
