@@ -1,0 +1,12 @@
+Em ambientes de alta escala, o Collector pode ser implantado como DaemonSet no Kubernetes ou como serviço sidecar. Isso garante coleta local, reduzindo latência e tráfego de rede.  
+
+▸ Recomendações de escala:
+  → **Horizontal**: múltiplas instâncias do Collector com balanceamento de carga.  
+  → **Vertical**: ajuste de buffers e limites de memória conforme volume de dados.  
+
+→ **Checklist**:
+  ✓ Monitorar uso de CPU e memória do Collector  
+  ✓ Configurar limites de taxa (`rate limiting`) para evitar sobrecarga  
+  ✓ Testar failover simulando perda de exportadores  
+
+Adotar OpenTelemetry com essas práticas permite que a observabilidade acompanhe o crescimento da arquitetura, mantendo a confiabilidade e a rapidez na detecção de incidentes. 🌐
