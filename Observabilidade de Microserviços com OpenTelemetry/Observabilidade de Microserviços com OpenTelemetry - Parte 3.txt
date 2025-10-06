@@ -1,0 +1,13 @@
+Exportadores são responsáveis por enviar dados coletados para sistemas de armazenamento e visualização. O OpenTelemetry Collector atua como um agente centralizado, recebendo dados de múltiplas fontes e encaminhando-os ao destino final.  
+
+▸ Configurações típicas do Collector:
+  → **Receivers**: OTLP, Jaeger, Zipkin  
+  → **Processors**: batch, tail‑sampling  
+  → **Exporters**: Prometheus, Loki, ElasticSearch  
+
+→ **Ponto crucial**: habilite o batch processor para reduzir overhead de rede.  
+→ **Alerta**: verifique limites de retenção do back‑end; dados antigos podem ser descartados prematuramente.  
+
+Ao montar um pipeline de exportação bem definido, garante‑se que métricas, traces e logs cheguem ao destino correto de forma eficiente. 📡
+
+═══════════════════
