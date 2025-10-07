@@ -1,0 +1,10 @@
+A Infraestrutura como Código (IaC) transforma a configuração de recursos de TI em arquivos legíveis por humanos, permitindo versionamento, auditoria e automação. 🚀 Essa prática reduz erros manuais e acelera a entrega de ambientes.
+
+Ao declarar recursos em código, equipes tratam a infraestrutura da mesma forma que tratam o software: testes, revisão de pull‑requests e integração contínua são aplicáveis. 📊 Isso cria um ciclo de feedback rápido e confiável.
+
+→ **Declaratividade**: descreva o estado desejado, não os passos para chegar lá.  
+→ **Idempotência**: aplicar o mesmo código várias vezes não altera o resultado final.
+
+A adoção de IaC também promove a padronização entre ambientes (dev, staging, prod), facilitando a replicação e a escalabilidade das operações. ✅
+
+═══════════════════
