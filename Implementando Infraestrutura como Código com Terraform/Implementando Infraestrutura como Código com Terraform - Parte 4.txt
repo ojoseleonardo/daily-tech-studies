@@ -1,0 +1,17 @@
+Terraform armazena o estado da infraestrutura em um arquivo `terraform.tfstate`. Esse arquivo reflete a correspondência entre o código e os recursos reais, sendo crucial para operações de drift detection. ⚡
+
+Para equipes, recomenda‑se um backend remoto (ex.: **Terraform Cloud**, **AWS S3 + DynamoDB**) que ofereça bloqueio de estado e versionamento. Isso evita conflitos quando múltiplos usuários aplicam mudanças simultaneamente. 🔐
+
+Workspaces permitem isolar estados por ambiente dentro do mesmo código‑fonte. Por exemplo:
+
+```bash
+terraform workspace new dev
+terraform workspace select prod
+```
+
+→ **Bloqueio de estado**: impede sobrescritas concorrentes.  
+→ **Versionamento**: histórico de alterações para auditoria.
+
+Manter o estado seguro e bem gerenciado é a base para confiabilidade em pipelines de entrega contínua. 📈
+
+═══════════════════
