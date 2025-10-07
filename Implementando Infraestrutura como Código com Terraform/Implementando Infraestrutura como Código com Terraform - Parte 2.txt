@@ -1,0 +1,10 @@
+Terraform, da HashiCorp, destaca‑se por ser *multi‑cloud* e suportar centenas de provedores (AWS, Azure, GCP, Kubernetes, entre outros). 🌐 Essa neutralidade evita lock‑in e permite orquestrar recursos heterogêneos a partir de um único plano.
+
+Sua linguagem declarativa, o **HCL (HashiCorp Configuration Language)**, combina legibilidade com poder expressivo, facilitando a colaboração entre desenvolvedores e engenheiros de ops. 🛠️ Além disso, o plano de execução (`terraform plan`) oferece uma pré‑visualização segura das mudanças antes da aplicação.
+
+→ **Provider plug‑in**: adicione novos serviços sem alterar o core.  
+→ **Modularidade**: reutilize blocos de código em múltiplos projetos.
+
+Com o Terraform, a infraestrutura deixa de ser “uma arte” e passa a ser um artefato versionado, auditável e testável. 📌
+
+═══════════════════
