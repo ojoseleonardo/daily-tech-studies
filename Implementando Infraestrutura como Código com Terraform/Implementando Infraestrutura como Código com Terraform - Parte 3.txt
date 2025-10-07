@@ -1,0 +1,17 @@
+Um repositório típico contém três diretórios principais: **modules**, **environments** e **scripts**. Cada módulo encapsula recursos reutilizáveis (ex.: VPC, banco de dados) e pode ser versionado independentemente. 📁
+
+```hcl
+module "vpc" {
+  source = "./modules/vpc"
+  cidr   = var.vpc_cidr
+}
+```
+
+Nos ambientes (dev, prod) definimos *workspaces* ou arquivos `*.tfvars` com variáveis específicas, como tamanhos de instância ou limites de orçamento. 🔍 Essa separação garante que alterações em um ambiente não impactem outro.
+
+→ **main.tf**: ponto de entrada que orquestra módulos e recursos.  
+→ **variables.tf**: declarações de variáveis com tipos e descrições.
+
+A prática de manter a documentação (README) ao lado de cada módulo ajuda novos membros a entender rapidamente a finalidade e uso correto. 📚
+
+═══════════════════
