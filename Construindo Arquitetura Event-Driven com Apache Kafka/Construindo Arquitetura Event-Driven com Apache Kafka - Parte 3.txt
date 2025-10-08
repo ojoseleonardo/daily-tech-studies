@@ -1,0 +1,11 @@
+Definir tópicos e seu particionamento é crucial para performance e escalabilidade. Cada tópico pode ter múltiplas partições, que são distribuídas entre brokers para paralelismo. ⚡📈
+
+▸ **Chave de partição**: determina a partição de um evento, garantindo ordem para chaves iguais.  
+▸ **Número de partições**: deve refletir o throughput esperado e o número de consumidores concorrentes.  
+
+→ **Sobrecarga de partições** pode degradar latência; escolha equilibrada é essencial.  
+→ **Replicação** (factor de réplica) protege contra falhas de broker, mantendo a disponibilidade.
+
+Um design cuidadoso evita gargalos e assegura que o cluster Kafka escale de forma linear conforme a carga aumenta. 🛠️✅
+
+═══════════════════
