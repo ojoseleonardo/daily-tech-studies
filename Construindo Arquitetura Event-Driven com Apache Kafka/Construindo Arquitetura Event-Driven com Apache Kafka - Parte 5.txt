@@ -1,0 +1,9 @@
+Para projetos de grande porte, adotar padrões como **Event Sourcing**, **CQRS** (Command Query Responsibility Segregation) e **Schema Registry** eleva a consistência e a evolutividade dos dados. 🏗️💡  
+
+▸ **Event Sourcing**: estado do sistema é reconstruído a partir da sequência de eventos armazenados no Kafka.  
+▸ **Schema Registry**: versionamento de esquemas Avro/Protobuf garante compatibilidade entre produtores e consumidores.  
+
+→ **Back‑pressure** controlada por *consumer offsets* impede sobrecarga de downstream.  
+→ **Teste de contrato** entre schemas reduz falhas em produção.
+
+Ao combinar esses padrões com automação de deploy (IaC) e observabilidade (KSQL, Prometheus), as equipes criam pipelines de dados resilientes, fáceis de evoluir e preparados para o futuro. 🌐🚀
