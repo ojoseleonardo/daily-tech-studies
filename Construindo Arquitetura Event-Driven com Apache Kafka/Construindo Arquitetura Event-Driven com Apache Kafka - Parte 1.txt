@@ -1,0 +1,12 @@
+A arquitetura event‑driven (EDA) coloca eventos no centro da comunicação entre serviços, permitindo que sistemas reativos respondam a mudanças em tempo real. 🚀💡 Essa abordagem desacopla produtores e consumidores, facilitando a escalabilidade horizontal e a tolerância a falhas.
+
+▸ **Evento**: mudança de estado que pode ser capturada e transmitida.  
+▸ **Produtor**: quem gera o evento.  
+▸ **Consumidor**: quem reage ao evento.  
+
+→ **Desacoplamento** garante que alterações em um serviço não impactem diretamente outros.  
+→ **Latência baixa** é essencial para pipelines de dados críticos.
+
+Ao adotar EDA, as equipes podem evoluir funcionalidades independentemente, reduzindo tempo de entrega e aumentando a robustez do ecossistema. 📈⚙️
+
+═══════════════════
