@@ -1,0 +1,11 @@
+Escalar Kafka envolve tanto o aumento de brokers quanto a otimização de recursos de hardware. 🔍💻 Estratégias incluem **scale‑out** (adicionar brokers) e **scale‑up** (melhorar CPU/SSD).  
+
+▸ **Rebalanceamento automático** redistribui partições quando novos brokers entram.  
+▸ **Configurações de retenção** (tempo ou tamanho) evitam uso excessivo de disco.  
+
+→ **Circuit Breaker** nos consumidores impede sobrecarga ao detectar latência alta.  
+→ **Idempotência** nos produtores garante que eventos duplicados não causem efeitos colaterais.
+
+Monitoramento com métricas como *lag*, *throughput* e *under‑replicated partitions* permite ajustes proativos, mantendo a resiliência do fluxo de eventos. 📌⚠️
+
+═══════════════════
