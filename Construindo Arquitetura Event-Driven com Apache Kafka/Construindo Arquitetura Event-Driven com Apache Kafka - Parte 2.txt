@@ -1,0 +1,11 @@
+O Apache Kafka funciona como um log distribuído de eventos, oferecendo persistência durável e alta taxa de transferência. 📊🖥️ Ele suporta dois modelos principais: **publish/subscribe** e **queue**, permitindo flexibilidade na forma como mensagens são consumidas.
+
+▸ **Publish/Subscribe**: múltiplos consumidores leem o mesmo tópico independentemente.  
+▸ **Queue (Consumer Group)**: cada mensagem é processada por apenas um membro do grupo, garantindo balanceamento de carga.  
+
+→ **Retenção configurável** permite reprocessar eventos antigos quando necessário.  
+→ **Ordenação por partição** assegura consistência dentro de um fluxo de dados.
+
+Esses modelos permitem que arquiteturas híbridas combinem processamento em tempo real com reprocessamento batch, atendendo a diversos casos de uso. 🔧💭
+
+═══════════════════
