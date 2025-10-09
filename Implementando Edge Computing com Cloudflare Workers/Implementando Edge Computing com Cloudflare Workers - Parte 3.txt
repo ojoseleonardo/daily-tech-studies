@@ -1,0 +1,19 @@
+Uma aplicação típica em Workers combina três componentes principais: **Scripts**, **KV Store** e **Durable Objects**. Cada um tem um papel específico na orquestração de dados e lógica.
+
+▸ Fluxo de execução:
+  → O cliente faz a requisição → Cloudflare roteia ao PoP mais próximo.
+  → O Worker captura a requisição → Processa lógica (ex.: autenticação, cache).
+  → Dados são lidos/escritos em KV ou objetos duráveis → Resposta devolvida ao cliente.
+
+→ **KV Store**: armazenamento chave‑valor de baixa latência, ideal para caches estáticos.  
+→ **Durable Objects**: estado consistente por objeto, perfeito para sessões ou contadores globais.
+
+Exemplo visual:
+
+```
+[Cliente] → (PoP) → [Worker Script] → {KV / Durable Object} → [Resposta]
+```
+
+Essa arquitetura elimina a necessidade de balanceadores de carga tradicionais e simplifica o ciclo de desenvolvimento. 📦
+
+═══════════════════
