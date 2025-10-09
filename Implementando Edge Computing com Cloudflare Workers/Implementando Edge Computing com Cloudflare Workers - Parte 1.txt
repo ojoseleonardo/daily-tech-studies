@@ -1,0 +1,13 @@
+Edge Computing traz o processamento de dados para mais próximo do usuário final, reduzindo latência e aliviando a carga dos datacenters centrais. 🚀 Essa abordagem é ideal para aplicações interativas, IoT e serviços que exigem respostas em milissegundos.
+
+▸ Principais benefícios:
+  → Latência mínima: o código roda nos pontos de presença (PoPs) globais.
+  → Escalabilidade automática: cada PoP lida com seu tráfego local.
+  → Resiliência: falhas em um PoP não afetam todo o sistema.
+
+→ Reduz custos de banda ao evitar round‑trips desnecessários.  
+→ Permite personalização de conteúdo por região geográfica.
+
+Ao entender esses pilares, fica claro por que a Edge está se tornando a camada de execução padrão para muitas startups e gigantes da tecnologia. 📈
+
+═══════════════════
