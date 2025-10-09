@@ -1,0 +1,13 @@
+Cloudflare Workers oferece um ambiente JavaScript (ou Rust, C, Go via WASM) executado diretamente nos 300+ PoPs da rede Cloudflare. ⚡ Isso significa que seu código pode responder ao usuário antes mesmo de chegar ao seu servidor de origem.
+
+▸ Diferenciais:
+  → Tempo de inicialização < 5 ms (cold start quase inexistente).
+  → Integração nativa com KV, R2, e Durable Objects.
+  → Modelo de pagamento pay‑as‑you‑go, sem necessidade de provisionamento.
+
+→ Não há gerenciamento de servidores – foco total no código.  
+→ Suporte a TLS 1.3 e firewall integrado para segurança de camada 7.
+
+Com esses recursos, desenvolvedores podem criar APIs, redirecionamentos, e até mesmo aplicações completas, tudo na borda da rede. 🌐
+
+═══════════════════
