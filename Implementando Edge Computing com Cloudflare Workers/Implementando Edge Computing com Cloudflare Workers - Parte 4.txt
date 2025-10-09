@@ -1,0 +1,13 @@
+Segurança na Edge requer atenção a três camadas: **Código**, **Dados** e **Rede**. 🔐
+
+▸ Recomendações:
+  → Use **Secrets** do Cloudflare para chaves API – nunca hard‑code credenciais.
+  → Valide e sanitize todas as entradas – a superfície de ataque inclui headers e query strings.
+  → Habilite **Rate Limiting** e **Bot Management** nas rotas críticas.
+
+→ **Durable Objects** devem validar a origem das chamadas para evitar abusos de estado compartilhado.  
+→ Ative **TLS 1.3** e **HTTP/2** para comunicação segura entre o cliente e o PoP.
+
+Além disso, monitore logs de Workers via **Logpush** para detectar padrões suspeitos em tempo real. 📊
+
+═══════════════════
