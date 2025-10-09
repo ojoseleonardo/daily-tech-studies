@@ -1,0 +1,11 @@
+O ciclo de vida de um Worker começa com `wrangler publish`, que empacota o código e o envia para a rede Cloudflare. 📦 O processo é CI/CD‑friendly, permitindo integrações com GitHub Actions ou GitLab CI.
+
+▸ Estratégias de monitoramento:
+  → **Metrics**: latência, taxa de erro, e contagem de invocações via Cloudflare Dashboard.
+  → **Tracing**: integre com OpenTelemetry para rastreamento distribuído.
+  → **Alertas**: configure webhooks ou Slack para picos de latência.
+
+→ Escalabilidade é automática: cada PoP replica o Worker conforme o tráfego aumenta, sem intervenção manual.  
+→ Para otimizar custos, use **Cache‑Everything** e defina **TTL** adequado nos objetos KV.
+
+Com essas práticas, sua aplicação na Edge estará pronta para atender milhões de usuários globais com performance de classe mundial. 🌍✨
