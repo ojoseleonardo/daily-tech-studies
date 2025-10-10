@@ -1,0 +1,24 @@
+A instalação pode ser feita via **Istioctl**, **Helm** ou operadores. O método mais simples para iniciantes é usar o `istioctl install` com o perfil **demo**. 📥💻
+
+```bash
+# Baixe a última versão do istioctl
+curl -L https://istio.io/downloadIstio | ISTIO_VERSION=1.22.0 sh -
+export PATH=$PATH:$HOME/.istioctl/bin
+
+# Instale o Istio com o perfil demo
+istioctl install --set profile=demo -y
+```
+
+▸ **Validação**  
+  → Verifique os pods no namespace `istio-system`.  
+  → Confirme que o `istiod` está rodando e que o `IngressGateway` está exposto.  
+
+⚠️ **Dica:** habilite o **automatic sidecar injection** no namespace da aplicação para que os proxies sejam injetados sem intervenção manual.  
+
+```bash
+kubectl label namespace <seu-namespace> istio-injection=enabled
+```
+
+Com o mesh pronto, você pode começar a aplicar políticas de tráfego.  
+
+═══════════════════
