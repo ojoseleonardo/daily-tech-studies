@@ -1,0 +1,12 @@
+A arquitetura do Istio se divide em três componentes principais: **Envoy sidecar**, **Control Plane** e **Add‑ons**. Cada microserviço recebe um proxy Envoy ao seu lado, interceptando todo o tráfego de entrada e saída. 📦🔧
+
+▸ **Control Plane**  
+  → **Pilot** distribui regras de roteamento para os sidecars.  
+  → **Citadel** gerencia certificados para mTLS.  
+  → **Galley** valida configurações (agora integrado ao Pilot).  
+
+→ **Add‑ons** como **Kiali**, **Grafana** e **Jaeger** fornecem visualizações de topologia, métricas e traces. 📊🕵️‍♂️
+
+Essa separação permite que desenvolvedores foquem no código, enquanto o Istio cuida da rede, garantindo consistência em ambientes de produção e teste.  
+
+═══════════════════
