@@ -1,0 +1,11 @@
+O Service Mesh é uma camada de infraestrutura dedicada ao gerenciamento de tráfego entre microserviços, oferecendo observabilidade, segurança e resiliência sem alterar o código das aplicações. 🚀💡
+
+▸ **Por que usar um Service Mesh?**  
+  → Simplifica a comunicação inter‑serviços, centralizando políticas de roteamento e controle de falhas.  
+  → Permite métricas detalhadas e tracing distribuído, facilitando a depuração.  
+
+→ **Istio** é a implementação mais popular, integrando‑se nativamente ao Kubernetes e fornecendo recursos avançados como mTLS automático e circuit breaking. ⚙️🔐
+
+Ao adotar o Istio, as equipes ganham um “data‑plane” (Envoy proxies) e um “control‑plane” (Pilot, Mixer, Citadel) que orquestram o tráfego de forma declarativa.  
+
+═══════════════════
