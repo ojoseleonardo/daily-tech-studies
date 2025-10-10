@@ -1,0 +1,28 @@
+O Istio fornece telemetria nativa: métricas Prometheus, logs Envoy e traces Jaeger, tudo acessível via **Kiali** para visualização em tempo real. 📈🔍
+
+▸ **Métricas padrão**  
+  → `istio_requests_total`, `istio_response_bytes`, `istio_tcp_sent_bytes_total`.  
+
+→ **Segurança**  
+  → **mTLS automático** protege a comunicação entre pods, eliminando a necessidade de certificados manuais.  
+  → **AuthorizationPolicy** permite controle de acesso baseado em identidade, namespace ou path.  
+
+```yaml
+apiVersion: security.istio.io/v1beta1
+kind: AuthorizationPolicy
+metadata:
+  name: deny-external
+spec:
+  selector:
+    matchLabels:
+      app: backend
+  action: DENY
+  rules:
+  - from:
+    - source:
+        notNamespaces: ["trusted"]
+```
+
+⚡ **Próximos passos:** integrar o Istio ao seu pipeline CI/CD para aplicar políticas como código e monitorar a saúde do mesh em produção.  
+
+═══════════════════
