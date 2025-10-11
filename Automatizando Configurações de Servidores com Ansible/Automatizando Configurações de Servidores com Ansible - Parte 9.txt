@@ -1,0 +1,11 @@
+1. **Modularize com Roles** – Separe lógica de aplicação, banco e rede em diretórios independentes.  
+2. **Versionamento de Playbooks** – Use Git com tags semânticas para rastrear mudanças.  
+3. **Testes Automatizados** – Utilize Molecule para validar roles em containers antes do merge.  
+
+Para ambientes massivos (>10k hosts), considere **dynamic inventories** com plugins de nuvem (AWS, Azure) e habilite **pipelining** para reduzir chamadas SSH.  
+
+→ Roles aumentam reutilização e clareza  
+→ Molecule garante qualidade antes da produção  
+
+Com essas práticas, seu gerenciamento de configuração com Ansible será seguro, eficiente e pronto para crescer junto com a infraestrutura. 🎉  
+═══════════════════
