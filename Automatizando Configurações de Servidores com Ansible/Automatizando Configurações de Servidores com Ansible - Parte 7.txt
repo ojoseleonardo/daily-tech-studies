@@ -1,0 +1,20 @@
+Ansible Vault protege credenciais, chaves SSH e variáveis sensíveis usando criptografia AES‑256. 🔒 Crie um arquivo criptografado:
+
+```
+ansible-vault create secrets.yml
+```
+
+Para usar variáveis dentro de um playbook:
+
+```
+vars_files:
+  - secrets.yml
+```
+
+Descriptografar em tempo de execução requer a senha ou um arquivo de chave (`--vault-password-file`).  
+
+→ Vault evita exposição de segredos em repositórios  
+→ Integração com CI/CD exige gerenciamento seguro de senhas  
+
+É recomendável rotacionar senhas periodicamente e limitar o acesso ao arquivo de chave. 🛡️  
+═══════════════════
