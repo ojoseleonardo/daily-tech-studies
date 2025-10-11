@@ -1,0 +1,22 @@
+Ansible se integra facilmente a pipelines de CI/CD como GitHub Actions, GitLab CI ou Jenkins. Um exemplo simples no GitHub Actions:
+
+```yaml
+name: Deploy
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Ansible Playbook
+        run: |
+          ansible-playbook -i inventory.yml site.yml --limit production --vault-password-file .vault_pass
+```
+
+Variáveis de ambiente podem ser passadas como **extra vars** (`-e`) para parametrizar builds.  
+
+→ Automatiza deploys consistentes a cada commit  
+→ Feedback imediato via logs de execução  
+
+Com Ansible Tower/AWX, é possível visualizar jobs, aprovações e auditoria dentro da mesma pipeline. 📊  
+═══════════════════
