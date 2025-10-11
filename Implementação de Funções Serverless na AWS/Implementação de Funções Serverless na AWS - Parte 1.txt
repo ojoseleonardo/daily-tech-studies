@@ -1,0 +1,11 @@
+Serverless computing abstrai a infraestrutura, permitindo que desenvolvedores foquem apenas no código da aplicação. 🚀 💡 ⚡ Na AWS, o serviço principal para isso é o **AWS Lambda**, que executa funções em resposta a eventos sem necessidade de provisionamento de servidores.  
+
+▸ **Modelo de execução:**  
+  → A função é invocada por gatilhos (API Gateway, S3, DynamoDB, etc.) e tem um tempo máximo de execução de 15 min.  
+  → O ambiente é criado sob demanda e destruído imediatamente após a execução, garantindo pagamento **por milissegundo** usado.  
+
+→ **Vantagem chave:** redução de custos operacionais e escalabilidade automática.  
+→ **Desafio:** gerenciamento de dependências e tempo de cold start.  
+
+Ao entender esses pilares, é possível planejar arquiteturas que tiram proveito da elasticidade e da simplicidade do modelo serverless.  
+═══════════════════
