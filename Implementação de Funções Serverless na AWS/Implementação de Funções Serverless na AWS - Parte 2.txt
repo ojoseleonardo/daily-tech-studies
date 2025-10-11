@@ -1,0 +1,11 @@
+A arquitetura típica de uma aplicação serverless na AWS combina Lambda com outros serviços gerenciados. 📊 🔧 🛠️ Por exemplo, um fluxo comum inclui **API Gateway** como ponto de entrada HTTP, **Lambda** para lógica de negócios e **DynamoDB** para armazenamento NoSQL.  
+
+▸ **Fluxo de dados:**  
+  → Cliente → API Gateway → Lambda → DynamoDB → Resposta ao cliente.  
+  → EventBridge pode orquestrar eventos assíncronos entre múltiplas funções.  
+
+→ **Ponto crítico:** definição correta de permissões IAM para cada recurso, garantindo o princípio do menor privilégio.  
+→ **Boa prática:** uso de **layers** para compartilhar bibliotecas entre funções, reduzindo o tamanho do deployment package.  
+
+Com essa visão modular, equipes podem iterar rapidamente, entregando novas funcionalidades sem impactar o restante do sistema.  
+═══════════════════
