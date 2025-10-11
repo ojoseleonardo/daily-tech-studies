@@ -1,0 +1,17 @@
+Ansible executa tarefas em paralelo por padrão, controlado pelo parâmetro `forks` (default = 5). Ajustar `forks` permite otimizar tempo de execução em grandes ambientes. ⚡  
+
+Para execuções sequenciais ou em grupos específicos, use `serial` dentro do play:
+
+```
+- hosts: dbservers
+  serial: 1
+  tasks: …
+```
+
+O modo **check** (`--check`) simula alterações sem aplicar, útil para validar playbooks antes da produção.  
+
+→ `forks` controla o grau de paralelismo  
+→ `serial` garante ordem em atualizações críticas  
+
+Combinar `--limit` e tags (`--tags`) permite execuções granulares e rápidas. 🔍  
+═══════════════════
