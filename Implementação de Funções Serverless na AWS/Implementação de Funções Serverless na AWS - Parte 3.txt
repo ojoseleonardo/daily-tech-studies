@@ -1,0 +1,10 @@
+Embora Lambda seja stateless por natureza, muitas aplicações precisam persistir estado. 📁 🔐 💭 A estratégia recomendada é externalizar o estado para serviços como **DynamoDB**, **S3**, ou **Redis (Elasticache)**.  
+
+▸ **Exemplo de padrão:**  
+  → Função Lambda processa um arquivo CSV carregado no S3, grava resultados agregados no DynamoDB e move o arquivo para uma pasta de “processado”.  
+
+→ **Cache de leitura:** usar Elasticache para reduzir latência em consultas frequentes.  
+→ **Transações:** DynamoDB oferece suporte a transações ACID, útil para operações que exigem consistência forte.  
+
+Ao separar o estado da lógica da função, mantém‑se a escalabilidade automática e evita‑se problemas de contenção de recursos.  
+═══════════════════
