@@ -1,0 +1,10 @@
+Automatizar o ciclo de vida das funções Lambda é essencial para entregas rápidas e seguras. 🖥️ 🔧 🚀 Ferramentas como **AWS SAM**, **Serverless Framework** ou **CDK** permitem declarar a infraestrutura como código e integrar com pipelines de CI/CD.  
+
+▸ **Pipeline típico:**  
+  → Commit → GitHub Actions → Build (pacote zip) → Deploy (SAM/Serverless) → Testes de integração.  
+
+→ **Teste de unidade:** usar frameworks como **Jest** ou **pytest** para validar lógica antes do deploy.  
+→ **Teste de integração:** invocar a função em um ambiente de teste com recursos simulados (LocalStack).  
+
+A prática de **canary deployments** com o recurso de **aliases** do Lambda permite rolar atualizações gradualmente, mitigando riscos de falhas em produção.  
+═══════════════════
