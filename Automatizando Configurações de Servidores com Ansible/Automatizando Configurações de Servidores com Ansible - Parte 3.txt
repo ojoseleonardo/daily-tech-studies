@@ -1,0 +1,21 @@
+Playbooks são arquivos YAML que descrevem **o que** deve ser feito, **onde** e **como**. Cada play contém um conjunto de tarefas (tasks) que são executadas sequencialmente nos hosts alvo. 📁  
+
+Estrutura típica de um playbook:
+```
+- name: Configurar Nginx
+  hosts: webservers
+  become: true
+  vars:
+    nginx_port: 80
+  tasks:
+    - name: Instalar pacote nginx
+      apt:
+        name: nginx
+        state: present
+```
+
+→ `become: true` eleva privilégios via sudo  
+→ Variáveis locais ao play facilitam a reutilização  
+
+Playbooks podem ser divididos em **roles** para melhorar a modularidade e reutilização entre projetos. 🎯  
+═══════════════════
