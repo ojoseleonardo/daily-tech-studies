@@ -1,0 +1,9 @@
+Ansible é uma ferramenta de automação open‑source que simplifica a gestão de configuração, implantação de aplicações e orquestração de tarefas. 🚀 Ele opera por meio de SSH, sem necessidade de agentes nos nós gerenciados, o que reduz a sobrecarga de manutenção.  
+
+A filosofia do Ansible baseia‑se em **idempotência**, garantindo que a execução repetida de um playbook produza o mesmo estado desejado, sem efeitos colaterais inesperados. ⚡  
+
+→ Idempotência evita “drift” de configuração  
+→ Arquitetura agent‑less simplifica a segurança  
+
+Ao final, você entenderá como o Ansible se diferencia de outras ferramentas como Chef ou Puppet, oferecendo simplicidade e legibilidade. 📌  
+═══════════════════
