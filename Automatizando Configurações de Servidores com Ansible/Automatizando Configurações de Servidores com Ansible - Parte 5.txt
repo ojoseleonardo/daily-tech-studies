@@ -1,0 +1,17 @@
+Variáveis podem ser definidas em múltiplos níveis: inventário, playbooks, roles, arquivos `vars/` ou `defaults/`. 🎯 A hierarquia determina a precedência, permitindo sobrescrever valores conforme necessário.  
+
+Fact gathering coleta informações sobre o host (IP, OS, memória) usando o módulo `setup`. Essas facts podem ser usadas para decisões condicionais:
+
+```
+- name: Instalar pacotes específicos do OS
+  yum:
+    name: "{{ item }}"
+    state: present
+  loop: "{{ ansible_facts['distribution'] == 'CentOS' | ternary(['httpd'], ['apache2']) }}"
+```
+
+→ Facts são úteis para criar playbooks portáveis  
+→ Variáveis sensíveis devem ser tratadas com Ansible Vault  
+
+Organizar variáveis em arquivos separados melhora a legibilidade e manutenção. 📂  
+═══════════════════
