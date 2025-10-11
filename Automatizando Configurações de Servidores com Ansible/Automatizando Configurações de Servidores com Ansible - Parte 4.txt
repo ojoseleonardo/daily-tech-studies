@@ -1,0 +1,14 @@
+Ansible oferece mais de 1.500 módulos nativos que cobrem sistemas operacionais, nuvens, bancos de dados e muito mais. 💡 Exemplos: `apt`, `yum`, `file`, `service`, `aws_s3`.  
+
+Quando um módulo inexistente é necessário, é possível criar módulos personalizados em Python ou usar o módulo genérico `command`/`shell`.  
+
+```
+- name: Executar script customizado
+  script: scripts/setup.sh
+```
+
+→ Módulos garantem idempotência automática  
+→ Módulos customizados ampliam o alcance da automação  
+
+A documentação oficial lista parâmetros, retornos e exemplos para cada módulo, facilitando a aprendizagem. 📚  
+═══════════════════
