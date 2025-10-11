@@ -1,0 +1,11 @@
+Lambda escala automaticamente de 0 a milhares de invocações simultâneas, mas é importante monitorar limites e custos. 📊 💰 ⚠️ O **Concurrency limit** pode ser ajustado para evitar sobrecarga de downstream services.  
+
+▸ **Estratégias de otimização:**  
+  → Reduza o **memory size** ao mínimo necessário; memória maior também aumenta CPU, reduzindo tempo de execução.  
+  → Utilize **provisioned concurrency** para eliminar cold starts em workloads críticos.  
+
+→ **Métrica chave:** custo = (tempo de execução ms × memória MB × taxa por GB‑s).  
+→ **Dica:** habilite **AWS Cost Explorer** e **Lambda Insights** para identificar funções caras e otimizar código.  
+
+Com monitoramento contínuo e ajustes finos, é possível alcançar alta performance sem surpresas na fatura, aproveitando ao máximo o modelo serverless.  
+═══════════════════
