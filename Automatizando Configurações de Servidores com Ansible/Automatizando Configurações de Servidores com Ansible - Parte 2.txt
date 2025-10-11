@@ -1,0 +1,17 @@
+O inventário define quais hosts serão gerenciados e como eles são organizados em grupos lógicos. 📊 Pode ser estático (arquivo INI/YAML) ou dinâmico (scripts que consultam provedores de nuvem).  
+
+▸ **Exemplo de inventário estático (hosts.ini):**  
+```
+[webservers]
+web01.example.com
+web02.example.com
+
+[dbservers]
+db01.example.com
+```
+
+→ Grupos permitem aplicar playbooks a subconjuntos de máquinas  
+→ Inventários dinâmicos facilitam ambientes elásticos na nuvem  
+
+Utilizar variáveis de grupo no inventário ajuda a centralizar parâmetros como usuários SSH ou caminhos de log, mantendo a consistência. 🔧  
+═══════════════════
