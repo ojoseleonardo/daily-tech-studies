@@ -1,0 +1,10 @@
+O armazenamento de dados é fundamental em aplicativos com Kubernetes. Isso inclui a criação de volumes, configuração de políticas de armazenamento, entre outros.
+
+▸ Principais características:
+  → Volumes: criação de volumes para armazenar dados
+  → Políticas de armazenamento: configuração de políticas para proteger os dados
+  → Monitoramento de armazenamento: monitoramento de espaço de armazenamento
+
+⚠️ Atenção: a configuração de armazenamento em aplicativos com Kubernetes pode ser complexa e exigir conhecimento especializado.
+
+═══════════════════
