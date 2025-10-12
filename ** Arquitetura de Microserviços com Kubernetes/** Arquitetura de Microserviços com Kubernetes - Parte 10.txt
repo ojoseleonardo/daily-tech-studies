@@ -1,0 +1,8 @@
+A arquitetura de microserviços com Kubernetes é uma opção viável para desenvolver aplicativos escaláveis e gerenciáveis. Isso inclui a criação de serviços, configuração de políticas de segurança, configuração de armazenamento, entre outros.
+
+▸ Principais vantagens:
+  → Escalabilidade: cada aplicativo pode ser escalado individualmente
+  → Gerenciamento de recursos: cada aplicativo tem seus próprios recursos isolados
+  → Isolamento de falhas: um aplicativo não afeta os outros
+
+⚠️ Atenção: a configuração de uma arquitetura de microserviços com Kubernetes pode ser complexa e exigir conhecimento especializado.
