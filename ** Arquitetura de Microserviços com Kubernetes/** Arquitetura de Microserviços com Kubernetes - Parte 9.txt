@@ -1,0 +1,10 @@
+As ferramentas de desenvolvimento de aplicativos são fundamentais em aplicativos com Kubernetes. Isso inclui a configuração de políticas de desenvolvimento, configuração de permissões, entre outros.
+
+▸ Principais características:
+  → Políticas de desenvolvimento: criação de políticas para proteger os aplicativos
+  → Configuração de permissões: configuração de permissões para os usuários
+  → Ferramentas de desenvolvimento: ferramentas para desenvolver aplicativos
+
+⚠️ Atenção: a configuração de ferramentas de desenvolvimento em aplicativos com Kubernetes pode ser complexa e exigir conhecimento especializado.
+
+═══════════════════
