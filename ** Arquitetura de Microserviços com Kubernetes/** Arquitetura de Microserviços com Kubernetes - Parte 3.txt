@@ -1,0 +1,10 @@
+Um cluster de Kubernetes é um grupo de máquinas que trabalham juntas para executar aplicativos. Para criar um cluster, é necessário configurar as máquinas, instalar o componente de controlador e configurar o cluster.
+
+▸ Principais etapas:
+  → Configuração das máquinas: instalação do componente de controlador
+  → Instalação do componente de controlador: configuração do cluster
+  → Configuração do cluster: criação de pods, replicação de serviços
+
+⚠️ Atenção: a configuração de um cluster de Kubernetes pode ser complexa e exigir conhecimento especializado.
+
+═══════════════════
