@@ -1,0 +1,10 @@
+A segurança é fundamental em aplicativos com Kubernetes. Isso inclui a criação de políticas de segurança, configuração de permissões, entre outros.
+
+▸ Principais características:
+  → Políticas de segurança: criação de políticas para proteger os aplicativos
+  → Configuração de permissões: configuração de permissões para os usuários
+  → Monitoramento de segurança: monitoramento de atividades suspeitas
+
+⚠️ Atenção: a configuração de segurança em aplicativos com Kubernetes pode ser complexa e exigir conhecimento especializado.
+
+═══════════════════
