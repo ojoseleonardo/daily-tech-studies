@@ -1,0 +1,10 @@
+Os microserviços são uma arquitetura de software que consiste em uma coleção de serviços independentes, cada um responsável por uma funcionalidade específica. Isso permite uma maior flexibilidade e escalabilidade em comparação com a arquitetura tradicional de monolitos.
+
+▸ Principais vantagens:
+  → Isolamento de falhas: um serviço não afeta os outros
+  → Flexibilidade: adicionar ou remover serviços sem impactar a aplicação
+  → Escalabilidade: cada serviço pode ser escalado individualmente
+
+⚠️ Atenção: a arquitetura de microserviços pode ser complexa e exigir mais recursos para gerenciamento.
+
+═══════════════════
