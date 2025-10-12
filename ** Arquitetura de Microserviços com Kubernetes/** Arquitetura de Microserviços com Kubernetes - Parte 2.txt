@@ -1,0 +1,10 @@
+Kubernetes é um sistema de orquestração de contêineres que permite gerenciar e automatizar a implantação, escalabilidade e manutenção de aplicativos em contêineres. Isso inclui a criação de pods, replicação de serviços, load balancing, entre outros.
+
+▸ Principais características:
+  → Automação de processos: criação de pods, replicação de serviços
+  → Orquestração de recursos: gerenciamento de memória, CPU, armazenamento
+  → Isolamento de recursos: cada aplicativo tem seus próprios recursos isolados
+
+⚠️ Atenção: a configuração de Kubernetes pode ser complexa e exigir conhecimento especializado.
+
+═══════════════════
