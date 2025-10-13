@@ -1,0 +1,13 @@
+Antes de começar a desenvolver, é necessário instalar o Node.js e React em seu computador. Aqui estão os passos para instalar:
+
+1. Baixe o Node.js do site oficial e siga as instruções de instalação.
+2. Instale o React usando o comando `npm install create-react-app`.
+3. Crie um novo projeto React usando o comando `npx create-react-app meu-projeto`.
+
+**Configurando o Ambiente de Desenvolvimento**
+
+Com o Node.js e React instalados, é hora de configurar o ambiente de desenvolvimento. Aqui estão algumas etapas importantes:
+
+1. Instale o pacote `react-scripts` para gerenciar os scripts de desenvolvimento.
+2. Configure o arquivo `package.json` para incluir as dependências necessárias.
+3. Crie um arquivo `index.js` para configurar o ponto de entrada do aplicativo.
