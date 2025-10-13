@@ -1,0 +1,13 @@
+Agora que a API está configurada, é hora de implementar segurança e proteção de dados. Aqui estão algumas etapas importantes:
+
+1. Utilize o pacote `Helmet` para proteger a API contra ataques de XSS.
+2. Utilize o pacote `CSRF` para proteger a API contra ataques de CSRF.
+3. Utilize o pacote `RateLimiter` para limitar o número de requisições.
+
+**Proteção de Dados**
+
+Agora que a segurança e proteção de dados estão configuradas, é hora de proteger os dados do usuário. Aqui estão algumas etapas importantes:
+
+1. Utilize o pacote `crypto` para criptografar os dados do usuário.
+2. Utilize o pacote `hash-password` para criar senhas seguras.
+3. Utilize o pacote `bcrypt` para verificar as senhas.
