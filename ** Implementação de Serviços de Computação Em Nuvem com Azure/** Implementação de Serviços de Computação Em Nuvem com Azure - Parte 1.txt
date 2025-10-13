@@ -1,0 +1,103 @@
+A computação em nuvem é um modelo de fornecimento de serviços que permite que os usuários acessem e usem recursos de computação remotamente, sem a necessidade de gerenciar infraestrutura física. O Azure é uma das principais plataformas de computação em nuvem, oferecendo uma ampla gama de serviços e recursos para ajudar as organizações a implantar soluções escaláveis e seguras.
+
+→ **Principais benefícios:**
+  → Economia de recursos
+  → Escalabilidade ilimitada
+  → Redução de custos
+
+⚠️ A escolha da plataforma de computação em nuvem certa é fundamental para o sucesso da implementação.
+
+═
+
+**PARTE_2:** 💻 Serviços de Computação em Nuvem com Azure
+
+O Azure oferece uma ampla gama de serviços de computação em nuvem, incluindo:
+
+→ **Servidores virtuais:** permitindo que os usuários criem e gerenciem servidores virtuais personalizados.
+→ **Contêineres:** permitindo que os usuários criem e gerenciem contêineres de aplicativos.
+→ **Serviços de aplicativos:** permitindo que os usuários criem e gerenciem aplicativos escaláveis e seguros.
+
+═
+
+**PARTE_3:** ☁️ Armazenamento em Nuvem com Azure
+
+O Azure oferece uma ampla gama de serviços de armazenamento em nuvem, incluindo:
+
+→ **Blobs:** permitindo que os usuários armazenem e gerenciem grandes quantidades de dados.
+→ **Arquivos:** permitindo que os usuários armazenem e gerenciem arquivos compartilhados.
+→ **Tabelas:** permitindo que os usuários armazenem e gerenciem dados estruturados.
+
+═
+
+**PARTE_4:** 🔒 Segurança em Computação em Nuvem com Azure
+
+A segurança é fundamental em computação em nuvem. O Azure oferece uma ampla gama de recursos de segurança, incluindo:
+
+→ **Autenticação e autorização:** permitindo que os usuários autentiquem e autorizem acesso a recursos.
+→ **Criptografia:** permitindo que os usuários criptografem e descriptografem dados.
+→ **Monitoramento de segurança:** permitindo que os usuários monitorem e respondam a ameaças de segurança.
+
+═
+
+**PARTE_5:** 📊 Orquestração de Serviços com Azure
+
+A orquestração de serviços é fundamental em computação em nuvem. O Azure oferece uma ampla gama de recursos de orquestração, incluindo:
+
+→ **Kubernetes:** permitindo que os usuários orquestram e gerenciem contêineres de aplicativos.
+→ **Azure DevOps:** permitindo que os usuários orquestram e gerenciem pipelines de desenvolvimento.
+
+═
+
+**PARTE_6:** 🔝 Implementação de Serviços de Computação Em Nuvem com Azure
+
+A implementação de serviços de computação em nuvem com Azure é um processo complexo que requer planejamento e execução cuidadosas. É fundamental que os usuários sigam as melhores práticas e recomendações da Microsoft para garantir o sucesso da implementação.
+
+→ **Passos para implementar:**
+  → Planejamento
+  → Orquestração
+  → Execução
+
+═
+
+**PARTE_7:** 💻 Gerenciamento de Serviços de Computação Em Nuvem com Azure
+
+O gerenciamento de serviços de computação em nuvem com Azure é fundamental para garantir a escalabilidade e a segurança dos recursos. É fundamental que os usuários sigam as melhores práticas e recomendações da Microsoft para garantir o sucesso do gerenciamento.
+
+→ **Recursos para gerenciar:**
+  → Monitoramento
+  → Orquestração
+  → Segurança
+
+═
+
+**PARTE_8:** ☁️ Migração para Computação em Nuvem com Azure
+
+A migração para computação em nuvem com Azure é um processo complexo que requer planejamento e execução cuidadosas. É fundamental que os usuários sigam as melhores práticas e recomendações da Microsoft para garantir o sucesso da migração.
+
+→ **Passos para migrar:**
+  → Planejamento
+  → Orquestração
+  → Execução
+
+═
+
+**PARTE_9:** 📊 Análise de Custos com Azure
+
+A análise de custos é fundamental em computação em nuvem. O Azure oferece uma ampla gama de recursos para ajudar os usuários a analisar e gerenciar os custos.
+
+→ **Recursos para analisar custos:**
+  → Faturamento
+  → Orçamentos
+  → Análise de custos
+
+═
+
+**PARTE_10:** 🚀 Conclusão
+
+A computação em nuvem é um modelo de fornecimento de serviços que permite que os usuários acessem e usem recursos de computação remotamente, sem a necessidade de gerenciar infraestrutura física. O Azure é uma das principais plataformas de computação em nuvem, oferecendo uma ampla gama de serviços e recursos para ajudar as organizações a implantar soluções escaláveis e seguras.
+
+→ **Conclusão:**
+  → A computação em nuvem é uma opção viável para as organizações que buscam escalabilidade e segurança.
+  → O Azure é uma plataforma de computação em nuvem robusta e escalável.
+
+═
