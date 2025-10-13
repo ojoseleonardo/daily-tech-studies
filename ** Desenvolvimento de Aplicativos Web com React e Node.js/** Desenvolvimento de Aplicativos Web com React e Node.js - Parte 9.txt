@@ -1,0 +1,13 @@
+Agora que o deploy em cloud está configurado, é hora de concluir o conteúdo. Aqui estão algumas etapas importantes:
+
+1. Verifique se a API está funcionando corretamente.
+2. Utilize o pacote `loadtest` para realizar testes de carga.
+3. Utilize o pacote `stress-testing` para realizar testes de estresse.
+
+**Próximas Etapas**
+
+Agora que o conteúdo foi concluído, é hora de planejar as próximas etapas. Aqui estão algumas etapas importantes:
+
+1. Implementar a autenticação e autorização com OAuth.
+2. Implementar a integração com outros serviços (por exemplo, PayPal).
+3. Realizar testes de segurança e proteção de dados.
