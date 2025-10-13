@@ -1,0 +1,13 @@
+Agora que a API está configurada e segura, é hora de implementar o deploy em cloud. Aqui estão algumas etapas importantes:
+
+1. Escolha uma plataforma de cloud (por exemplo, AWS ou Google Cloud).
+2. Crie um cluster de contêineres usando o pacote `docker`.
+3. Utilize o pacote `kubernetes` para gerenciar o cluster de contêineres.
+
+**Deploy em Cloud**
+
+Agora que o cluster de contêineres está configurado, é hora de realizar o deploy em cloud. Aqui estão algumas etapas importantes:
+
+1. Crie um serviço de deploy usando o pacote `aws-deploy`.
+2. Utilize o pacote `google-cloud-deploy` para realizar o deploy no Google Cloud.
+3. Utilize o pacote `azure-deploy` para realizar o deploy no Azure.
