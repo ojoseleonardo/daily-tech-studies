@@ -1,0 +1,13 @@
+Agora que o ambiente de desenvolvimento está configurado, é hora de construir a interface de usuário. Aqui estão algumas etapas importantes:
+
+1. Crie um componente React para representar a interface de usuário.
+2. Use o componente React para criar interfaces de usuário complexas.
+3. Utilize o estado e props para gerenciar o comportamento do componente.
+
+**Gerenciando o Estado**
+
+O estado é fundamental para gerenciar o comportamento do componente React. Aqui estão algumas etapas importantes:
+
+1. Crie um estado para armazenar os dados do componente.
+2. Use o método `setState` para atualizar o estado.
+3. Utilize o método `useEffect` para gerenciar as dependências do estado.
