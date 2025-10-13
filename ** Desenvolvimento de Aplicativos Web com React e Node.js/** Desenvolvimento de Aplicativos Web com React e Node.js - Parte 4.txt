@@ -1,0 +1,13 @@
+Agora que a interface de usuário está configurada, é hora de integrar com um banco de dados. Aqui estão algumas etapas importantes:
+
+1. Escolha um banco de dados para integrar (por exemplo, MongoDB ou PostgreSQL).
+2. Instale o pacote `mongoose` para gerenciar o banco de dados.
+3. Crie um modelo de dados para representar as entidades do banco de dados.
+
+**Conectando-se ao Banco de Dados**
+
+Agora que o modelo de dados está configurado, é hora de conectar-se ao banco de dados. Aqui estão algumas etapas importantes:
+
+1. Crie uma conexão com o banco de dados usando o pacote `mongoose`.
+2. Utilize o método `find` para recuperar dados do banco de dados.
+3. Utilize o método `save` para salvar dados no banco de dados.
