@@ -1,0 +1,14 @@
+Kubernetes é um gerenciador de contêineres que permite a implantação e gerenciamento de microserviços de forma eficiente e escalável. 🚀
+
+**Como Funciona:**
+
+→ **Pods:** os serviços são implantados em pods, que são unidades de implantação que compartilham recursos
+→ **Replicaset:** os pods são replicados para garantir a disponibilidade e a escalabilidade dos serviços
+→ **Serviços:** os serviços são expostos à rede por meio de serviços, que permitem a comunicação entre os serviços
+
+**Exemplo de Implementação:**
+
+→ **Serviço de Autenticação:**
+  → **Pod:** implementado em um pod com uma imagem de Docker
+  → **Replicaset:** replicado para garantir a disponibilidade
+  → **Serviço:** exposto à rede por meio de um serviço
