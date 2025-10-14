@@ -1,0 +1,9 @@
+Os microserviços são uma abordagem moderna de desenvolvimento de software que envolve a criação de sistemas compostos por serviços menores, independentes e escaláveis. Eles permitem uma maior flexibilidade e eficiência na entrega de funcionalidades de software. 🚀
+
+Os microserviços são projetados para serem autônomos, com suas próprias bases de dados e interfaces de comunicação. Isso permite que eles sejam desenvolvidos, testados e implantados independentemente um do outro. 📈
+
+**Principais Benefícios:**
+
+→ Independência: cada serviço pode ser desenvolvido e implantado de forma independente
+→ Escalabilidade: serviços podem ser escalados de forma individual
+→ Flexibilidade: serviços podem ser substituídos ou atualizados sem afetar outros serviços
