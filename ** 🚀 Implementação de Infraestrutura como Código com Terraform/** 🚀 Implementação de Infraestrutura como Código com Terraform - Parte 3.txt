@@ -1,0 +1,6 @@
+A implementação da infraestrutura como código com Terraform é uma estratégia que pode ajudar a reduzir erros, aumentar a segurança e melhorar a eficiência da infraestrutura de computação. Com a ajuda de ferramentas como Terraform, você pode criar arquivos de configuração que descrevem a infraestrutura desejada e, em seguida, executar comandos para implantá-la.
+
+▸ Próximos passos:
+  → Aprenda mais sobre Terraform e infraestrutura como código
+  → Implemente Terraform em seu ambiente de desenvolvimento
+  → Aplique os benefícios da infraestrutura como código em sua organização
