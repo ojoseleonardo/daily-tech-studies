@@ -1,0 +1,10 @@
+A infraestrutura como código é um conceito que envolve a definição e a implementação de infraestrutura de computação como código, permitindo que a infraestrutura seja gerenciada e atualizada de forma automatizada. Isso oferece benefícios significativos, como redução de erros, aumento da segurança e melhoria da eficiência.
+
+▸ Principais vantagens:
+  → Redução de erros: a infraestrutura é gerenciada por código, minimizando a probabilidade de erros humanos
+  → Aumento da segurança: a infraestrutura é implantada de forma automatizada, reduzindo a exposição a vulnerabilidades
+  → Melhoria da eficiência: a infraestrutura é gerenciada de forma centralizada, permitindo que os recursos sejam alocados de forma eficiente
+
+⚠️ Atenção: a implementação da infraestrutura como código exige conhecimento e habilidades específicas.
+
+═══════════════════
