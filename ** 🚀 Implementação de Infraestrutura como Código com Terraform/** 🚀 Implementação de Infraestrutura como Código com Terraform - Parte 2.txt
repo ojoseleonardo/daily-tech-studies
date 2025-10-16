@@ -1,0 +1,19 @@
+Terraform é uma ferramenta de infraestrutura como código que permite que você defina e implemente infraestrutura de forma automatizada. Com Terraform, você pode criar arquivos de configuração que descrevem a infraestrutura desejada e, em seguida, executar comandos para implantá-la.
+
+▸ Principais recursos:
+  → Definição de infraestrutura: Terraform permite que você defina a infraestrutura desejada em arquivos de configuração
+  → Implantação automatizada: Terraform executa comandos para implantar a infraestrutura definida
+  → Gerenciamento de recursos: Terraform permite que você gerencie recursos de infraestrutura de forma centralizada
+
+✨ Exemplo de arquivo de configuração Terraform:
+```terraform
+provider "aws" {
+  region = "us-west-2"
+}
+
+resource "aws_instance" "example" {
+  ami           = "ami-abc123"
+  instance_type = "t2.micro"
+}
+```
+═══════════════════
