@@ -1,0 +1,19 @@
+A arquitetura de microserviços é composta por vários microserviços que se comunicam entre si. Eles podem ser desenvolvidos em diferentes linguagens de programação e tecnologias.
+
+**Principais Componentes da Arquitetura de Microserviços:**
+
+▸ **Microserviços:** cada microserviço fornece uma funcionalidade específica.
+▸ **Gateway:** o gateway é responsável por receber as solicitações do usuário e encaminhá-las para os microserviços certos.
+▸ **Banco de Dados:** o banco de dados é responsável por armazenar os dados dos microserviços.
+
+**Exemplo de Arquitetura de Microserviços:**
+
+Imagine um e-commerce com diferentes microserviços, cada um responsável por uma funcionalidade específica, como:
+
+* Microserviço de autenticação
+* Microserviço de busca de produtos
+* Microserviço de pagamento
+
+Cada microserviço se comunica com o gateway e com os outros microserviços, garantindo que a aplicação esteja funcionando corretamente.
+
+═══════════════════
