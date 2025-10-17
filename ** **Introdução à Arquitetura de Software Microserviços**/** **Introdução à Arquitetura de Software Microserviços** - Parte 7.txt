@@ -1,0 +1,13 @@
+A implementação dos microserviços é fundamental para garantir que eles estejam funcionando corretamente.
+
+**Principais Ferramentas de Implementação de Microserviços:**
+
+▸ **Kubernetes:** é uma plataforma de orquestração de contêineres que permite a escalabilidade e a flexibilidade dos microserviços.
+▸ **Docker:** é uma plataforma de contêineres que permite a criação de imagens de software isoladas e portáteis.
+▸ **Ansible:** é uma plataforma de gerenciamento de infraestrutura que permite a implantação de microserviços em diferentes ambientes.
+
+**Exemplo de Implementação de Microserviços:**
+
+Imagine um microserviço de autenticação desenvolvido com Spring Boot. A implementação pode ser feita com o uso de Kubernetes para orquestrar os contêineres, e com o uso de Ansible para implantar o microserviço em diferentes ambientes.
+
+═══════════════════
