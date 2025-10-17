@@ -1,0 +1,13 @@
+A melhoria contínua dos microserviços é fundamental para garantir que eles estejam sempre atualizados e funcionando corretamente.
+
+**Principais Ferramentas de Melhoria Continuada de Microserviços:**
+
+▸ **CI/CD:** é uma plataforma de integração contínua e entrega contínua que permite a automação da build e deploy dos microserviços.
+▸ **Jenkins:** é uma plataforma de automação de tarefas que permite a automação da build e deploy dos microserviços.
+▸ **Docker:** é uma plataforma de contêineres que permite a criação de imagens de software isoladas e portáteis.
+
+**Exemplo de Melhoria Continuada de Microserviços:**
+
+Imagine um microserviço de autenticação desenvolvido com Spring Boot. A melhoria contínua pode ser feita com o uso de CI/CD para automatar a build e deploy, e com o uso de Jenkins para automatar a execução de tarefas.
+
+═══════════════════
