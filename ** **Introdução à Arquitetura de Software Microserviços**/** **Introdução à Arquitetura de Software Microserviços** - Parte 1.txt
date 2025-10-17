@@ -1,0 +1,14 @@
+Um microserviço é uma aplicação ou serviço independente que fornece uma funcionalidade específica. Eles são projetados para serem escaláveis, flexíveis e fáceis de manter. A arquitetura de microserviços é uma abordagem popular para desenvolver aplicações complexas.
+
+**Benefícios dos Microserviços:**
+
+▸ **Escalabilidade:** cada microserviço pode ser escalado independente dos outros.
+▸ **Flexibilidade:** microserviços podem ser desenvolvidos separadamente, permitindo a escolha de tecnologias diferentes para cada um.
+▸ **Manutenção:** microserviços são independentes, o que facilita a manutenção e atualização de cada um.
+
+**Desafios dos Microserviços:**
+
+⚠️ **Integração:** a integração entre microserviços pode ser complexa e requer uma boa comunicação entre os times.
+⚠️ **Monitoreamento:** é importante monitorar os microserviços para garantir que eles estejam funcionando corretamente.
+
+═══════════════════
