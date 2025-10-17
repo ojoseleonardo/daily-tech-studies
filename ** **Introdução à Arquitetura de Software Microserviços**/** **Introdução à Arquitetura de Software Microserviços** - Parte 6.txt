@@ -1,0 +1,13 @@
+O monitoramento dos microserviços é fundamental para garantir que eles estejam funcionando corretamente.
+
+**Principais Ferramentas de Monitoramento de Microserviços:**
+
+▸ **Prometheus:** é uma plataforma de monitoramento que permite a coleta de métricas de desempenho dos microserviços.
+▸ **Grafana:** é uma plataforma de visualização de dados que permite a visualização de métricas de desempenho dos microserviços.
+▸ **Alertmanager:** é uma plataforma de gerenciamento de alertas que permite a notificação de problemas nos microserviços.
+
+**Exemplo de Monitoramento de Microserviços:**
+
+Imagine um microserviço de autenticação desenvolvido com Spring Boot. O monitoramento pode ser feito com o uso de Prometheus para coletar métricas de desempenho, e com o uso de Grafana para visualizar as métricas.
+
+═══════════════════
