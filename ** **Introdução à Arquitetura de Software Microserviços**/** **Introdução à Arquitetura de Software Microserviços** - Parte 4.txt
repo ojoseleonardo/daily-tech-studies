@@ -1,0 +1,13 @@
+Os testes de microserviços são fundamentais para garantir que eles estejam funcionando corretamente.
+
+**Principais Tipos de Testes de Microserviços:**
+
+▸ **Testes de Unidade:** são testes que verificam a funcionalidade de cada microserviço em isolamento.
+▸ **Testes de Integração:** são testes que verificam a comunicação entre os microserviços.
+▸ **Testes de Aceitação:** são testes que verificam a funcionalidade da aplicação completa.
+
+**Exemplo de Testes de Microserviços:**
+
+Imagine um microserviço de autenticação desenvolvido com Spring Boot. Os testes de unidade podem verificar a funcionalidade da autenticação em isolamento, enquanto os testes de integração podem verificar a comunicação entre o microserviço e o gateway.
+
+═══════════════════
