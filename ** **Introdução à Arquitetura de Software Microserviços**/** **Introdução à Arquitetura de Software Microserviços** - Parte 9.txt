@@ -1,0 +1,19 @@
+A arquitetura de microserviços é uma abordagem popular para desenvolver aplicações complexas. Eles são escaláveis, flexíveis e fáceis de manter. A segurança, o monitoramento e a melhoria contínua dos microserviços são fundamentais para garantir que eles estejam sempre atualizados e funcionando corretamente.
+
+**Principais Lições Aprendidas:**
+
+▸ **Arquitetura de microserviços é uma abordagem popular para desenvolver aplicações complexas.**
+▸ **Escalabilidade, flexibilidade e manutenção são fundamentais para os microserviços.**
+▸ **Segurança, monitoramento e melhoria contínua são fundamentais para os microserviços.**
+
+**Exemplo de Aplicação de Arquitetura de Microserviços:**
+
+Imagine um e-commerce com diferentes microserviços, cada um responsável por uma funcionalidade específica, como:
+
+* Microserviço de autenticação
+* Microserviço de busca de produtos
+* Microserviço de pagamento
+
+Cada microserviço se comunica com o gateway e com os outros microserviços, garantindo que a aplicação esteja funcionando corretamente.
+
+═══════════════════
