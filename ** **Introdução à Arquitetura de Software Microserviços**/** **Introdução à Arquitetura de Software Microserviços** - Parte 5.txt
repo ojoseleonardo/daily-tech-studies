@@ -1,0 +1,13 @@
+A segurança dos microserviços é fundamental para garantir que a aplicação esteja protegida contra acessos não autorizados.
+
+**Principais Tipos de Segurança de Microserviços:**
+
+▸ **Autenticação:** é a verificação da identidade de um usuário ou sistema.
+▸ **Autorização:** é a verificação da permissão de um usuário ou sistema para acessar recursos.
+▸ **Cifragem:** é a proteção de dados sensíveis contra acessos não autorizados.
+
+**Exemplo de Segurança de Microserviços:**
+
+Imagine um microserviço de autenticação desenvolvido com Spring Boot. A autenticação pode ser feita com o uso de tokens JWT, enquanto a autorização pode ser feita com o uso de permissões Role-Based.
+
+═══════════════════
