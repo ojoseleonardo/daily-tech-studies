@@ -1,0 +1,9 @@
+A segurança e a conformidade são fundamentais para a computação em nuvem. A Azure oferece uma ampla gama de recursos de segurança e conformidade, incluindo autenticação, autorização, criptografia e conformidade com normas e regulamentos.
+
+▸ Principais recursos:
+  → Autenticação
+  → Autorização
+  → Criptografia
+  → Conformidade
+
+→ A Azure oferece uma solução de autenticação e autorização chamada Azure Active Directory (AAD).
