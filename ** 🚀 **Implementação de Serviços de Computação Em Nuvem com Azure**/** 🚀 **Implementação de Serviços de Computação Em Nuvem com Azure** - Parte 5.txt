@@ -1,0 +1,9 @@
+O monitoramento e a orquestração são fundamentais para a computação em nuvem. A Azure oferece uma ampla gama de recursos de monitoramento e orquestração, incluindo monitoramento de desempenho, monitoramento de log, orquestração de contêineres e orquestração de microserviços.
+
+▸ Principais recursos:
+  → Monitoramento de desempenho
+  → Monitoramento de log
+  → Orquestração de contêineres
+  → Orquestração de microserviços
+
+→ A Azure Monitor é uma solução de monitoramento que permite monitorar o desempenho e os log dos aplicativos em nuvem.
