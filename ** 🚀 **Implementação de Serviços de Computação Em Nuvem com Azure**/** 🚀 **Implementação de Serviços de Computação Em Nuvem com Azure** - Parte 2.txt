@@ -1,0 +1,9 @@
+A Azure oferece uma ampla gama de serviços de computação em nuvem, incluindo máquinas virtuais, bancos de dados, redes e soluções de armazenamento. A arquitetura de serviços em nuvem com Azure permite a criação de soluções escaláveis e seguras.
+
+▸ Principais serviços:
+  → Máquinas virtuais
+  → Bancos de dados
+  → Redes
+  → Soluções de armazenamento
+
+→ A Azure oferece uma grande variedade de opções de armazenamento, incluindo armazenamento de blocos, armazenamento de objetos e armazenamento de arquivos.
