@@ -1,0 +1,8 @@
+O futuro da computação em nuvem é promissor e cheio de oportunidades. A Azure está constantemente melhorando os recursos e as soluções para ajudar a criar soluções escaláveis e seguras.
+
+▸ Principais tendências:
+  → Computação em nuvem IoT
+  → Computação em nuvem Edge
+  → Computação em nuvem Serverless
+
+→ A Azure está constantemente evoluindo para atender às necessidades dos clientes e ajudar a criar soluções inovadoras.
