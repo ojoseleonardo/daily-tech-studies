@@ -1,0 +1,9 @@
+O desempenho e a escalabilidade são fundamentais para a computação em nuvem. A Azure oferece uma ampla gama de recursos e soluções para ajudar a melhorar o desempenho e a escalabilidade dos aplicativos em nuvem.
+
+▸ Principais recursos:
+  → Cachês
+  → Balanceamento de carga
+  → Orquestração de contêineres
+  → Orquestração de microserviços
+
+→ A Azure oferece uma solução de balanceamento de carga chamada Azure Load Balancer.
