@@ -1,0 +1,9 @@
+A implementação de serviços de computação em nuvem com Azure é um processo complexo que envolve a escolha da solução certa, a configuração da infraestrutura, a implementação dos aplicativos e a monitoração e orquestração dos recursos.
+
+▸ Principais etapas:
+  → Escolha da solução certa
+  → Configuração da infraestrutura
+  → Implementação dos aplicativos
+  → Monitoração e orquestração dos recursos
+
+→ A Azure oferece uma ampla gama de recursos e soluções para ajudar a implementar serviços de computação em nuvem.
