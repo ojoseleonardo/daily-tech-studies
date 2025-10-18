@@ -1,0 +1,8 @@
+A integração com outras tecnologias é fundamental para a computação em nuvem. A Azure oferece uma ampla gama de recursos e soluções para ajudar a integrar os aplicativos em nuvem com outras tecnologias, incluindo sistemas de gerenciamento de banco de dados, sistemas de gerenciamento de rede e sistemas de gerenciamento de segurança.
+
+▸ Principais recursos:
+  → Integração com sistemas de gerenciamento de banco de dados
+  → Integração com sistemas de gerenciamento de rede
+  → Integração com sistemas de gerenciamento de segurança
+
+→ A Azure oferece uma solução de integração chamada Azure Logic Apps.
