@@ -1,0 +1,8 @@
+O armazenamento é uma parte fundamental da computação em nuvem. A Azure oferece uma ampla gama de funcionalidades de armazenamento, incluindo armazenamento de blocos, armazenamento de objetos e armazenamento de arquivos.
+
+▸ Principais funcionalidades:
+  → Armazenamento de blocos
+  → Armazenamento de objetos
+  → Armazenamento de arquivos
+
+→ A Azure Blob Storage é uma solução de armazenamento de objetos que permite armazenar grandes quantidades de dados.
