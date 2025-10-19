@@ -1,0 +1,15 @@
+Para desenvolver o aplicativo com Flask, você precisará criar um modelo de dados, configurar o framework e criar uma API. Aqui está um passo a passo para desenvolver o aplicativo com Flask:
+
+**Parágrafo introdutório:**
+Para desenvolver o aplicativo com Flask, você precisará criar um modelo de dados, configurar o framework e criar uma API. Aqui está um passo a passo para desenvolver o aplicativo com Flask:
+
+**Parágrafo explicativo:**
+Para desenvolver o aplicativo com Flask, você precisará criar um modelo de dados utilizando o SQLAlchemy, configurar o framework utilizando o Flask-RESTful e criar uma API utilizando o Flask.
+
+→ **Ponto importante destacado:** Para desenvolver o aplicativo com Flask, você precisará criar um modelo de dados, configurar o framework e criar uma API.
+→ **Outro ponto relevante:** Com Flask, você pode criar aplicativos web que sejam escaláveis e seguros.
+
+**Parágrafo de fechamento:**
+Em resumo, para desenvolver o aplicativo com Flask, você precisará criar um modelo de dados, configurar o framework e criar uma API. Com Flask, você pode criar aplicativos web que sejam escaláveis e seguros.
+
+═══════════════════
