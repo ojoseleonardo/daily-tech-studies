@@ -1,0 +1,15 @@
+Para criar um projeto com Flask, você precisará instalar o framework e criar um novo projeto. Aqui está um passo a passo para criar um projeto com Flask:
+
+**Parágrafo introdutório:**
+Para criar um projeto com Flask, você precisará instalar o framework e criar um novo projeto. Aqui está um passo a passo para criar um projeto com Flask:
+
+**Parágrafo explicativo:**
+Para criar um projeto com Flask, você precisará instalar o framework utilizando o comando `pip install flask`. Em seguida, você precisará criar um novo projeto com o comando `flask new nome-do-projeto`.
+
+→ **Ponto importante destacado:** Para criar um projeto com Flask, você precisará instalar o framework e criar um novo projeto.
+→ **Outro ponto relevante:** Com Flask, você pode criar aplicativos web que sejam escaláveis e seguros.
+
+**Parágrafo de fechamento:**
+Em resumo, para criar um projeto com Flask, você precisará instalar o framework e criar um novo projeto. Com Flask, você pode criar aplicativos web que sejam escaláveis e seguros.
+
+═══════════════════
