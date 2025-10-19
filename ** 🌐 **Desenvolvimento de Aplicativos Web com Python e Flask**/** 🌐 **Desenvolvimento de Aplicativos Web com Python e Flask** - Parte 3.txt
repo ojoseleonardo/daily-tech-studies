@@ -1,0 +1,15 @@
+Para configurar o projeto com Flask, você precisará criar um arquivo de configuração e configurar o framework. Aqui está um passo a passo para configurar o projeto com Flask:
+
+**Parágrafo introdutório:**
+Para configurar o projeto com Flask, você precisará criar um arquivo de configuração e configurar o framework. Aqui está um passo a passo para configurar o projeto com Flask:
+
+**Parágrafo explicativo:**
+Para configurar o projeto com Flask, você precisará criar um arquivo de configuração chamado `config.py`. Em seguida, você precisará configurar o framework utilizando o arquivo de configuração.
+
+→ **Ponto importante destacado:** Para configurar o projeto com Flask, você precisará criar um arquivo de configuração e configurar o framework.
+→ **Outro ponto relevante:** Com Flask, você pode criar aplicativos web que sejam escaláveis e seguros.
+
+**Parágrafo de fechamento:**
+Em resumo, para configurar o projeto com Flask, você precisará criar um arquivo de configuração e configurar o framework. Com Flask, você pode criar aplicativos web que sejam escaláveis e seguros.
+
+═══════════════════
