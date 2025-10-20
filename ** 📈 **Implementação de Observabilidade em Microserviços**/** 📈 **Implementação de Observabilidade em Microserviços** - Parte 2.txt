@@ -1,0 +1,10 @@
+A coleta de dados é fundamental para a observabilidade. Isso envolve a implementação de ferramentas para coletar logs, métricas e tráfego.
+
+▸ Ferramentas de coleta de dados:
+  → Logs: Elasticsearch, Logstash, Kibana
+  → Métricas: Prometheus, Grafana
+  → Tráfego: Jaeger, Zipkin
+
+✓ A coleta de dados deve ser feita de forma escalável e segura.
+
+═══════════════════
