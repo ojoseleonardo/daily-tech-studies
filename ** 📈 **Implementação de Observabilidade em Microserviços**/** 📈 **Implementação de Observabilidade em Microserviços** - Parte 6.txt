@@ -1,0 +1,10 @@
+O monitoramento e alertas são fundamentais para garantir que problemas sejam solucionados rapidamente.
+
+▸ Ferramentas de monitoramento:
+  → Prometheus
+  → Grafana
+  → Alertmanager
+
+✓ O monitoramento e alertas devem ser feitos de forma automática e escalável.
+
+═══════════════════
