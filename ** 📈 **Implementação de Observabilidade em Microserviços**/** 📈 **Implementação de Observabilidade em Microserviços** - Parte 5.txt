@@ -1,0 +1,10 @@
+A segurança da observabilidade é fundamental para garantir que os dados coletados sejam protegidos.
+
+▸ Técnicas de segurança:
+  → Autenticação e autorização
+  → Criptografia de dados
+  → Controle de acesso à base de dados
+
+✓ A segurança da observabilidade deve ser feita de forma rigorosa e constante.
+
+═══════════════════
