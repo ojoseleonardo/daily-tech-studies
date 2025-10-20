@@ -1,0 +1,10 @@
+A análise de dados é fundamental para identificar problemas e entender melhor como os microserviços funcionam.
+
+▸ Técnicas de análise de dados:
+  → Análise de logs: identificar problemas em tempo real
+  → Análise de métricas: entender o desempenho da aplicação
+  → Análise de tráfego: identificar problemas de comunicação entre os microserviços
+
+✓ A análise de dados deve ser feita de forma automática e escalável.
+
+═══════════════════
