@@ -1,0 +1,12 @@
+A observabilidade é fundamental para garantir que os microserviços sejam monitorados e que problemas sejam solucionados rapidamente. Com a observabilidade, é possível entender melhor como os microserviços funcionam e identificar problemas antes que eles afetem a experiência do usuário.
+
+A observabilidade envolve a coleta de dados de vários pontos da aplicação, incluindo logs, métricas e tráfego. Esses dados são então analisados para identificar padrões e problemas.
+
+▸ Principais conceitos:
+  → Logs: registros de eventos que ocorreram na aplicação
+  → Métricas: dados quantitativos que descrevem o desempenho da aplicação
+  → Tráfego: dados sobre o fluxo de requisições entre os microserviços
+
+⚠️ A observabilidade é um processo contínuo que exige a coleta e análise de dados constante.
+
+═══════════════════
