@@ -1,0 +1,10 @@
+A integração com ferramentas de observabilidade é fundamental para garantir que a observabilidade seja feita de forma eficaz.
+
+▸ Ferramentas de observabilidade:
+  → New Relic
+  → Datadog
+  → Splunk
+
+✓ A integração com ferramentas de observabilidade deve ser feita de forma segura e escalável.
+
+═══════════════════
