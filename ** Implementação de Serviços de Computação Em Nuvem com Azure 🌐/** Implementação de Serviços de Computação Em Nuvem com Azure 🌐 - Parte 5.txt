@@ -1,0 +1,11 @@
+Com o Azure, você pode gerenciar recursos de rede de forma eficiente e escalável. Você pode criar e configurar redes virtuais, criar firewalls, definir regras de segurança e gerenciar recursos de roteamento.
+
+▸ Passos para gerenciar recursos de rede:
+  → Criação e configuração de redes virtuais
+  → Criação e configuração de firewalls
+  → Definição de regras de segurança
+  → Gerenciamento de recursos de roteamento
+
+✓ Você pode gerenciar recursos de rede de forma eficiente e escalável.
+
+═══════════════════
