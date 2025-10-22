@@ -1,0 +1,10 @@
+Com o Azure, você pode monitorar e analisar o desempenho da sua aplicação e infraestrutura de forma eficiente e escalável. Você pode criar e configurar métricas, criar gráficos e analisar dados de forma interativa.
+
+▸ Passos para monitorar e analisar desempenho:
+  → Criação e configuração de métricas
+  → Criação e configuração de gráficos
+  → Análise de dados
+
+✓ Você pode monitorar e analisar o desempenho da sua aplicação e infraestrutura.
+
+═══════════════════
