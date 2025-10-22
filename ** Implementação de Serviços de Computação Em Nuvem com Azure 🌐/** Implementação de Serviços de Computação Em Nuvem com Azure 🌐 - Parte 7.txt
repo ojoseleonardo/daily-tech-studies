@@ -1,0 +1,10 @@
+Com o Azure, você pode gerenciar custos e orçamentos de forma eficiente e escalável. Você pode criar e configurar orçamentos, definir limites de gastos e gerenciar recursos de forma escalável.
+
+▸ Passos para gerenciar custos e orçamentos:
+  → Criação e configuração de orçamentos
+  → Definição de limites de gastos
+  → Gerenciamento de recursos de forma escalável
+
+✓ Você pode gerenciar custos e orçamentos de forma eficiente e escalável.
+
+═══════════════════
