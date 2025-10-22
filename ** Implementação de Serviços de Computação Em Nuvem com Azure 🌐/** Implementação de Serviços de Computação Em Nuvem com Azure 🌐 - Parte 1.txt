@@ -1,0 +1,10 @@
+O Serviço de Computação Em Nuvem é uma solução de infraestrutura em nuvem que oferece recursos de computação escaláveis e gerenciáveis. Com o Azure, você pode criar e configurar servidores virtuais, armazenar dados, executar aplicações e gerenciar recursos de rede de forma eficiente e escalável.
+
+▸ Principais benefícios:
+  → Escalabilidade ilimitada
+  → Redução de custos com economia de recursos
+  → Aumento da flexibilidade e agilidade
+
+⚠️ Atenção: a escolha do Serviço de Computação Em Nuvem depende das necessidades específicas da sua organização.
+
+═══════════════════
