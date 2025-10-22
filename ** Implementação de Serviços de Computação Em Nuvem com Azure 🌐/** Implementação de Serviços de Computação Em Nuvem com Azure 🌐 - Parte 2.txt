@@ -1,0 +1,10 @@
+Com o Azure, você pode criar servidores virtuais com recursos de processamento, memória e armazenamento. Você pode escolher entre diferentes tamanhos e tipos de servidores para atender às necessidades específicas da sua aplicação.
+
+▸ Passos para criar e configurar servidores virtuais:
+  → Escolha do tamanho e tipo do servidor
+  → Configuração de recursos de processamento, memória e armazenamento
+  → Definição de configurações de rede e segurança
+
+✓ Você pode criar e configurar múltiplos servidores virtuais para atender às necessidades de escalabilidade da sua aplicação.
+
+═══════════════════
