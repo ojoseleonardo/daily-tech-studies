@@ -1,0 +1,10 @@
+O Azure App Service é um serviço de hospedagem de aplicativos que oferece recursos escaláveis e gerenciáveis para executar aplicações. Com o App Service, você pode criar e configurar aplicações web, móveis e de console.
+
+▸ Passos para criar e configurar aplicações com o App Service:
+  → Escolha do tamanho e tipo da aplicação
+  → Configuração de recursos de processamento, memória e armazenamento
+  → Definição de configurações de rede e segurança
+
+✓ Você pode criar e configurar múltiplas aplicações com o App Service.
+
+═══════════════════
