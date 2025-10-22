@@ -1,0 +1,11 @@
+Com o Azure, você pode implementar serviços de computação em nuvem de forma eficiente e escalável. Você pode criar e configurar servidores virtuais, armazenar dados, executar aplicações e gerenciar recursos de rede de forma escalável.
+
+▸ Passos para implementar serviços de computação em nuvem:
+  → Criação e configuração de servidores virtuais
+  → Armazenamento de dados
+  → Execução de aplicações
+  → Gerenciamento de recursos de rede
+
+✓ Você pode implementar serviços de computação em nuvem de forma eficiente e escalável.
+
+═══════════════════
