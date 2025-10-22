@@ -1,0 +1,10 @@
+O Azure Blob Storage é um serviço de armazenamento de objetos que oferece recursos escaláveis e gerenciáveis para armazenar dados. Com o Blob Storage, você pode armazenar dados de qualquer tipo, incluindo arquivos, imagens e vídeos.
+
+▸ Principais benefícios do Blob Storage:
+  → Escalabilidade ilimitada
+  → Redução de custos com economia de recursos
+  → Aumento da flexibilidade e agilidade
+
+✓ Você pode armazenar dados de qualquer tipo com o Blob Storage.
+
+═══════════════════
