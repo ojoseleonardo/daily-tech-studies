@@ -1,0 +1,13 @@
+A análise de dados de segurança é fundamental para garantir a segurança dos aplicativos. É um processo de análise que verifica a integridade da aplicação e detecta vulnerabilidades.
+
+→ **Tipos de Análise de Dados de Segurança:** as análises de dados de segurança podem ser divididas em dois tipos: análise de dados de segurança baseada em eventos e análise de dados de segurança baseada em análise.
+
+→ **Importância da Análise de Dados de Segurança:** a análise de dados de segurança garante a segurança dos aplicativos e evita vulnerabilidades.
+
+▸ **Principais Ferramentas de Análise de Dados de Segurança:**
+  → **Splunk:** uma ferramenta de análise de dados de segurança que verifica a integridade da aplicação.
+  → **ELK Stack:** uma ferramenta de análise de dados de segurança que verifica a integridade da aplicação.
+
+⚠️ **Atenção:** a análise de dados de segurança deve ser realizada regularmente para garantir a segurança dos aplicativos.
+
+═══════════════════
