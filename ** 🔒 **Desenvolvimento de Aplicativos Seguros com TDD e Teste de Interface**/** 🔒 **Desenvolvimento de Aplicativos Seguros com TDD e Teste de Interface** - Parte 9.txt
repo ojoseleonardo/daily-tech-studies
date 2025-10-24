@@ -1,0 +1,13 @@
+O monitoramento de serviços é fundamental para garantir a segurança dos aplicativos. É um processo de monitoramento que verifica a integridade da aplicação e detecta vulnerabilidades.
+
+→ **Tipos de Monitoramento de Serviços:** os monitoramentos de serviços podem ser divididos em dois tipos: monitoramento de serviços baseado em eventos e monitoramento de serviços baseado em análise.
+
+→ **Importância do Monitoramento de Serviços:** o monitoramento de serviços garante a segurança dos aplicativos e evita vulnerabilidades.
+
+▸ **Principais Ferramentas de Monitoramento de Serviços:**
+  → **ELK Stack:** uma ferramenta de monitoramento de serviços que verifica a integridade da aplicação.
+  → **Splunk:** uma ferramenta de monitoramento de serviços que verifica a integridade da aplicação.
+
+⚠️ **Atenção:** o monitoramento de serviços deve ser realizado regularmente para garantir a segurança dos aplicativos.
+
+═══════════════════
