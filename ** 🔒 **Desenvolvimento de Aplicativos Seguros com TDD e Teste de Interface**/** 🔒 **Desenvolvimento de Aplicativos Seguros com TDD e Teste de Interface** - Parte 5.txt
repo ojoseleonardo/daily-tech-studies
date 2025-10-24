@@ -1,0 +1,13 @@
+O monitoramento de segurança é fundamental para garantir a segurança dos aplicativos. É um processo de monitoramento que verifica a integridade da aplicação e detecta vulnerabilidades.
+
+→ **Tipos de Monitoramento de Segurança:** os monitoramentos de segurança podem ser divididos em dois tipos: monitoramento de segurança baseado em eventos e monitoramento de segurança baseado em análise.
+
+→ **Importância do Monitoramento de Segurança:** o monitoramento de segurança garante a segurança dos aplicativos e evita vulnerabilidades.
+
+▸ **Principais Ferramentas de Monitoramento de Segurança:**
+  → **ELK Stack:** uma ferramenta de monitoramento de segurança que verifica a integridade da aplicação.
+  → **Splunk:** uma ferramenta de monitoramento de segurança que verifica a integridade da aplicação.
+
+⚠️ **Atenção:** o monitoramento de segurança deve ser realizado regularmente para garantir a segurança dos aplicativos.
+
+═══════════════════
