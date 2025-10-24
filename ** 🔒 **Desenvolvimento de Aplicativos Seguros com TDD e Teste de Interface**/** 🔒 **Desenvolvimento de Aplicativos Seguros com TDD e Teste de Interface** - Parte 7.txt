@@ -1,0 +1,13 @@
+A segurança de dados é fundamental para garantir a segurança dos aplicativos. É um processo de proteção que verifica a integridade dos dados e garante a confidencialidade.
+
+→ **Tipos de Segurança de Dados:** as seguranças de dados podem ser divididas em dois tipos: segurança de dados baseada em rede e segurança de dados baseada em aplicação.
+
+→ **Importância da Segurança de Dados:** a segurança de dados garante a segurança dos aplicativos e evita vulnerabilidades.
+
+▸ **Principais Ferramentas de Segurança de Dados:**
+  → **OWASP Secure Coding Practices:** uma ferramenta de segurança de dados que define práticas de código seguro.
+  → **Microsoft Secure Coding Practices:** uma ferramenta de segurança de dados que define práticas de código seguro.
+
+⚠️ **Atenção:** a segurança de dados deve ser realizada regularmente para garantir a segurança dos aplicativos.
+
+═══════════════════
