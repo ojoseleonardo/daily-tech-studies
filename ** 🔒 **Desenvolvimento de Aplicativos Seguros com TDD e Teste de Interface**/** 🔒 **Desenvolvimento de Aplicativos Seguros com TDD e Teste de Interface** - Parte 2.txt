@@ -1,0 +1,13 @@
+Os testes de segurança com TDD são fundamentais para garantir a segurança dos aplicativos. Eles verificam a integridade da aplicação e detectam vulnerabilidades antes que elas sejam explotadas.
+
+→ **Tipos de Testes de Segurança:** os testes de segurança podem ser divididos em três categorias: testes de confidencialidade, testes de integridade e testes de disponibilidade.
+
+→ **Importância dos Testes de Segurança:** os testes de segurança evitam vulnerabilidades e garantem a segurança dos aplicativos.
+
+▸ **Principais Ferramentas de Testes de Segurança:**
+  → **OWASP ZAP:** uma ferramenta de teste de segurança que identifica vulnerabilidades.
+  → **Burp Suite:** uma ferramenta de teste de segurança que verifica a integridade da aplicação.
+
+⚠️ **Atenção:** os testes de segurança devem ser realizados regularmente para garantir a segurança dos aplicativos.
+
+═══════════════════
