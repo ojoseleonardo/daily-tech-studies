@@ -1,0 +1,13 @@
+A arquitetura de serviços é fundamental para garantir a segurança dos aplicativos. É um processo de design que define como a aplicação será segura e como ela será protegida.
+
+→ **Tipos de Arquitetura de Serviços:** as arquiteturas de serviços podem ser divididas em dois tipos: arquiteturas de serviços baseadas em rede e arquiteturas de serviços baseadas em aplicação.
+
+→ **Importância da Arquitetura de Serviços:** a arquitetura de serviços garante a segurança dos aplicativos e evita vulnerabilidades.
+
+▸ **Principais Ferramentas de Arquitetura de Serviços:**
+  → **OWASP Secure Coding Practices:** uma ferramenta de arquitetura de serviços que define práticas de código seguro.
+  → **Microsoft Secure Coding Practices:** uma ferramenta de arquitetura de serviços que define práticas de código seguro.
+
+⚠️ **Atenção:** a arquitetura de serviços deve ser definida antes do desenvolvimento do aplicativo.
+
+═══════════════════
