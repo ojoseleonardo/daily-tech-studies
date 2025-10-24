@@ -1,0 +1,13 @@
+A arquitetura de segurança é fundamental para garantir a segurança dos aplicativos. É um processo de design que define como a aplicação será segura e como ela será protegida.
+
+→ **Tipos de Arquitetura de Segurança:** as arquiteturas de segurança podem ser divididas em dois tipos: arquiteturas de segurança baseadas em rede e arquiteturas de segurança baseadas em aplicação.
+
+→ **Importância da Arquitetura de Segurança:** a arquitetura de segurança garante a segurança dos aplicativos e evita vulnerabilidades.
+
+▸ **Principais Ferramentas de Arquitetura de Segurança:**
+  → **OWASP Secure Coding Practices:** uma ferramenta de arquitetura de segurança que define práticas de código seguro.
+  → **Microsoft Secure Coding Practices:** uma ferramenta de arquitetura de segurança que define práticas de código seguro.
+
+⚠️ **Atenção:** a arquitetura de segurança deve ser definida antes do desenvolvimento do aplicativo.
+
+═══════════════════
