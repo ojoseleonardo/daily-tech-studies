@@ -1,0 +1,13 @@
+O teste de interface é uma técnica que verifica a integridade da interface do usuário, evitando vulnerabilidades de injeção de código. É fundamental para garantir a segurança dos aplicativos.
+
+→ **Tipos de Teste de Interface:** os testes de interface podem ser divididos em dois tipos: testes de interface de usuário e testes de interface de backend.
+
+→ **Importância do Teste de Interface:** o teste de interface evita vulnerabilidades e garante a segurança dos aplicativos.
+
+▸ **Principais Ferramentas de Teste de Interface:**
+  → **Selenium:** uma ferramenta de teste de interface que verifica a integridade da interface do usuário.
+  → **Postman:** uma ferramenta de teste de interface que verifica a integridade da interface de backend.
+
+⚠️ **Atenção:** o teste de interface deve ser realizado regularmente para garantir a segurança dos aplicativos.
+
+═══════════════════
