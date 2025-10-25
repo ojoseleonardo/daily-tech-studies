@@ -1,0 +1,9 @@
+Implementar segurança em aplicativos com práticas ágeis é fundamental para proteger dados confidenciais e prevenir ataques cibernéticos. Com a prática ágil, é possível entregar valor rápido e eficazmente, mas também é essencial considerar a segurança em todos os estágios do desenvolvimento de software. Aqui estão as principais práticas para implementar segurança em aplicativos:
+
+▸ **Verificação de vulnerabilidades**: identificar e corrigir vulnerabilidades em código antes de lançamento.
+
+→ **TDD**: testes unitários e integração para garantir que o código seja seguro.
+
+→ **Teste de interface**: verificar a segurança da interface de usuário.
+
+**Conclusão**: implementar segurança em aplicativos com práticas ágeis é fundamental para proteger dados confidenciais e prevenir ataques cibernéticos.
