@@ -1,0 +1,9 @@
+Com a prática ágil, é possível implementar segurança em aplicativos de forma eficaz e eficiente. A seguir, estão algumas práticas de segurança ágeis:
+
+▸ **Integração contínua**: automação de testes e depuração para garantir a segurança do código.
+
+→ **Integração contínua de segurança**: automação de verificação de vulnerabilidades e auditorias.
+
+→ **Teste de segurança contínuo**: verificar a segurança do aplicativo em tempo real.
+
+✓ **Garantir a confidencialidade, integridade e disponibilidade**: proteger dados sensíveis e garantir a disponibilidade do aplicativo.
