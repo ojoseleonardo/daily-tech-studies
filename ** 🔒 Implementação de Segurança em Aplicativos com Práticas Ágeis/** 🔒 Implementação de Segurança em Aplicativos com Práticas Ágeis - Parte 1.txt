@@ -1,0 +1,11 @@
+A segurança em aplicativos é fundamental para proteger dados confidenciais e prevenir ataques cibernéticos. Com a crescente dependência de tecnologia, é essencial implementar práticas de segurança em todos os estágios do desenvolvimento de software. A prática ágil de desenvolvimento de software visa entregar valor rápido e eficazmente, mas também pode exacerbar problemas de segurança se não forem considerados.
+
+Aqui estão algumas práticas básicas para implementar segurança em aplicativos:
+
+▸ **Verificação de vulnerabilidades**: identificar e corrigir vulnerabilidades em código antes de lançamento.
+
+→ **TDD**: testes unitários e integração para garantir que o código seja seguro.
+
+→ **Teste de interface**: verificar a segurança da interface de usuário.
+
+⚠️ **Atenção**: a segurança é um processo contínuo, não um estado final.
