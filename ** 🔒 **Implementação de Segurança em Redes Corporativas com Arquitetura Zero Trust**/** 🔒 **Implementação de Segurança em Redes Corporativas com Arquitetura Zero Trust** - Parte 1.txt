@@ -1,0 +1,13 @@
+Arquitetura Zero Trust é um modelo de segurança que busca proteger a rede corporativa de ameaças internas e externas, desafiando a ideia tradicional de que a rede está segura dentro da firewall. 🚫
+
+A Arquitetura Zero Trust assume que todos os usuários, dispositivos e aplicativos podem se tornar uma ameaça, e por isso, implementa medidas de segurança em todos os pontos de acesso à rede. 📊
+
+**Principais características:**
+
+→ **Autenticação multifator**: a autenticação não se limita apenas a um PIN ou senha, mas inclui outros fatores, como biometria, tokens de segurança, etc.
+→ **Controle de acesso dinâmico**: o acesso à rede é concedido apenas para os recursos necessários, e não para toda a rede.
+→ **Monitoreamento e detecção de ameaças**: a rede é constantemente monitoreada por sistemas de detecção de ameaças para detectar e responder a ameaças em tempo real.
+
+⚠️ A implementação de Arquitetura Zero Trust exige uma abordagem de segurança holística e contínua, pois a segurança é um processo, não um estado final.
+
+═══════════════════
