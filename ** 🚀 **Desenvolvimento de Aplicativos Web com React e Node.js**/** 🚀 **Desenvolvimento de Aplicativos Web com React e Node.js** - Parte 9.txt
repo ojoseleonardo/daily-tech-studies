@@ -1,0 +1,6 @@
+O desenvolvimento contínuo é fundamental para garantir que o aplicativo esteja atualizado e se adapte às necessidades do usuário.
+
+▸ Principais recursos:
+  → Git: é uma ferramenta que permite gerenciar o código do aplicativo.
+  → GitHub: é uma plataforma que permite compartilhar e colaborar com código.
+  → Jira: é uma ferramenta que permite gerenciar projetos.
