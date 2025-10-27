@@ -1,0 +1,6 @@
+O desenvolvimento do front-end com React é uma experiência incrível, pois a biblioteca fornece uma série de ferramentas e recursos para criar interfaces de usuário interativas e dinâmicas.
+
+▸ Principais recursos:
+  → Components: são os blocos de construção do aplicativo, que podem ser reutilizados em diferentes partes do sistema.
+  → Hooks: são funções que permitem acessar e manipular o estado do componente.
+  → Context API: é uma API que permite compartilhar dados entre componentes.
