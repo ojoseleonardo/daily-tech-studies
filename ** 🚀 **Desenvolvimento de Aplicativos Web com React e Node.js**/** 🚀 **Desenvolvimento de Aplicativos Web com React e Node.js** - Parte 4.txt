@@ -1,0 +1,6 @@
+O desenvolvimento do back-end com Node.js é uma experiência incrível, pois a tecnologia fornece uma série de recursos e ferramentas para criar servidores e aplicativos web escaláveis e performáticos.
+
+▸ Principais recursos:
+  → Express.js: é um framework que permite criar servidores e aplicativos web rapidamente.
+  → MongoDB: é um banco de dados NoSQL que permite armazenar dados de forma flexível.
+  → Socket.io: é uma biblioteca que permite criar aplicativos em tempo real.
