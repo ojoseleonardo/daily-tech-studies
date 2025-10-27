@@ -1,0 +1,6 @@
+A arquitetura do aplicativo web é fundamental para garantir a escalabilidade e a manutenibilidade do sistema. Nesse sentido, a combinação de React e Node.js permite criar uma arquitetura de microserviços, onde cada componente é responsável por uma funcionalidade específica.
+
+▸ Principais componentes:
+  → Front-end: responsável pela interface de usuário, criada com React.
+  → Back-end: responsável pela lógica de negócios e armazenamento de dados, criada com Node.js e banco de dados.
+  → Servidor: responsável por gerenciar as requisições e respostas do aplicativo, criado com Node.js.
