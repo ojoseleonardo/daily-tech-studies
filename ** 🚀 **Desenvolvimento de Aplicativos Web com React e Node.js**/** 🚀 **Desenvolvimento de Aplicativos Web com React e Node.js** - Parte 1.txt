@@ -1,0 +1,7 @@
+O desenvolvimento de aplicativos web é um campo em constante evolução, com novas tecnologias e estratégias emergindo constantemente. Nesse contexto, a combinação de React e Node.js se tornou uma das opções mais populares para criar aplicativos web escaláveis e performáticos.
+
+▸ Principais características:
+  → React: é uma biblioteca de JavaScript para criar interfaces de usuário interativas e dinâmicas.
+  → Node.js: é um ambiente de execução de JavaScript que permite criar servidores e aplicativos web.
+
+⚠️ Atenção: a escolha certa de tecnologias depende das necessidades específicas do projeto.
