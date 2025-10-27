@@ -1,0 +1,6 @@
+A segurança é fundamental para garantir que o aplicativo esteja protegido contra ataques e vulnerabilidades.
+
+▸ Principais recursos:
+  → SSL/TLS: é uma tecnologia que permite criptografar as comunicações do aplicativo.
+  → OAuth: é uma tecnologia que permite autenticar usuários.
+  → JWT: é uma tecnologia que permite autenticar usuários.
