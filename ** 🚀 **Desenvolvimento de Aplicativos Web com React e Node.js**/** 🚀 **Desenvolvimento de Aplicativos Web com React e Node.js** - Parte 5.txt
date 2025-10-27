@@ -1,0 +1,6 @@
+A conexão entre front-end e back-end é fundamental para garantir que os dados sejam trocados corretamente entre os dois componentes.
+
+▸ Principais recursos:
+  → APIs: são interfaces que permitem trocar dados entre os dois componentes.
+  → Webhooks: são funções que permitem notificar o front-end de alterações no back-end.
+  → Socket.io: é uma biblioteca que permite criar aplicativos em tempo real.
