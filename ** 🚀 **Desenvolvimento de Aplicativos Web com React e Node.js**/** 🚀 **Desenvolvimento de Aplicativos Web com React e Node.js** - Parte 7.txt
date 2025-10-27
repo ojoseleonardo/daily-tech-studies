@@ -1,0 +1,6 @@
+O monitoramento e ajustes são fundamentais para garantir que o aplicativo esteja funcionando corretamente e se adapte às necessidades do usuário.
+
+▸ Principais recursos:
+  → New Relic: é uma ferramenta que permite monitorar o desempenho do aplicativo.
+  → Google Analytics: é uma ferramenta que permite monitorar o comportamento do usuário.
+  → A/B testing: é uma técnica que permite testar diferentes versões do aplicativo.
