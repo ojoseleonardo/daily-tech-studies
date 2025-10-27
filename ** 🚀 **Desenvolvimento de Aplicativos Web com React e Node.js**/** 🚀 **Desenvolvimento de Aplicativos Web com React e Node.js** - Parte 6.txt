@@ -1,0 +1,6 @@
+Os testes e depuração são fundamentais para garantir que o aplicativo esteja funcionando corretamente.
+
+▸ Principais recursos:
+  → Jest: é um framework de testes que permite criar testes rápidos e fáceis.
+  → ESLint: é um linter que permite identificar erros em código.
+  → Chrome DevTools: é uma ferramenta que permite depurar o aplicativo.
