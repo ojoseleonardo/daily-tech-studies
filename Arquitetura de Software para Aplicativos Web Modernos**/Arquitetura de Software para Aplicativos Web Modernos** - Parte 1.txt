@@ -1,0 +1,15 @@
+A arquitetura de software é fundamental para o desenvolvimento de aplicativos web modernos. Ela define como os diferentes componentes do sistema interagem e como eles trabalham juntos para fornecer uma experiência de usuário atraente e eficiente.
+
+**Importância da Arquitetura de Software**
+
+A arquitetura de software é essencial para garantir a escalabilidade, a manutenibilidade e a flexibilidade do sistema. Além disso, ela ajuda a reduzir os riscos de bugs e a melhora a experiência do usuário.
+
+**Tipos de Arquitetura de Software**
+
+Existem vários tipos de arquitetura de software, incluindo:
+
+→ **Monolítica**: todos os componentes do sistema estão em um único código
+→ **Misturada**: componentes do sistema estão em diferentes linguagens
+→ **Microsserviço**: cada componente do sistema é uma aplicação separada
+
+═══════════════════
