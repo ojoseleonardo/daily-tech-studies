@@ -1,0 +1,13 @@
+Existem várias ferramentas disponíveis para ajudar no desenvolvimento de arquitetura de software microsserviços. Algumas das ferramentas mais populares incluem:
+
+→ **Kubernetes**: uma plataforma de orquestração de contêineres
+→ **Docker**: uma plataforma de contêineres
+→ **Apache Kafka**: uma plataforma de mensageria
+
+**Uso de Ferramentas**
+
+→ **Kubernetes**: pode ser usado para orquestrar e gerenciar contêineres
+→ **Docker**: pode ser usado para criar e gerenciar contêineres
+→ **Apache Kafka**: pode ser usado para enviar e receber mensagens entre componentes
+
+═══════════════════
