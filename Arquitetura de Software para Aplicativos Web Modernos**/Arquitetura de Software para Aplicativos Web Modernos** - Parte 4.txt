@@ -1,0 +1,15 @@
+A observabilidade é fundamental para garantir que o sistema esteja funcionando corretamente. Em uma arquitetura de software microsserviços, a observabilidade pode ser desafiadora devido à complexidade do sistema.
+
+**Técnicas de Observabilidade**
+
+→ **Logcat**: pode ser usado para coletar logs de erro
+→ **Prometheus**: pode ser usado para coletar métricas de desempenho
+→ **Grafana**: pode ser usado para visualizar dados de observabilidade
+
+**Uso de Técnicas de Observabilidade**
+
+→ **Logcat**: pode ser usado para identificar erros de sistema
+→ **Prometheus**: pode ser usado para monitorar desempenho do sistema
+→ **Grafana**: pode ser usado para visualizar dados de observabilidade e tomar decisões informadas
+
+═══════════════════
