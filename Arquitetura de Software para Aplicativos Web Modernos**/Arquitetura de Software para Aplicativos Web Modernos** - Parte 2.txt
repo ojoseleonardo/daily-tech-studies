@@ -1,0 +1,14 @@
+A arquitetura de software microsserviços é uma abordagem popular para desenvolver aplicativos web modernos. Cada componente do sistema é uma aplicação separada, o que ajuda a aumentar a escalabilidade e a flexibilidade.
+
+**Vantagens da Arquitetura de Software Microsserviços**
+
+→ **Escalabilidade**: cada componente pode ser escalado independentemente
+→ **Flexibilidade**: componentes podem ser atualizados separadamente
+→ **Manutenibilidade**: componentes são mais fáceis de debugar e manter
+
+**Desafios da Arquitetura de Software Microsserviços**
+
+→ **Comunicação entre componentes**: pode ser difícil manter a comunicação entre componentes
+→ **Integração**: pode ser difícil integrar componentes diferentes
+
+═══════════════════
