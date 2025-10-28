@@ -1,0 +1,13 @@
+Existem várias ferramentas disponíveis para ajudar no desenvolvimento de arquitetura de software microsserviços. Algumas das ferramentas mais populares incluem:
+
+→ **Service Mesh**: uma plataforma de servidores de serviço
+→ **API Gateway**: uma plataforma de gateway de API
+→ **Event-Driven Architecture**: uma abordagem de arquitetura de software
+
+**Uso de Ferramentas**
+
+→ **Service Mesh**: pode ser usado para gerenciar servidores de serviço
+→ **API Gateway**: pode ser usado para gerenciar APIs
+→ **Event-Driven Architecture**: pode ser usado para criar sistemas event-driven
+
+═══════════════════
