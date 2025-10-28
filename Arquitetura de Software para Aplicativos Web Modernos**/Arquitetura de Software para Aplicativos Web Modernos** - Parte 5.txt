@@ -1,0 +1,14 @@
+A implementação de arquitetura de software microsserviços em prática pode ser desafiadora, mas com a ajuda das ferramentas certas e das técnicas de observabilidade, é possível criar um sistema escalável e flexível.
+
+**Exemplo de Implementação**
+
+→ **Criar servidores em Kubernetes**: pode ser feito usando o comando `kubectl apply`
+→ **Configurar Docker**: pode ser feito usando o comando `docker run`
+→ **Configurar Apache Kafka**: pode ser feito usando o comando `kafka-topics`
+
+**Desafios e Soluções**
+
+→ **Comunicação entre componentes**: pode ser resolvido usando mensageria
+→ **Integração**: pode ser resolvido usando APIs
+
+═══════════════════
