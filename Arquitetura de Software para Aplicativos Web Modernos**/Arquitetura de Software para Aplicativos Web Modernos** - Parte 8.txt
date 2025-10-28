@@ -1,0 +1,15 @@
+A observabilidade é fundamental para garantir que o sistema esteja funcionando corretamente. Em uma arquitetura de software microsserviços, a observabilidade pode ser desafiadora devido à complexidade do sistema.
+
+**Técnicas de Observabilidade**
+
+→ **Monitoring**: pode ser usado para monitorar o desempenho do sistema
+→ **Logging**: pode ser usado para coletar logs de erro
+→ **Tracing**: pode ser usado para rastrear requisições
+
+**Uso de Técnicas de Observabilidade**
+
+→ **Monitoring**: pode ser usado para identificar erros de sistema
+→ **Logging**: pode ser usado para coletar logs de erro
+→ **Tracing**: pode ser usado para rastrear requisições
+
+═══════════════════
