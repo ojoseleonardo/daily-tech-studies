@@ -1,0 +1,6 @@
+A arquitetura de software microsserviços é uma abordagem popular para desenvolver aplicativos web modernos. Com a ajuda das ferramentas certas e das técnicas de observabilidade, é possível criar um sistema escalável e flexível. No entanto, a implementação em prática pode ser desafiadora e requer uma abordagem cuidadosa.
+
+**Leitura Adicional**
+
+→ **Livro "Arquitetura de Software Microsserviços"**: uma boa referência para aprender sobre a arquitetura de software microsserviços
+→ **Artigo "Implementação de Arquitetura de Software Microsserviços em Prática"**: uma boa referência para aprender sobre a implementação em prática
