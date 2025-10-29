@@ -1,0 +1,9 @@
+A proteção de dados é fundamental em serviços de computação em nuvem. O Azure oferece várias ferramentas e recursos para ajudar a proteger os dados.
+
+▸ Ferramentas de Proteção de Dados:
+  → O Azure Data Protection fornece ferramentas para proteger os dados contra perda, roubo ou modificação
+  → O Azure Information Protection fornece ferramentas para proteger os dados contra acesso não autorizado
+
+▸ Práticas de Proteção de Dados:
+  → Definir políticas e procedimentos de proteção de dados
+  → Treinar os funcionários sobre a importância da proteção de dados
