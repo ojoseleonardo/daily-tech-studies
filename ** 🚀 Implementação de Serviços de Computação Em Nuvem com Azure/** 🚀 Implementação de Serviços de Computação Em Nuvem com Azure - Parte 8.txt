@@ -1,0 +1,9 @@
+A otimização de recursos é fundamental em serviços de computação em nuvem. O Azure oferece várias ferramentas e recursos para ajudar a otimizar os recursos.
+
+▸ Ferramentas de Otimização de Recursos:
+  → O Azure Cost Estimator fornece ferramentas para estimar os custos de recursos
+  → O Azure Advisor fornece ferramentas para recomendar otimizações de recursos
+
+▸ Práticas de Otimização de Recursos:
+  → Monitorar e avaliar o desempenho e eficiência dos recursos
+  → Definir metas e objetivos claros para a otimização de recursos
