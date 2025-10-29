@@ -1,0 +1,9 @@
+A manutenção e suporte são fundamentais em serviços de computação em nuvem. O Azure oferece várias ferramentas e recursos para ajudar a manter e suportar os serviços e aplicativos.
+
+▸ Ferramentas de Manutenção e Suporte:
+  → O Azure Support fornece ferramentas para ajudar a resolver problemas e otimizar os serviços e aplicativos
+  → O Azure Maintenance fornece ferramentas para ajudar a manter os serviços e aplicativos atualizados e seguros
+
+▸ Práticas de Manutenção e Suporte:
+  → Definir políticas e procedimentos de manutenção e suporte
+  → Treinar os funcionários sobre a importância da manutenção e suporte
