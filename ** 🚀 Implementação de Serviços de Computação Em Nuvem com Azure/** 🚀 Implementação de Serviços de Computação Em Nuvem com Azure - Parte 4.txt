@@ -1,0 +1,8 @@
+A segurança e conformidade são fundamentais em serviços de computação em nuvem. O Azure oferece várias ferramentas e recursos para ajudar a proteger os dados e garantir a conformidade.
+
+▸ Ferramentas de Segurança:
+  → O Azure Security Center fornece visibilidade e controle sobre a segurança dos recursos
+  → O Azure Monitor fornece dados e análises para ajudar a identificar problemas de segurança
+
+▸ Ferramentas de Conformidade:
+  → O Azure Compliance fornece ferramentas para ajudar a atender às regulamentações e padrões de conformidade
