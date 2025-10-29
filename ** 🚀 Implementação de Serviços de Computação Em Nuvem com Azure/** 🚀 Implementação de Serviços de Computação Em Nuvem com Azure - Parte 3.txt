@@ -1,0 +1,13 @@
+Uma arquitetura de serviços de computação em nuvem é composta por várias camadas, incluindo:
+
+▸ Camada de Aplicação:
+  → Responsável por fornecer serviços de aplicação, como autenticação e autorização
+  → Exemplo: usar o Azure Active Directory
+
+▸ Camada de Armazenamento:
+  → Responsável por armazenar dados, como arquivos e bases de dados
+  → Exemplo: usar o Azure Blob Storage
+
+▸ Camada de Rede:
+  → Responsável por fornecer conectividade entre os serviços e recursos
+  → Exemplo: usar o Azure Virtual Network
