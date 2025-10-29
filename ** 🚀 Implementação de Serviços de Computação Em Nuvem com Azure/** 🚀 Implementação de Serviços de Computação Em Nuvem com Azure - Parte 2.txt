@@ -1,0 +1,13 @@
+Existem três principais modelos de consumo de computação em nuvem: IaaS, PaaS e SaaS.
+
+▸ IaaS (Infraestrutura como Serviço):
+  → O cliente tem acesso a recursos de infraestrutura como armazenamento, rede e processamento
+  → Exemplo: provisionar uma máquina virtual no Azure
+
+▸ PaaS (Plataforma como Serviço):
+  → O cliente tem acesso a uma plataforma de desenvolvimento, incluindo linguagens de programação, frameworks e bibliotecas
+  → Exemplo: hospedar uma aplicação web no Azure App Service
+
+▸ SaaS (Software como Serviço):
+  → O cliente tem acesso a software em nuvem, sem necessidade de instalação ou manutenção
+  → Exemplo: usar o Microsoft Office 365
