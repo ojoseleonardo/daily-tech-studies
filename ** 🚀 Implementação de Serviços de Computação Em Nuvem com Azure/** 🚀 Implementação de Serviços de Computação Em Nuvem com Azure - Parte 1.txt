@@ -1,0 +1,8 @@
+A computação em nuvem é uma abordagem de fornecer recursos de TI como um serviço, em vez de comprar e manter hardware e software em uma organização. Isso permite uma maior escalabilidade, flexibilidade e custo efetivo. O Azure é uma das principais plataformas de computação em nuvem oferecidas pela Microsoft.
+
+▸ Principais vantagens:
+  → Escalabilidade: recursos adicionais podem ser provisionados rapidamente
+  → Flexibilidade: recursos podem ser acessados a partir de qualquer lugar
+  → Custo efetivo: pagamento por uso, sem comprometer recursos
+
+⚠️ Atenção: a escolha da plataforma de computação em nuvem deve ser feita com cuidado, considerando as necessidades específicas da organização.
