@@ -1,0 +1,9 @@
+O gerenciamento de serviços de computação em nuvem é fundamental para garantir a eficiência e eficácia dos recursos e infraestrutura.
+
+▸ Ferramentas de Gerenciamento:
+  → O Azure Monitor fornece dados e análises para ajudar a identificar problemas e otimizar os recursos
+  → O Azure Automation fornece ferramentas para automatizar tarefas e processos
+
+▸ Práticas de Gerenciamento:
+  → Definir metas e objetivos claros
+  → Monitorar e avaliar o desempenho e eficiência
