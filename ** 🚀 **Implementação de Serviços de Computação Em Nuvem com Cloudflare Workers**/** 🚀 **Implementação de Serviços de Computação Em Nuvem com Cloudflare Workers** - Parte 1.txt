@@ -1,0 +1,8 @@
+A computação em nuvem é uma prática comumente utilizada por empresas de todos os tamanhos para hospedar seus aplicativos e dados. Com a computação em nuvem, não é necessário mais gerenciar hardware ou software, pois esses recursos são gerenciados pela empresa de nuvem. Além disso, a computação em nuvem oferece escalabilidade, flexibilidade e economia de recursos.
+
+▸ Principais benefícios:
+  → Escalabilidade: recursos podem ser alocados ou desalocados rapidamente
+  → Flexibilidade: escolha da plataforma e dos recursos
+  → Economia de recursos: redução de custos com infraestrutura e manutenção
+
+⚠️ Atenção: a escolha da plataforma de nuvem certa é crucial para a successo do projeto.
