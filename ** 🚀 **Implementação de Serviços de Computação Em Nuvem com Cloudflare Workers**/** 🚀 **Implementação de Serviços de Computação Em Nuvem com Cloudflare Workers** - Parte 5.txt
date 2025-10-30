@@ -1,0 +1,8 @@
+A integração com aplicativos é fundamental para garantir que os recursos em nuvem sejam utilizados de forma eficiente e eficaz. Existem várias maneiras de integrar os recursos em nuvem com os aplicativos.
+
+▸ Principais maneiras de integração:
+  → API: utilizar APIs para integrar os recursos em nuvem com os aplicativos
+  → Ferramentas de integração: utilizar ferramentas de integração para conectar os recursos em nuvem com os aplicativos
+  → Práticas de integração: utilizar práticas de integração para garantir a integridade dos dados
+
+⚠️ Atenção: a escolha da maneira de integração certa depende da necessidade específica da empresa.
