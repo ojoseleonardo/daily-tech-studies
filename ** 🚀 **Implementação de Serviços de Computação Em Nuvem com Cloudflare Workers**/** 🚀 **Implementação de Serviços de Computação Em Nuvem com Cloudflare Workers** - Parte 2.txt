@@ -1,0 +1,8 @@
+A arquitetura de nuvem é a estrutura fundamental da computação em nuvem. Existem várias arquiteturas de nuvem, incluindo a arquitetura de nuvem pública, privada e híbrida. Cada uma dessas arquiteturas tem suas próprias vantagens e desvantagens.
+
+▸ Principais características:
+  → Arquitetura de nuvem pública: recursos compartilhados entre múltiplas empresas
+  → Arquitetura de nuvem privada: recursos exclusivos para uma empresa
+  → Arquitetura de nuvem híbrida: combinação de recursos públicos e privados
+
+→ Exemplo: uma empresa pode usar a arquitetura de nuvem pública para hospedar seus aplicativos e a arquitetura de nuvem privada para armazenar seus dados.
