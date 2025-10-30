@@ -1,0 +1,8 @@
+A manutenção e suporte em nuvem são fundamentais para garantir que os recursos sejam utilizados de forma eficiente e eficaz. Existem várias maneiras de realizar a manutenção e suporte em nuvem.
+
+▸ Principais maneiras de manutenção e suporte:
+  → Ferramentas de monitoramento: utilizar ferramentas de monitoramento para monitorar o desempenho dos recursos
+  → Ferramentas de solução de problemas: utilizar ferramentas de solução de problemas para resolver problemas
+  → Práticas de manutenção e suporte: utilizar práticas de manutenção e suporte para garantir a disponibilidade dos recursos
+
+⚠️ Atenção: a escolha da maneira de manutenção e suporte certa depende da necessidade específica da empresa.
