@@ -1,0 +1,8 @@
+O gerenciamento de recursos em nuvem é crucial para garantir que os recursos sejam utilizados de forma eficiente e eficaz. Existem várias ferramentas e práticas que podem ser utilizadas para gerenciar os recursos.
+
+▸ Principais ferramentas e práticas:
+  → Ferramentas de monitoramento: monitorar o desempenho dos recursos
+  → Ferramentas de orquestração: gerenciar a execução de tarefas e workflows
+  → Práticas de gerenciamento de recursos: utilizar políticas de gerenciamento de recursos
+
+→ Exemplo: uma empresa pode utilizar a ferramenta de monitoramento para monitorar o desempenho dos recursos e ajustar as configurações para melhorar o desempenho.
