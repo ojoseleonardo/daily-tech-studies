@@ -1,0 +1,8 @@
+Os aplicativos móveis são fundamentais para garantir que os recursos sejam utilizados de forma eficiente e eficaz. Existem várias maneiras de desenvolver aplicativos móveis.
+
+▸ Principais maneiras de desenvolvimento:
+  → Desenvolvimento de aplicativos móveis em código aberto: utilizar código aberto para desenvolver aplicativos móveis
+  → Desenvolvimento de aplicativos móveis em código fechado: utilizar código fechado para desenvolver aplicativos móveis
+  → Práticas de desenvolvimento: utilizar práticas de desenvolvimento para garantir a qualidade dos aplicativos
+
+→ Exemplo: uma empresa pode utilizar o desenvolvimento de aplicativos móveis em código aberto para desenvolver aplicativos móveis e reduzir os custos.
