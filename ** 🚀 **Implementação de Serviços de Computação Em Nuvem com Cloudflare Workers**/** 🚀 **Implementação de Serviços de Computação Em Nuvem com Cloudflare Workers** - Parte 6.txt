@@ -1,0 +1,8 @@
+O desenvolvimento de aplicativos em nuvem é fundamental para garantir que os recursos sejam utilizados de forma eficiente e eficaz. Existem várias maneiras de desenvolver aplicativos em nuvem.
+
+▸ Principais maneiras de desenvolvimento:
+  → Desenvolvimento de aplicativos em código aberto: utilizar código aberto para desenvolver aplicativos em nuvem
+  → Desenvolvimento de aplicativos em código fechado: utilizar código fechado para desenvolver aplicativos em nuvem
+  → Práticas de desenvolvimento: utilizar práticas de desenvolvimento para garantir a qualidade dos aplicativos
+
+→ Exemplo: uma empresa pode utilizar o desenvolvimento de aplicativos em código aberto para desenvolver aplicativos em nuvem e reduzir os custos.
