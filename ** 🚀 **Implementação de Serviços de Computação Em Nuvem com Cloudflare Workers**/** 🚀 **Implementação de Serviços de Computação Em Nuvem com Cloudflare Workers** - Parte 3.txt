@@ -1,0 +1,8 @@
+A segurança em nuvem é fundamental para proteger os dados e aplicativos hospedados em nuvem. Existem várias medidas de segurança que podem ser implementadas para garantir a confidencialidade, integridade e disponibilidade dos dados.
+
+▸ Principais medidas de segurança:
+  → Autenticação: garantir que apenas usuários autorizados acessem os recursos
+  → Autorização: controlar o acesso a recursos e dados baseado em permissões
+  → Criptografia: proteger os dados em repouso e em trânsito
+
+⚠️ Atenção: a escolha da medida de segurança certa depende da necessidade específica da empresa.
