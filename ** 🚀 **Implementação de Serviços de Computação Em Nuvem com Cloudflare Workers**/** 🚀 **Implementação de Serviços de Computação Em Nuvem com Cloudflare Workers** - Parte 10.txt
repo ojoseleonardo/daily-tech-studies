@@ -1,0 +1,8 @@
+A computação em nuvem é uma prática comumente utilizada por empresas de todos os tamanhos para hospedar seus aplicativos e dados. Com a computação em nuvem, não é necessário mais gerenciar hardware ou software, pois esses recursos são gerenciados pela empresa de nuvem. Além disso, a computação em nuvem oferece escalabilidade, flexibilidade e economia de recursos.
+
+▸ Principais conclusões:
+  → A computação em nuvem é uma prática segura e eficiente
+  → A escolha da plataforma de nuvem certa é crucial para o sucesso do projeto
+  → A integração com aplicativos e a manutenção e suporte são fundamentais para garantir a disponibilidade dos recursos
+
+⚠️ Atenção: a escolha da plataforma de nuvem certa depende da necessidade específica da empresa.
