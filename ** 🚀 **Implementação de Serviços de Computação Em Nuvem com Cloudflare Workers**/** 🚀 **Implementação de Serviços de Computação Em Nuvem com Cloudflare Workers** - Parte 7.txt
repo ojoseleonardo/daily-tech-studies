@@ -1,0 +1,8 @@
+O gerenciamento de dados em nuvem é fundamental para garantir que os dados sejam protegidos e utilizados de forma eficiente e eficaz. Existem várias maneiras de gerenciar os dados em nuvem.
+
+▸ Principais maneiras de gerenciamento:
+  → Ferramentas de armazenamento: utilizar ferramentas de armazenamento para armazenar os dados
+  → Ferramentas de gerenciamento de dados: utilizar ferramentas de gerenciamento de dados para gerenciar os dados
+  → Práticas de gerenciamento de dados: utilizar práticas de gerenciamento de dados para garantir a integridade dos dados
+
+⚠️ Atenção: a escolha da maneira de gerenciamento certa depende da necessidade específica da empresa.
