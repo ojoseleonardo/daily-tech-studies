@@ -1,0 +1,7 @@
+O suporte e a manutenção são processos críticos na implementação da ASNM, pois envolvem a garantia de que o sistema esteja em funcionamento e que os problemas sejam resolvidos rapidamente.
+
+Alguns exemplos de ferramentas de suporte e manutenção que podem ser utilizadas incluem:
+
+* Zendesk
+* Freshdesk
+* JIRA
