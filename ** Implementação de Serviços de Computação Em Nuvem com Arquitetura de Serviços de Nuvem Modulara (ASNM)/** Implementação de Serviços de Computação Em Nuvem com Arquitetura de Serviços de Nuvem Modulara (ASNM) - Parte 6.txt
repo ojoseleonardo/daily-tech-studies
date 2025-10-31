@@ -1,0 +1,7 @@
+O monitoramento é um processo crítico na implementação da ASNM, pois envolve a coleta de dados sobre o desempenho e a saúde dos módulos.
+
+Alguns exemplos de ferramentas de monitoramento que podem ser utilizadas incluem:
+
+* Prometheus
+* Grafana
+* New Relic
