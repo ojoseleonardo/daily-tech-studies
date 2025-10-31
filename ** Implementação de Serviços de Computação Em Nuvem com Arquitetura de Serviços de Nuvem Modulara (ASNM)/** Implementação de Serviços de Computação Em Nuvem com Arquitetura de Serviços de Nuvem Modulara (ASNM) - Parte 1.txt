@@ -1,0 +1,8 @@
+A Arquitetura de Serviços de Nuvem Modulara (ASNM) é uma abordagem de design de arquitetura que visa fornecer uma infraestrutura de nuvem escalável, flexível e segura para aplicações modernas. A ASNM é baseada em uma estrutura modular, onde cada módulo é responsável por uma função específica, permitindo a reutilização e a substituição de componentes de forma ágil.
+
+A ASNM é composta por quatro módulos principais:
+
+1. Módulo de Serviços de Computação (MSC): responsável por fornecer recursos de computação, como processamento, memória e armazenamento.
+2. Módulo de Serviços de Armazenamento (MSA): responsável por fornecer recursos de armazenamento, como armazenamento de dados e recuperação de dados.
+3. Módulo de Serviços de Rede (MSR): responsável por fornecer recursos de rede, como conectividade e segurança.
+4. Módulo de Serviços de Gestão (MSG): responsável por fornecer recursos de gestão, como monitoramento, orquestração e segurança.
