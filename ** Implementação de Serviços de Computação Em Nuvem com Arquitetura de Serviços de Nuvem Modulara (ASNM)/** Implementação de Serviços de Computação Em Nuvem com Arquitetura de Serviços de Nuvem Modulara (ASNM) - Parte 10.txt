@@ -1,0 +1,3 @@
+A implementação da Arquitetura de Serviços de Nuvem Modulara é um processo complexo que envolve a escolha de uma plataforma de nuvem, a configuração dos quatro módulos principais, a segurança, a orquestração, a escalabilidade, o monitoramento, a melhoria contínua, a conformidade e o suporte e manutenção.
+
+Ao seguir as diretrizes apresentadas nesse documento, é possível implementar uma ASNM robusta e eficiente que atenda às necessidades das aplicações modernas.
