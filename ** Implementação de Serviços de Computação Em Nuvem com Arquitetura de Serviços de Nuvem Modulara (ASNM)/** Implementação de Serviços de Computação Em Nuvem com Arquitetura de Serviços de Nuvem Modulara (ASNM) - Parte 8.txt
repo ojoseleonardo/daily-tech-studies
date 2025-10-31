@@ -1,0 +1,7 @@
+A conformidade é um aspecto fundamental na implementação da ASNM, pois envolve a garantia de que o sistema atende às regulamentações e padrões de segurança.
+
+Alguns exemplos de regulamentações e padrões de segurança que podem ser aplicados incluem:
+
+* HIPAA
+* PCI-DSS
+* GDPR
