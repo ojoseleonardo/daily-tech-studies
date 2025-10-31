@@ -1,0 +1,7 @@
+A melhoria contínua é um processo crítico na implementação da ASNM, pois envolve a identificação de áreas de melhoria e a implementação de soluções para melhorar o desempenho e a eficiência do sistema.
+
+Alguns exemplos de ferramentas de melhoria contínua que podem ser utilizadas incluem:
+
+* Trello
+* Asana
+* Jira
