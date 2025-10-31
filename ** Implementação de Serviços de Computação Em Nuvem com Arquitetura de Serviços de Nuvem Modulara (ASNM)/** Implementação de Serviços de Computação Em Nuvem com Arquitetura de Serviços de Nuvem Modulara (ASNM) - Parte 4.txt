@@ -1,0 +1,7 @@
+A orquestração é um processo crítico na implementação da ASNM, pois envolve a coordenação de todos os módulos para garantir que eles funcionem em harmonia.
+
+Alguns exemplos de ferramentas de orquestração que podem ser utilizadas incluem:
+
+* Kubernetes
+* Docker Swarm
+* Apache Mesos
