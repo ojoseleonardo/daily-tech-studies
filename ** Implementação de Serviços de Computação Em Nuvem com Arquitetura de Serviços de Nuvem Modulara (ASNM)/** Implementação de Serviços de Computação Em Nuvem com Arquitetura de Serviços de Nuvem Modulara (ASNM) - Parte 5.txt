@@ -1,0 +1,7 @@
+A escalabilidade é um aspecto fundamental na implementação da ASNM, pois as aplicações modernas precisam ser capazes de lidar com cargas de trabalho crescentes.
+
+Alguns exemplos de estratégias de escalabilidade que podem ser implementadas incluem:
+
+* Escalabilidade horizontal (adicionando mais recursos)
+* Escalabilidade vertical (aumentando a capacidade de recursos)
+* Escalabilidade automática (utilizando ferramentas de orquestração)
