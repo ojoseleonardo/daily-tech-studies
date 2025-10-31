@@ -1,0 +1,12 @@
+A implementação da ASNM envolve a escolha de uma plataforma de nuvem como base e a configuração dos quatro módulos principais. Alguns exemplos de plataformas de nuvem que podem ser utilizadas são:
+
+* Amazon Web Services (AWS)
+* Microsoft Azure
+* Google Cloud Platform (GCP)
+
+Após a escolha da plataforma de nuvem, é necessário configurar os quatro módulos principais:
+
+1. MSC: pode ser implementado utilizando servidores virtuais ou instâncias de máquina, como AWS EC2 ou Azure Virtual Machines.
+2. MSA: pode ser implementado utilizando serviços de armazenamento, como AWS S3 ou Azure Blob Storage.
+3. MSR: pode ser implementado utilizando serviços de rede, como AWS VPC ou Azure Virtual Network.
+4. MSG: pode ser implementado utilizando serviços de gestão, como AWS CloudWatch ou Azure Monitor.
