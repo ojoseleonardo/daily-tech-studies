@@ -1,0 +1,8 @@
+A segurança é um aspecto fundamental na implementação da ASNM. É necessário garantir que cada módulo seja projetado e implementado com segurança em mente, pois as vulnerabilidades em um módulo podem afetar a integridade de todo o sistema.
+
+Alguns exemplos de medidas de segurança que podem ser implementadas incluem:
+
+* Autenticação e autorização robustas
+* Criptografia de dados em repouso e em trânsito
+* Monitoramento de atividades e detecção de intrusões
+* Implementação de políticas de segurança e conformidade
