@@ -1,0 +1,8 @@
+Com a evolução da tecnologia, os aplicativos web precisam ser desenvolvidos de forma ágil e flexível para atender às necessidades dos usuários. A implementação de práticas de segurança em aplicativos web com práticas ágeis envolve a integração de ferramentas e técnicas de segurança em todo o ciclo de vida do desenvolvimento do aplicativo.
+
+ Algumas das práticas de segurança que podem ser implementadas em aplicativos web com práticas ágeis incluem:
+ → **Segurança em nível de aplicativo**: proteger o aplicativo contra ataques cibernéticos.
+ → **Segurança em nível de rede**: proteger a rede do aplicativo contra ataques cibernéticos.
+ → **Segurança em nível de dados**: proteger os dados do aplicativo contra acessos não autorizados.
+
+A implementação de práticas de segurança em aplicativos web com práticas ágeis é fundamental para garantir a confidencialidade, a integridade e a disponibilidade dos dados do aplicativo.
