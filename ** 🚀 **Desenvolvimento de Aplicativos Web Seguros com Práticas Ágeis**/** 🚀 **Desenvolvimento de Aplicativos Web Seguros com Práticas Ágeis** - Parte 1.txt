@@ -1,0 +1,8 @@
+Os aplicativos web são vulneráveis a ataques cibernéticos, como injeção de SQL, cross-site scripting (XSS) e cross-site request forgery (CSRF). Para proteger os aplicativos, é necessário implementar práticas de segurança robustas. Essa parte abordará os principais conceitos de segurança em aplicativos web.
+
+Os principais pilares da segurança em aplicativos web são:
+ → **Confidencialidade**: apenas pessoas autorizadas acessam os dados do aplicativo.
+ → **Integridade**: os dados do aplicativo não são alterados indevidamente.
+ → **Disponibilidade**: o aplicativo permanece acessível e responde às requisições.
+
+A implementação de práticas de segurança é um processo contínuo e não um estado final. É importante monitorar constantemente as vulnerabilidades e atualizar as configurações do aplicativo para garantir a segurança dos usuários.
