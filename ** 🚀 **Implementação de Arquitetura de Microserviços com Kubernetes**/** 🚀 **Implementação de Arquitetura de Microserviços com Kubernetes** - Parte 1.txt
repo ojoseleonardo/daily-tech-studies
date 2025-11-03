@@ -1,0 +1,10 @@
+A arquitetura de microserviços é uma abordagem de desenvolvimento de software que enfatiza a criação de pequenas aplicações independentes, cada uma responsável por uma funcionalidade específica. Isso permite uma maior flexibilidade e escalabilidade em comparação com a arquitetura monolítica tradicional.
+
+▸ Principais benefícios:
+ → Maior escalabilidade
+ → Maior flexibilidade
+ → Maior resistência a falhas
+
+⚠️ A arquitetura de microserviços pode ser mais complexa de gerenciar do que a arquitetura monolítica.
+
+═══════════════════
