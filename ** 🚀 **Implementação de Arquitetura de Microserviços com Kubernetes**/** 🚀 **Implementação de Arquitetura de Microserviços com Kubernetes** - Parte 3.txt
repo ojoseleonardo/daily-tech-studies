@@ -1,0 +1,10 @@
+Kubernetes é um sistema de orquestração de contêineres que ajuda a gerenciar a execução e escalabilidade de aplicações em contêineres. Ele fornece recursos como a criação e gerenciamento de pods, serviços, replicaset e deployments.
+
+▸ Principais recursos:
+ → Criação e gerenciamento de pods
+ → Gerenciamento de serviços
+ → Replicação e escalabilidade
+
+⚠️ A implementação de Kubernetes pode ser complexa e requer conhecimento específico.
+
+═══════════════════
