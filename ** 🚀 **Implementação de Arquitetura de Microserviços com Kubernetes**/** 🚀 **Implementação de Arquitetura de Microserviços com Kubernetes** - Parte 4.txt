@@ -1,0 +1,10 @@
+A implementação de arquitetura de microserviços com Kubernetes pode enfrentar desafios como a complexidade da comunicação entre microserviços, a gestão de recursos e a segurança. Além disso, é importante considerar a escalabilidade, a resistência a falhas e a manutenção da integridade dos dados.
+
+▸ Principais desafios:
+ → Comunicação entre microserviços
+ → Gestão de recursos
+ → Segurança
+
+⚠️ A solução de desafios pode ser complexa e requer a colaboração de vários times.
+
+═══════════════════
