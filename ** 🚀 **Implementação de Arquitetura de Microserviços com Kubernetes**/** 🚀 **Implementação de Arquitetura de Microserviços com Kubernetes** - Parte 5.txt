@@ -1,0 +1,10 @@
+A implementação de arquitetura de microserviços com Kubernetes pode ser feita de várias maneiras, incluindo a criação de uma estrutura de contêineres, a implementação de um serviço de registo e a criação de um painel de controle para monitorar a execução dos microserviços.
+
+▸ Principais estratégias:
+ → Criação de uma estrutura de contêineres
+ → Implementação de um serviço de registo
+ → Criação de um painel de controle
+
+⚠️ A escolha da estratégia de implementação depende do tamanho e da complexidade do projeto.
+
+═══════════════════
