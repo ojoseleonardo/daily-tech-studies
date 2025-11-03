@@ -1,0 +1,10 @@
+A segurança e autenticação são aspectos importantes da implementação de arquitetura de microserviços com Kubernetes. É importante garantir que os microserviços sejam seguros e que as credenciais sejam gerenciadas de forma segura.
+
+▸ Principais medidas de segurança:
+ → Autenticação
+ → Autorização
+ → Criptografia
+
+⚠️ A falta de segurança pode levar a problemas significativos.
+
+═══════════════════
