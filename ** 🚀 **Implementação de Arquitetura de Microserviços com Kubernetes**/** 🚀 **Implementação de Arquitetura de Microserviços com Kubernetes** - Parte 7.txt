@@ -1,0 +1,10 @@
+A monitorização e análise são aspectos importantes da implementação de arquitetura de microserviços com Kubernetes. É importante garantir que os microserviços sejam monitorados e que os dados sejam analisados de forma eficaz.
+
+▸ Principais ferramentas de monitoramento:
+ → Prometheus
+ → Grafana
+ → ELK
+
+⚠️ A falta de monitoramento pode levar a problemas significativos.
+
+═══════════════════
