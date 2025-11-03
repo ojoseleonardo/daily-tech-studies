@@ -1,0 +1,12 @@
+* **Microserviço**: uma pequena aplicação independente responsável por uma funcionalidade específica.
+* **API Gateway**: uma camada de interface entre os microserviços e o mundo externo.
+* **Serviço de Registre**: um serviço que gerencia a lista de microserviços disponíveis.
+
+▸ Principais características:
+ → Independência
+ → Autonomia
+ → Comunicação por meio de APIs
+
+⚠️ A comunicação entre microserviços pode ser complexa e requer cuidado.
+
+═══════════════════
