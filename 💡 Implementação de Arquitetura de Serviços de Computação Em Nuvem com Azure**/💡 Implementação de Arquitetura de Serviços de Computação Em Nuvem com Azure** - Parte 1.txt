@@ -1,0 +1,17 @@
+A computação em nuvem é uma abordagem para fornecer recursos computacionais como serviço, permitindo que os usuários acessem e usem recursos como armazenamento, processamento e rede sem a necessidade de gerenciá-los diretamente. A Azure é uma das principais plataformas de computação em nuvem, oferecendo uma ampla gama de serviços para atender às necessidades das organizações.
+
+A arquitetura de serviços de computação em nuvem com Azure é composta por vários componentes, incluindo:
+
+• **Servidores Virtuais**: recursos computacionais virtualizados que podem ser escalados e configurados para atender às necessidades específicas das organizações.
+
+• **Armazenamento em Nuvem**: serviços de armazenamento que permitem armazenar e recuperar dados de forma segura e escalável.
+
+• **Rede em Nuvem**: serviços de rede que permitem a comunicação entre os recursos computacionais e a internet.
+
+• **Gestão de Identidade e Acesso**: serviços que permitem a autenticação e autorização dos usuários e das aplicações.
+
+• **Monitoramento e Orquestração**: serviços que permitem a monitorização e orquestração dos recursos computacionais e dos serviços.
+
+→ A arquitetura de serviços de computação em nuvem com Azure é uma solução escalável e flexível que pode ser adaptada às necessidades específicas das organizações.
+
+→ A Azure oferece uma ampla gama de serviços e recursos para atender às necessidades das organizações.
