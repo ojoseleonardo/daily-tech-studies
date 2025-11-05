@@ -1,0 +1,16 @@
+O monitoramento e ajuste da arquitetura de serviços de computação em nuvem envolve a coleta de dados sobre o desempenho e utilização da solução, e a realização de ajustes para melhorar a escalabilidade, a flexibilidade e o custo efetivo.
+
+▸ Principais etapas:
+  → Coleta de dados sobre o desempenho e utilização da solução
+  → Análise dos dados para identificar áreas de melhoria
+  → Realização de ajustes para melhorar a escalabilidade, a flexibilidade e o custo efetivo
+  → Monitoramento dos resultados dos ajustes
+
+→ Vantagens do monitoramento e ajuste:
+  → Melhoria da escalabilidade e flexibilidade
+  → Redução do custo efetivo
+  → Melhoria do desempenho e utilização da solução
+
+⚠️ Atenção: é importante seguir as melhores práticas e diretrizes de monitoramento e ajuste para garantir a eficiência e eficácia da solução.
+
+═══════════════════
