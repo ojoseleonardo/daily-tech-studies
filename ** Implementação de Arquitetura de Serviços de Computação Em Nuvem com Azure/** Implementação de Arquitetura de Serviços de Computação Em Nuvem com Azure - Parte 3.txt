@@ -1,0 +1,16 @@
+O design de arquitetura de serviços de computação em nuvem envolve a criação de uma estrutura lógica e física para o sistema, considerando as necessidades e requisitos do negócio. Isso inclui a escolha da plataforma de computação em nuvem, a definição dos serviços e recursos, e a implementação da solução.
+
+▸ Principais etapas:
+  → Escolha da plataforma de computação em nuvem
+  → Definição dos serviços e recursos
+  → Implementação da solução
+  → Teste e depuração da solução
+
+→ Vantagens do design de arquitetura:
+  → Alta escalabilidade e flexibilidade
+  → Custo efetivo e pagamento por uso
+  → Grande escolha de recursos e serviços
+
+⚠️ Atenção: é importante seguir as melhores práticas e diretrizes de design de arquitetura para garantir a qualidade e eficiência da solução.
+
+═══════════════════
