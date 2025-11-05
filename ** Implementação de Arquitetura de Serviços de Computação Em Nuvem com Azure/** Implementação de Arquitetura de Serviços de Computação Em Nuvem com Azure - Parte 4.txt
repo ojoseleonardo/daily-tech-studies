@@ -1,0 +1,16 @@
+A implementação da arquitetura de serviços de computação em nuvem envolve a criação de uma instância da solução no Azure, configurando os serviços e recursos, e testando a solução.
+
+▸ Principais etapas:
+  → Criação da instância do Azure
+  → Configuração dos serviços e recursos
+  → Teste da solução
+  → Implantação da solução
+
+→ Vantagens da implementação:
+  → Alta escalabilidade e flexibilidade
+  → Custo efetivo e pagamento por uso
+  → Grande escolha de recursos e serviços
+
+⚠️ Atenção: é importante seguir as melhores práticas e diretrizes de implementação para garantir a qualidade e eficiência da solução.
+
+═══════════════════
