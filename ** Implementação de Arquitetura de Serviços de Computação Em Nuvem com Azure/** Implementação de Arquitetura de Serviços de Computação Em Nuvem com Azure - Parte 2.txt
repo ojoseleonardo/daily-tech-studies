@@ -1,0 +1,16 @@
+O Azure é uma plataforma de computação em nuvem desenvolvida pela Microsoft que fornece uma ampla gama de serviços de computação, incluindo serviços de armazenamento, serviços de rede, serviços de aplicativos, serviços de Banco de Dados e muito mais.
+
+▸ Principais recursos:
+  → Serviços de armazenamento: Azure Blob, Azure File, Azure Disk
+  → Serviços de rede: Azure Virtual Network, Azure Load Balancer
+  → Serviços de aplicativos: Azure Functions, Azure App Service
+  → Serviços de Banco de Dados: Azure SQL, Azure Cosmos DB
+
+→ Vantagens da escolha do Azure:
+  → Alta escalabilidade e flexibilidade
+  → Custo efetivo e pagamento por uso
+  → Grande escolha de recursos e serviços
+
+⚠️ Atenção: é importante escolher a melhor solução para o negócio, considerando as necessidades e requisitos específicos.
+
+═══════════════════
