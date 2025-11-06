@@ -1,0 +1,13 @@
+🌐 A arquitetura de serviços de nuvem é um modelo de design que permite que as organizações criem e gerenciem serviços de computação em nuvem de forma flexível e escalável.
+
+→ Principais componentes:
+  → Serviços de computação: recursos de computação, armazenamento e rede
+  → Serviços de armazenamento: armazenamento de dados em nuvem
+  → Serviços de rede: conectividade e segurança em nuvem
+
+→ Vantagens:
+  → Escalabilidade: recursos podem ser aumentados ou diminuídos rapidamente
+  → Flexibilidade: recursos podem ser acessados a partir de qualquer lugar
+  → Confiabilidade: recursos são mantidos e atualizados por fornecedores de nuvem
+
+═══════════════════
