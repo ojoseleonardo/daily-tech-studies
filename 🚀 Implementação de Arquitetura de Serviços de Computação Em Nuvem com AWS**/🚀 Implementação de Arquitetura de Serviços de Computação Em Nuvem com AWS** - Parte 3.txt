@@ -1,0 +1,13 @@
+🌐 A Amazon Web Services (AWS) é um dos principais fornecedores de nuvem do mundo, oferecendo uma ampla gama de serviços de computação em nuvem.
+
+→ Principais serviços:
+  → EC2: serviços de computação virtualizados
+  → S3: serviços de armazenamento de objetos
+  → RDS: serviços de banco de dados em nuvem
+
+→ Vantagens:
+  → Escalabilidade: recursos podem ser aumentados ou diminuídos rapidamente
+  → Flexibilidade: recursos podem ser acessados a partir de qualquer lugar
+  → Confiabilidade: recursos são mantidos e atualizados por fornecedores de nuvem
+
+═══════════════════
