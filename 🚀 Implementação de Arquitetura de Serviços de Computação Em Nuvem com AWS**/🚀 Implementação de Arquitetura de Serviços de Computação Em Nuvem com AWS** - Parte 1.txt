@@ -1,0 +1,10 @@
+🌐 A nuvem é uma infraestrutura de computação virtualizada que oferece recursos de computação, armazenamento e rede como um serviço. Isso permite que as organizações reduzam custos, aumentem a escalabilidade e melhorem a disponibilidade de seus serviços.
+
+→ Principais características:
+  → Escalabilidade: recursos podem ser aumentados ou diminuídos rapidamente
+  → Flexibilidade: recursos podem ser acessados a partir de qualquer lugar
+  → Confiabilidade: recursos são mantidos e atualizados por fornecedores de nuvem
+
+⚠️ Atenção: a escolha da nuvem certa é crucial para a implementação da arquitetura de serviços de computação em nuvem.
+
+═══════════════════
