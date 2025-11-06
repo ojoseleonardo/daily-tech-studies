@@ -1,0 +1,13 @@
+🌐 A integração e automatização são fundamentais para garantir que a implementação da arquitetura de serviços de computação em nuvem seja flexível e escalável.
+
+→ Principais ferramentas:
+  → AWS Lambda: automatização de tarefas e processos
+  → AWS API Gateway: integração de serviços e aplicativos
+  → AWS Step Functions: integração de serviços e processos
+
+→ Vantagens:
+  → Flexibilidade: recursos podem ser utilizados de forma mais flexível
+  → Escalabilidade: recursos podem ser aumentados ou diminuídos rapidamente
+  → Eficiência: recursos são utilizados de forma mais eficiente
+
+═══════════════════
