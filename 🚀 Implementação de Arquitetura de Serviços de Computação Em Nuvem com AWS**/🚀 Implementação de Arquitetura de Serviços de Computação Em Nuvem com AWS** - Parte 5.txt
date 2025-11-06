@@ -1,0 +1,13 @@
+🌐 O orçamento e custos são fundamentais para garantir que a implementação da arquitetura de serviços de computação em nuvem seja viável e eficaz.
+
+→ Principais custos:
+  → Custo de infraestrutura: custos de recursos de computação, armazenamento e rede
+  → Custo de manutenção: custos de manutenção e atualização de recursos
+  → Custo de pessoal: custos de pessoal para gerenciar e manter recursos
+
+→ Vantagens:
+  → Economia: custos são reduzidos ao utilizar recursos de nuvem
+  → Eficiência: recursos são utilizados de forma mais eficiente
+  → Eficácia: recursos são utilizados de forma mais eficaz
+
+═══════════════════
