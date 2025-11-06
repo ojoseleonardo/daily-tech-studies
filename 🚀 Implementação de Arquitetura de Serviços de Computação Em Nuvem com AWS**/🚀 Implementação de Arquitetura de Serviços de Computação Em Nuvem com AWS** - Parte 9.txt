@@ -1,0 +1,11 @@
+🌐 A implementação da arquitetura de serviços de computação em nuvem com AWS é uma opção viável e eficaz para as organizações que buscam reduzir custos, aumentar a escalabilidade e melhorar a disponibilidade de seus serviços.
+
+→ Principais pontos-chave:
+  → Escalabilidade: recursos podem ser aumentados ou diminuídos rapidamente
+  → Flexibilidade: recursos podem ser acessados a partir de qualquer lugar
+  → Confiabilidade: recursos são mantidos e atualizados por fornecedores de nuvem
+
+→ Vantagens:
+  → Economia: custos são reduzidos ao utilizar recursos de nuvem
+  → Eficiência: recursos são utilizados de forma mais eficiente
+  → Eficácia: recursos são utilizados de forma mais eficaz
