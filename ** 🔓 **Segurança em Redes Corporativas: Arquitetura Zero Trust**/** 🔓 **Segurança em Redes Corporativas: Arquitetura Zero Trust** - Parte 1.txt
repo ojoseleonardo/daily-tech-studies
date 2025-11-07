@@ -1,0 +1,8 @@
+A segurança em redes corporativas é crucial para proteger dados confidenciais e prevenir acessos não autorizados. A arquitetura Zero Trust é uma abordagem segura que desafia a ideia tradicional de que a rede interna é segura e que os usuários dentro da rede não precisam ser verificados.
+
+▸ Principais pilares da arquitetura Zero Trust:
+  → **Verificação de identidade**: cada usuário e dispositivo deve ser verificado antes de acessar a rede.
+  → **Segurança em camadas**: múltiplas camadas de segurança devem ser implementadas para proteger a rede.
+  → **Monitoramento e resposta**: a rede deve ser constantemente monitorada e resposta rápida deve ser tomada em caso de incidentes.
+
+⚠️ Atenção: a arquitetura Zero Trust é um processo contínuo e não um estado final.
