@@ -1,0 +1,9 @@
+A arquitetura Zero Trust apresenta alguns desafios e limitações:
+
+1. **Complexidade**: a arquitetura Zero Trust é mais complexa do que as soluções tradicionais de segurança.
+2. **Custo**: a implementação da arquitetura Zero Trust pode ser mais cara do que as soluções tradicionais de segurança.
+3. **Limitações de Escalabilidade**: a arquitetura Zero Trust pode ter limitações de escalabilidade em redes de grande porte.
+
+→ A complexidade e o custo da arquitetura Zero Trust podem ser reduzidos com a implementação de soluções de segurança em nuvem.
+
+→ A limitação de escalabilidade da arquitetura Zero Trust pode ser superada com a implementação de soluções de segurança distribuídas.
