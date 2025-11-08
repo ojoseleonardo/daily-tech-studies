@@ -1,0 +1,10 @@
+A implementação da arquitetura Zero Trust envolve várias etapas:
+
+1. **Análise de Riscos**: identificar os principais riscos e vulnerabilidades da rede corporativa.
+2. **Definição de Políticas**: estabelecer políticas de segurança para proteger os recursos da rede.
+3. **Configuração de Controles de Acesso**: configurar controles de acesso para garantir que apenas usuários e dispositivos autorizados tenham acesso aos recursos da rede.
+4. **Monitamento e Avaliação**: monitorar e avaliar a segurança da rede para garantir que as políticas e controles de acesso estejam funcionando corretamente.
+
+→ A implementação da arquitetura Zero Trust é um processo contínuo que requer monitoramento e avaliação regular.
+
+→ A implementação da arquitetura Zero Trust é mais eficaz quando feita de forma incremental, com a implementação de políticas e controles de acesso em fases.
