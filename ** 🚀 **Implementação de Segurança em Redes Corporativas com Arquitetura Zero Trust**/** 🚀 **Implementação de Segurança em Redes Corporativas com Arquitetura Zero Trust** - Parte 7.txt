@@ -1,0 +1,8 @@
+O monitoramento e a avaliação são fundamentais para garantir que a arquitetura Zero Trust esteja funcionando corretamente:
+
+1. **Monitoramento de Segurança**: o monitoramento de segurança é utilizado para detectar e responder a ameaças à segurança.
+2. **Avaliação de Segurança**: a avaliação de segurança é utilizada para avaliar a eficácia da arquitetura Zero Trust em proteger os recursos da rede.
+
+→ O monitoramento e a avaliação são processos contínuos que requerem monitoramento regular da rede.
+
+→ O monitoramento e a avaliação são mais eficazes quando feitos de forma incremental, com a implementação de políticas e controles de acesso em fases.
