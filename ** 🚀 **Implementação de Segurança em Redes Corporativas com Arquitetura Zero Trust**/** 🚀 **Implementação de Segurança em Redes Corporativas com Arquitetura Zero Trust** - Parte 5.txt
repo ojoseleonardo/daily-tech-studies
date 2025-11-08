@@ -1,0 +1,9 @@
+A arquitetura Zero Trust pode ser implementada em nuvem com a utilização de soluções de segurança em nuvem, como:
+
+1. **Amazon Web Services (AWS)**: AWS oferece uma ampla gama de soluções de segurança em nuvem para proteger os recursos da rede.
+2. **Microsoft Azure**: Azure oferece uma ampla gama de soluções de segurança em nuvem para proteger os recursos da rede.
+3. **Google Cloud Platform (GCP)**: GCP oferece uma ampla gama de soluções de segurança em nuvem para proteger os recursos da rede.
+
+→ A implementação da arquitetura Zero Trust em nuvem é mais fácil e mais rápida do que a implementação em infraestrutura local.
+
+→ A implementação da arquitetura Zero Trust em nuvem é mais escalável e mais flexível do que a implementação em infraestrutura local.
