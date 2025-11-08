@@ -1,0 +1,10 @@
+A arquitetura Zero Trust é baseada em quatro principais pilares:
+
+1. **Confidencialidade**: garantir que apenas usuários e dispositivos autorizados tenham acesso aos recursos da rede.
+2. **Integridade**: garantir que os dados sejam protegidos contra alterações indevidas e que os sistemas sejam funcionais e seguros.
+3. **Disponibilidade**: garantir que os recursos da rede estejam disponíveis e acessíveis quando necessário.
+4. **Autenticação e Autorização**: garantir que apenas usuários e dispositivos autorizados tenham acesso aos recursos da rede.
+
+→ A autenticação é o processo de verificar a identidade de um usuário ou dispositivo antes de conceder acesso aos recursos da rede.
+
+→ A autorização é o processo de verificar se o usuário ou dispositivo tem permissão para acessar os recursos da rede.
