@@ -1,0 +1,7 @@
+A segurança da informação é um dos principais desafios das organizações atuais. Com a crescente dependência de tecnologia, as redes corporativas se tornaram um alvo atraente para cibercrimes. Nesse contexto, a arquitetura Zero Trust se apresenta como uma solução eficaz para proteger os dados e sistemas da organização.
+
+A arquitetura Zero Trust é baseada em uma filosofia de segurança que considera que a rede corporativa é um sistema vulnerável e que todos os usuários e dispositivos que acessam a rede são potencialmente mal-intencionados. Com essa abordagem, a segurança é implementada de forma distribuída, com medidas de controle de acesso em todos os níveis da rede.
+
+→ A arquitetura Zero Trust é uma solução escalável e flexível que pode ser implementada em redes de qualquer tamanho ou complexidade.
+
+→ A arquitetura Zero Trust é mais segura do que as soluções tradicionais de segurança, que se concentram em proteger os bordos da rede e deixam os recursos internos vulneráveis.
