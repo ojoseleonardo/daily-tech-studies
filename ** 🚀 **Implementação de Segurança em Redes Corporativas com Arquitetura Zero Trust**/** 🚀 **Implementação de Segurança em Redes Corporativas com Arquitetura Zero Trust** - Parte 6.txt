@@ -1,0 +1,9 @@
+A arquitetura Zero Trust pode ser integrada com outras tecnologias, como:
+
+1. **Sistema de Gestão de Identidade (IAM)**: IAM é utilizado para gerenciar as identidades dos usuários e dos dispositivos.
+2. **Sistema de Autenticação**: o sistema de autenticação é utilizado para verificar a identidade dos usuários e dos dispositivos antes de conceder acesso aos recursos da rede.
+3. **Sistema de Autorização**: o sistema de autorização é utilizado para verificar se o usuário ou dispositivo tem permissão para acessar os recursos da rede.
+
+→ A integração da arquitetura Zero Trust com outras tecnologias é fundamental para garantir a segurança e a eficiência da rede.
+
+→ A integração da arquitetura Zero Trust com outras tecnologias é mais fácil e mais rápida quando feita de forma incremental.
