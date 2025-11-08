@@ -1,0 +1,5 @@
+A arquitetura Zero Trust é uma solução eficaz para proteger os recursos da rede corporativa. A implementação da arquitetura Zero Trust envolve várias etapas, desde a análise de riscos até a monitoração e avaliação da segurança.
+
+→ A implementação da arquitetura Zero Trust é um processo contínuo que requer monitoramento e avaliação regular.
+
+→ A implementação da arquitetura Zero Trust é mais eficaz quando feita de forma incremental, com a implementação de políticas e controles de acesso em fases.
