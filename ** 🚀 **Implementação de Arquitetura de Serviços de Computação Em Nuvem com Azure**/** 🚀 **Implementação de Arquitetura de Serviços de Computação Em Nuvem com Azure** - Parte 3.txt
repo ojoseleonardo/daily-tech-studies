@@ -1,0 +1,11 @@
+Para implementar serviços de computação em nuvem com Azure, você precisará criar uma conta de Azure e configurar os recursos necessários. Aqui estão os passos básicos para implementar serviços de computação em nuvem com Azure:
+
+▸ Passos básicos:
+  → Criar uma conta de Azure
+  → Criar um grupo de recursos
+  → Criar um serviço de armazenamento
+  → Criar um serviço de computação
+
+✓ A implementação de serviços de computação em nuvem com Azure é uma tarefa relativamente simples.
+
+═══════════════════
