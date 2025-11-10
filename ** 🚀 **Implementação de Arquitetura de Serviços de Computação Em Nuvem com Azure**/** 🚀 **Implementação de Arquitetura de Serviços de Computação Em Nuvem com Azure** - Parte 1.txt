@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem que permite a execução de aplicativos e serviços em uma rede de computadores distribuída, em vez de em um único servidor local. Isso oferece varias vantagens, incluindo escalabilidade, flexibilidade e custo reduzido. Nesta parte, vamos explorar os fundamentos da arquitetura de serviços de computação em nuvem e sua implementação com Azure.
+
+▸ Principais características:
+  → Escalabilidade: capacidade de aumentar ou reduzir recursos de acordo com a demanda
+  → Flexibilidade: capacidade de escolher entre diferentes modelos de serviço e recursos
+  → Custo reduzido: redução de custos com a eliminação de necessidade de investir em infraestrutura local
+
+⚠️ Atenção: a escolha da arquitetura certa depende das necessidades específicas do seu negócio.
+
+═══════════════════
