@@ -1,0 +1,10 @@
+Azure é uma plataforma de computação em nuvem que oferece uma ampla gama de recursos e serviços para implementar arquiteturas de serviços de computação em nuvem. Aqui estão algumas das principais características de Azure:
+
+▸ Principais recursos:
+  → Armazenamento: serviço de armazenamento de dados escalável e seguro
+  → Computação: serviço de computação escalável e flexível
+  → Rede: serviço de rede segura e escalável
+
+✓ Azure oferece uma ampla gama de recursos e serviços para implementar arquiteturas de serviços de computação em nuvem.
+
+═══════════════════
