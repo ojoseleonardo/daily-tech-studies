@@ -1,0 +1,9 @@
+Para garantir a segurança e a governança em uma arquitetura de serviços de computação em nuvem, você precisará considerar as necessidades específicas do seu negócio e os recursos disponíveis. Aqui estão algumas das principais considerações:
+
+▸ Principais considerações:
+  → Segurança: garantir a segurança dos dados e dos recursos do negócio
+  → Governança: garantir a governança e a conformidade com as políticas e regulamentos do negócio
+
+✓ A segurança e a governança em uma arquitetura de serviços de computação em nuvem são essenciais para garantir a confidencialidade, a integridade e a disponibilidade dos dados e dos recursos do negócio.
+
+═══════════════════
