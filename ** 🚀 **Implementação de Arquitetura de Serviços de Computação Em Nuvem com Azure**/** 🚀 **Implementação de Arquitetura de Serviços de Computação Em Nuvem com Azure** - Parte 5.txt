@@ -1,0 +1,10 @@
+Para gerenciar recursos e orçamento em uma arquitetura de serviços de computação em nuvem, você precisará considerar as necessidades específicas do seu negócio e os recursos disponíveis. Aqui estão algumas das principais considerações:
+
+▸ Principais considerações:
+  → Escalabilidade: gerenciar recursos de acordo com a demanda do negócio
+  → Segurança: gerenciar recursos de acordo com as necessidades de segurança do negócio
+  → Orçamento: gerenciar recursos de acordo com o orçamento do negócio
+
+✓ O gerenciamento de recursos e orçamento em uma arquitetura de serviços de computação em nuvem é uma tarefa importante para garantir a eficiência e a eficácia do negócio.
+
+═══════════════════
