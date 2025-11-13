@@ -1,0 +1,10 @@
+O Banco de Dados é uma das principais componentes de uma arquitetura de serviços de computação em nuvem. A Google Cloud oferece várias opções de Banco de Dados em nuvem, incluindo o Bigtable.
+
+**PARTE_4.1:** 📊 **Bigtable**
+
+O Bigtable é um banco de dados NoSQL que é projetado para armazenar e processar grandes quantidades de dados.
+
+→ **Vantagens do Bigtable:**
+✓ Alta Escalabilidade
+✓ Alta Disponibilidade
+✓ Segurança e Conformidade
