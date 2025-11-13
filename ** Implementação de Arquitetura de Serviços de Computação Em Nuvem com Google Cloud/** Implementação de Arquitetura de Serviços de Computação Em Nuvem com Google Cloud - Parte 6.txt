@@ -1,0 +1,10 @@
+A observabilidade é a capacidade de monitorar e analisar o desempenho de uma aplicação em nuvem.
+
+**PARTE_6.1:** 📊 **Stackdriver**
+
+O Stackdriver é um serviço de observabilidade que permite monitorar e analisar o desempenho de uma aplicação em nuvem.
+
+→ **Vantagens do Stackdriver:**
+✓ Alta Disponibilidade
+✓ Alta Escalabilidade
+✓ Segurança e Conformidade
