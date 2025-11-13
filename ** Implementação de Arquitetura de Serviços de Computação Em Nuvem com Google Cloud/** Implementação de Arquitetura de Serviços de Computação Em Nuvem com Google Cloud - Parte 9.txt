@@ -1,0 +1,10 @@
+A integração de serviços em nuvem é um processo importante para criar aplicativos robustos e escaláveis.
+
+**PARTE_9.1:** 📊 **Cloud Services Integration**
+
+O Cloud Services Integration é um serviço de integração de serviços que permite criar e gerenciar aplicativos que utilizam múltiplos serviços em nuvem.
+
+→ **Vantagens do Cloud Services Integration:**
+✓ Alta Escalabilidade
+✓ Alta Disponibilidade
+✓ Segurança e Conformidade
