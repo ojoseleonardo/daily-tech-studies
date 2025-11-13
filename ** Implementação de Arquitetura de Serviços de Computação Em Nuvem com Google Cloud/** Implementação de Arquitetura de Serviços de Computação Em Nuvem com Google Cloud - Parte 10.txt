@@ -1,0 +1,5 @@
+A implementação de arquitetura de serviços de computação em nuvem com o Google Cloud é um processo complexo que envolve várias etapas. Nesta parte, apresentamos os principais conceitos e serviços relacionados à arquitetura de serviços de computação em nuvem na Google Cloud.
+
+→ **Conclusão:**
+✓ A arquitetura de serviços de computação em nuvem é uma plataforma escalável e segura para hospedar aplicativos e serviços.
+✓ A Google Cloud oferece uma ampla gama de serviços de computação em nuvem para atender às necessidades específicas das organizações.
