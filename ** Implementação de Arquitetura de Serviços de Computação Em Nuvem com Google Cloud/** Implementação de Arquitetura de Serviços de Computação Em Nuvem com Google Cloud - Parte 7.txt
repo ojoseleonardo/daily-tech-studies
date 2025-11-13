@@ -1,0 +1,10 @@
+O desenvolvimento em nuvem é um processo importante para criar e implantar aplicativos em nuvem.
+
+**PARTE_7.1:** 📊 **Cloud Development Kit**
+
+O Cloud Development Kit é uma ferramenta de desenvolvimento que permite criar e implantar aplicativos em nuvem.
+
+→ **Vantagens do Cloud Development Kit:**
+✓ Alta Escalabilidade
+✓ Alta Disponibilidade
+✓ Segurança e Conformidade
