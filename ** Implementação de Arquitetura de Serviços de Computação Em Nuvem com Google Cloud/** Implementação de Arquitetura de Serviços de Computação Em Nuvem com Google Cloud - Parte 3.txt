@@ -1,0 +1,10 @@
+A Google Cloud oferece uma ampla gama de serviços de computação em nuvem, incluindo:
+
+**PARTE_3.1:** 📊 **Compute Engine**
+
+O Compute Engine é um serviço de computação em nuvem que permite criar e gerenciar instâncias de maquina virtual.
+
+→ **Vantagens do Compute Engine:**
+✓ Alta Escalabilidade
+✓ Alta Disponibilidade
+✓ Segurança e Conformidade
