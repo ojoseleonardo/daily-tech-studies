@@ -1,0 +1,10 @@
+A segurança é um dos principais desafios na implementação de arquitetura de serviços de computação em nuvem. A Google Cloud oferece várias opções de segurança, incluindo a autenticação e autorização de usuários.
+
+**PARTE_5.1:** 📊 **Autenticação e Autorização**
+
+A autenticação e autorização são processos importantes para garantir que apenas usuários autorizados tenham acesso aos recursos em nuvem.
+
+→ **Vantagens da Autenticação e Autorização:**
+✓ Segurança e Conformidade
+✓ Alta Disponibilidade
+✓ Alta Escalabilidade
