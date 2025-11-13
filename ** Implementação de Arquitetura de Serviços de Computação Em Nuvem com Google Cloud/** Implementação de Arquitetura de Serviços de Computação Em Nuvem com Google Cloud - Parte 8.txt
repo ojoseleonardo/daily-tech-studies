@@ -1,0 +1,10 @@
+O gerenciamento de recursos em nuvem é um processo importante para garantir que os recursos em nuvem sejam utilizados de forma eficiente.
+
+**PARTE_8.1:** 📊 **Cloud Resource Manager**
+
+O Cloud Resource Manager é um serviço de gerenciamento de recursos que permite criar, gerenciar e monitorar recursos em nuvem.
+
+→ **Vantagens do Cloud Resource Manager:**
+✓ Alta Escalabilidade
+✓ Alta Disponibilidade
+✓ Segurança e Conformidade
