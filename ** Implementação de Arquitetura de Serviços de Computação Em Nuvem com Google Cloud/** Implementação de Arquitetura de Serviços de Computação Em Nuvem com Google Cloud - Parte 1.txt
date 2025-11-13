@@ -1,0 +1,9 @@
+O mundo das tecnologias da informação está em constante evolução, e a computação em nuvem é uma das principais tendências atuais. A arquitetura de serviços de computação em nuvem oferece uma plataforma escalável e segura para hospedar aplicativos e serviços. Nesta parte, apresentaremos a fundamentação para a implementação de arquitetura de serviços de computação em nuvem com o Google Cloud.
+
+A computação em nuvem é uma modelo de entrega de recursos computacionais como serviços de rede, armazenamento, Banco de Dados e aplicativos, por meio da Internet. Isso permite que os usuários acessem e utilizem recursos computacionais como se fossem seus próprios, sem a necessidade de gerenciá-los diretamente.
+
+→ **Vantagens da Computação em Nuvem:**
+✓ Escalabilidade e Elasticidade
+✓ Economia de Recursos
+✓ Alta Disponibilidade
+✓ Segurança e Conformidade
