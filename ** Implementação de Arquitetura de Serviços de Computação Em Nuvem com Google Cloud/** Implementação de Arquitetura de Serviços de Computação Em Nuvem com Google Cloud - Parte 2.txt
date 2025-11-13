@@ -1,0 +1,10 @@
+Existem três modelos de nuvem: público, privado e híbrido. Cada modelo oferece vantagens e desvantagens, e escolher o modelo certo depende das necessidades específicas da organização.
+
+**PARTE_2.1:** 📊 **Nuvem Pública**
+
+A nuvem pública é uma infraestrutura de computação em nuvem que é compartilhada por múltiplos usuários. A Google Cloud é um exemplo de nuvem pública.
+
+→ **Vantagens da Nuvem Pública:**
+✓ Economia de Custos
+✓ Alta Escalabilidade
+✓ Acesso a Recursos Avançados
