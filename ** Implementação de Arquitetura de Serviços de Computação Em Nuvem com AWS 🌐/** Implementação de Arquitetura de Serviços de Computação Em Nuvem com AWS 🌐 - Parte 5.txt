@@ -1,0 +1,10 @@
+A segurança em nuvem é essencial para proteger dados e aplicações em nuvem. A AWS oferece uma ampla gama de serviços de segurança, incluindo serviços como IAM, Cognito e Inspector. Esses recursos podem ser configurados e executados em diferentes regiões do mundo, o que permite às organizações criar e executar aplicações em nuvem de forma segura e escalável.
+
+▸ Principais serviços de segurança da AWS:
+  → IAM: gerenciamento de usuários e permissões
+  → Cognito: gerenciamento de identidade e acesso
+  → Inspector: gerenciamento de segurança e conformidade
+
+→ A segurança em nuvem é essencial para proteger dados e aplicações em nuvem.
+
+═══════════════════
