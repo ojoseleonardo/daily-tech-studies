@@ -1,0 +1,10 @@
+A infraestrutura de computação em nuvem inclui os recursos básicos de computação, como processadores, memória e armazenamento. A AWS oferece uma ampla gama de serviços de infraestrutura, incluindo instâncias EC2, volumes EBS e redes de nuvem. Esses recursos podem ser configurados e executados em diferentes regiões do mundo, o que permite às organizações criar e executar aplicações em nuvem de forma escalável e flexível.
+
+▸ Principais serviços de infraestrutura da AWS:
+  → Instâncias EC2: recursos de computação para executar aplicações
+  → Volumes EBS: armazenamento de dados para aplicações
+  → Redes de nuvem: conectividade de rede para aplicações
+
+→ A infraestrutura de computação em nuvem é essencial para criar e executar aplicações em nuvem.
+
+═══════════════════
