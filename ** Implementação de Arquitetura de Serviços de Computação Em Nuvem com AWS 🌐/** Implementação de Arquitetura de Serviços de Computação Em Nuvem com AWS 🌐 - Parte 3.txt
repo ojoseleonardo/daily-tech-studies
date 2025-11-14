@@ -1,0 +1,10 @@
+A plataforma de computação em nuvem inclui serviços de execução, como contêineres e máquinas virtuais, que permitem criar e executar aplicações em nuvem. A AWS oferece uma ampla gama de serviços de plataforma, incluindo contêineres ECS, máquinas virtuais EC2 e servidores RDS. Esses recursos podem ser configurados e executados em diferentes regiões do mundo, o que permite às organizações criar e executar aplicações em nuvem de forma escalável e flexível.
+
+▸ Principais serviços de plataforma da AWS:
+  → Contêineres ECS: execução de aplicações em contêineres
+  → Máquinas virtuais EC2: execução de aplicações em máquinas virtuais
+  → Servidores RDS: execução de aplicações em bancos de dados
+
+→ A plataforma de computação em nuvem é essencial para criar e executar aplicações em nuvem.
+
+═══════════════════
