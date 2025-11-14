@@ -1,0 +1,3 @@
+A implementação de arquitetura de serviços de computação em nuvem com a AWS é uma abordagem que permite criar e executar aplicações em nuvem de forma escalável e flexível. A AWS oferece uma ampla gama de serviços para criar e executar aplicações em nuvem, incluindo serviços como API Gateway, Lambda e S3. Além disso, a AWS oferece uma ampla gama de serviços para gerenciar recursos em nuvem, incluindo serviços como IAM, Cognito e Inspector.
+
+→ A implementação de arquitetura de serviços de computação em nuvem com a AWS é uma escolha estratégica para organizações que buscam criar e executar aplicações em nuvem de forma escalável e flexível.
