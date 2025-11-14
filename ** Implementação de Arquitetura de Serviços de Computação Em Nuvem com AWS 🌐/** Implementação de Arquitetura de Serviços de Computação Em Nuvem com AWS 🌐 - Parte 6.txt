@@ -1,0 +1,10 @@
+O monitoramento em nuvem é essencial para entender o desempenho e a segurança das aplicações em nuvem. A AWS oferece uma ampla gama de serviços de monitoramento, incluindo serviços como CloudWatch, X-Ray e CloudTrail. Esses recursos podem ser configurados e executados em diferentes regiões do mundo, o que permite às organizações criar e executar aplicações em nuvem de forma escalável e flexível.
+
+▸ Principais serviços de monitoramento da AWS:
+  → CloudWatch: monitoramento de metadados e logs
+  → X-Ray: monitoramento de desempenho e segurança
+  → CloudTrail: monitoramento de atividades e auditoria
+
+→ O monitoramento em nuvem é essencial para entender o desempenho e a segurança das aplicações em nuvem.
+
+═══════════════════
