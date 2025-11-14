@@ -1,0 +1,10 @@
+A implementação de aplicações em nuvem é essencial para criar e executar aplicações em nuvem de forma escalável e flexível. A AWS oferece uma ampla gama de serviços para criar e executar aplicações em nuvem, incluindo serviços como API Gateway, Lambda e S3.
+
+▸ Principais serviços para implementação de aplicações em nuvem da AWS:
+  → API Gateway: gerenciamento de APIs
+  → Lambda: execução de funções serverless
+  → S3: armazenamento de dados para aplicações
+
+→ A implementação de aplicações em nuvem é essencial para criar e executar aplicações em nuvem.
+
+═══════════════════
