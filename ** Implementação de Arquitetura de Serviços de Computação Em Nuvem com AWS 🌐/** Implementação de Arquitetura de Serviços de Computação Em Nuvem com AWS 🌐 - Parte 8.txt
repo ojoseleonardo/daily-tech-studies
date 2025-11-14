@@ -1,0 +1,10 @@
+A gestão de recursos em nuvem é essencial para gerenciar os recursos de computação, armazenamento e rede em nuvem. A AWS oferece uma ampla gama de serviços para gerenciar recursos em nuvem, incluindo serviços como IAM, Cognito e Inspector.
+
+▸ Principais serviços de gestão de recursos da AWS:
+  → IAM: gerenciamento de usuários e permissões
+  → Cognito: gerenciamento de identidade e acesso
+  → Inspector: gerenciamento de segurança e conformidade
+
+→ A gestão de recursos em nuvem é essencial para gerenciar os recursos de computação, armazenamento e rede em nuvem.
+
+═══════════════════
