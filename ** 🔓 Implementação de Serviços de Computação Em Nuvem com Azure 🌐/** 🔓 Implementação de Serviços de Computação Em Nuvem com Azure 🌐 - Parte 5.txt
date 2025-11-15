@@ -1,0 +1,9 @@
+A implementação de serviços de computação em nuvem com o Azure é um processo que envolve várias etapas, incluindo:
+
+▸ Planejamento: o plano da implementação deve ser criado, incluindo os recursos e serviços necessários
+▸ Infraestrutura: a infraestrutura deve ser provisionada e configurada no Azure
+▸ Aplicativos: os aplicativos devem ser implantados e gerenciados no Azure
+
+→ Exemplo: um desenvolvedor pode criar um aplicativo web que usa um servidor virtual no Azure para executar a lógica de negócios, enquanto armazena os dados em um banco de dados em nuvem.
+
+═══════════════════
