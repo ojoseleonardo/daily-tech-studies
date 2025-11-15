@@ -1,0 +1,9 @@
+A segurança é um aspecto crítico ao implementar serviços de computação em nuvem. O Azure oferece uma ampla gama de recursos e serviços para ajudar a proteger a segurança e a conformidade, incluindo:
+
+▸ Autenticação e autorização: recursos podem ser protegidos com autenticação e autorização robustas
+▸ Cifração de dados: dados podem ser criptografados para protegê-los contra acessos não autorizados
+▸ Conformidade: o Azure oferece recursos e serviços para ajudar a cumprir com leis e regulamentos de conformidade
+
+→ Exemplo: um desenvolvedor pode usar a autenticação e autorização do Azure para proteger um aplicativo web, garantindo que apenas usuários autorizados tenham acesso aos recursos.
+
+═══════════════════
