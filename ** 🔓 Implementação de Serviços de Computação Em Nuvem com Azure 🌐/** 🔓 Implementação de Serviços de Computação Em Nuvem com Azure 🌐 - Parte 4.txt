@@ -1,0 +1,9 @@
+A observabilidade e o monitoramento são essenciais para garantir a saúde e a disponibilidade dos aplicativos em nuvem. O Azure oferece uma ampla gama de recursos e serviços para ajudar a observar e monitorar os aplicativos, incluindo:
+
+▸ Logs de aplicativo: logs de aplicativo podem ser gerenciados e analisados para identificar problemas
+▸ Monitoramento de desempenho: desempenho dos aplicativos pode ser monitorado e otimizado
+▸ Alertas e notificações: alertas e notificações podem ser configurados para notificar sobre problemas ou mudanças no aplicativo
+
+→ Exemplo: um administrador pode usar os logs de aplicativo do Azure para identificar problemas em um aplicativo web e otimizar o desempenho.
+
+═══════════════════
