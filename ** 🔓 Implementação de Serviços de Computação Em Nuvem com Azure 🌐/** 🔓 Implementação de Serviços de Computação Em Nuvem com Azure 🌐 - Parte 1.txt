@@ -1,0 +1,10 @@
+A nuvem é um conceito que permite o acesso remoto a recursos de computação, armazenamento e outros serviços por meio da internet. A nuvem oferece uma infraestrutura escalável e flexível, permitindo que as organizações reduzam custos e aumentem a eficiência. O Azure é uma plataforma de nuvem pública desenvolvida pela Microsoft, oferecendo uma ampla gama de serviços e recursos para apoiar a transformação digital.
+
+▸ Vantagens da nuvem:
+  → Escalabilidade: recursos podem ser aumentados ou diminuídos conforme necessário
+  → Flexibilidade: acesso remoto a recursos e serviços por meio da internet
+  → Economia: redução de custos com a eliminação de hardware e manutenção
+
+⚠️ Atenção: a nuvem não é uma solução para todos os problemas, é importante avaliar as necessidades da organização antes de implementar.
+
+═══════════════════
