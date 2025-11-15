@@ -1,0 +1,9 @@
+O Azure oferece uma ampla gama de serviços de computação em nuvem, incluindo:
+
+▸ Servidores virtuais: recursos de computação podem ser provisionados e gerenciados na nuvem
+▸ Armazenamento em nuvem: dados podem ser armazenados e gerenciados na nuvem
+▸ Banco de dados em nuvem: sistemas de gerenciamento de banco de dados podem ser implantados e gerenciados na nuvem
+
+→ Exemplo: um desenvolvedor pode criar um aplicativo web que usa um servidor virtual no Azure para executar a lógica de negócios, enquanto armazena os dados em um banco de dados em nuvem.
+
+═══════════════════
