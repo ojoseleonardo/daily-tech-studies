@@ -1,0 +1,11 @@
+A segurança em nível de servidor é a prática de proteger os servidores contra ameaças cibernéticas. Existem várias formas de implementar segurança em nível de servidor, incluindo:
+
+▸ Configuração de Segurança:
+  → Configuração de firewall
+  → Configuração de VPN
+
+▸ Monitoramento de Segurança:
+  → Log de eventos
+  → Análise de logs
+
+═══════════════════
