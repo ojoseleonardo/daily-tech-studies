@@ -1,0 +1,12 @@
+A segurança em nível de sistema é a prática de proteger os sistemas contra ameaças cibernéticas. Existem várias formas de implementar segurança em nível de sistema, incluindo:
+
+▸ Controle de Acesso:
+  → Permissões de acesso
+  → Grupos de usuários
+  → Controle de acesso baseado em função (RBAC)
+
+▸ Monitoramento de Segurança:
+  → Log de eventos
+  → Análise de logs
+
+═══════════════════
