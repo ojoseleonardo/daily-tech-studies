@@ -1,0 +1,11 @@
+As práticas ágeis em segurança são a prática de implementar segurança em todas as fases do desenvolvimento de software. Existem várias formas de implementar práticas ágeis em segurança, incluindo:
+
+▸ Integração Contínua:
+  → Integração contínua de segurança
+  → Testes de segurança contínuos
+
+▸ Testes de Segurança:
+  → Testes de segurança manuais
+  → Testes de segurança automáticos
+
+═══════════════════
