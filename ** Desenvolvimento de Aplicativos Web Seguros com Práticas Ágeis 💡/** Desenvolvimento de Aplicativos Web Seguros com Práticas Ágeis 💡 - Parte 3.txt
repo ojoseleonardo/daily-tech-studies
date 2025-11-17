@@ -1,0 +1,11 @@
+A criptografia é a prática de proteger dados sensíveis com algoritmos de criptografia. Existem várias formas de implementar criptografia, incluindo:
+
+▸ Criptografia de Dados:
+  → Criptografia simétrica
+  → Criptografia assimétrica
+
+▸ Criptografia de Comunicação:
+  → SSL/TLS
+  → TLS
+
+═══════════════════
