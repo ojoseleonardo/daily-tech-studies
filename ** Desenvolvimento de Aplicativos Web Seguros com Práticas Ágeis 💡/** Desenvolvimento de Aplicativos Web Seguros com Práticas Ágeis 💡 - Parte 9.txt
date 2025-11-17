@@ -1,0 +1,9 @@
+A implementação de segurança em produtos finais é a prática de garantir que os produtos finais estejam seguros contra ameaças cibernéticas. Existem várias formas de implementar segurança em produtos finais, incluindo:
+
+▸ Validação de Segurança:
+  → Validação de segurança em nível de aplicativo
+  → Validação de segurança em nível de sistema
+
+▸ Monitoramento de Segurança:
+  → Log de eventos
+  → Análise de logs
