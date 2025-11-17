@@ -1,0 +1,11 @@
+A segurança em nível de rede é a prática de proteger as redes contra ameaças cibernéticas. Existem várias formas de implementar segurança em nível de rede, incluindo:
+
+▸ Firewall:
+  → Configuração de regras
+  → Monitoramento de tráfego
+
+▸ VPN:
+  → Configuração de VPN
+  → Monitoramento de conexões
+
+═══════════════════
