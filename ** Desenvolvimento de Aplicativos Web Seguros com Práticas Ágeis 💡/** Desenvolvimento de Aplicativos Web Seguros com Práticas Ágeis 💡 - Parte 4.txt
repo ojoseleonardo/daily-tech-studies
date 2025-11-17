@@ -1,0 +1,11 @@
+A segurança em nível de aplicativo é a prática de proteger os aplicativos contra ameaças cibernéticas. Existem várias formas de implementar segurança em nível de aplicativo, incluindo:
+
+▸ Validação de Entrada:
+  → Validação de dados
+  → Prevenção de ataques de SQL Injection
+
+▸ Conexão Segura:
+  → SSL/TLS
+  → TLS
+
+═══════════════════
