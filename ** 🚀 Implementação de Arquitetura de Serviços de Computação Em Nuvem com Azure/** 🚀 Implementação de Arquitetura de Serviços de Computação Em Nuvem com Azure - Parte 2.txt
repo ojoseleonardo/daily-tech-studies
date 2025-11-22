@@ -1,0 +1,10 @@
+O Azure é uma plataforma de nuvem que oferece serviços de computação, armazenamento e rede. É possível criar aplicações e serviços em Azure utilizando a linguagem de programação C# ou a linguagem de programação Java.
+
+▸ Serviços disponíveis em Azure:
+  → Azure Functions: serviços serverless para executar códigos em resposta a eventos
+  → Azure App Service: serviço de hospedagem de aplicações web e móveis
+  → Azure Storage: serviço de armazenamento de dados e objetos
+
+✨ Observação: é importante escolher o serviço certo para a sua aplicação.
+
+═══════════════════
