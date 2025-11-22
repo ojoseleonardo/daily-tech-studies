@@ -1,0 +1,10 @@
+O monitoramento e acompanhamento de desempenho são fundamentais para garantir que a aplicação esteja funcionando corretamente e eficientemente. É possível utilizar ferramentas como o Azure Monitor para monitorar o desempenho da aplicação e detectar problemas.
+
+▸ Ferramentas de monitoramento disponíveis em Azure:
+  → Azure Monitor: serviço de monitoramento de desempenho e segurança
+  → Azure Log Analytics: serviço de análise de logs
+  → Azure Application Insights: serviço de monitoramento de aplicações web
+
+⚠️ Atenção: é importante monitorar a aplicação regularmente para garantir que esteja funcionando corretamente.
+
+═══════════════════
