@@ -1,0 +1,13 @@
+O gerenciamento de recursos de computação em nuvem é essencial para garantir a escalabilidade, a confiabilidade e a segurança dos recursos. Com a Azure, você pode criar e gerenciar recursos de computação em nuvem com facilidade.
+
+→ Gerenciamento de recursos de computação em nuvem:
+  → Monitoramento de recursos em tempo real
+  → Análise de desempenho
+  → Correção de problemas
+
+✓ Benefícios do gerenciamento de recursos de computação em nuvem:
+  → Escalabilidade ilimitada
+  → Confiabilidade alta
+  → Segurança robusta
+
+═══════════════════
