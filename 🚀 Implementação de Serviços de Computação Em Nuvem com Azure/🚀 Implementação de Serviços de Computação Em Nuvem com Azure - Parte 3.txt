@@ -1,0 +1,12 @@
+A implementação de recursos de computação em nuvem é fundamental para aproveitar ao máximo os benefícios da Azure. Com a plataforma Azure, você pode criar e gerenciar recursos de computação em nuvem com facilidade.
+
+✓ Recursos de implementação de computação em nuvem:
+  → Desenvolvimento de aplicações escaláveis
+  → Implementação de servidores em nuvem
+  → Armazenamento de dados escalável
+
+✗ Dificuldades na implementação de recursos de computação em nuvem:
+  → Custo elevado
+  → Complexidade de gerenciamento
+
+═══════════════════
