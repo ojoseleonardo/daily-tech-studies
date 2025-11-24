@@ -1,0 +1,12 @@
+A segurança de recursos de computação em nuvem é fundamental para proteger os dados e garantir a confiabilidade dos recursos. Com a Azure, você pode criar e gerenciar recursos de computação em nuvem com facilidade.
+
+✓ Recursos de segurança de computação em nuvem:
+  → Autenticação e autorização
+  → Criptografia de dados
+  → Monitoramento de segurança
+
+✗ Dificuldades na segurança de recursos de computação em nuvem:
+  → Falta de conhecimento
+  → Custo elevado
+
+═══════════════════
