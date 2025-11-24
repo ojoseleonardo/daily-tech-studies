@@ -1,0 +1,10 @@
+Os serviços de computação em nuvem oferecem uma maneira flexível e escalável de gerenciar recursos de computação, armazenamento e rede. Com a Azure, você pode criar e gerenciar recursos de computação em nuvem com facilidade.
+
+✓ Recursos de computação em nuvem:
+  → Processamento de dados em escala
+  → Armazenamento de dados escalável
+  → Rede de alta velocidade
+
+⚠️ Atenção: ao escolher a Azure, é importante considerar os custos e a escalabilidade.
+
+═══════════════════
