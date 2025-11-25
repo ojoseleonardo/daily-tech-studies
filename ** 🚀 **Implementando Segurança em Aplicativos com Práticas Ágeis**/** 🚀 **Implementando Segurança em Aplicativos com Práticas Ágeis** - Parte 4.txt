@@ -1,0 +1,7 @@
+A implementação de segurança em aplicativos com práticas ágeis é fundamental para garantir a segurança e a confiabilidade dos sistemas. É importante lembrar que a segurança é um processo contínuo e que é necessário monitorar e atualizar as práticas e tecnologias de segurança para manter a segurança dos sistemas.
+
+**Próximas etapas:**
+
+▸ Implementar TDD e teste de interface em projetos de desenvolvimento de aplicativos
+▸ Desenhar arquitetura de segurança para redes corporativas
+▸ Monitorar e analisar tráfego de rede para detectar vulnerabilidades e ameaças
