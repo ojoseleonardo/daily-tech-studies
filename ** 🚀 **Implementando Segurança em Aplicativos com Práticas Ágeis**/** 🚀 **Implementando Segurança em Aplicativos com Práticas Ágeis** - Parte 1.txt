@@ -1,0 +1,8 @@
+A segurança em aplicativos é um processo contínuo que envolve a proteção de dados contra acessos não autorizados, alterações indevidas e perda de confidencialidade. A implementação de práticas ágeis é essencial para garantir a segurança de aplicativos, pois permite a entrega rápida de valor ao usuário sem comprometer a segurança.
+
+▸ Principais pilares da segurança em aplicativos:
+  → Confidencialidade: apenas pessoas autorizadas acessam
+  → Integridade: dados não são alterados indevidamente
+  → Disponibilidade: sistemas permanecem acessíveis
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
