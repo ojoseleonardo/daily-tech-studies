@@ -1,0 +1,27 @@
+A implementação de segurança em aplicativos com práticas ágeis envolve a adoção de técnicas e ferramentas que permitam a entrega rápida de valor ao usuário sem comprometer a segurança. Isso inclui:
+
+▸ TDD (Test-Driven Development): escrever testes antes do código, garantindo que o código seja seguro e funcional
+▸ Teste de Interface: garantir que a interface do usuário seja segura e não exposta a vulnerabilidades
+▸ Code Review: revisar o código para garantir que seja seguro e de alta qualidade
+
+**Exemplo de código seguro com TDD:**
+
+```python
+# Importando biblioteca de segurança
+import hashlib
+
+# Função para gerar hash de senha
+def gerar_hash_senha(senha):
+    # Gerando hash de senha com hashlib
+    hash_senha = hashlib.sha256(senha.encode()).hexdigest()
+    return hash_senha
+
+# Teste de função para gerar hash de senha
+def test_gerar_hash_senha():
+    senha = " minha_senha"
+    hash_senha = gerar_hash_senha(senha)
+    assert hash_senha == "hash_senha_gerado"
+
+# Executando teste de função
+test_gerar_hash_senha()
+```
