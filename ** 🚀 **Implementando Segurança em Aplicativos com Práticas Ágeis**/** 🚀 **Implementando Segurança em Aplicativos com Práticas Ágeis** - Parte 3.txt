@@ -1,0 +1,15 @@
+A segurança em redes corporativas é fundamental para proteger a informação e evitar acessos não autorizados. Isso inclui:
+
+▸ Arquitetura de Segurança: desenhar uma arquitetura de segurança que proteja a rede e os dados
+▸ Autenticação e Autorização: garantir que apenas pessoas autorizadas tenham acesso à rede e aos dados
+▸ Monitoramento e Análise de Tráfego: monitorar e analisar o tráfego de rede para detectar vulnerabilidades e ameaças
+
+**Exemplo de arquitetura de segurança em redes corporativas:**
+
+```mermaid
+graph LR
+    subgraph Redes Corporativas
+        A[Arquitetura de Segurança] --> B[Autenticação e Autorização]
+        B --> C[Monitoramento e Análise de Tráfego]
+    end
+```
