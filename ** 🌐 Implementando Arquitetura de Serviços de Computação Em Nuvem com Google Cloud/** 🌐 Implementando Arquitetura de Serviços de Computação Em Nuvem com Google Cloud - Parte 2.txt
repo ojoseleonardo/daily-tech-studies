@@ -1,0 +1,12 @@
+Google Cloud é uma plataforma de nuvem que oferece uma ampla gama de serviços para a implementação de arquiteturas de serviços de computação em nuvem. Com o Google Cloud, é possível criar sistemas escaláveis e flexíveis, utilizando serviços como Kubernetes, Cloud Functions e Cloud Storage.
+
+▸ Principais serviços:
+  → Kubernetes: gerenciamento de containers e escalabilidade
+  → Cloud Functions: execução de funções serverless
+  → Cloud Storage: armazenamento de dados em nuvem
+
+✨ Exemplo de implementação:
+```bash
+gcloud app deploy my-app.yaml
+```
+═══════════════════
