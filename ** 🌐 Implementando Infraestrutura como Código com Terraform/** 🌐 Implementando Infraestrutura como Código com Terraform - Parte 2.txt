@@ -1,0 +1,5 @@
+Terraform é uma ferramenta de IaC que permite criar e gerenciar a infraestrutura de computador utilizando scripts em linguagem HCL (HashiCorp Configuration Language). Com Terraform, os desenvolvedores e administradores de sistemas podem criar e gerenciar a infraestrutura de forma eficiente e escalável.
+
+▸ Características de Terraform:
+  → Suporte a múltiplas plataformas: Terraform pode ser utilizado em várias plataformas, incluindo AWS, Azure, Google Cloud e mais
+  → Suporte a múltiplas linguagens: Terraform pode ser utilizado com linguagens como HCL, JSON e YAML
