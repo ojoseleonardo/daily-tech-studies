@@ -1,0 +1,6 @@
+Para garantir a observabilidade da infraestrutura com Terraform, é necessário utilizar a ferramenta `terraform output`. Essa ferramenta é utilizada para visualizar as configurações da infraestrutura e garantir que elas estejam funcionando corretamente.
+
+▸ Exemplo de comando:
+```bash
+terraform output
+```
