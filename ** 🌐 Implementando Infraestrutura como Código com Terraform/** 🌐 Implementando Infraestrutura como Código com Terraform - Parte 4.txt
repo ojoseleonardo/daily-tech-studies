@@ -1,0 +1,6 @@
+Para executar a infraestrutura com Terraform, é necessário executar o comando `terraform apply`. Esse comando é utilizado para criar ou atualizar a infraestrutura de acordo com as configurações definidas no arquivo de configuração.
+
+▸ Exemplo de comando:
+```bash
+terraform apply
+```
