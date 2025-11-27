@@ -1,0 +1,6 @@
+Para garantir a segurança da infraestrutura com Terraform, é necessário utilizar a ferramenta `terraform validate`. Essa ferramenta é utilizada para validar as configurações da infraestrutura e garantir que elas estejam dentro dos padrões de segurança.
+
+▸ Exemplo de comando:
+```bash
+terraform validate
+```
