@@ -1,0 +1,6 @@
+Para monitorar a infraestrutura com Terraform, é necessário utilizar a ferramenta `terraform state`. Essa ferramenta é utilizada para visualizar as configurações da infraestrutura e atualizar as configurações de forma eficiente.
+
+▸ Exemplo de comando:
+```bash
+terraform state list
+```
