@@ -1,0 +1,9 @@
+Para criar a infraestrutura com Terraform, é necessário criar um arquivo de configuração em linguagem HCL. Esse arquivo é utilizado para definir as configurações da infraestrutura, como servidores, redes e bancos de dados.
+
+▸ Exemplo de arquivo de configuração:
+```hcl
+resource "aws_instance" "example" {
+  ami           = "ami-abc123"
+  instance_type = "t2.micro"
+}
+```
