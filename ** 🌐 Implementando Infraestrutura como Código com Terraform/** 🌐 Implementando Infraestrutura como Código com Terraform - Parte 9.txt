@@ -1,0 +1,6 @@
+Para aprender a utilizar Terraform, é necessário estudo e prática. Existem muitos recursos disponíveis para aprender a utilizar Terraform, incluindo documentação oficial, tutoriais e cursos online.
+
+▸ Recursos para aprender Terraform:
+  → Documentação oficial
+  → Tutoriais
+  → Cursos online
