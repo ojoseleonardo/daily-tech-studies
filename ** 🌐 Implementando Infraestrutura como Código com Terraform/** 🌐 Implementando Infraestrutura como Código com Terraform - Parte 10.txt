@@ -1,0 +1,5 @@
+Em resumo, a Infraestrutura como Código (IaC) é uma abordagem que permite automatizar a criação e gerenciamento da infraestrutura de computador. Terraform é uma ferramenta de IaC que permite criar e gerenciar a infraestrutura de forma eficiente e escalável. Com Terraform, os desenvolvedores e administradores de sistemas podem criar e gerenciar a infraestrutura de forma eficiente e escalável.
+
+▸ Conclusão:
+  → A IaC é uma abordagem que permite automatizar a criação e gerenciamento da infraestrutura de computador
+  → Terraform é uma ferramenta de IaC que permite criar e gerenciar a infraestrutura de forma eficiente e escalável
