@@ -1,0 +1,6 @@
+Para gerenciar a infraestrutura com Terraform, é necessário utilizar a ferramenta `terraform destroy`. Essa ferramenta é utilizada para destruir a infraestrutura de forma eficiente.
+
+▸ Exemplo de comando:
+```bash
+terraform destroy
+```
