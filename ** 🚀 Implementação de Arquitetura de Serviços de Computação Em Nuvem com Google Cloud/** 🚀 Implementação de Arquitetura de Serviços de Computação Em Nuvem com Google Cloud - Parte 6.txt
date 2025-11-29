@@ -1,0 +1,8 @@
+A implementação de aplicativos é um dos principais desafios na implementação de arquitetura de serviços de computação em nuvem. É importante garantir que os aplicativos sejam desenvolvidos e implantados de forma eficiente.
+
+▸ Principais técnicas de implementação:
+  → Desenvolvimento de Aplicativos: desenvolver aplicativos para executar em nuvem
+  → Implantação de Aplicativos: implantar aplicativos em nuvem
+  → Manutenção de Aplicativos: manter aplicativos em nuvem
+
+→ Exemplo de implementação de aplicativos: utilizar o Google Cloud App Engine para implantar um aplicativo.
