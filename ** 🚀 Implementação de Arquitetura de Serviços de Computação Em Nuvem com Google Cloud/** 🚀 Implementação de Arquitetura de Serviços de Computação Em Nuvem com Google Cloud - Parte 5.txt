@@ -1,0 +1,8 @@
+O orçamento e o custo são fundamentais para garantir que a implementação de arquitetura de serviços de computação em nuvem esteja dentro dos limites de orçamento da organização.
+
+▸ Principais custos:
+  → Uso de recursos: custos associados ao uso de recursos
+  → Armazenamento de Dados: custos associados ao armazenamento de dados
+  → Rede e Segurança: custos associados à rede e segurança
+
+→ Exemplo de orçamento e custo: utilizar o Google Cloud Cost Estimator para estimar os custos de implantação e operação.
