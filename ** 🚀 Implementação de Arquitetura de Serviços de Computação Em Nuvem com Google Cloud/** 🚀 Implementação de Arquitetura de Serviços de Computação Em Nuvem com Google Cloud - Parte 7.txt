@@ -1,0 +1,7 @@
+A automatização e a orquestração são fundamentais para garantir que a implementação de arquitetura de serviços de computação em nuvem esteja funcionando corretamente e que os recursos estejam sendo utilizados de forma eficiente.
+
+▸ Principais técnicas de automatização e orquestração:
+  → Automatização de Tarefas: automatizar tarefas para reduzir o tempo de resposta
+  → Orquestração de Recursos: orquestrar recursos para garantir que os aplicativos estejam funcionando corretamente
+
+→ Exemplo de automatização e orquestração: utilizar o Google Cloud Workflow para criar um fluxo de trabalho para automatizar tarefas.
