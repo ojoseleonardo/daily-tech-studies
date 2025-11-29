@@ -1,0 +1,8 @@
+A segurança em nuvem é um dos principais desafios na implementação de arquiteturas de serviços de computação em nuvem. É importante garantir que os dados sejam protegidos contra acessos não autorizados e que a infraestrutura seja segura e escalável.
+
+▸ Principais medidas de segurança:
+  → Autenticação e Autorização: garantir que apenas usuários autorizados tenham acesso aos recursos
+  → Criptografia: proteger dados em repouso e em trânsito
+  → Monitoramento e Análise de Segurança: detectar e responder a ameaças
+
+→ Exemplo de implementação de segurança em nuvem: utilizar o Google Cloud Identity and Access Management (IAM) para gerenciar permissões e acesso aos recursos.
