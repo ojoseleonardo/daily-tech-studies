@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem é um modelo de entrega de TI que utiliza a infraestrutura de nuvem para fornecer recursos computacionais e armazenamento a demanda. Isso permite que as organizações reduzam os custos de TI e melhorem a escalabilidade e a flexibilidade.
+
+▸ Principais características:
+  → Escalabilidade: recursos podem ser aumentados ou diminuídos rapidamente
+  → Flexibilidade: recursos podem ser gerenciados de forma remota e programática
+  → Economia: custos de TI são reduzidos com base no uso real
+
+⚠️ Atenção: a arquitetura de serviços de computação em nuvem é um modelo de entrega de TI que requer uma abordagem de design e implementação cuidadosa.
