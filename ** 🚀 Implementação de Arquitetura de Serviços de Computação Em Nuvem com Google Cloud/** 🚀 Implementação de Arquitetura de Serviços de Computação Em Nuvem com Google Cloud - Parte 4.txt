@@ -1,0 +1,8 @@
+A implementação de serviços de computação em nuvem com Google Cloud envolve a escolha e configuração de recursos para atender às necessidades da organização.
+
+▸ Principais recursos:
+  → Instâncias de Computação: fornecem recursos computacionais e armazenamento
+  → Armazenamento de Dados: fornecem armazenamento para dados e aplicativos
+  → Rede e Segurança: fornecem rede e segurança para recursos
+
+→ Exemplo de implementação de serviços de computação em nuvem: criar uma instância de computação com Google Cloud Compute Engine para executar um aplicativo.
