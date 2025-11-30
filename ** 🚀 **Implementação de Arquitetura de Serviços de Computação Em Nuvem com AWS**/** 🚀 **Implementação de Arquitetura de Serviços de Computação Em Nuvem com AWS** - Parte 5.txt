@@ -1,0 +1,10 @@
+A implementação de arquitetura de serviços de computação em nuvem com AWS é uma abordagem escalável e flexível que pode ajudar a melhorar a eficiência e a escalabilidade dos sistemas de informação.
+
+▸ Principais benefícios:
+  → Escalabilidade: capacidade de aumentar ou diminuir a capacidade de processamento e armazenamento
+  → Elasticidade: capacidade de ajustar a capacidade de processamento e armazenamento em tempo real
+  → Segurança: capacidade de proteger dados e sistemas contra acessos não autorizados
+
+• Exemplo de uso: criar um aplicativo web com EC2, armazenar dados em S3 e gerenciar o banco de dados com RDS.
+
+═══════════════════
