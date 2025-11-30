@@ -1,0 +1,10 @@
+Para implementar a arquitetura de serviços de computação em nuvem com AWS, é necessário criar uma solução escalável e flexível. Isso pode ser feito utilizando serviços como EC2, S3 e RDS.
+
+▸ Passos para implementação:
+  → Criar uma instância EC2 para executar o aplicativo
+  → Armazenar dados em S3 para aumentar a capacidade de armazenamento
+  → Gerenciar o banco de dados com RDS para aumentar a capacidade de processamento
+
+• Exemplo de uso: criar um aplicativo web com EC2, armazenar dados em S3 e gerenciar o banco de dados com RDS.
+
+═══════════════════
