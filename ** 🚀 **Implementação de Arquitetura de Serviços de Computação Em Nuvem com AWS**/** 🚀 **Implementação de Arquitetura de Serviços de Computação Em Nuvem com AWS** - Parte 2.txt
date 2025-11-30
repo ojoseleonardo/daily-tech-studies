@@ -1,0 +1,11 @@
+AWS oferece uma ampla gama de serviços de computação em nuvem, incluindo EC2, S3, RDS e Lambda. Esses serviços permitem a criação de sistemas escaláveis e flexíveis.
+
+▸ Principais serviços:
+  → EC2: serviço de computação em nuvem que permite criar e gerenciar máquinas virtuais
+  → S3: serviço de armazenamento em nuvem que permite armazenar e gerenciar grandes quantidades de dados
+  → RDS: serviço de banco de dados em nuvem que permite criar e gerenciar bancos de dados
+  → Lambda: serviço de computação em nuvem que permite executar código em resposta a eventos
+
+• Exemplo de uso: criar um aplicativo web com EC2, armazenar dados em S3 e gerenciar o banco de dados com RDS.
+
+═══════════════════
