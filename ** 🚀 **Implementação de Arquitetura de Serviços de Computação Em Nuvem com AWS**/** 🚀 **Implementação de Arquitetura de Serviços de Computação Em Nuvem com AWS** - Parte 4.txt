@@ -1,0 +1,9 @@
+Para garantir que a arquitetura de serviços de computação em nuvem esteja funcionando corretamente, é necessário monitorar e ajustar a solução regularmente.
+
+▸ Principais ferramentas de monitoramento:
+  → AWS CloudWatch: serviço de monitoramento que permite monitorar recursos e aplicativos
+  → AWS CloudTrail: serviço de monitoramento que permite monitorar atividades e eventos
+
+• Exemplo de uso: utilizar AWS CloudWatch para monitorar o desempenho do aplicativo e AWS CloudTrail para monitorar as atividades do usuário.
+
+═══════════════════
