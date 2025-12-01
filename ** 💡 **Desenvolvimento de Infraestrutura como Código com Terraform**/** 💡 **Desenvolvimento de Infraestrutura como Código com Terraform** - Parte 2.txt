@@ -1,0 +1,18 @@
+A Terraform utiliza um arquivo de configuração chamado `main.tf` para definir a infraestrutura. Este arquivo é onde você define os recursos que precisam ser criados, como servidores, bancos de dados e redes.
+
+▸ Exemplo de configuração básica:
+```terraform
+# Criar um servidor EC2
+resource "aws_instance" "meu_servidor" {
+  ami           = "ami-abc123"
+  instance_type = "t2.micro"
+}
+
+# Criar um banco de dados RDS
+resource "aws_db_instance" "meu_banco" {
+  engine               = "mysql"
+  instance_class       = "db.t2.micro"
+  allocated_storage    = 5
+}
+```
+→ **Importante**: a Terraform gerencia os recursos e os elimina quando não estão mais necessários.
