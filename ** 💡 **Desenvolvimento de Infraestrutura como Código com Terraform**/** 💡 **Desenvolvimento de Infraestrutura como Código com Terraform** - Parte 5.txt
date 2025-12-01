@@ -1,0 +1,3 @@
+A Terraform é uma ferramenta poderosa que permite criar e gerenciar infraestruturas de forma simples e consistente. Com a integração com ferramentas de CI/CD, é possível automatizar a criação e gerenciamento de infraestruturas, reduzindo erros humanos e aumentando a produtividade.
+
+→ **Dicas finais**: sempre use a Terraform com cuidado e atenção, pois ela pode criar recursos que podem impactar negativamente a infraestrutura se não forem gerenciados corretamente.
