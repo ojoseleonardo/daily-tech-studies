@@ -1,0 +1,11 @@
+A Terraform pode ser integrada com ferramentas de CI/CD para automatizar a criação e gerenciamento de infraestruturas.
+
+▸ Exemplo de integração com Jenkins:
+```bash
+# Executar o terraform plan
+terraform plan -out=terraform.tfplan
+
+# Executar o terraform apply
+terraform apply terraform.tfplan
+```
+→ **Benefícios**: a integração com ferramentas de CI/CD permite que a infraestrutura seja criada e gerenciada de forma automática, reduzindo erros humanos e aumentando a produtividade.
