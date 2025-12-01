@@ -1,0 +1,8 @@
+A infraestrutura como código é um conceito que revoluciona a forma como gerenciamos e implementamos infraestruturas em ambientes de desenvolvimento e produção. A ideia é que a infraestrutura seja definida em um código reutilizável, permitindo que seja fácilmente criada, modificada e reprojetada sem a necessidade de manualmente configurar cada componente.
+
+▸ Principais benefícios:
+  → **Reusabilidade**: os recursos podem ser reutilizados em diferentes ambientes
+  → **Consistência**: a infraestrutura é sempre configurada da mesma forma
+  → **Segurança**: os recursos são criados com políticas de segurança pré-definidas
+
+✨ A Terraform é uma ferramenta de código aberto que permite criar e gerenciar infraestruturas de uma forma simples e consistente.
