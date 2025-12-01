@@ -1,0 +1,22 @@
+A Terraform oferece várias opções para gerenciar recursos, como criar, atualizar e eliminar.
+
+▸ Exemplo de gerenciamento de recursos:
+```terraform
+# Criar um recurso
+resource "aws_s3_bucket" "meu_bucket" {
+  bucket = "meu-bucket"
+}
+
+# Atualizar um recurso
+resource "aws_s3_bucket" "meu_bucket" {
+  bucket = "meu-bucket"
+  acl    = "private"
+}
+
+# Eliminar um recurso
+resource "aws_s3_bucket" "meu_bucket" {
+  bucket = "meu-bucket"
+  force_destroy = true
+}
+```
+→ **Dicas**: sempre use o `terraform plan` antes de executar o `terraform apply` para visualizar as mudanças que serão aplicadas.
