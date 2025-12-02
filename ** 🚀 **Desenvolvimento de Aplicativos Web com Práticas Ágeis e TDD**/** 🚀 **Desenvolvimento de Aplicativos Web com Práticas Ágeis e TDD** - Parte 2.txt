@@ -1,0 +1,21 @@
+O teste-driven development (TDD) é uma abordagem que busca garantir a qualidade do código ao desenvolver testes antes de escrever o código. O teste de interface é um tipo de teste que verifica a integração entre componentes. 📊
+
+▸ Principais benefícios:
+  → **Código mais estável**: os testes garantem que o código esteja funcionando corretamente
+  → **Melhoria da produtividade**: os testes ajudam a identificar erros e problemas antes de chegar ao cliente
+
+✨ Exemplo de teste de interface:
+
+
+```python
+import unittest
+from meu_aplicativo import meu_componente
+
+class TestMeuComponente(unittest.TestCase):
+    def test_meu_componente(self):
+        componente = meu_componente.MeuComponente()
+        self.assertEqual(componente.funcao(), "resultado esperado")
+
+if __name__ == '__main__':
+    unittest.main()
+```
