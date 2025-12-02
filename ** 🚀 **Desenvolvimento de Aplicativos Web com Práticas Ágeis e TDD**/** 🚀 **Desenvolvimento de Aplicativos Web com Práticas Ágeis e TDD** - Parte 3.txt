@@ -1,0 +1,24 @@
+A implementação de serviços de computação em nuvem é uma abordagem que busca aproveitar as vantagens da nuvem para desenvolver e implantar aplicativos. O Azure é uma plataforma de nuvem que oferece uma ampla gama de serviços e ferramentas. 🌐
+
+▸ Principais benefícios:
+  → **Escalabilidade**: a capacidade de aumentar ou diminuir a capacidade de processamento conforme necessário
+  → **Flexibilidade**: a capacidade de escolher a melhor solução para o seu projeto
+
+✨ Exemplo de implantação de serviço de computação em nuvem:
+
+
+```python
+import azure
+
+# Crie uma instância da classe Azure
+az = azure.Azure()
+
+# Crie um serviço de computação em nuvem
+computacao = az.computacao.create_service(
+    nome="meu_servico",
+    regiao="regiao_do_servico"
+)
+
+# Imprima a ID do serviço de computação em nuvem
+print(computacao.id)
+```
