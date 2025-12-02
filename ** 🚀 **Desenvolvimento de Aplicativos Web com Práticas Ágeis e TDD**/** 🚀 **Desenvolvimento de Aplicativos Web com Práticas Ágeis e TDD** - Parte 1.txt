@@ -1,0 +1,8 @@
+O desenvolvimento de aplicativos web com práticas ágeis é uma abordagem que busca melhorar a qualidade e a produtividade do processo de desenvolvimento. A prática ágeis é uma filosofia de desenvolvimento que enfatiza a flexibilidade, a adaptação e a colaboração. 🤝
+
+▸ Principais características:
+  → **Flexibilidade**: a capacidade de adaptar-se às mudanças no projeto
+  → **Adaptação**: a capacidade de se adaptar às necessidades do cliente
+  → **Colaboração**: a capacidade de trabalhar em equipe
+
+⚠️ Atenção: as práticas ágeis não são uma receita pré-fabricada, mas sim uma abordagem que pode ser adaptada às necessidades do seu projeto.
