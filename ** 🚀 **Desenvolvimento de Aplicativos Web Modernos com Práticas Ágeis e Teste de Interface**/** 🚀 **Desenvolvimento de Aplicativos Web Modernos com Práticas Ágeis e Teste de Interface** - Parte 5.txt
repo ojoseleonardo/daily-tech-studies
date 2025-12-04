@@ -1,0 +1,9 @@
+O teste de interface é uma ferramenta fundamental para garantir a qualidade e a segurança do aplicativo. Nesta parte, exploraremos as principais técnicas e ferramentas para realizar testes de interface:
+
+**Técnicas de Teste de Interface:**
+
+▸ **Unidade:** Entenda como o teste de unidade pode ajudar a garantir a qualidade do código.
+▸ **Integração:** Saiba como o teste de integração pode ajudar a garantir a comunicação entre componentes.
+▸ **Aceitação:** Explore as principais características e benefícios do teste de aceitação para garantir a qualidade do aplicativo.
+
+⚠️ Atenção: o teste de interface é um processo contínuo que exige práticas sólidas e ferramentas de teste eficazes.
