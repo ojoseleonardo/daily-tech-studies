@@ -1,0 +1,9 @@
+O monitoramento e ajuste são aspectos fundamentais para o desenvolvimento de aplicativos web. Nesta parte, exploraremos as principais técnicas e ferramentas para monitorar e ajustar o aplicativo:
+
+**Técnicas de Monitoramento e Ajuste:**
+
+▸ **Monitoramento de Desempenho:** Entenda como o monitoramento de desempenho pode ajudar a identificar problemas e melhorar a performance.
+▸ **Ajuste de Configuração:** Saiba como o ajuste de configuração pode ajudar a melhorar a performance e escalabilidade do aplicativo.
+▸ **Ajuste de Código:** Explore as principais características e benefícios do ajuste de código para melhorar a qualidade e a segurança do aplicativo.
+
+⚠️ Atenção: o monitoramento e ajuste são processos contínuos que exigem práticas sólidas e ferramentas de monitoramento eficazes.
