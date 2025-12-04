@@ -1,0 +1,9 @@
+O desenvolvimento ágil é uma abordagem que pode ajudar a criar aplicativos web mais rápidos e escaláveis. Nesta parte, exploraremos as principais técnicas e ferramentas para desenvolver aplicativos web com práticas ágeis:
+
+**Técnicas de Desenvolvimento Ágil:**
+
+▸ **Scrum:** Entenda como o Scrum pode ajudar a criar aplicativos web mais rápidos e escaláveis.
+▸ **Kanban:** Saiba como o Kanban pode ajudar a controlar o fluxo de trabalho e melhorar a produtividade.
+▸ **Extreme Programming:** Explore as principais características e benefícios do Extreme Programming para criar aplicativos web modernos.
+
+⚠️ Atenção: o desenvolvimento ágil é uma abordagem que exige práticas sólidas e equipe de desenvolvedores habilidosos.
