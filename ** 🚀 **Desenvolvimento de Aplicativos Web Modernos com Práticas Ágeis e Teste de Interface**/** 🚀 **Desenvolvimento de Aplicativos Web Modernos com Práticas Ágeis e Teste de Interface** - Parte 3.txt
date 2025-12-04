@@ -1,0 +1,9 @@
+A segurança é um aspecto fundamental para o desenvolvimento de aplicativos web. Nesta parte, exploraremos as principais medidas para garantir a segurança do aplicativo:
+
+**Medidas de Segurança em Aplicativos Web:**
+
+▸ **Autenticação:** Entenda como a autenticação pode ajudar a proteger o aplicativo contra acessos não autorizados.
+▸ **Autorização:** Saiba como a autorização pode ajudar a controlar o acesso a recursos do aplicativo.
+▸ **Criptografia:** Explore as principais técnicas de criptografia para proteger dados sensíveis.
+
+⚠️ Atenção: a segurança é um processo contínuo que exige atualizações constantes e práticas de segurança sólidas.
