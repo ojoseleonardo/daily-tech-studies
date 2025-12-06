@@ -1,0 +1,7 @@
+Existem várias tecnologias de segurança que podem ser utilizadas para proteger aplicativos web:
+
+▸ **Autenticação e Autorização**: utilizar autenticação e autorização para garantir que apenas usuários autorizados tenham acesso ao aplicativo.
+
+▸ **Criptografia**: utilizar criptografia para proteger dados em trânsito e armazenados.
+
+▸ **Filtragem de Entrada**: utilizar filtragem de entrada para prevenir ataques de SQL Injection e Cross-Site Scripting (XSS).
