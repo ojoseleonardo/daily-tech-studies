@@ -1,0 +1,5 @@
+A implantação e manutenção de segurança são fundamentais para garantir a segurança do aplicativo. Aqui estão algumas práticas importantes:
+
+▸ **Implantação de Segurança**: implantar medidas de segurança para proteger o aplicativo.
+
+▸ **Manutenção de Segurança**: realizar manutenção regular para garantir a segurança do aplicativo.
