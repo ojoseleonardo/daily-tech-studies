@@ -1,0 +1,5 @@
+Os testes de segurança são fundamentais para identificar vulnerabilidades e melhorar a segurança do aplicativo. Aqui estão algumas práticas importantes:
+
+▸ **Testes de Segurança de Aplicação**: realizar testes de segurança de aplicação para identificar vulnerabilidades em código e configurações.
+
+▸ **Testes de Segurança de Infraestrutura**: realizar testes de segurança de infraestrutura para identificar vulnerabilidades em hardware e software.
