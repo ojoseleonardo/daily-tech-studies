@@ -1,0 +1,8 @@
+A segurança é um dos principais desafios no desenvolvimento de aplicativos web modernos. Com a crescente dependência em tecnologia e a internet, a segurança se tornou uma prioridade para garantir a confidencialidade, integridade e disponibilidade dos dados e sistemas.
+
+▸ Principais riscos:
+  → Fraudes e ataques cibernéticos
+  → Perda de dados e informações confidenciais
+  → Intercapsulação de malware e ransomware
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
