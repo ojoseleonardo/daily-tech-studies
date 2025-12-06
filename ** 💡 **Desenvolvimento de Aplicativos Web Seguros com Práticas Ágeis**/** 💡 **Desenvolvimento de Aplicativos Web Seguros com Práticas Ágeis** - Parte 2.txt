@@ -1,0 +1,7 @@
+As práticas ágeis são fundamentais para desenvolver aplicativos web seguros. Aqui estão algumas práticas importantes:
+
+▸ **Desenvolvimento de Testes de Segurança**: desenvolver testes de segurança para identificar vulnerabilidades e melhorar a segurança do aplicativo.
+
+▸ **Integração de Segurança**: integrar a segurança no processo de desenvolvimento, desde o início do projeto até o lançamento.
+
+▸ **Garantia de Disponibilidade e Confiabilidade**: garantir a disponibilidade e confiabilidade do aplicativo, mesmo em casos de falhas ou ataques.
