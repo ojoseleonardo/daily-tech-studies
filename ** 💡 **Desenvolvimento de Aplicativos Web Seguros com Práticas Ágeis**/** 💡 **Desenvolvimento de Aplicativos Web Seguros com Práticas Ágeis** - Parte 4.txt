@@ -1,0 +1,5 @@
+A arquitetura de segurança é fundamental para desenvolver aplicativos web seguros. Aqui estão algumas arquiteturas de segurança importantes:
+
+▸ **Arquitetura de Segurança Baseada em Camadas**: utilizar uma arquitetura de segurança baseada em camadas para proteger o aplicativo em diferentes níveis.
+
+▸ **Arquitetura de Segurança Baseada em Serviços**: utilizar uma arquitetura de segurança baseada em serviços para fornecer serviços de segurança específicos.
