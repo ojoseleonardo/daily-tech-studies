@@ -1,0 +1,5 @@
+A segurança em aplicativos web é um processo contínuo e é fundamental para garantir a confidencialidade, integridade e disponibilidade dos dados e sistemas. Aqui estão algumas conclusões importantes:
+
+▸ **Segurança é um processo contínuo**: a segurança é um processo contínuo e não um estado final.
+
+▸ **Importância da conscientização de segurança**: a conscientização de segurança é fundamental para educar usuários e desenvolvedores sobre a importância da segurança.
