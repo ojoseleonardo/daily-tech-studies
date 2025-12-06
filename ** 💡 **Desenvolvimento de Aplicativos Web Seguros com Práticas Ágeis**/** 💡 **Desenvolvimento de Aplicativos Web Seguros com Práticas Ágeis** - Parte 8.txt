@@ -1,0 +1,5 @@
+O treinamento e conscientização de segurança são fundamentais para educar usuários e desenvolvedores sobre a importância da segurança. Aqui estão algumas práticas importantes:
+
+▸ **Treinamento de Segurança**: fornecer treinamento de segurança para desenvolvedores e usuários.
+
+▸ **Conscientização de Segurança**: promover a conscientização de segurança entre desenvolvedores e usuários.
