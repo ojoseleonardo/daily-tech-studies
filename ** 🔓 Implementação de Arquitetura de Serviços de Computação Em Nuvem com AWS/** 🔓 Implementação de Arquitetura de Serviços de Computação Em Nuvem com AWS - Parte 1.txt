@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem de fornecimento de serviços de computação, armazenamento e rede por meio da internet. Com a arquitetura de serviços de computação em nuvem, as organizações podem criar aplicativos e serviços escaláveis e flexíveis, sem precisar gerenciar hardware ou software.
+
+As principais vantagens da arquitetura de serviços de computação em nuvem incluem:
+
+→ Escalabilidade e flexibilidade
+→ Redução de custos
+→ Aumento da segurança e confiabilidade
+→ Melhoria da escalabilidade e desempenho
