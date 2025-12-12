@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem com AWS pode ser configurada para atender às necessidades de desempenho e escalabilidade das organizações. Isso pode ser feito usando recursos como instâncias EC2, bancos de dados RDS e serviços de armazenamento S3.
+
+Os principais benefícios da arquitetura de serviços de computação em nuvem com AWS para desempenho e escalabilidade incluem:
+
+→ Aumento da escalabilidade para atender às necessidades das organizações
+→ Redução de custos com a eliminação de investimentos em hardware e software
+→ Melhoria do desempenho com recursos de processamento em nuvem
