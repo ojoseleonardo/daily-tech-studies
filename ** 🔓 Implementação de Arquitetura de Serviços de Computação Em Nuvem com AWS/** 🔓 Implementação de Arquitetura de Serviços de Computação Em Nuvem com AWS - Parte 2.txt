@@ -1,0 +1,8 @@
+A Amazon Web Services (AWS) é uma das principais plataformas de serviços de computação em nuvem disponíveis. A AWS oferece uma ampla gama de serviços e recursos para ajudar as organizações a criar e implementar aplicativos e serviços em nuvem.
+
+Os principais benefícios da arquitetura de serviços de computação em nuvem com AWS incluem:
+
+→ Escalabilidade e flexibilidade para atender às necessidades das organizações
+→ Redução de custos com a eliminação de investimentos em hardware e software
+→ Aumento da segurança e confiabilidade com recursos de segurança avançados
+→ Melhoria da escalabilidade e desempenho com recursos de processamento em nuvem
