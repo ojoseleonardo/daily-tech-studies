@@ -1,0 +1,7 @@
+O monitoramento e a análise são fundamentais para a arquitetura de serviços de computação em nuvem com AWS. Isso pode ser feito usando recursos como instâncias EC2, bancos de dados RDS e serviços de armazenamento S3.
+
+Os principais benefícios da arquitetura de serviços de computação em nuvem com AWS para monitoramento e análise incluem:
+
+→ Aumento da visibilidade para tomar decisões informadas
+→ Redução de custos com a eliminação de investimentos em hardware e software
+→ Melhoria da escalabilidade com recursos de processamento em nuvem
