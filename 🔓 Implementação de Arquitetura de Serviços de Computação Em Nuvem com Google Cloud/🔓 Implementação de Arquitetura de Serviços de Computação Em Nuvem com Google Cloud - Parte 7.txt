@@ -1,0 +1,9 @@
+O orçamento de serviços de computação em nuvem é fundamental para garantir a eficiência e a eficácia dos recursos de computação. Isso é alcançado por meio da utilização de ferramentas de orçamento e análise de custos.
+
+▸ Principais ferramentas:
+  → Ferramentas de orçamento: Google Cloud Cost Management, AWS Cost Explorer e Azure Cost Estimator
+  → Ferramentas de análise de custos: Google Cloud Cost Analysis, AWS Cost and Usage Report e Azure Cost Analysis
+
+→ Exemplo: uma empresa pode criar um aplicativo web que utiliza serviços de computação em nuvem para executar processamentos em massa e armazenar dados em um banco de dados gerenciado utilizando ferramentas de orçamento e análise de custos para garantir a eficiência e a eficácia dos recursos de computação.
+
+═══════════════════
