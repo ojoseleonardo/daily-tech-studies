@@ -1,0 +1,9 @@
+A segurança de serviços de computação em nuvem é fundamental para proteger os dados e os recursos de computação. Isso é alcançado por meio da utilização de ferramentas de segurança e políticas de segurança.
+
+▸ Principais ferramentas:
+  → Ferramentas de segurança: Google Cloud Security Command Center, AWS IAM e Azure Security Center
+  → Políticas de segurança: políticas de acesso, políticas de autorização e políticas de auditoria
+
+→ Exemplo: uma empresa pode criar um aplicativo web que utiliza serviços de computação em nuvem para executar processamentos em massa e armazenar dados em um banco de dados gerenciado utilizando políticas de segurança para proteger os dados e os recursos de computação.
+
+═══════════════════
