@@ -1,0 +1,9 @@
+A implementação de serviços de computação em nuvem envolve a criação de serviços independentes que podem ser escalados individualmente. Isso é alcançado por meio da utilização de ferramentas de automação e integração.
+
+▸ Principais ferramentas:
+  → Ferramentas de automação: Terraform, Ansible e Puppet
+  → Ferramentas de integração: Kubernetes, Docker e Jenkins
+
+→ Exemplo: uma empresa pode criar um aplicativo web que utiliza serviços de computação em nuvem para executar processamentos em massa e armazenar dados em um banco de dados gerenciado utilizando Terraform e Kubernetes.
+
+═══════════════════
