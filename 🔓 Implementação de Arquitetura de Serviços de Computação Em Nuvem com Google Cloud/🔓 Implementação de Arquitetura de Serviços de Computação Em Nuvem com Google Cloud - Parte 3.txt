@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem é um estilo de arquitetura de software que permite a escalabilidade e a flexibilidade. Isso é alcançado por meio da divisão do aplicativo em serviços independentes que podem ser escalados individualmente.
+
+▸ Principais características:
+  → Escalabilidade: serviços podem ser escalados individualmente
+  → Flexibilidade: serviços podem ser criados e removidos a qualquer momento
+  → Reutilização: serviços podem ser reutilizados em diferentes aplicativos
+
+→ Exemplo: uma empresa pode criar um aplicativo web que utiliza serviços de computação em nuvem para executar processamentos em massa e armazenar dados em um banco de dados gerenciado.
+
+═══════════════════
