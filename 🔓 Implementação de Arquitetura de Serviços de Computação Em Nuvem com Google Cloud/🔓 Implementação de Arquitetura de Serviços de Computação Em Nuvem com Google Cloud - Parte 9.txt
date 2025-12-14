@@ -1,0 +1,8 @@
+A computação em nuvem é um modelo de entrega de serviços de computação em que os recursos de computação são fornecidos como um serviço on-demand sobre a internet. Isso permite que as organizações acessem recursos de computação a qualquer momento e em qualquer lugar.
+
+▸ Principais pontos principais:
+  → Escala horizontal: aumente ou diminua recursos de computação conforme necessário
+  → Economia de custos: pague apenas pelo que for utilizado
+  → Disponibilidade: acesso a recursos de computação a qualquer momento e em qualquer lugar
+
+→ Exemplo: uma empresa pode criar um aplicativo web que utiliza serviços de computação em nuvem para executar processamentos em massa e armazenar dados em um banco de dados gerenciado utilizando os principais pontos principais da computação em nuvem para garantir a escalabilidade e a flexibilidade dos serviços.
