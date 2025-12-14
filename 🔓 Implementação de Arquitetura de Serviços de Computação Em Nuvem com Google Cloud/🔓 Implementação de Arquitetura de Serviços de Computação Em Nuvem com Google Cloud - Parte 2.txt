@@ -1,0 +1,10 @@
+Os serviços de computação em nuvem são oferecidos por provedores de nuvem como Google Cloud, Amazon Web Services (AWS) e Microsoft Azure. Esses serviços incluem recursos de computação como máquinas virtuais, armazenamento de dados e redes.
+
+▸ Principais serviços:
+  → Computação: máquinas virtuais, processamento em massa e análise de dados
+  → Armazenamento: armazenamento de dados, bancos de dados e arquivos
+  → Rede: redes virtuais, balanceamento de carga e segurança de rede
+
+→ Exemplo: uma empresa pode criar uma máquina virtual em Google Cloud para executar um aplicativo web e armazenar os dados em um banco de dados gerenciado.
+
+═══════════════════
