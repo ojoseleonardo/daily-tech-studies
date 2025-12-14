@@ -1,0 +1,10 @@
+A computação em nuvem é um modelo de entrega de serviços de computação em que os recursos de computação são fornecidos como um serviço on-demand sobre a internet. Isso permite que as organizações acessem recursos de computação a qualquer momento e em qualquer lugar.
+
+▸ Principais benefícios:
+  → Escala horizontal: aumente ou diminua recursos de computação conforme necessário
+  → Economia de custos: pague apenas pelo que for utilizado
+  → Disponibilidade: acesso a recursos de computação a qualquer momento e em qualquer lugar
+
+⚠️ Atenção: a computação em nuvem não é apenas um modelo de entrega de serviços, mas também um estilo de arquitetura de software que permite a escalabilidade e a flexibilidade.
+
+═══════════════════
