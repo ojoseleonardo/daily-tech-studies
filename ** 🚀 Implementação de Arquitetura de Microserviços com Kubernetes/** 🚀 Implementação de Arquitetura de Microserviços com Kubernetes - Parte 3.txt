@@ -1,0 +1,10 @@
+Kubernetes é um sistema de gerenciamento de contêineres que permite a implementação de microserviços de forma escalável e flexível. Isso inclui a criação de clusters, a gerência de contêineres e a implantação de serviços.
+
+▸ Principais funcionalidades:
+  → Criação de clusters: como criar um cluster de contêineres?
+  → Gerência de contêineres: como gerenciar os contêineres em um cluster?
+  → Implantação de serviços: como implantar serviços em um cluster?
+
+✓ Exemplo: um sistema de e-commerce pode ser implantado em um cluster de contêineres com Kubernetes.
+
+═══════════════════
