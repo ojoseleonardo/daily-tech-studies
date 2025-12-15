@@ -1,0 +1,10 @@
+Os microserviços são uma abordagem de desenvolvimento de software que visa a criação de sistemas escaláveis e flexíveis, permitindo a evolução individual de cada serviço. Isso garante que as mudanças não afetem a integridade do sistema como um todo.
+
+▸ Principais características:
+  → Escalabilidade: cada serviço pode ser escalado independentemente
+  → Flexibilidade: mudanças em um serviço não afetam outros serviços
+  → Autonomia: cada serviço tem sua própria autonomia
+
+⚠️ Atenção: a implementação de microserviços exige uma arquitetura de software robusta e bem planejada.
+
+═══════════════════
