@@ -1,0 +1,10 @@
+O monitoramento e ajuste de microserviços é fundamental para garantir a escalabilidade e a flexibilidade do sistema. Isso inclui a coleta de dados de desempenho, a análise de dados e a implementação de ajustes.
+
+▸ Principais considerações:
+  → Coleta de dados de desempenho: como coletar dados de desempenho dos serviços?
+  → Análise de dados: como analisar os dados coletados?
+  → Implementação de ajustes: como implementar ajustes nos serviços?
+
+✓ Exemplo: um sistema de e-commerce pode ser monitorado e ajustado para garantir a escalabilidade e a flexibilidade.
+
+═══════════════════
