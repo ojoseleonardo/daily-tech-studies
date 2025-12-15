@@ -1,0 +1,10 @@
+O design de arquitetura de microserviços é fundamental para garantir a escalabilidade e a flexibilidade do sistema. Isso inclui a definição de serviços, a escolha da linguagem de programação e a implementação de comunicação entre serviços.
+
+▸ Principais considerações:
+  → Definição de serviços: quais são os serviços que compõem o sistema?
+  → Escolha da linguagem de programação: qual linguagem é mais adequada para cada serviço?
+  → Comunicação entre serviços: como os serviços se comunicam uns com os outros?
+
+✓ Exemplo: um sistema de e-commerce pode ser composto por serviços de catálogo, pagamento e entrega.
+
+═══════════════════
