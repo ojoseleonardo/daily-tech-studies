@@ -1,0 +1,9 @@
+O teste de desempenho é fundamental para garantir que o aplicativo atenda às necessidades de desempenho e escalabilidade. Algumas das principais características incluem:
+
+→ **Testes de carga**: avaliação do desempenho do aplicativo sob carga
+→ **Testes de estresse**: avaliação do desempenho do aplicativo sob estresse
+→ **Testes de desempenho**: avaliação do desempenho do aplicativo sob diferentes cenários
+
+Esses conceitos são fundamentais para garantir que o aplicativo atenda às necessidades de desempenho e escalabilidade.
+
+═══════════════════
