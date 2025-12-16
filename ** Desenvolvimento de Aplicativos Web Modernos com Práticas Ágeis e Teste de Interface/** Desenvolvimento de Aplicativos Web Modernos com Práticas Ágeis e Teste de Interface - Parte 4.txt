@@ -1,0 +1,9 @@
+A segurança em aplicativos web é essencial para proteger os dados dos usuários e garantir a confidencialidade da informação. Algumas das principais características incluem:
+
+→ **Autenticação**: garantia de que apenas usuários autorizados tenham acesso ao aplicativo
+→ **Autorização**: controle de acesso a recursos e funcionalidades do aplicativo
+→ **Criptografia**: proteção de dados sensíveis com técnicas de criptografia
+
+Essas tecnologias permitem que os desenvolvedores criem aplicativos web modernos que sejam seguros e protejam os dados dos usuários.
+
+═══════════════════
