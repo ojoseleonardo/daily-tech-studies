@@ -1,0 +1,9 @@
+A arquitetura de aplicativos web modernos é essencial para garantir a escalabilidade, segurança e manutenibilidade do aplicativo. Algumas das principais características incluem:
+
+→ **Microserviços**: estrutura de aplicativos em pequenas unidades independentes
+→ **Containerização**: uso de contêineres para isolamento e escalabilidade
+→ **Orquestração**: gestão de contêineres e recursos para garantir desempenho e eficiência
+
+Essas tecnologias permitem que os desenvolvedores criem aplicativos web modernos que sejam escaláveis, seguros e fáceis de manter.
+
+═══════════════════
