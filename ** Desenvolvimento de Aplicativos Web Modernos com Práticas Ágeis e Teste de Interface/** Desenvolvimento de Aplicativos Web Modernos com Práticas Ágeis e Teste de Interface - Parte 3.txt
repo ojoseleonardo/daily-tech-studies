@@ -1,0 +1,9 @@
+O design de experiência do usuário é crucial para criar aplicativos web modernos que sejam atraentes e fáceis de usar. Algumas das principais características incluem:
+
+→ **UX**: foco em criar experiências de usuário personalizadas e intuitivas
+→ **UI**: design visual da interface do usuário para garantir alegria e eficiência
+→ **Acessibilidade**: garantia de que o aplicativo atenda às necessidades de usuários com deficiência
+
+Esses conceitos são fundamentais para criar aplicativos web modernos que sejam atraentes e fáceis de usar.
+
+═══════════════════
