@@ -1,0 +1,9 @@
+A observabilidade em aplicativos web é essencial para garantir que o aplicativo seja monitorado e gerenciado de forma eficaz. Algumas das principais características incluem:
+
+→ **Monitoramento**: coleta e análise de dados sobre o desempenho do aplicativo
+→ **Logging**: coleta e análise de logs para identificar problemas e melhorar o desempenho
+→ **Alertas**: notificação de problemas ou anormalidades no desempenho do aplicativo
+
+Essas tecnologias permitem que os desenvolvedores criem aplicativos web modernos que sejam monitorados e gerenciados de forma eficaz.
+
+═══════════════════
