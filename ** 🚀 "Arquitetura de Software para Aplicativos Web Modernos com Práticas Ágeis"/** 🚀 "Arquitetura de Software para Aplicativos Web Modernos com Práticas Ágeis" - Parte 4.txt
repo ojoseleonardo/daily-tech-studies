@@ -1,0 +1,8 @@
+A segurança é fundamental para qualquer aplicação web. Com as práticas ágeis, é possível desenvolver aplicações mais seguras e escaláveis. A segurança em aplicativos web envolve a proteção de dados, a autenticação e a autorização.
+
+▸ Principais conceitos:
+ → Autenticação e autorização
+ → Proteção de dados
+ → Segurança de rede
+
+✓ Segurança em aplicativos web é fundamental para proteger os dados dos usuários.
