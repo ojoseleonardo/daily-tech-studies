@@ -1,0 +1,8 @@
+O desenvolvimento de aplicativos web com práticas ágeis é uma combinação perfeita para criar aplicações escaláveis e flexíveis. Com as práticas ágeis, é possível desenvolver aplicações mais rápidas e eficientes, além de melhorar a colaboração entre as equipes.
+
+▸ Principais ferramentas:
+ → Frameworks de desenvolvimento web
+ → Gerenciamento de revisão de código
+ → Testes automatizados
+
+✓ Ferramentas de desenvolvimento web facilitam a criação de aplicações escaláveis e flexíveis.
