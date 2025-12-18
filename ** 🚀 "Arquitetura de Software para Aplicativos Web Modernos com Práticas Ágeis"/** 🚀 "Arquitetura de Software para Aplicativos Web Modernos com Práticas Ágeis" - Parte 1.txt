@@ -1,0 +1,8 @@
+A arquitetura de software é fundamental para desenvolver aplicações escaláveis, flexíveis e seguras. Com a evolução da tecnologia, as arquiteturas de software começaram a se tornar mais complexas e sofisticadas. O objetivo desta parte é introduzir conceitos básicos de arquitetura de software e suas implicações em aplicações web modernas.
+
+▸ Principais conceitos:
+ → Arquitetura monolítica
+ → Arquitetura de camadas
+ → Arquitetura de microserviços
+
+⚠️ Atenção: a escolha da arquitetura de software depende do projeto e da equipe de desenvolvimento.
