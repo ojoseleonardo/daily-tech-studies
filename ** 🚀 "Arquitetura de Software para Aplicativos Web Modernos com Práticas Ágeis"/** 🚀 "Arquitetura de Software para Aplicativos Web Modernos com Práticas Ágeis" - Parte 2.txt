@@ -1,0 +1,8 @@
+As práticas ágeis são fundamentais para desenvolver aplicações escaláveis e flexíveis. A princípio, as práticas ágeis se concentram em desenvolver software de forma mais rápida e eficiente. No entanto, elas também melhoram a colaboração entre as equipes e o gerenciamento de riscos.
+
+▸ Principais práticas:
+ → Desenvolvimento incremental
+ → Teste contínuo
+ → Refatoração contínua
+
+✓ Práticas ágeis melhoram a qualidade do software e aumentam a produtividade da equipe.
