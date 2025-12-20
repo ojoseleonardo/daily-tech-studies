@@ -1,0 +1,19 @@
+A segurança de serviços de computação em nuvem é fundamental para proteger os dados e a infraestrutura das ameaças. Nesta parte, vamos explorar a segurança de serviços de computação em nuvem.
+
+**Parágrafo introdutório:**
+
+A segurança de serviços de computação em nuvem é uma prioridade para as organizações que desenvolvem e implementam soluções de tecnologia.
+
+**Parágrafo explicativo:**
+
+Os principais benefícios da segurança de serviços de computação em nuvem incluem:
+
+→ **Proteção de dados:** A segurança de serviços de computação em nuvem protege os dados contra acessos não autorizados.
+
+→ **Proteção da infraestrutura:** A segurança de serviços de computação em nuvem protege a infraestrutura contra ameaças.
+
+→ **Melhoria da confiança:** A segurança de serviços de computação em nuvem melhora a confiança dos usuários e das partes interessadas.
+
+**Parágrafo de fechamento:**
+
+Nesta parte, exploramos a segurança de serviços de computação em nuvem. Na próxima parte, vamos explorar a escalabilidade de serviços de computação em nuvem.
