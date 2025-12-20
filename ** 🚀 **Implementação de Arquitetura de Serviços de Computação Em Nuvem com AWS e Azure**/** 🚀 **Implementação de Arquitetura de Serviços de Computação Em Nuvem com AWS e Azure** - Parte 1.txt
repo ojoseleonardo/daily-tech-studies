@@ -1,0 +1,17 @@
+A arquitetura de serviços de computação em nuvem está revolucionando a forma como as organizações desenvolvem e implementam soluções de tecnologia. Com a capacidade de fornecer infraestrutura, plataforma e software como serviço, as nuvens permitiram que as empresas sejam mais ágeis, escaláveis e eficientes. Nesta parte, vamos explorar a introdução à arquitetura de serviços de computação em nuvem e suas principais características.
+
+**Parágrafo introdutório:**
+
+A nuvem é uma rede de computadores remotos que fornecem acesso a recursos de computação, armazenamento e software. As nuvens permitem que as organizações tenham a capacidade de fornecer serviços de computação, armazenamento e software sem a necessidade de investir em infraestrutura física.
+
+**Parágrafo explicativo:**
+
+Existem três principais modelos de nuvem: IaaS (Infrastructure as a Service), PaaS (Platform as a Service) e SaaS (Software as a Service). O IaaS fornece infraestrutura virtual, como servidores e armazenamento. O PaaS fornece uma plataforma para desenvolver e executar aplicações, incluindo software de desenvolvimento, bibliotecas e frameworks. O SaaS fornece software como serviço, incluindo aplicativos completos que podem ser acessados via web.
+
+→ **Ponto importante destacado:** A arquitetura de serviços de computação em nuvem é uma abordagem flexível e escalável para desenvolver e implementar soluções de tecnologia.
+
+→ **Outro ponto relevante:** As nuvens permitem que as organizações sejam mais ágeis e escaláveis, reduzindo os custos e melhorando a eficiência.
+
+**Parágrafo de fechamento:**
+
+Nesta parte, exploramos a introdução à arquitetura de serviços de computação em nuvem e suas principais características. Na próxima parte, vamos explorar os benefícios da implementação de arquitetura de serviços de computação em nuvem.
