@@ -1,0 +1,19 @@
+A Azure é outra importante plataforma de nuvem para desenvolver e implementar soluções de tecnologia. Nesta parte, vamos explorar a implementação de arquitetura de serviços de computação em nuvem com Azure.
+
+**Parágrafo introdutório:**
+
+A Azure oferece uma ampla gama de serviços de computação em nuvem, incluindo IaaS, PaaS e SaaS.
+
+**Parágrafo explicativo:**
+
+Os principais serviços de computação em nuvem da Azure incluem:
+
+→ **Azure Virtual Machines:** Uma plataforma de IaaS que fornece recursos de computação, armazenamento e rede.
+
+→ **Azure Storage:** Um serviço de armazenamento de objetos que fornece armazenamento de dados em nuvem.
+
+→ **Azure SQL Database:** Um serviço de banco de dados que fornece recursos de banco de dados em nuvem.
+
+**Parágrafo de fechamento:**
+
+Nesta parte, exploramos a implementação de arquitetura de serviços de computação em nuvem com Azure. Na próxima parte, vamos explorar a integração de serviços de computação em nuvem.
