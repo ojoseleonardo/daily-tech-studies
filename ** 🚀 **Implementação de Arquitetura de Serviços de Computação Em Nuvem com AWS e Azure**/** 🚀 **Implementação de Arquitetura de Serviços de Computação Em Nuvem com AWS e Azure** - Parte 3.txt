@@ -1,0 +1,19 @@
+A AWS (Amazon Web Services) é uma das principais plataformas de nuvem para desenvolver e implementar soluções de tecnologia. Nesta parte, vamos explorar a implementação de arquitetura de serviços de computação em nuvem com AWS.
+
+**Parágrafo introdutório:**
+
+A AWS oferece uma ampla gama de serviços de computação em nuvem, incluindo IaaS, PaaS e SaaS.
+
+**Parágrafo explicativo:**
+
+Os principais serviços de computação em nuvem da AWS incluem:
+
+→ **Amazon EC2:** Uma plataforma de IaaS que fornece recursos de computação, armazenamento e rede.
+
+→ **Amazon S3:** Um serviço de armazenamento de objetos que fornece armazenamento de dados em nuvem.
+
+→ **Amazon RDS:** Um serviço de banco de dados que fornece recursos de banco de dados em nuvem.
+
+**Parágrafo de fechamento:**
+
+Nesta parte, exploramos a implementação de arquitetura de serviços de computação em nuvem com AWS. Na próxima parte, vamos explorar a implementação de arquitetura de serviços de computação em nuvem com Azure.
