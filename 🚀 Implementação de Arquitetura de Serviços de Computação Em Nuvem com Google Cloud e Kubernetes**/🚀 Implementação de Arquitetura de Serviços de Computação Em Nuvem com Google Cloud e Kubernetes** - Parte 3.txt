@@ -1,0 +1,10 @@
+Kubernetes é um gerenciador de containers que permite a criação de ambientes de desenvolvimento, teste e produção escaláveis e seguros. Com Kubernetes, é possível criar e gerenciar clusters de containers em diferentes ambientes, como nuvem pública, nuvem privada ou empreendimento.
+
+▸ Principais recursos:
+  → Orquestração: containers são executados e gerenciados automaticamente
+  → Escalabilidade: clusters podem ser escalados verticalmente ou horizontalmente
+  → Segurança: permissões e privilégios são gerenciados com precisão
+
+📈 Exemplo: uma empresa pode criar um cluster de containers com 10 nós e 20 pods para executar uma aplicação em produção.
+
+═══════════════════
