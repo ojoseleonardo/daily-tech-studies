@@ -1,0 +1,3 @@
+A implementação de arquitetura de serviços de computação em nuvem com Google Cloud e Kubernetes é uma abordagem escalável e segura para criar e gerenciar ambientes de desenvolvimento, teste e produção. Com a implementação de Kubernetes, é possível criar e gerenciar clusters de containers em diferentes ambientes, e com a implementação de segurança, é possível proteger a aplicação e os dados contra acessos não autorizados.
+
+👍 Exemplo: uma empresa pode criar um ambiente de desenvolvimento com Google Cloud e Kubernetes para criar e testar uma aplicação crítica, e posteriormente, implantá-la em produção com segurança e escalabilidade.
