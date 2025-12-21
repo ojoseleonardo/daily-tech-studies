@@ -1,0 +1,11 @@
+A implementação de segurança é fundamental para proteger a aplicação e os dados contra acessos não autorizados. Com Kubernetes, é possível implementar uma variedade de recursos de segurança, como autenticação, autorização, criptografia e monitoramento de segurança.
+
+▸ Principais recursos:
+  → Autenticação: usuários e serviços são autenticados com precisão
+  → Autorização: permissões e privilégios são gerenciados com precisão
+  → Criptografia: dados são criptografados para proteger contra acessos não autorizados
+  → Monitoramento de segurança: incidentes de segurança são detectados e respondidos rapidamente
+
+🚨 Exemplo: uma empresa pode implementar uma política de segurança que exija a autenticação de todos os usuários e serviços antes de acessar a aplicação.
+
+═══════════════════
