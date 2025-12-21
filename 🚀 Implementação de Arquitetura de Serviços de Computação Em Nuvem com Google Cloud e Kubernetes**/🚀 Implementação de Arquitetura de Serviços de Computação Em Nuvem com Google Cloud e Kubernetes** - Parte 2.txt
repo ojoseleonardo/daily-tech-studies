@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem é baseada em serviços de computação virtualizados, que permitem a criação de instâncias de computação personalizadas. Essas instâncias podem ser escaladas verticalmente ou horizontalmente para atender às necessidades da aplicação.
+
+▸ Benefícios:
+  → Escalabilidade: instâncias podem ser criadas ou destruídas rapidamente
+  → Economia: recursos não estão ocupados quando não estão em uso
+  → Flexibilidade: serviços podem ser escolhidos com base nas necessidades da aplicação
+
+🖥️ Exemplo: uma empresa pode criar uma instância de computação com 4 vCPUs e 16 GB de memória para executar uma aplicação crítica.
+
+═══════════════════
