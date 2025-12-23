@@ -1,0 +1,13 @@
+Kubernetes é um sistema de gerenciamento de contêineres que permite a implementação e gerenciamento de microserviços de forma escalável e eficiente.
+
+▸ Principais características:
+  → Orquestração: Kubernetes orquestra a execução dos contêineres e gerencia a escalabilidade
+  → Descalque: Kubernetes permite a descalque dos contêineres quando não estão sendo utilizados
+  → Segurança: Kubernetes oferece recursos de segurança para proteger os contêineres
+
+→ Exemplo de implementação:
+  → Crie um repositório do Docker com o código do microserviço
+  → Crie um manifesto de deployment do Kubernetes para implantar o microserviço
+  → Use o comando `kubectl` para implantar o manifesto e verificar a execução do microserviço
+
+═══════════════════
