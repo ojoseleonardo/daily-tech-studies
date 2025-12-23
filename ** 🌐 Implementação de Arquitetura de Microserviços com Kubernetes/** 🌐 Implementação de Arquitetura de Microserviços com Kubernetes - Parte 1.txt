@@ -1,0 +1,10 @@
+Os microserviços são uma abordagem de arquitetura de software que envolve a divisão de um sistema em pequenos serviços independentes, cada um responsável por um aspecto específico da funcionalidade do sistema. Isso permite uma maior flexibilidade, escalabilidade e fácil manutenção.
+
+▸ Principais características:
+  → Independência: cada serviço é isolado e pode ser desenvolvido e implantado separadamente
+  → Reutilização: serviços podem ser reutilizados em diferentes contextos
+  → Escalabilidade: serviços podem ser escalados individualmente de acordo com a demanda
+
+⚠️ Atenção: a implementação de microserviços exige uma abordagem diferenciada em relação à arquitetura tradicional de sistemas monolíticos.
+
+═══════════════════
