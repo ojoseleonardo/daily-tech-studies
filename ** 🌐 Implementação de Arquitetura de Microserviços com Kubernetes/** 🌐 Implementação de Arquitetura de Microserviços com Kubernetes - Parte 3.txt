@@ -1,0 +1,6 @@
+A implementação de arquitetura de microserviços com Kubernetes oferece uma abordagem flexível e escalável para desenvolver e implantar sistemas de software complexos. A combinação de microserviços e Kubernetes permite uma maior eficiência, escalabilidade e fácil manutenção.
+
+→ Recomendações:
+  → Aprenda sobre a arquitetura de microserviços e suas características
+  → Aprenda sobre o Kubernetes e suas características
+  → Pratique a implementação de microserviços com Kubernetes
