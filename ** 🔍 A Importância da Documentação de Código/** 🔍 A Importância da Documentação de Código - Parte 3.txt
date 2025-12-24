@@ -1,0 +1,12 @@
+Existem várias ferramentas disponíveis para ajudar a criar e gerenciar documentação de código, incluindo:
+
+* Ferramentas de gerenciamento de código: Git (GitHub), SVN (Subversion)
+* Ferramentas de documentação de código: Javadoc (Java), Swagger (API Docs)
+* Ferramentas de colaboração: GitHub, Bitbucket, GitLab
+
+▸ Exemplos:
+  → Ferramenta de gerenciamento de código: Git (GitHub)
+  → Ferramenta de documentação de código: Javadoc (Java)
+  → Ferramenta de colaboração: GitHub
+
+📈 Estatística: a documentação de código pode reduzir o tempo de integração em até 30%.
