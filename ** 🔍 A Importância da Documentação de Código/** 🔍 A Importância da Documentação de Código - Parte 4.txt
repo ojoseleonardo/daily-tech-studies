@@ -1,0 +1,7 @@
+Aqui estão alguns exemplos de documentação de código:
+
+* Documentação de código de baixo nível: [Javadoc](https://docs.oracle.com/javase/8/docs/api/)
+* Documentação de código de alto nível: [README](https://github.com/nodejs/node/blob/master/README.md)
+* Documentação de código de referência: [API Docs](https://swagger.io/docs/swagger-2.0/)
+
+▸ Observação: a documentação de código deve ser fácil de entender e consultar.
