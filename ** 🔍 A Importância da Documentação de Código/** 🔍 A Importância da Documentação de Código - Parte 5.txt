@@ -1,0 +1,3 @@
+A documentação de código é fundamental para garantir que os desenvolvedores entendam as características e funcionalidades de um sistema. Isso ajuda a reduzir o tempo de integração e a melhoria de código, além de melhorar a manutenção de sistemas existentes. É importante usar ferramentas adequadas e seguir boas práticas para gerenciar e manter a documentação de código.
+
+👍 Recomendação: a documentação de código deve ser atualizada regularmente para refletir as mudanças no sistema.
