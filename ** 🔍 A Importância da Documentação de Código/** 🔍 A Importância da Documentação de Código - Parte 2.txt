@@ -1,0 +1,12 @@
+Existem vários tipos de documentação de código, incluindo:
+
+* Documentação de código de baixo nível: descreve as funções e variáveis de um sistema
+* Documentação de código de alto nível: descreve as funcionalidades e características de um sistema
+* Documentação de código de referência: descreve as funções e variáveis de um sistema em detalhes
+
+▸ Exemplos:
+  → Documentação de código de baixo nível: Javadoc (Java)
+  → Documentação de código de alto nível: README (GitHub)
+  → Documentação de código de referência: API Docs (Swagger)
+
+⚡️ Dica: a documentação de código deve ser atualizada regularmente para refletir as mudanças no sistema.
