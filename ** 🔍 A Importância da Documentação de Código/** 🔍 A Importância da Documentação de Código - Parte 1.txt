@@ -1,0 +1,8 @@
+A documentação de código é fundamental para garantir que os desenvolvedores entendam as características e funcionalidades de um sistema. Isso ajuda a reduzir o tempo de integração e a melhoria de código, além de melhorar a manutenção de sistemas existentes.
+
+▸ Principais vantagens:
+  → Redução do tempo de integração: desenvolvedores podem rapidamente entender as características e funcionalidades do sistema
+  → Melhoria da manutenção de sistemas: desenvolvedores podem identificar e corrigir problemas mais rapidamente
+  → Maior colaboração: desenvolvedores podem compartilhar conhecimentos e experiências
+
+⚠️ Atenção: a documentação de código é um processo contínuo, não um estado final.
