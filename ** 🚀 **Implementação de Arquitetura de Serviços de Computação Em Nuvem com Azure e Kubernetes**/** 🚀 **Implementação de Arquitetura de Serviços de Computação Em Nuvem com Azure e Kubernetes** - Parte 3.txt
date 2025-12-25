@@ -1,0 +1,13 @@
+A segurança e conformidade são fundamentais para a implementação de arquitetura de serviços de computação em nuvem.
+
+🔒 **Vantagens da segurança e conformidade em nuvem:**
+  → Proteção de dados e aplicativos
+  → Conformidade com regulamentos e padrões
+  → Aumento da confiança e credibilidade
+  → Redução de riscos e despesas
+
+→ **Técnicas de segurança e conformidade em nuvem:**
+  → Autenticação e autorização
+  → Criptografia e armazenamento de dados
+  → Monitoramento e detecção de ameaças
+  → Compliance e conformidade com regulamentos
