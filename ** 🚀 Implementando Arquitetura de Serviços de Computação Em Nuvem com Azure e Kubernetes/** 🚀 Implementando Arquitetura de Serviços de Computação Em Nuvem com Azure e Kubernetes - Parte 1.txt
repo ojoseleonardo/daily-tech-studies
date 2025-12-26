@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem é um modelo de entrega de serviços que permite que as organizações acessem recursos de computação de forma escalável e economizada. A Azure é uma das principais plataformas de serviços de computação em nuvem, oferecendo uma ampla gama de recursos e serviços para apoiar a inovação e a transformação digital.
+
+▸ Principais vantagens:
+  → Escalabilidade: recursos podem ser alocados ou desalocados rapidamente em resposta a mudanças na demanda
+  → Economia: redução dos custos de manutenção e atualização de hardware e software
+  → Flexibilidade: recursos podem ser acessados de qualquer lugar e a qualquer hora
+
+⚠️ Atenção: a implementação de uma arquitetura de serviços de computação em nuvem exige planejamento e gestão cuidadosa para garantir a segurança, a escalabilidade e a eficiência dos recursos.
