@@ -1,0 +1,8 @@
+A Azure oferece uma ampla gama de recursos e serviços para apoiar a implementação de uma arquitetura de serviços de computação em nuvem, incluindo Kubernetes. O Kubernetes é um gerenciador de contêineres que permite que as organizações gerenciem e escalonem aplicações de forma eficiente e escalável.
+
+▸ Principais recursos:
+  → Kubernetes: gerenciador de contêineres que permite que as organizações gerenciem e escalonem aplicações
+  → Azure Container Instances: serviço que permite que as organizações execute contêineres em nuvem
+  → Azure Kubernetes Service: serviço que permite que as organizações gerenciem e escalonem aplicações com Kubernetes
+
+⚠️ Atenção: a implementação de uma arquitetura de serviços de computação em nuvem com Azure e Kubernetes exige conhecimento e habilidades especializadas em tecnologia e gestão de recursos.
