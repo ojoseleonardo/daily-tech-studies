@@ -1,0 +1,7 @@
+A análise de desempenho da arquitetura de serviços de computação em nuvem é fundamental para entender como a arquitetura está funcionando. Isso pode ser feito com:
+
+→ Utilização de tecnologias de monitoramento e análise de desempenho
+→ Implementação de sistemas de gerenciamento de contêineres
+→ Utilização de tecnologias de gerenciamento de redes
+→ Implementação de sistemas de autenticação e autorização
+→ Utilização de tecnologias de criptografia 🔒
