@@ -1,0 +1,5 @@
+Existem vários exemplos de implementação da arquitetura de serviços de computação em nuvem com Kubernetes, como:
+
+→ Implementação de aplicativos web com Node.js e MongoDB
+→ Implementação de aplicativos móveis com React e Firebase
+→ Implementação de aplicativos de gerenciamento de dados com Python e PostgreSQL ⚡
