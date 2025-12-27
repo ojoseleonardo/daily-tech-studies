@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem pode ser melhorada para aumentar a escalabilidade, como:
+
+→ Implementação de recursos de escalabilidade da nuvem
+→ Utilização de tecnologias de gerenciamento de contêineres
+→ Implementação de sistemas de gerenciamento de redes
+→ Utilização de tecnologias de monitoramento e análise de desempenho
+→ Implementação de sistemas de autenticação e autorização 🚀
