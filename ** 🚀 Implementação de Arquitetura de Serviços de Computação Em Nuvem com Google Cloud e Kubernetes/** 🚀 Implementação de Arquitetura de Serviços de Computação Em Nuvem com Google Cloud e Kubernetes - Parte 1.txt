@@ -1,0 +1,3 @@
+A arquitetura de serviços de computação em nuvem é um modelo de entrega de serviços que permite a criação, gerenciamento e escalabilidade de recursos em nuvem. Isso significa que as organizações podem acessar recursos como processamento, armazenamento e rede sem a necessidade de investir em infraestrutura física. 🌐
+
+A Google Cloud é uma das principais plataformas de nuvem que oferece recursos como Compute Engine, Cloud Storage e Cloud SQL, entre outros. O Kubernetes é um sistema de gerenciamento de contêineres que permite a criação e gerenciamento de aplicativos em contêineres. ⚡
