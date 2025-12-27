@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem pode ser melhorada para aumentar a eficiência, como:
+
+→ Utilização de recursos compartilhados
+→ Implementação de políticas de segurança
+→ Utilização de tecnologias de armazenamento eficientes
+→ Implementação de sistemas de gerenciamento de contêineres
+→ Utilização de tecnologias de monitoramento e análise de desempenho 📊
