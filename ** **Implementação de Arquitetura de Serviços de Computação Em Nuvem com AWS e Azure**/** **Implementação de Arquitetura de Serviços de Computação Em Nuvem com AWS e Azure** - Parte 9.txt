@@ -1,0 +1,10 @@
+O DevOps em nuvem é a prática de desenvolvimento e operação de aplicativos em nuvem de forma integrada. Isso envolve a implementação de ferramentas e práticas para automatizar e otimizar a implantação, gerenciamento e monitoramento de aplicativos em nuvem.
+
+▸ Principais ferramentas:
+  → CI/CD: permitir que os aplicativos sejam implantados automaticamente em nuvem
+  → Orquestração: permitir que os aplicativos sejam gerenciados de forma automatizada
+  → Monitoramento: permitir que os problemas sejam identificados e resolvidos rapidamente
+
+⚠️ Atenção: o DevOps em nuvem é fundamental para garantir a eficiência e a escalabilidade dos aplicativos em nuvem.
+
+═══════════════════
