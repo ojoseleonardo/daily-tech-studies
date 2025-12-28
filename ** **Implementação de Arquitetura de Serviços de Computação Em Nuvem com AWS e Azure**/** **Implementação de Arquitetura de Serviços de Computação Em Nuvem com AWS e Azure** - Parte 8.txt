@@ -1,0 +1,10 @@
+A observabilidade em nuvem é a capacidade de monitorar e entender como os aplicativos estão se comportando em nuvem. Isso envolve a implementação de ferramentas e métricas para monitorar o desempenho e a saúde dos aplicativos, incluindo a computação, o armazenamento e a rede.
+
+▸ Principais ferramentas:
+  → Logs: permitir que os logs sejam coletados e analisados
+  → Métricas: permitir que as métricas sejam coletadas e analisadas
+  → Monitoramento: permitir que os problemas sejam identificados e resolvidos rapidamente
+
+⚠️ Atenção: a observabilidade em nuvem é fundamental para garantir a confiabilidade e a segurança dos aplicativos em nuvem.
+
+═══════════════════
