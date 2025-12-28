@@ -1,0 +1,10 @@
+O Kubernetes é uma ferramenta de gerenciamento de contêineres que permite automatizar e escalar a implantação, gerenciamento e monitoramento de contêineres. A arquitetura de serviços de computação em nuvem com Kubernetes envolve a criação de aplicativos que utilizam recursos de computação, armazenamento e rede oferecidos pela AWS ou pelo Azure, e que são gerenciados por Kubernetes.
+
+▸ Principais recursos:
+  → Contêineres: permitir que os aplicativos sejam implantados em containers isolados
+  → Pods: permitir que os contêineres sejam agrupados em unidades de implantação
+  → Clusters: permitir que os pods sejam gerenciados em clusters de escala horizontal
+
+⚠️ Atenção: a implementação de arquitetura de serviços de computação em nuvem com Kubernetes requer conhecimento e experiência em desenvolvimento de aplicativos em nuvem e em Kubernetes.
+
+═══════════════════
