@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem é uma estrutura que permite que os aplicativos sejam desenvolvidos e implantados em uma plataforma de computação em nuvem, como a AWS ou a Azure. Isso oferece várias vantagens, incluindo escalabilidade, flexibilidade e custo reduzido.
+
+▸ Principais vantagens:
+  → Escalabilidade: capacidade de aumentar ou diminuir a capacidade de processamento em resposta às necessidades do aplicativo
+  → Flexibilidade: capacidade de escolher a plataforma e os recursos de computação que melhor se adequam às necessidades do aplicativo
+  → Custo reduzido: capacidade de pagar apenas pelo que é usado, em vez de ter que pagar por recursos de computação fixos
+
+⚠️ Atenção: a escolha da plataforma de computação em nuvem depende das necessidades específicas do aplicativo e da equipe de desenvolvimento.
+
+═══════════════════
