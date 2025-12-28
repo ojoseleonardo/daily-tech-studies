@@ -1,0 +1,10 @@
+O desenvolvimento de aplicativos em nuvem envolve a criação de aplicativos que utilizam recursos de computação, armazenamento e rede oferecidos pela AWS ou pelo Azure. Isso requer conhecimento e experiência em desenvolvimento de aplicativos em nuvem, incluindo a escolha da plataforma de computação em nuvem e a implementação de recursos e serviços.
+
+▸ Principais habilidades:
+  → Desenvolvimento de aplicativos em linguagens de programação como Java, Python e C#
+  → Conhecimento de recursos e serviços da AWS ou do Azure
+  → Experiência em desenvolvimento de aplicativos em nuvem
+
+⚠️ Atenção: o desenvolvimento de aplicativos em nuvem requer habilidades e conhecimentos específicos em desenvolvimento de aplicativos em nuvem.
+
+═══════════════════
