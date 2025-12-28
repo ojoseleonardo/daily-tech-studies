@@ -1,0 +1,10 @@
+O custo e a economia em nuvem são fundamentais para garantir que os recursos de computação em nuvem sejam utilizados de forma eficiente e econômica. Isso envolve a implementação de métricas e ferramentas para monitorar e otimizar o uso de recursos, incluindo a computação, o armazenamento e a rede.
+
+▸ Principais métricas:
+  → Uso de recursos: monitorar o uso de recursos de computação, armazenamento e rede
+  → Custo total de propriedade: calcular o custo total de propriedade dos recursos de computação em nuvem
+  → Economia de escala: aproveitar a economia de escala oferecida pela computação em nuvem
+
+⚠️ Atenção: a economia em nuvem é uma vantagem importante da computação em nuvem.
+
+═══════════════════
