@@ -1,0 +1,11 @@
+A implementação de arquitetura de serviços de computação em nuvem com AWS e Azure é uma estratégia importante para garantir a escalabilidade, a flexibilidade e o custo reduzido dos aplicativos em nuvem. Isso envolve a escolha da plataforma de computação em nuvem, a implementação de recursos e serviços, a segurança em nuvem, o custo e a economia em nuvem, a observabilidade em nuvem e o DevOps em nuvem.
+
+▸ Principais pontos-chave:
+  → Escolha da plataforma de computação em nuvem
+  → Implementação de recursos e serviços
+  → Segurança em nuvem
+  → Custo e economia em nuvem
+  → Observabilidade em nuvem
+  → DevOps em nuvem
+
+⚠️ Atenção: a implementação de arquitetura de serviços de computação em nuvem com AWS e Azure requer conhecimento e experiência em desenvolvimento de aplicativos em nuvem e em Kubernetes.
