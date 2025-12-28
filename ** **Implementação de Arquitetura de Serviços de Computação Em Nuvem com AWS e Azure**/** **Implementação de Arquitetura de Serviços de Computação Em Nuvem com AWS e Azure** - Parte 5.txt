@@ -1,0 +1,10 @@
+A segurança em nuvem é fundamental para proteger os dados e os recursos de computação em nuvem. Isso envolve a implementação de medidas de segurança para proteger contra ameaças e vulnerabilidades, incluindo a autenticação e autorização, a criptografia e a detecção de intrusão.
+
+▸ Principais medidas:
+  → Autenticação e autorização: garantir que apenas usuários autorizados tenham acesso aos recursos de computação em nuvem
+  → Criptografia: proteger os dados em transit e em repouso
+  → Detecção de intrusão: identificar e prevenir tentativas de acesso não autorizado
+
+⚠️ Atenção: a segurança em nuvem é uma responsabilidade compartilhada entre os desenvolvedores e os administradores de sistemas.
+
+═══════════════════
