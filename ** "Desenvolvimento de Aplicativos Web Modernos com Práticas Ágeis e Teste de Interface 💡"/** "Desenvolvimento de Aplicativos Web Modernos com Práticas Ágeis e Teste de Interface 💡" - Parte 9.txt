@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web modernos com práticas ágeis e teste de interface é um processo contínuo que envolve a utilização de linguagens de programação, frameworks, infraestrutura e armazenamento. Algumas das práticas incluem a divisão do trabalho em equipes, a utilização de metodologias ágeis e a implementação de procedimentos de feedback contínuo.
+
+▸ Práticas de Desenvolvimento:
+  → Divisão do trabalho em equipes
+  → Metodologias ágeis
+  → Procedimentos de feedback contínuo
