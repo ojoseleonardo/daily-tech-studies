@@ -1,0 +1,6 @@
+A integração com serviços terceiros é fundamental para o desenvolvimento de aplicativos web modernos. Algumas das opções incluem a utilização de APIs, a integração com plataformas de pagamento e a implementação de procedimentos de integração contínua.
+
+▸ Integração com Serviços Terceiros:
+  → Utilização de APIs
+  → Integração com plataformas de pagamento
+  → Procedimentos de integração contínua
