@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web modernos é um processo contínuo que envolve a utilização de práticas ágeis e testes de interface para garantir a qualidade e a entrega rápida dos produtos. Essas práticas incluem o uso de linguagens de programação como JavaScript, HTML5 e CSS3, além de frameworks como React e Angular.
+
+▸ Princípios Básicos:
+  → Desenvolvimento ágil
+  → Testes contínuos
+  → Entrega contínua
