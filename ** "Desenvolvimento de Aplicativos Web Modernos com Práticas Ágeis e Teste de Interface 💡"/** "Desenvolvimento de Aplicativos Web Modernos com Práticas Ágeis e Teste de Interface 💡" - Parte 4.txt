@@ -1,0 +1,6 @@
+As linguagens de programação e frameworks são fundamentais no desenvolvimento de aplicativos web modernos. Algumas das linguagens mais comuns incluem JavaScript, Python e Java, enquanto alguns dos frameworks mais populares incluem React, Angular e Vue.js.
+
+▸ Linguagens e Frameworks:
+  → JavaScript e React
+  → Python e Django
+  → Java e Spring
