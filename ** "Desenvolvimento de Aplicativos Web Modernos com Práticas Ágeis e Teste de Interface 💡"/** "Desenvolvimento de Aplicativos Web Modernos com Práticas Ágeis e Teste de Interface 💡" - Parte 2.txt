@@ -1,0 +1,6 @@
+A prática ágil é fundamental no desenvolvimento de aplicativos web modernos, pois permite a entrega rápida e a adaptação às mudanças de requisitos. Algumas das práticas ágeis incluem a divisão do trabalho em equipes, a utilização de metodologias como Scrum e Kanban, e a implementação de procedimentos de feedback contínuo.
+
+▸ Práticas Ágeis:
+  → Divisão do trabalho em equipes
+  → Metodologias Scrum e Kanban
+  → Procedimentos de feedback contínuo
