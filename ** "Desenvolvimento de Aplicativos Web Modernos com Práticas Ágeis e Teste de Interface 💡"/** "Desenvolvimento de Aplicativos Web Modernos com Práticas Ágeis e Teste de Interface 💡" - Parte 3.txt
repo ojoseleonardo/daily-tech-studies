@@ -1,0 +1,6 @@
+Os testes de interface são essenciais para garantir a qualidade e a usabilidade dos aplicativos web modernos. Os testes incluem a verificação de funcionalidades, a validação de dados e a avaliação da experiência do usuário.
+
+▸ Tipos de Testes:
+  → Testes unitários
+  → Testes de integração
+  → Testes de aceitação
