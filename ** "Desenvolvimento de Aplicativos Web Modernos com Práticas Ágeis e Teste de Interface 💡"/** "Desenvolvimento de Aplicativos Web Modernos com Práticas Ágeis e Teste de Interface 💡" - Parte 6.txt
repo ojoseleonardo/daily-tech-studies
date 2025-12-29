@@ -1,0 +1,6 @@
+A segurança e a privacidade são fundamentais no desenvolvimento de aplicativos web modernos. Algumas das práticas incluem a implementação de autenticação e autorização, a utilização de criptografia e a proteção de dados pessoais.
+
+▸ Práticas de Segurança:
+  → Autenticação e autorização
+  → Criptografia
+  → Proteção de dados pessoais
