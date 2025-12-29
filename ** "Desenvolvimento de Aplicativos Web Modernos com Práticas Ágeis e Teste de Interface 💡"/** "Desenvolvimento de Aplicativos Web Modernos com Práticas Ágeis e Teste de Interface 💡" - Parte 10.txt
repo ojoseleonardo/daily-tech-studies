@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web modernos é um processo contínuo que envolve a utilização de práticas ágeis, testes de interface e linguagens de programação. Algumas das tendências incluem a utilização de inteligência artificial, a implementação de realidade aumentada e a criação de experiências de usuário personalizadas.
+
+▸ Tendências Futuras:
+  → Inteligência artificial
+  → Realidade aumentada
+  → Experiências de usuário personalizadas
