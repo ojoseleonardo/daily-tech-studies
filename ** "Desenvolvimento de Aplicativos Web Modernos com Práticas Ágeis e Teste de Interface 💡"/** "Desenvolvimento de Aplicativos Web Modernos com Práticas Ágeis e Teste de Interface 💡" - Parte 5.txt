@@ -1,0 +1,6 @@
+A infraestrutura e o armazenamento são fundamentais para o desenvolvimento de aplicativos web modernos. Algumas das opções incluem servidores de hospedagem, bancos de dados relacionais e NoSQL, e sistemas de armazenamento de arquivos.
+
+▸ Infraestrutura e Armazenamento:
+  → Servidores de hospedagem
+  → Bancos de dados relacionais
+  → Bancos de dados NoSQL
