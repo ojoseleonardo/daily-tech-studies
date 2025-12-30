@@ -1,0 +1,8 @@
+Google Cloud é uma plataforma de nuvem que oferece uma ampla gama de serviços de computação, armazenamento e rede. A plataforma é projetada para apoiar as necessidades de negócios de organizações de qualquer tamanho, desde startups até grandes empresas.
+
+▸ Principais características:
+  → Serviços de computação: Google Cloud oferece serviços de computação como Google Compute Engine, Google App Engine e Google Kubernetes Engine
+  → Serviços de armazenamento: Google Cloud oferece serviços de armazenamento como Google Cloud Storage e Google Cloud Datastore
+  → Serviços de rede: Google Cloud oferece serviços de rede como Google Cloud Load Balancing e Google Cloud CDN
+
+→ Exemplo de uso: uma empresa pode criar uma aplicação em nuvem usando Google App Engine e armazenar os dados em Google Cloud Storage.
