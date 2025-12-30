@@ -1,0 +1,8 @@
+Segurança em aplicações em nuvem é uma preocupação crucial para garantir a integridade e a confidencialidade dos dados. Com Google Cloud, é possível criar aplicações que sejam protegidas por meio de controles de segurança robustos.
+
+▸ Principais características:
+  → Controle de acesso: aplicações podem ser protegidas por meio de controles de acesso robustos
+  → Criptografia: dados podem ser criptografados para protegê-los
+  → Monitoramento: aplicações podem ser monitoradas para detectar possíveis ameaças
+
+→ Exemplo de uso: uma empresa pode criar uma aplicação em nuvem em Google Cloud e gerenciar recursos como máquinas virtuais e redes.
