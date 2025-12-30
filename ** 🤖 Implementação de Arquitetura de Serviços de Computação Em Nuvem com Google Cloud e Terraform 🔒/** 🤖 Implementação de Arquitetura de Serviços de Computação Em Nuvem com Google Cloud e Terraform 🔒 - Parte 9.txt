@@ -1,0 +1,8 @@
+Desenvolver infraestrutura como código com Terraform é uma abordagem que envolve a criação de infraestrutura em nuvem de forma automática. Com Google Cloud, é possível criar aplicações que sejam gerenciadas por meio de APIs e que sejam acessíveis por meio de interfaces de usuário.
+
+▸ Principais características:
+  → Infraestrutura como código: Terraform permite criar e gerenciar infraestrutura em nuvem de forma automática
+  → Suporte a várias plataformas: Terraform suporta várias plataformas de nuvem, incluindo Google Cloud
+  → Controle de versão: Terraform permite gerenciar versões de infraestrutura de forma eficiente
+
+→ Exemplo de uso: uma empresa pode criar uma infraestrutura em nuvem em Google Cloud usando Terraform e gerenciar recursos como máquinas virtuais e redes.
