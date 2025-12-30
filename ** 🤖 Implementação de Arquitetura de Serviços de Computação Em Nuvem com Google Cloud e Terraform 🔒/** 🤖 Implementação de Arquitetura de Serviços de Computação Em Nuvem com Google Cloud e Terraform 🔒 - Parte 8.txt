@@ -1,0 +1,8 @@
+Desenvolver aplicações com práticas ágeis é uma abordagem que envolve a criação de aplicações que sejam entregues de forma rápida e eficiente. Com Google Cloud, é possível criar aplicações que sejam gerenciadas por meio de APIs e que sejam acessíveis por meio de interfaces de usuário.
+
+▸ Principais características:
+  → Escalabilidade: aplicações podem ser escaladas conforme necessário
+  → Flexibilidade: aplicações podem ser gerenciadas por meio de APIs
+  → Segurança: aplicações são protegidas por meio de controles de segurança robustos
+
+→ Exemplo de uso: uma empresa pode criar uma aplicação em nuvem em Google Cloud e gerenciar recursos como máquinas virtuais e redes.
