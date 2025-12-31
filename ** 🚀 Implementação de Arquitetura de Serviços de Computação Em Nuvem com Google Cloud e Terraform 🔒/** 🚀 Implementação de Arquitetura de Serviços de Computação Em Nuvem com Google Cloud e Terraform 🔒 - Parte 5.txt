@@ -1,0 +1,8 @@
+A migração de aplicações para arquitetura de serviços de computação em nuvem é um processo importante para aproveitar os benefícios da nuvem. Isso inclui:
+
+▸ **Análise de Aplicativos**: analisar aplicações atuais para determinar se são adequadas para migração para a nuvem
+▸ **Preparação de Aplicativos**: preparar aplicações para migração para a nuvem, incluindo a configuração de segurança e o ajuste de infraestrutura
+▸ **Migração de Aplicativos**: migrar aplicações para a nuvem utilizando tecnologias como Terraform
+
+→ **Exemplo de Migração:**
+ Utilizar Terraform para migrar aplicações para a nuvem, incluindo a configuração de segurança e o ajuste de infraestrutura.
