@@ -1,0 +1,7 @@
+A gestão de recursos e orçamento para arquitetura de serviços de computação em nuvem é crucial para garantir que os recursos sejam utilizados de forma eficiente e que o orçamento seja controlado. Isso inclui:
+
+▸ **Monitoramento de Recursos**: monitorar recursos em tempo real para garantir que sejam utilizados de forma eficiente
+▸ **Gestão de Orçamento**: gerenciar orçamento para recursos em nuvem, incluindo a previsão e o ajuste de despesas
+▸ **Optimização de Recursos**: otimizar recursos em nuvem para garantir que sejam utilizados de forma eficiente
+
+✨ Além disso, é importante implementar medidas de compliance e governança para garantir que a arquitetura de serviços de computação em nuvem seja gerenciada de forma eficiente e segura.
