@@ -1,0 +1,7 @@
+A configuração de segurança para arquitetura de serviços de computação em nuvem é crucial para proteger dados e recursos. Isso inclui:
+
+▸ **Autenticação**: implementar medidas de autenticação para garantir que apenas usuários autorizados tenham acesso a recursos
+▸ **Acesso Condicional**: implementar medidas de acesso condicional para garantir que apenas usuários autorizados tenham acesso a recursos
+▸ **Criptografia**: implementar medidas de criptografia para proteger dados em repouso e em trânsito
+
+✨ Além disso, é importante implementar medidas de monitoramento e detecção de ameaças para identificar e responder a ameaças de segurança.
