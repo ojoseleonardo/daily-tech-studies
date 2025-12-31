@@ -1,0 +1,8 @@
+A implementação da arquitetura de serviços de computação em nuvem com Google Cloud e Terraform envolve várias etapas, incluindo:
+
+▸ **Provisionamento de Recursos**: provisionar recursos de computação, armazenamento e rede em nuvem
+▸ **Configuração de Segurança**: configurar medidas de segurança para proteger dados e recursos
+▸ **Implementação de Aplicativos**: implementar aplicações em nuvem utilizando tecnologias como Terraform
+
+→ **Exemplo de Implementação:**
+ Utilizar Terraform para provisionar recursos de computação e armazenamento em nuvem, e configurar medidas de segurança para proteger dados e recursos.
