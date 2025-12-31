@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem oferece vários benefícios, incluindo:
+
+▸ **Custo Reduzido**: não há necessidade de investir em hardware e software físicos
+▸ **Flexibilidade**: recursos podem ser provisionados e desprovisionados rapidamente
+▸ **Escalabilidade**: recursos podem ser facilmente aumentados ou diminuídos conforme necessário
+
+✨ Além disso, a arquitetura de serviços de computação em nuvem também oferece uma maior flexibilidade em termos de escolha de fornecedores e tecnologias.
