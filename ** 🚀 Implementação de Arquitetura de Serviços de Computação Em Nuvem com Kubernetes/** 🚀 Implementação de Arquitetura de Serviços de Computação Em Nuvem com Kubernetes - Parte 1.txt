@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem é um modelo de entrega de software que utiliza recursos compartilhados em uma rede de computadores remota. Essa abordagem permite uma maior escalabilidade, flexibilidade e eficiência em comparação com os modelos tradicionais de hospedagem de aplicativos.
+
+▸ Principais benefícios:
+  → Escalabilidade: recursos podem ser adicionados ou removidos em tempo real para atender às necessidades de carga do aplicativo
+  → Flexibilidade: recursos podem ser configurados e gerenciados de acordo com as necessidades do aplicativo
+  → Eficiência: recursos podem ser compartilhados entre aplicativos, reduzindo os custos de infraestrutura
+
+⚠️ Atenção: a arquitetura de serviços de computação em nuvem requer uma abordagem de segurança e monitoramento mais rigorosa do que os modelos tradicionais.
+
+═══════════════════
