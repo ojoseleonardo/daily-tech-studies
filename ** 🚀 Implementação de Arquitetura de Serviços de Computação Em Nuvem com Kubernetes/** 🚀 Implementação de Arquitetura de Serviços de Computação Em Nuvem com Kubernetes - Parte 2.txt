@@ -1,0 +1,15 @@
+Kubernetes é um gerenciador de containers que permite automatizar a implantação, escalabilidade e gerenciamento de aplicativos em ambientes de nuvem. Ele fornece recursos como deploys, escalabilidade, monitoramento e atualização de aplicativos com facilidade.
+
+▸ Principais recursos:
+  → Deploys: Kubernetes permite automatizar a implantação de aplicativos em ambientes de nuvem
+  → Escalabilidade: Kubernetes permite automatizar a escalabilidade de aplicativos em ambientes de nuvem
+  → Monitoramento: Kubernetes fornece recursos para monitorar o desempenho e a saúde dos aplicativos em ambientes de nuvem
+
+✨ Exemplo de implantação de um aplicativo com Kubernetes:
+
+1. Criar um repositório para o aplicativo
+2. Criar um arquivo de configuração para o aplicativo
+3. Implantar o aplicativo no ambiente de nuvem
+4. Monitore o desempenho e a saúde do aplicativo
+
+═══════════════════
