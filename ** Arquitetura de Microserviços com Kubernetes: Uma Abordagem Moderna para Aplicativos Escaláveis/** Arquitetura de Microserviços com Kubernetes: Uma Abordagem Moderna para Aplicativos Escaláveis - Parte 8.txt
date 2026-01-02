@@ -1,0 +1,12 @@
+A arquitetura de microserviços é uma abordagem moderna para desenvolver aplicativos escaláveis e flexíveis. Com o Kubernetes, os desenvolvedores podem implantar, escalonar e gerenciar aplicativos de forma eficiente. Nesta parte, vamos resumir os principais pontos da arquitetura de microserviços e do Kubernetes.
+
+→ **Principais pontos:**
+  → **Arquitetura de microserviços:** serviços pequenos e independentes que trabalham juntos.
+  → **Kubernetes:** gerenciador de contêineres que permite que os desenvolvedores implantem, escalonem e gerenciem aplicativos.
+  → **Comunicação:** serviços precisam se comunicar de forma eficiente.
+  → **Coordenação:** serviços precisam ser coordenados para fornecer funcionalidades completas.
+
+⚠️ **Desafios futuros:**
+  → **Complexidade:** arquitetura de microserviços pode ser complexa.
+  → **Escalabilidade:** arquitetura de microserviços pode ser difícil de escalonar.
+  → **Segurança:** arquitetura de microserviços pode ser vulnerável a ataques de segurança.
