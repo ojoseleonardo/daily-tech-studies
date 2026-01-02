@@ -1,0 +1,13 @@
+A comunicação entre serviços é fundamental para a arquitetura de microserviços. Nesta parte, vamos explorar as opções de comunicação entre serviços e como o Kubernetes pode ajudar a facilitar a comunicação.
+
+→ **Opções de comunicação:**
+  → **API REST:** serviços podem se comunicar através de API REST.
+  → **Mensagens:** serviços podem se comunicar através de mensagens.
+  → **Eventos:** serviços podem se comunicar através de eventos.
+
+⚠️ **Desafios de comunicação:**
+  → **Latência:** comunicação pode ser afetada pela latência.
+  → **Falta de sincronismo:** serviços podem não estar sincronizados.
+  → **Problemas de escalabilidade:** comunicação pode ser afetada pela escalabilidade.
+
+═══════════════════
