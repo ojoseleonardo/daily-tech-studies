@@ -1,0 +1,13 @@
+O gerenciamento de serviços é crucial para a arquitetura de microserviços. Nesta parte, vamos explorar as opções de gerenciamento de serviços e como o Kubernetes pode ajudar a facilitar o gerenciamento.
+
+→ **Opções de gerenciamento:**
+  → **Kubernetes:** serviços podem ser gerenciados com o Kubernetes.
+  → **Monitoramento:** serviços podem ser monitorados para diagnóstico de problemas.
+  → **Automação:** serviços podem ser automatizados para reduzir a complexidade.
+
+⚠️ **Desafios de gerenciamento:**
+  → **Complexidade:** gerenciamento pode ser complexo.
+  → **Escalabilidade:** gerenciamento pode ser difícil de escalonar.
+  → **Segurança:** gerenciamento pode ser vulnerável a ataques de segurança.
+
+═══════════════════
