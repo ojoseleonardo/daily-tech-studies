@@ -1,0 +1,13 @@
+Agora que conhecemos os fundamentos da arquitetura de microserviços e do Kubernetes, vamos explorar como desenvolver aplicativos com a arquitetura de microserviços. Nesta parte, vamos criar um exemplo de aplicativo que utiliza a arquitetura de microserviços com o Kubernetes.
+
+→ **Exemplo de aplicativo:**
+  → **Serviço 1:** responsável por fornecer dados de usuário.
+  → **Serviço 2:** responsável por fornecer dados de produtos.
+  → **Serviço 3:** responsável por fornecer funcionalidades de pagamento.
+
+⚠️ **Desafios de desenvolvimento:**
+  → **Comunicação:** serviços precisam se comunicar de forma eficiente.
+  → **Coordenação:** serviços precisam ser coordenados para fornecer funcionalidades completas.
+  → **Gerenciamento:** serviços precisam ser gerenciados de forma eficiente.
+
+═══════════════════
