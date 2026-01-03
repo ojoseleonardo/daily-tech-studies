@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem com Azure pode ser implementada com uma ampla gama de ferramentas e tecnologias, incluindo:
+
+▸ **Azure Resource Manager (ARM)**: uma ferramenta de gestão de recursos que permite criar, implantar e gerenciar aplicativos em nuvem.
+▸ **Azure DevOps**: uma ferramenta de desenvolvimento que permite gerenciar o ciclo de vida do aplicativo, desde o desenvolvimento até a implantação.
+▸ **Azure Monitor**: uma ferramenta de monitoreamento que permite monitorar a saúde e o desempenho do aplicativo.
+▸ **Azure Storage**: uma ferramenta de armazenamento que permite armazenar e gerenciar dados em nuvem.
