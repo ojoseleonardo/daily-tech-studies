@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem com Azure é uma abordagem que combina os recursos e serviços da Azure com as necessidades específicas do aplicativo. Alguns dos principais componentes incluem:
+
+▸ **Servidores de Aplicativos**: recursos de hardware virtualizados que podem ser configurados e implantados rapidamente.
+▸ **Banco de Dados**: recursos de armazenamento de dados confiáveis e escaláveis.
+▸ **Serviços de Integração**: recursos de integração de sistemas e aplicativos.
+▸ **Serviços de Monitoreamento e Orçamento**: recursos de monitoreamento e orçamento para garantir a disponibilidade e eficiência do aplicativo.
