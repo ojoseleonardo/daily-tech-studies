@@ -1,0 +1,6 @@
+Embora a arquitetura de serviços de computação em nuvem com Azure ofereça uma ampla gama de benefícios, também há algumas limitações, incluindo:
+
+▸ **Dependência de infraestrutura**: a necessidade de uma infraestrutura robusta e escalável para suportar o aplicativo.
+▸ **Segurança**: a necessidade de garantir a confidencialidade, integridade e disponibilidade dos dados.
+▸ **Comunicação**: a necessidade de garantir que as comunicações entre os sistemas e aplicativos sejam eficientes e seguras.
+▸ **Integração**: a necessidade de garantir que os sistemas e aplicativos sejam integrados de forma eficiente e escalável.
