@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem com Azure oferece uma ampla gama de benefícios, incluindo:
+
+▸ **Aumento da escalabilidade**: a capacidade de aumentar ou diminuir a capacidade de processamento de acordo com as necessidades do aplicativo.
+▸ **Redução de custos**: a capacidade de pagar apenas pelo uso dos recursos.
+▸ **Aumento da disponibilidade**: a capacidade de garantir que o aplicativo esteja sempre disponível para os usuários.
+▸ **Melhoria da eficiência**: a capacidade de otimizar a infraestrutura e os processos para garantir a melhor experiência possível para os usuários.
