@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem (Cloud Computing) é uma abordagem que permite a execução de sistemas e aplicativos em recursos compartilhados em uma rede de computadores remotamente acessíveis. A Azure é um dos principais fornecedores de serviços de computação em nuvem, oferecendo uma ampla gama de recursos e serviços para ajudar a construir, implantar e gerenciar aplicativos escaláveis e seguros.
+
+**Vantagens da Arquitetura de Serviços de Computação Em Nuvem**
+
+▸ Escalabilidade: a capacidade de aumentar ou diminuir a capacidade de processamento de acordo com as necessidades do aplicativo.
+▸ Flexibilidade: a capacidade de escolher a plataforma, o hardware e o software desejados.
+▸ Redução de custos: a capacidade de pagar apenas pelo uso dos recursos.
+▸ Aumento da disponibilidade: a capacidade de garantir que o aplicativo esteja sempre disponível para os usuários.
