@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem com Azure requer práticas de segurança específicas para garantir a confidencialidade, integridade e disponibilidade dos dados. Algumas das práticas de segurança incluem:
+
+▸ **Autenticação**: a necessidade de autenticar usuários e sistemas para garantir acesso autorizado.
+▸ **Autorização**: a necessidade de autorizar usuários e sistemas para garantir acesso aos recursos.
+▸ **Criptografia**: a necessidade de criptografar dados para garantir a confidencialidade.
+▸ **Firewalls**: a necessidade de configurar firewalls para garantir a segurança da rede.
