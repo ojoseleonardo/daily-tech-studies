@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem com Azure pode ser aplicada a uma ampla gama de aplicativos, incluindo:
+
+▸ **Aplicativos de negócios**: aplicativos que gerenciam a cadeia de suprimentos, a gestão de estoque e a gestão de finanças.
+▸ **Aplicativos de saúde**: aplicativos que gerenciam a saúde, a segurança e a segurança dos pacientes.
+▸ **Aplicativos de educação**: aplicativos que gerenciam a aprendizagem, a educação e a formação.
+▸ **Aplicativos de governo**: aplicativos que gerenciam a gestão pública, a justiça e a segurança.
