@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem com Azure está constantemente evoluindo, com novas funcionalidades e melhorias sendo lançadas regularmente. Algumas das melhorias e novas funcionalidades incluem:
+
+▸ **Azure Functions**: uma ferramenta de desenvolvimento que permite criar e implantar funções de processamento de eventos.
+▸ **Azure Logic Apps**: uma ferramenta de integração que permite criar e implantar aplicativos de integração.
+▸ **Azure Service Fabric**: uma ferramenta de desenvolvimento que permite criar e implantar aplicativos de microserviços.
+▸ **Azure Kubernetes Service (AKS)**: uma ferramenta de gerenciamento de container que permite criar e implantar aplicativos de container.
