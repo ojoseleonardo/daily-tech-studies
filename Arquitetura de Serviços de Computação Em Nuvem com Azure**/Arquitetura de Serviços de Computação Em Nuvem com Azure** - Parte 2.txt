@@ -1,0 +1,6 @@
+A Azure oferece uma ampla gama de recursos e serviços para ajudar a construir, implantar e gerenciar aplicativos escaláveis e seguros. Alguns dos principais recursos incluem:
+
+▸ **Máquinas Virtuais (VMs)**: recursos de hardware virtualizados que podem ser configurados e implantados rapidamente.
+▸ **Serviços de Armazenamento**: recursos de armazenamento de dados confiáveis e escaláveis.
+▸ **Redes e Segurança**: recursos de rede e segurança para garantir a confidencialidade, integridade e disponibilidade dos dados.
+▸ **Serviços de Análise e Machine Learning**: recursos de análise de dados e aprendizado de máquina para ajudar a tomar decisões informadas.
