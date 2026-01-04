@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem de infraestrutura como código que permite a provisionamento e gerenciamento de recursos de computação em escala. Isso permite uma maior flexibilidade, escalabilidade e eficiência em termos de custos.
+
+▸ Principais características:
+  → **Scalabilidade**: recursos podem ser aumentados ou reduzidos em tempo real para atender às demandas de negócios
+  → **Flexibilidade**: recursos podem ser provisionados e gerenciados de forma automática ou manual
+  → **Eficiência em termos de custos**: recursos são pagos por uso, reduzindo os custos de manutenção e escalonamento
+
+⚠️ Atenção: a arquitetura de serviços de computação em nuvem é uma abordagem que exige conhecimento e habilidades em infraestrutura como código, provisionamento de recursos e gerenciamento de nuvem.
