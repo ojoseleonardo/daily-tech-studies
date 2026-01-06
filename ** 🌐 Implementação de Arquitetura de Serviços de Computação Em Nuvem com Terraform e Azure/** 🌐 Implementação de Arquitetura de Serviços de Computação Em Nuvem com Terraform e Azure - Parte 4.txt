@@ -1,0 +1,11 @@
+Nesta parte, vamos explorar o monitoramento e a manutenção da arquitetura de serviços de computação em nuvem com o Terraform e o Azure. Vamos criar um plano de monitoramento e manutenção que atenda às necessidades específicas da organização.
+
+O monitoramento e a manutenção da arquitetura de serviços de computação em nuvem são fundamentais para garantir a disponibilidade e a confiabilidade da infraestrutura de nuvem. O Terraform pode ser usado para criar e gerenciar infraestrutura de nuvem de forma eficiente, mas é fundamental ter um plano de monitoramento e manutenção para garantir que a infraestrutura esteja funcionando corretamente.
+
+▸ Principais tarefas de monitoramento e manutenção:
+  → Monitoramento da infraestrutura de nuvem: verificar a disponibilidade e a confiabilidade da infraestrutura de nuvem.
+  → Manutenção da infraestrutura de nuvem: realizar atualizações e reparos na infraestrutura de nuvem.
+
+⚠️ Atenção: o monitoramento e a manutenção da arquitetura de serviços de computação em nuvem requer conhecimento prévio de ambas as tecnologias.
+
+═══════════════════
