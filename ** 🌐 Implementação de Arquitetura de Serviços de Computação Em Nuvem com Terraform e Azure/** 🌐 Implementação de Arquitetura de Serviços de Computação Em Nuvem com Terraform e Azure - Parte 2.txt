@@ -1,0 +1,12 @@
+O Terraform é uma ferramenta de automação de infraestrutura como código que permite criar e gerenciar infraestrutura de nuvem de forma eficiente. Nesta parte, vamos explorar a implementação do Terraform com o Azure.
+
+O Terraform pode ser usado para criar e gerenciar infraestrutura de nuvem em várias plataformas, incluindo o Azure. O Azure fornece uma ampla gama de recursos de computação, armazenamento e rede que podem ser usados para criar infraestrutura de nuvem escalável e confiável.
+
+▸ Principais recursos do Azure:
+  → Recursos de computação: fornecem recursos de computação para criar aplicativos e serviços.
+  → Recursos de armazenamento: fornecem recursos de armazenamento para armazenar dados e recursos de aplicação.
+  → Recursos de rede: fornecem recursos de rede para conectarmos os recursos de computação e armazenamento.
+
+⚠️ Atenção: a implementação do Terraform com o Azure requer conhecimento prévio de ambas as tecnologias.
+
+═══════════════════
