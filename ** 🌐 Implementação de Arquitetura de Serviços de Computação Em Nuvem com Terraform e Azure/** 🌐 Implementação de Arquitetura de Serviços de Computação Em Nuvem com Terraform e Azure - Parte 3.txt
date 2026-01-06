@@ -1,0 +1,12 @@
+Nesta parte, vamos explorar a implementação de arquitetura de serviços de computação em nuvem com o Terraform e o Azure. Vamos criar uma arquitetura de serviços de computação em nuvem escalável e confiável que atenda às necessidades específicas da organização.
+
+A arquitetura de serviços de computação em nuvem com o Terraform e o Azure é composta por várias camadas, incluindo a camada de aplicação, a camada de serviço e a camada de armazenamento. Cada camada é responsável por fornecer serviços específicos para os usuários finais.
+
+▸ Principais camadas:
+  → Camada de aplicação: responsável por fornecer serviços de aplicação para os usuários finais.
+  → Camada de serviço: responsável por fornecer serviços de serviço para os usuários finais.
+  → Camada de armazenamento: responsável por armazenar dados e recursos de aplicação.
+
+⚠️ Atenção: a implementação de arquitetura de serviços de computação em nuvem com o Terraform e o Azure requer conhecimento prévio de ambas as tecnologias.
+
+═══════════════════
