@@ -1,0 +1,12 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem moderna para a entrega de serviços de computação, permitindo que as organizações acessem recursos escaláveis e on-demand. O Terraform é uma ferramenta de automação de infraestrutura como código que permite criar e gerenciar infraestrutura de nuvem de forma eficiente. Nesta parte, vamos explorar a introdução à arquitetura de serviços de computação em nuvem.
+
+A arquitetura de serviços de computação em nuvem é composta por várias camadas, incluindo a camada de aplicação, a camada de serviço e a camada de armazenamento. Cada camada é responsável por fornecer serviços específicos para os usuários finais.
+
+▸ Principais camadas:
+  → Camada de aplicação: responsável por fornecer serviços de aplicação para os usuários finais.
+  → Camada de serviço: responsável por fornecer serviços de serviço para os usuários finais.
+  → Camada de armazenamento: responsável por armazenar dados e recursos de aplicação.
+
+⚠️ Atenção: a arquitetura de serviços de computação em nuvem é flexível e pode ser adaptada às necessidades específicas da organização.
+
+═══════════════════
