@@ -1,0 +1,11 @@
+Nesta parte, vamos explorar a conclusão e as recomendações da implementação da arquitetura de serviços de computação em nuvem com o Terraform e o Azure. Vamos criar uma lista de recomendações que atenda às necessidades específicas da organização.
+
+A implementação da arquitetura de serviços de computação em nuvem com o Terraform e o Azure é uma opção viável para as organizações que desejam criar uma infraestrutura de nuvem escalável e confiável. A ferramenta de automação do Terraform permite criar e gerenciar infraestrutura de nuvem de forma eficiente, e o Azure fornece uma ampla gama de recursos de computação, armazenamento e rede que podem ser usados para criar infraestrutura de nuvem escalável e confiável.
+
+▸ Principais recomendações:
+  → Implementar a arquitetura de serviços de computação em nuvem com o Terraform e o Azure.
+  → Criar um plano de monitoramento e manutenção para garantir a disponibilidade e a confiabilidade da infraestrutura de nuvem.
+
+⚠️ Atenção: a implementação da arquitetura de serviços de computação em nuvem com o Terraform e o Azure requer conhecimento prévio de ambas as tecnologias.
+
+═══════════════════
