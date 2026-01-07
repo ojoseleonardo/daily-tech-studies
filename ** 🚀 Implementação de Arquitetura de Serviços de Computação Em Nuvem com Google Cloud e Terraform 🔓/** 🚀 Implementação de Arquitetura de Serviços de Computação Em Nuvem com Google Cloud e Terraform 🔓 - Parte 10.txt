@@ -1,0 +1,7 @@
+A implementação da arquitetura de serviços de computação em nuvem com Google Cloud e Terraform é a última etapa do processo.
+
+📈 Exemplo de implementação da arquitetura:
+
+→ **Criar um grupo de recursos**: `resource "google_project" "meu_grupo" { ... }`
+→ **Criar um grupo de instâncias**: `resource "google_compute_instance_group" "meu_grupo_instancias" { ... }`
+→ **Criar um grupo de redes**: `resource "google_compute_network" "meu_grupo_rede" { ... }`
