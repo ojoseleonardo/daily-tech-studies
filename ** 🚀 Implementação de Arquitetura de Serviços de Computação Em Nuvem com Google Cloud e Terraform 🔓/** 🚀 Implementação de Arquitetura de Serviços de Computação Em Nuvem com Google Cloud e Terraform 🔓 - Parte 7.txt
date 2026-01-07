@@ -1,0 +1,5 @@
+A integração com outros serviços é essencial para garantir a comunicação e a colaboração entre as diferentes partes da arquitetura de serviços de computação em nuvem.
+
+📊 Exemplo de integração com outros serviços:
+
+→ **Criar um serviço de integração**: `resource "google_cloud_integration_service" "meu_grupo_integracao" { ... }`
