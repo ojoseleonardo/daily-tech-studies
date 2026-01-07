@@ -1,0 +1,6 @@
+O teste e a qualidade são fundamentais para garantir a estabilidade e a segurança da arquitetura de serviços de computação em nuvem.
+
+📊 Exemplo de teste e qualidade:
+
+→ **Criar um serviço de teste**: `resource "google_cloud_testing_service" "meu_grupo_teste" { ... }`
+→ **Criar um serviço de qualidade**: `resource "google_cloud_quality_service" "meu_grupo_qualidade" { ... }`
