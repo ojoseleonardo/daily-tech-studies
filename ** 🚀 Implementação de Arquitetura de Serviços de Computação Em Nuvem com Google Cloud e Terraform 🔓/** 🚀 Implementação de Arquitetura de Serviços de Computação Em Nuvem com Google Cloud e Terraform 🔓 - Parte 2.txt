@@ -1,0 +1,7 @@
+O Google Cloud é uma plataforma de serviços de computação em nuvem que oferece uma ampla gama de serviços e recursos para ajudar as organizações a construir, implantar e gerenciar aplicativos escaláveis e seguros.
+
+🌐 Serviços do Google Cloud:
+
+→ **Compute Engine**: serviço de computação dedicado para executar cargas de trabalho computacionais
+→ **Cloud Storage**: serviço de armazenamento de dados para armazenar e acessar arquivos
+→ **Cloud Datastore**: serviço de armazenamento de dados no banco de dados para armazenar e recuperar dados
