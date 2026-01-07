@@ -1,0 +1,6 @@
+O monitoramento e log são essenciais para garantir a estabilidade e a segurança da arquitetura de serviços de computação em nuvem.
+
+📊 Exemplo de monitoramento e log:
+
+→ **Criar um serviço de monitoramento**: `resource "google_monitoring_service" "meu_grupo_monitoramento" { ... }`
+→ **Criar um serviço de log**: `resource "google_logging_service" "meu_grupo_log" { ... }`
