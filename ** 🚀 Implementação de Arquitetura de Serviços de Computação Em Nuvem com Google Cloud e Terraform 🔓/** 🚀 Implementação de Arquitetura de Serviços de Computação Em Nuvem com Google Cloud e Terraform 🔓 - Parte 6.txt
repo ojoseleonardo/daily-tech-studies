@@ -1,0 +1,5 @@
+O gerenciamento de infraestrutura é fundamental para garantir a estabilidade e a segurança da arquitetura de serviços de computação em nuvem.
+
+📊 Exemplo de gerenciamento de infraestrutura:
+
+→ **Criar um serviço de gerenciamento de infraestrutura**: `resource "google_cloud_manager_infrastructure" "meu_grupo_infra" { ... }`
