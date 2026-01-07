@@ -1,0 +1,7 @@
+O Terraform é uma ferramenta de gerenciamento de infraestrutura como código que permite criar, atualizar e gerenciar recursos de infraestrutura em nuvem e local.
+
+📊 Exemplo de implementação de arquitetura de serviços de computação em nuvem com Terraform:
+
+→ **Criar um grupo de recursos**: `resource "google_project" "meu_grupo" { ... }`
+→ **Criar um grupo de instâncias**: `resource "google_compute_instance_group" "meu_grupo_instancias" { ... }`
+→ **Criar um grupo de redes**: `resource "google_compute_network" "meu_grupo_rede" { ... }`
