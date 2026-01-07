@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem moderna para fornecer serviços de computação como uma infraestrutura como um serviço (IaaS), plataforma como um serviço (PaaS) ou software como um serviço (SaaS). Isso permite que as organizações reduzam custos, aumentem a escalabilidade e melhorem a flexibilidade em suas operações.
+
+📈 Benefícios da arquitetura de serviços de computação em nuvem:
+
+→ **Redução de custos**: sem a necessidade de investir em infraestrutura física
+→ **Aumento da escalabilidade**: facilidade de aumento ou diminuição da capacidade de processamento
+→ **Melhoria da flexibilidade**: possibilidade de escolher serviços e recursos de acordo com as necessidades
