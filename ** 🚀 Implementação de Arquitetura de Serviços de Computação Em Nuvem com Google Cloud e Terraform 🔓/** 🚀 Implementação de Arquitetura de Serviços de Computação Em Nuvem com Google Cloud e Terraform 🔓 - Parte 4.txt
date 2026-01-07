@@ -1,0 +1,7 @@
+A segurança é um aspecto fundamental na arquitetura de serviços de computação em nuvem. É importante configurar políticas de acesso, firewalls e criptografia para proteger os recursos e dados.
+
+🔒 Exemplo de configuração de segurança:
+
+→ **Criar uma política de acesso**: `resource "google_project_iam_policy" "meu_grupo_politica_acesso" { ... }`
+→ **Criar um firewall**: `resource "google_compute_firewall" "meu_grupo_firewall" { ... }`
+→ **Criar uma política de criptografia**: `resource "google_kms_key_ring" "meu_grupo_chave" { ... }`
