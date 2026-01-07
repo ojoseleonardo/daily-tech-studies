@@ -1,0 +1,6 @@
+O treinamento e o suporte são fundamentais para garantir a estabilidade e a segurança da arquitetura de serviços de computação em nuvem.
+
+📊 Exemplo de treinamento e suporte:
+
+→ **Criar um serviço de treinamento**: `resource "google_cloud_training_service" "meu_grupo_treinamento" { ... }`
+→ **Criar um serviço de suporte**: `resource "google_cloud_support_service" "meu_grupo_suporte" { ... }`
