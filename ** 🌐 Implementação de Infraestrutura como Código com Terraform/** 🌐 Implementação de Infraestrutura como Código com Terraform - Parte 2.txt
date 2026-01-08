@@ -1,0 +1,26 @@
+Terraform é uma ferramenta de IaC popular e escalável que permite criar e gerenciar a infraestrutura de computação como código. Com Terraform, você pode criar arquivos de configuração que definem a infraestrutura desejada e, em seguida, executar comandos para criar e atualizar os recursos de infraestrutura.
+
+**Exemplo de Configuração com Terraform:**
+
+```hcl
+provider "aws" {
+  region = "us-west-2"
+}
+
+resource "aws_instance" "example" {
+  ami           = "ami-abc123"
+  instance_type = "t2.micro"
+}
+```
+
+→ Crie um novo arquivo chamado `main.tf` e cole o exemplo acima.
+→ Execute o comando `terraform init` para inicializar o ambiente.
+→ Execute o comando `terraform apply` para criar a instância EC2.
+
+**Conceitos Fundamentais:**
+
+→ Províder: define a região e as credenciais para o provedor de nuvem.
+→ Recurso: define um recurso de infraestrutura, como uma instância EC2.
+→ Estado: armazena a configuração atual da infraestrutura.
+
+═══════════════════
