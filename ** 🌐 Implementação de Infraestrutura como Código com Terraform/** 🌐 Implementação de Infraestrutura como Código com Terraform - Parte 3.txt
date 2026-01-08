@@ -1,0 +1,27 @@
+Com Terraform, você pode gerenciar a infraestrutura de forma automatizada e escalável. Isso inclui criar, modificar e deletar recursos de infraestrutura, além de gerenciar a configuração e o estado da infraestrutura.
+
+**Exemplo de Gerenciamento com Terraform:**
+
+```hcl
+resource "aws_instance" "example" {
+  ami           = "ami-abc123"
+  instance_type = "t2.micro"
+}
+
+resource "aws_security_group" "example" {
+  name        = "example-sg"
+  description = "Example security group"
+}
+```
+
+→ Crie um novo arquivo chamado `main.tf` e cole o exemplo acima.
+→ Execute o comando `terraform init` para inicializar o ambiente.
+→ Execute o comando `terraform apply` para criar a instância EC2 e o grupo de segurança.
+
+**Ferramentas de Integração:**
+
+▸ Jenkins
+▸ GitLab CI/CD
+▸ Travis CI
+
+⚠️ A escolha da ferramenta certa depende das necessidades específicas da sua organização e do tipo de infraestrutura que você está gerenciando.
