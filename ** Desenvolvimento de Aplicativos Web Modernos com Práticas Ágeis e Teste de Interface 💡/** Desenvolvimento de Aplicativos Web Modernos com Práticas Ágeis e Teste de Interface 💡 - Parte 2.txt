@@ -1,0 +1,6 @@
+As práticas ágeis são métodos de desenvolvimento que enfatizam a colaboração, a flexibilidade e a entrega contínua. No desenvolvimento de aplicativos web, as práticas ágeis ajudam a criar soluções mais escaláveis e seguras.
+
+▸ Principais práticas ágeis no desenvolvimento de aplicativos web:
+  → Desenvolvimento em equipe: os desenvolvedores trabalham em equipe para criar soluções mais eficientes
+  → Testes contínuos: os testes são realizados ao longo do processo de desenvolvimento para garantir a qualidade da solução
+  → Entrega contínua: a solução é entregue ao usuário em etapas, permitindo que os problemas sejam corrigidos rapidamente
