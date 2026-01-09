@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web modernos com práticas ágeis e teste de interface é um processo contínuo que envolve a colaboração, a flexibilidade e a entrega contínua. Com as tecnologias certas e as práticas ágeis, os desenvolvedores podem criar soluções escaláveis e seguras que atendam às necessidades dos usuários.
+
+▸ Principais conclusões:
+  → A prática ágil é uma abordagem eficaz para desenvolver soluções escaláveis e seguras
+  → O teste de interface é uma prática importante para garantir a usabilidade e acessibilidade da solução
+  → A segurança é um dos principais preocupações no desenvolvimento de aplicativos web
