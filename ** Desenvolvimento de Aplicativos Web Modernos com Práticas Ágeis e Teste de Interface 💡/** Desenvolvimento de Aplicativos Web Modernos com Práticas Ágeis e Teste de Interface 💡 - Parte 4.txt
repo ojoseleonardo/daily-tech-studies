@@ -1,0 +1,6 @@
+As tecnologias utilizadas no desenvolvimento de aplicativos web variam de acordo com as necessidades do projeto. No entanto, algumas das tecnologias mais comuns incluem:
+
+▸ Principais tecnologias utilizadas:
+  → HTML5: linguagem de marcação para criar a estrutura da página
+  → CSS3: linguagem de estilo para definir a aparência da página
+  → JavaScript: linguagem de programação para criar a lógica da página
