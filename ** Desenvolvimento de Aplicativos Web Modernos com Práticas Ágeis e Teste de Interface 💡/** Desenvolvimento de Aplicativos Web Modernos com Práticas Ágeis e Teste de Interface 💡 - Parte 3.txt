@@ -1,0 +1,5 @@
+O teste de interface é uma prática que envolve a verificação da usabilidade e da acessibilidade da solução. No desenvolvimento de aplicativos web, o teste de interface ajuda a garantir que a solução seja fácil de usar e acessível para todos os usuários.
+
+▸ Principais benefícios do teste de interface:
+  → Melhoria da usabilidade: a solução é fácil de usar e navegar
+  → Aumento da acessibilidade: a solução é acessível para todos os usuários, independentemente da capacidade física ou tecnológica
