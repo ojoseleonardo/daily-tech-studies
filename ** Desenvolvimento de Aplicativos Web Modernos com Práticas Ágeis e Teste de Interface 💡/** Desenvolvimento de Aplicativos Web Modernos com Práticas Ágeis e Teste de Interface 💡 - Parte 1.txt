@@ -1,0 +1,8 @@
+O desenvolvimento de aplicativos web modernos é um processo contínuo que envolve a utilização de práticas ágeis e teste de interface para criar soluções escaláveis e seguras. Com a crescente demanda por tecnologias em nuvem, os desenvolvedores precisam ser capazes de criar aplicativos capazes de se adaptar às necessidades dos usuários.
+
+▸ Principais características dos aplicativos web modernos:
+  → Escalabilidade: os aplicativos precisam ser capazes de lidar com um grande volume de usuários
+  → Segurança: os aplicativos precisam ser capazes de proteger os dados dos usuários
+  → Fácil manutenção: os aplicativos precisam ser fáceis de manter e atualizar
+
+⚠️ Atenção: o desenvolvimento de aplicativos web modernos é um processo contínuo, não um estado final.
