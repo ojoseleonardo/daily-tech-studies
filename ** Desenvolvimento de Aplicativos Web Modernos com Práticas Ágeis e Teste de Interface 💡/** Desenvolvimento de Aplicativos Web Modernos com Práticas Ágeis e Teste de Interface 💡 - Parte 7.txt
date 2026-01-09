@@ -1,0 +1,6 @@
+As ferramentas utilizadas no desenvolvimento de aplicativos web variam de acordo com as necessidades do projeto. No entanto, algumas das ferramentas mais comuns incluem:
+
+▸ Principais ferramentas utilizadas:
+  → GitHub: plataforma de versionamento de código
+  → Jenkins: plataforma de automação de builds e deployments
+  → SonarQube: plataforma de análise de código
