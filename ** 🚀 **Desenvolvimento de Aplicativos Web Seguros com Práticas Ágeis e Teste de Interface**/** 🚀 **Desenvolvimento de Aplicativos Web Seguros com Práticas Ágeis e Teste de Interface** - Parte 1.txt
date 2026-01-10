@@ -1,0 +1,8 @@
+A segurança dos aplicativos web é fundamental para proteger dados e prevenir ataques cibernéticos. Organizações investem em práticas ágeis e teste de interface para garantir a segurança de seus aplicativos.
+
+▸ Principais pilares de segurança:
+  → Autenticação: verificar a identidade dos usuários
+  → Autorização: controlar o acesso a recursos e dados
+  → Proteção de dados: armazenar e transmitir dados de forma segura
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
