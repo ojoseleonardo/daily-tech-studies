@@ -1,0 +1,7 @@
+O teste de interface é uma ferramenta importante para avaliar a segurança do aplicativo. Algumas técnicas incluem:
+
+▸ Simulação de ataques: simular ataques cibernéticos para testar a segurança do aplicativo
+▸ Análise de vulnerabilidades: analisar a aplicação para identificar vulnerabilidades de segurança
+▸ Teste de penetração: testar a aplicação para identificar vulnerabilidades e melhorar a segurança
+
+✓ O teste de interface ajuda a identificar e corrigir vulnerabilidades de segurança.
