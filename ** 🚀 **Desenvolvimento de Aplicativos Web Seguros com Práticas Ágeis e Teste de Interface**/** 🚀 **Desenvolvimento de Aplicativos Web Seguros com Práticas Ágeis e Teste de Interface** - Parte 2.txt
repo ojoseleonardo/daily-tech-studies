@@ -1,0 +1,7 @@
+As práticas ágeis ajudam a desenvolver aplicativos web seguros ao longo do tempo. Algumas práticas incluem:
+
+▸ Desenvolvimento contínuo: desenvolver e testar o aplicativo em intervalos regulares
+▸ Integração contínua: integrar o aplicativo com outras partes do sistema
+▸ Teste contínuo: testar o aplicativo em intervalos regulares para garantir a qualidade e a segurança
+
+✓ A prática ágil melhora a qualidade e a segurança do aplicativo.
