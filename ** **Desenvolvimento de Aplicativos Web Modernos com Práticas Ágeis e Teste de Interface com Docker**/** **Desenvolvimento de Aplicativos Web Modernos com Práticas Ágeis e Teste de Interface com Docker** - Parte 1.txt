@@ -1,0 +1,8 @@
+Os desenvolvedores de aplicativos web modernos precisam ser capazes de entregar soluções rápidas e escaláveis para atender às demandas dos negócios em um mundo cada vez mais digital. As práticas ágeis fornecem uma abordagem flexible e colaborativa para o desenvolvimento de software, permitindo que as equipes trabalhem de forma eficaz e eficiente.
+
+▸ Principais pilares das práticas ágeis:
+  → **Colaboração**: equipes trabalham juntas para alcançar metas comuns
+  → **Comunicação**: comunicação clara e aberta entre os membros da equipe
+  → **Flexibilidade**: adaptação às mudanças e prioridades em tempo real
+
+⚠️ Atenção: as práticas ágeis não são um conjunto de regras rígidas, mas sim uma abordagem para criar soluções de software que atendam às necessidades dos negócios.
