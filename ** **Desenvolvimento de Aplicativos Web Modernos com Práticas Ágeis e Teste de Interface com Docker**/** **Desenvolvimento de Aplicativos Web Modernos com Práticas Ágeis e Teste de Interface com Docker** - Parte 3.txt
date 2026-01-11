@@ -1,0 +1,8 @@
+A integração contínua é uma prática que envolve a integração contínua do código do aplicativo com o código do container, permitindo que as alterações sejam testadas e implantadas rapidamente. Docker é uma tecnologia que permite que os containers sejam criados e gerenciados de forma eficiente, facilitando a integração contínua.
+
+▸ Benefícios da integração contínua com Docker:
+  → **Rápida entrega de valor**: alterações são testadas e implementadas rapidamente
+  → **Melhoria contínua**: identificação e resolução de problemas em tempo real
+  → **Redução de riscos**: integração contínua reduz o risco de falha e melhorou a qualidade do software
+
+🚀 O uso de Docker facilita a criação e gerenciamento de containers, permitindo que as equipes trabalhem de forma mais eficiente e eficaz.
