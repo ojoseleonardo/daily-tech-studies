@@ -1,0 +1,8 @@
+O teste de interface é uma prática essencial para garantir que os aplicativos web modernos sejam fáceis de usar e fornecem uma experiência de usuário positiva. O teste de interface envolve a avaliação da usabilidade e acessibilidade do aplicativo, identificando problemas e oportunidades para melhoria.
+
+▸ Tipos de teste de interface:
+  → **Teste de usabilidade**: avaliação da facilidade de uso do aplicativo
+  → **Teste de acessibilidade**: avaliação da acessibilidade do aplicativo para pessoas com deficiência
+  → **Teste de desempenho**: avaliação da velocidade e estabilidade do aplicativo
+
+📈 Gráficos de teste de interface podem ser usados para visualizar os resultados e identificar áreas de melhoria.
