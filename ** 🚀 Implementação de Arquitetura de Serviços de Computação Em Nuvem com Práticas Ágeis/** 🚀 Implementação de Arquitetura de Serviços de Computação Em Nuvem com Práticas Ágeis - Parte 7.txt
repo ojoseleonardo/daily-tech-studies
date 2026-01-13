@@ -1,0 +1,9 @@
+A segurança da arquitetura de serviços de computação em nuvem é fundamental para garantir a proteção dos dados e evitar riscos. Algumas das medidas de segurança mais importantes incluem:
+
+▸ Autenticação e autorização: autenticação e autorização para garantir acesso seguro
+▸ Criptografia: criptografia para garantir a confidencialidade dos dados
+▸ Monitoramento de atividades: monitoramento de atividades para identificar possíveis ameaças
+
+→ Resultado: a segurança da arquitetura de serviços de computação em nuvem protege os dados e evita riscos.
+
+═══════════════════
