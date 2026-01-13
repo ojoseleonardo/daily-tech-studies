@@ -1,0 +1,9 @@
+Alguns dos principais frameworks e tecnologias utilizados para implementar a arquitetura de serviços de computação em nuvem incluem:
+
+▸ AWS: plataforma de nuvem pública líder no mercado
+▸ Azure: plataforma de nuvem pública de Microsoft
+▸ Google Cloud: plataforma de nuvem pública de Google
+
+→ Avantagem: as tecnologias de nuvem permitem a criação de aplicativos escaláveis e flexíveis.
+
+═══════════════════
