@@ -1,0 +1,9 @@
+As práticas ágeis são fundamentais para garantir eficiência e agilidade na implementação da arquitetura de serviços de computação em nuvem. Algumas das práticas ágeis mais importantes incluem:
+
+▸ Desenvolvimento em pequenas parcelas: desenvolvimento em pequenas parcelas permite a entrega rápida de valor aos usuários
+▸ Teste contínuo: teste contínuo permite a identificação de erros e melhorias contínuas
+▸ Integração contínua: integração contínua permite a entrega rápida de valor aos usuários
+
+→ Resultado: as práticas ágeis permitem a criação de aplicativos escaláveis e flexíveis.
+
+═══════════════════
