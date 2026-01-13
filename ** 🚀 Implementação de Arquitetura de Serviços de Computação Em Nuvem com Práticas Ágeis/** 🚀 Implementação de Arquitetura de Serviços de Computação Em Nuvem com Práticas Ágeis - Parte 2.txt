@@ -1,0 +1,9 @@
+A arquitetura de serviços de computação em nuvem se baseia em princípios específicos para garantir eficiência, escalabilidade e agilidade. Alguns dos principais princípios incluem:
+
+▸ Princípio de autonomia: serviços autônomos e independentes
+▸ Princípio de composicionalidade: serviços compostos para formar aplicativos
+▸ Princípio de flexibilidade: serviços flexíveis e adaptáveis às necessidades dos usuários
+
+→ Avantagem: a arquitetura de serviços de computação em nuvem permite a criação de aplicativos escaláveis e flexíveis.
+
+═══════════════════
