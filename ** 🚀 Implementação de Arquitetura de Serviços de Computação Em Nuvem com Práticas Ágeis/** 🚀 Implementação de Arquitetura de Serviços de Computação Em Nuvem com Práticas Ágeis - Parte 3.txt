@@ -1,0 +1,9 @@
+A implementação da arquitetura de serviços de computação em nuvem envolve várias fases, incluindo:
+
+▸ Fase de planejamento: definição das necessidades e objetivos do projeto
+▸ Fase de design: criação do design da arquitetura e escolha das tecnologias
+▸ Fase de implementação: implantação dos serviços e integração com a infraestrutura
+
+→ Resultado: a implementação da arquitetura de serviços de computação em nuvem pode reduzir custos e melhorar a disponibilidade dos serviços.
+
+═══════════════════
