@@ -1,0 +1,7 @@
+Os próximos passos para implementar a arquitetura de serviços de computação em nuvem incluem:
+
+▸ Planejamento e design da arquitetura
+▸ Escolha das tecnologias e ferramentas
+▸ Implementação e integração com a infraestrutura
+
+→ Resultado: a implementação da arquitetura de serviços de computação em nuvem pode reduzir custos e melhorar a disponibilidade dos serviços.
