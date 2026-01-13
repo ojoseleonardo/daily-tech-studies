@@ -1,0 +1,9 @@
+O monitoramento e ajuste da arquitetura de serviços de computação em nuvem são fundamentais para garantir eficiência e agilidade. Algumas das ferramentas de monitoramento mais importantes incluem:
+
+▸ Prometheus: ferramenta de monitoramento de métricas
+▸ Grafana: ferramenta de visualização de dados
+▸ Alertmanager: ferramenta de alerta
+
+→ Avantagem: o monitoramento e ajuste da arquitetura de serviços de computação em nuvem permitem a identificação de problemas e melhorias contínuas.
+
+═══════════════════
