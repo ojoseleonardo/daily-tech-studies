@@ -1,0 +1,9 @@
+Alguns dos principais cenários de implementação da arquitetura de serviços de computação em nuvem incluem:
+
+▸ Implementação de aplicativos escaláveis e flexíveis
+▸ Implementação de serviços de computação em nuvem para pequenas e médias empresas
+▸ Implementação de serviços de computação em nuvem para grandes empresas
+
+→ Avantagem: a implementação da arquitetura de serviços de computação em nuvem pode reduzir custos e melhorar a disponibilidade dos serviços.
+
+═══════════════════
