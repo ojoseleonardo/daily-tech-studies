@@ -1,0 +1,10 @@
+Práticas ágeis e teste de interface são fundamentais para desenvolver aplicativos web seguros e escaláveis. O desenvolvimento ágil envolve o uso de técnicas como o desenvolvimento em paralelo, integração contínua e teste automatizado para garantir a qualidade do código.
+
+▸ Técnicas de desenvolvimento ágil:
+  → Desenvolvimento em paralelo
+  → Integração contínua
+  → Teste automatizado
+
+✓ O desenvolvimento ágil permite a entrega de valor ao cliente em tempo real.
+
+═══════════════════
