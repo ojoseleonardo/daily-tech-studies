@@ -1,0 +1,8 @@
+O Kubernetes é um sistema de gerenciamento de contêineres que permite que as equipes desenvolvam e implantem aplicativos de forma escalável e flexível. Com o Kubernetes, as equipes podem criar e gerenciar aplicativos de forma eficiente e segura.
+
+▸ Principais benefícios:
+ → Redução de custos em infraestrutura e manutenção
+ → Aumento da eficiência e escalabilidade
+ → Melhoria da segurança e conformidade
+
+→ Exemplo prático: a empresa A utiliza o Kubernetes para desenvolver e implantar um sistema de gestão de estoque em nuvem, reduzindo o tempo de entrega em 50% e melhorando a qualidade do software em 20%.
