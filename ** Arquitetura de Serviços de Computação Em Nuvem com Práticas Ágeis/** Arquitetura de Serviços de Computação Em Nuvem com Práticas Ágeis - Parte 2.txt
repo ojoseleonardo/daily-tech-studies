@@ -1,0 +1,8 @@
+As práticas ágeis são fundamentais para a implementação de arquitetura de serviços de computação em nuvem. Elas permitem que as equipes sejam mais flexíveis e escaláveis, reduzindo o tempo de entrega e melhorando a qualidade do software.
+
+▸ Principais práticas ágeis:
+ → Desenvolvimento contínuo e entrega contínua
+ → Teste contínuo e depuração contínua
+ → Iteração e refinamento contínuo do software
+
+→ Exemplo prático: a empresa X utiliza práticas ágeis para desenvolver e implantar um sistema de gestão de estoque em nuvem, reduzindo o tempo de entrega em 50% e melhorando a qualidade do software em 20%.
