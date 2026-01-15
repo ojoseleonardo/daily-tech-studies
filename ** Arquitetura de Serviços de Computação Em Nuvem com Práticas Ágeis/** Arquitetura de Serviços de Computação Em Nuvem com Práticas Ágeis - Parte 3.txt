@@ -1,0 +1,8 @@
+A infraestrutura como código é uma prática que permite que as equipes gerenciem a infraestrutura de forma automatizada e escalável. Com Terraform, as equipes podem criar e gerenciar a infraestrutura em nuvem de forma eficiente e segura.
+
+▸ Principais benefícios:
+ → Redução de custos em infraestrutura e manutenção
+ → Aumento da eficiência e escalabilidade
+ → Melhoria da segurança e conformidade
+
+→ Exemplo prático: a empresa Y utiliza Terraform para gerenciar a infraestrutura em nuvem, reduzindo os custos em 30% e melhorando a eficiência em 40%.
