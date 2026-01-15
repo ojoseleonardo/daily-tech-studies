@@ -1,0 +1,8 @@
+A segurança é fundamental para a arquitetura de serviços de computação em nuvem. As equipes devem garantir que a infraestrutura e o software sejam projetados e implementados com segurança em mente.
+
+▸ Principais preocupações de segurança:
+ → Autenticação e autorização
+ → Criptografia e proteção de dados
+ → Segurança da rede e do sistema
+
+→ Exemplo prático: a empresa Z utiliza práticas de segurança para desenvolver e implantar um sistema de gestão de financeiro em nuvem, reduzindo o risco de violação de dados em 90%.
