@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem que permite a entrega de serviços de computação, armazenamento e outros recursos de forma escalável e on-demand. A Amazon Web Services (AWS) é uma das principais plataformas de nuvem que oferece uma ampla gama de serviços para apoiar a implementação de arquiteturas de serviços de computação em nuvem.
+
+▸ Principais características:
+  → Escalabilidade: serviços podem ser escalados para atender às necessidades de carga
+  → Flexibilidade: serviços podem ser escolhidos e combinados para atender às necessidades específicas
+  → Segurança: serviços são projetados para fornecer segurança e conformidade
+
+⚠️ Atenção: a escolha da arquitetura de serviços de computação em nuvem depende das necessidades específicas da empresa.
+
+═══════════════════
