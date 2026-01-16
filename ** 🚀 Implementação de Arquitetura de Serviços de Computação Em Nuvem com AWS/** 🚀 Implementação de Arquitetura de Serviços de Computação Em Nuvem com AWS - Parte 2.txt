@@ -1,0 +1,14 @@
+A implementação de serviços de computação em nuvem com AWS envolve a escolha e configuração dos serviços necessários para atender às necessidades da empresa. Os serviços mais comuns utilizados em uma arquitetura de serviços de computação em nuvem incluem:
+
+▸ EC2: serviço de computação virtual
+▸ S3: serviço de armazenamento de dados
+▸ RDS: serviço de banco de dados relacional
+
+→ Benefícios:
+  → Redução de custos: não é necessário investir em hardware e infraestrutura
+  → Aumento da escalabilidade: serviços podem ser escalados para atender às necessidades de carga
+  → Melhoria da segurança: serviços são projetados para fornecer segurança e conformidade
+
+⚠️ Atenção: a implementação de serviços de computação em nuvem com AWS requer conhecimento e experiência em gerenciamento de infraestrutura e segurança.
+
+═══════════════════
