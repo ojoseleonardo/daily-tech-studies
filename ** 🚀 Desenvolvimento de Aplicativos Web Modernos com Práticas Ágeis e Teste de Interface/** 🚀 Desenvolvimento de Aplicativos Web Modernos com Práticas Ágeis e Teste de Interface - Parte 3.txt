@@ -1,0 +1,6 @@
+O teste de interface é essencial para garantir a qualidade do código e evitar bugs. Com o teste de interface, os desenvolvedores podem identificar problemas e corrigi-los antes de lançar o aplicativo.
+
+▸ Principais benefícios do teste de interface:
+  → Redução de bugs
+  → Melhoria da qualidade do código
+  → Garantia de segurança do aplicativo
