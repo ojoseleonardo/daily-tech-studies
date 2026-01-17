@@ -1,0 +1,6 @@
+Existem muitas ferramentas e tecnologias disponíveis para o desenvolvimento de aplicativos web modernos. Os desenvolvedores precisam escolher as ferramentas certas para o projeto e aprender a usar elas de forma eficaz.
+
+▸ Principais ferramentas e tecnologias:
+  → Frameworks web (ex: React, Angular)
+  → Bibliotecas de teste (ex: Jest, Cypress)
+  → Ferramentas de gerenciamento de código (ex: Git, GitHub)
