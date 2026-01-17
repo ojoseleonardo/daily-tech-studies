@@ -1,0 +1,6 @@
+As práticas ágeis são fundamentais para o desenvolvimento de aplicativos web modernos. Elas ajudam a criar equipes eficazes, a gerenciar projetos complexos e a entregar valor aos clientes.
+
+▸ Principais práticas ágeis:
+  → Trabalho em equipe
+  → Iterações rápidas
+  → Flexibilidade e adaptação
