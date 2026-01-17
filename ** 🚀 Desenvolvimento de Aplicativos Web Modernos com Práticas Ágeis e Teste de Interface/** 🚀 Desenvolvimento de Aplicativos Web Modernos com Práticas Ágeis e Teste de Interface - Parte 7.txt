@@ -1,0 +1,6 @@
+O monitoramento e a análise de desempenho são fundamentais para garantir que o aplicativo esteja funcionando corretamente e atendendo às necessidades dos usuários.
+
+▸ Principais métricas de desempenho:
+  → Tempo de resposta
+  → Taxa de erro
+  → Uso de recursos
