@@ -1,0 +1,6 @@
+A segurança é fundamental no desenvolvimento de aplicativos web modernos. Os desenvolvedores precisam garantir que o aplicativo seja seguro e proteja os dados dos usuários.
+
+▸ Principais práticas de segurança:
+  → Autenticação e autorização
+  → Criptografia
+  → Prevenção de ataques de injeção de SQL
