@@ -1,0 +1,6 @@
+A integração com outros sistemas e serviços é fundamental para garantir que o aplicativo esteja funcionando corretamente e atendendo às necessidades dos usuários.
+
+▸ Principais formas de integração:
+  → API REST
+  → Webhooks
+  → Integradores de terceiros
