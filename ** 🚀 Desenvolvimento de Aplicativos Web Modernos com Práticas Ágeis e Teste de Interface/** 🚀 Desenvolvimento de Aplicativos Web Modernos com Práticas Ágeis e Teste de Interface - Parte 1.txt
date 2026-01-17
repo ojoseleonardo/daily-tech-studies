@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web modernos envolve a criação de sistemas escaláveis, seguros e eficientes que atendam às necessidades dos usuários. Com a evolução das tecnologias e das práticas ágeis, os desenvolvedores precisam estar preparados para lidar com desafios complexos e criar soluções inovadoras.
+
+▸ Principais objetivos:
+  → Criar aplicativos web escaláveis e seguros
+  → Desenvolver soluções inovadoras com práticas ágeis
+  → Garantir a qualidade do código com teste de interface
