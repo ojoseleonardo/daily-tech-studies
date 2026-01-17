@@ -1,0 +1,6 @@
+A manutenção e a atualização do aplicativo são fundamentais para garantir que ele continue a funcionar corretamente e atendendo às necessidades dos usuários.
+
+▸ Principais tarefas de manutenção:
+  → Correção de bugs
+  → Atualização de dependências
+  → Migração para novas tecnologias
