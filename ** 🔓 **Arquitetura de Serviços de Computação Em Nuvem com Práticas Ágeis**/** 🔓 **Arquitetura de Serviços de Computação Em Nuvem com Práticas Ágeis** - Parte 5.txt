@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem permite que as organizações integrem seus sistemas em nuvem com outros serviços e aplicativos.
+
+* **APIs**: permitem que as organizações integrarem seus sistemas em nuvem com outros serviços e aplicativos de forma escalável e flexível.
+* **Serviços de integração**: permitem que as organizações gerenciem e implantem integrações entre seus sistemas em nuvem e outros serviços e aplicativos.
+* **Serviços de monitoramento**: permitem que as organizações monitorem e detectem problemas em tempo real e tomem medidas para mitigá-los.
+
+→ As APIs permitem que as organizações integrem seus sistemas em nuvem com outros serviços e aplicativos de forma escalável e flexível.
+→ Os serviços de integração permitem que as organizações gerenciem e implantem integrações entre seus sistemas em nuvem e outros serviços e aplicativos.
