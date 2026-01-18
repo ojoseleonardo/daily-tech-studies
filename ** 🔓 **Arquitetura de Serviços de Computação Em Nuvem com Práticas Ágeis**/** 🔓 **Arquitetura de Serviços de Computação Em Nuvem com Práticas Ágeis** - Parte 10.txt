@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem moderna para desenvolver e implantar sistemas escaláveis e flexíveis. Com a prática ágil, as organizações podem desenvolver e implantar sistemas de forma rápida e flexível, adaptando-se às mudanças no mercado e nas necessidades dos usuários.
+
+* **A arquitetura de serviços de computação em nuvem é uma opção viável para as organizações que buscam reduzir os custos e melhorar a eficiência.**
+* **A prática ágil é uma abordagem iterativa e incremental para desenvolver software, que se alinha perfeitamente com a arquitetura de serviços de computação em nuvem.**
+* **A arquitetura de serviços de computação em nuvem é uma opção viável para as organizações que buscam desenvolver e implantar sistemas escaláveis e flexíveis.**
+
+→ A arquitetura de serviços de computação em nuvem é uma opção viável para as organizações que buscam reduzir os custos e melhorar a eficiência.
+→ A prática ágil é uma abordagem iterativa e incremental para desenvolver software, que se alinha perfeitamente com a arquitetura de serviços de computação em nuvem.
