@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem permite que as organizações economizem escala e reduzam os custos.
+
+* **Escalabilidade**: permite que as organizações aumentem ou diminuam a capacidade de seus sistemas em nuvem de acordo com as necessidades.
+* **Flexibilidade**: permite que as organizações gerenciem e implantem sistemas em nuvem de forma flexível e escalável.
+* **Economia de custos**: permite que as organizações reduzam os custos de infraestrutura e manutenção de sistemas em nuvem.
+
+→ A escalabilidade permite que as organizações aumentem ou diminuam a capacidade de seus sistemas em nuvem de acordo com as necessidades.
+→ A flexibilidade permite que as organizações gerenciem e implantem sistemas em nuvem de forma flexível e escalável.
