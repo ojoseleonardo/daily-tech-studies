@@ -1,0 +1,8 @@
+A segurança é um componente crucial da arquitetura de serviços de computação em nuvem. As organizações devem garantir que os seus sistemas em nuvem estejam protegidos contra ameaças externas e interiores.
+
+* **Autenticação e autorização**: permitem que as organizações verifiquem a identidade dos usuários e restrinjam o acesso aos seus sistemas em nuvem.
+* **Criptografia**: permite que as organizações protejam os dados em transit e em repouso em nuvem.
+* **Monitoramento e detecção de ameaças**: permitem que as organizações monitorem e detectem ameaças em tempo real e tomem medidas para mitigá-las.
+
+→ A autenticação e autorização permitem que as organizações verifiquem a identidade dos usuários e restrinjam o acesso aos seus sistemas em nuvem.
+→ A criptografia permite que as organizações protejam os dados em transit e em repouso em nuvem.
