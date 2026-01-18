@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem moderna para desenvolver e implantar sistemas escaláveis e flexíveis. Com a nuvem, as organizações podem aproveitar recursos compartilhados e escaláveis para melhorar a eficiência e reduzir os custos.
+
+A prática ágil é uma abordagem iterativa e incremental para desenvolver software, que se alinha perfeitamente com a arquitetura de serviços de computação em nuvem. Com a prática ágil, as equipes podem desenvolver e implantar sistemas de forma rápida e flexível, adaptando-se às mudanças no mercado e nas necessidades dos usuários.
+
+→ A prática ágil ajuda a reduzir o tempo de desenvolvimento e a melhorar a qualidade do software.
+→ A prática ágil permite que as equipes sejam mais flexíveis e sejam capazes de se adaptar às mudanças no mercado e nas necessidades dos usuários.
