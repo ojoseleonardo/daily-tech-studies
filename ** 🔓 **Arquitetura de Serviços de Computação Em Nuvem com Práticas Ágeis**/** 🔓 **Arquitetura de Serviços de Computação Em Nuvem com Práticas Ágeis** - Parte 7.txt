@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem permite que as organizações monitorem e detectem ameaças em tempo real e tomem medidas para mitigá-las.
+
+* **Serviços de monitoramento**: permitem que as organizações monitorem e detectem problemas em tempo real e tomem medidas para mitigá-los.
+* **Serviços de detecção de ameaças**: permitem que as organizações monitorem e detectem ameaças em tempo real e tomem medidas para mitigá-las.
+* **Serviços de gerenciamento de vulnerabilidades**: permitem que as organizações gerenciem e armazenem dados de vulnerabilidades de forma segura e escalável.
+
+→ Os serviços de monitoramento permitem que as organizações monitorem e detectem problemas em tempo real e tomem medidas para mitigá-los.
+→ Os serviços de detecção de ameaças permitem que as organizações monitorem e detectem ameaças em tempo real e tomem medidas para mitigá-las.
