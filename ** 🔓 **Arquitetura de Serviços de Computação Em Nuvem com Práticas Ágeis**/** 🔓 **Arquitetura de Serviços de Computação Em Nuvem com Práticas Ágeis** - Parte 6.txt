@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem permite que as organizações gerenciem e armazenem dados em nuvem de forma segura e escalável.
+
+* **Serviços de armazenamento**: permitem que as organizações gerenciem e armazenem dados em nuvem de forma segura e escalável.
+* **Serviços de backup e recuperação**: permitem que as organizações gerenciem e armazenem dados de backup e recuperação de forma segura e escalável.
+* **Serviços de monitoramento de desempenho**: permitem que as organizações monitorem e detectem problemas de desempenho em tempo real e tomem medidas para mitigá-los.
+
+→ Os serviços de armazenamento permitem que as organizações gerenciem e armazenem dados em nuvem de forma segura e escalável.
+→ Os serviços de backup e recuperação permitem que as organizações gerenciem e armazenem dados de backup e recuperação de forma segura e escalável.
