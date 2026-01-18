@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem é composta por vários componentes, incluindo:
+
+* **Serviços de infraestrutura como código**: permitem que as organizações gerenciem e implantem infraestruturas de computação em nuvem de forma automática e escalável.
+* **Serviços de aplicativos**: permitem que as organizações desenvolvam e implantem aplicativos em nuvem de forma escalável e flexível.
+* **Serviços de dados**: permitem que as organizações gerenciem e armazenem dados em nuvem de forma segura e escalável.
+
+→ Os serviços de infraestrutura como código permitem que as organizações gerenciem e implantem infraestruturas de computação em nuvem de forma automática e escalável.
+→ Os serviços de aplicativos permitem que as organizações desenvolvam e implantem aplicativos em nuvem de forma escalável e flexível.
