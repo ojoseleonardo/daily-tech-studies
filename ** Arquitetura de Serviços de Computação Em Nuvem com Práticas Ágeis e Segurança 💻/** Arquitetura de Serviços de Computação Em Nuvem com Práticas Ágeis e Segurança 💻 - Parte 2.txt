@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem é baseada em uma estrutura de serviços on-demand, que permite às organizações criar, implantar e gerenciar aplicações de forma escalável e flexível. Isso é feito por meio da criação de recursos virtuais, que podem ser configurados e provisionados rapidamente para atender às necessidades das aplicações.
+
+**Componentes-chave:**
+
+ ▸ **Servidores:** fornecem recursos de processamento e memória.
+ ▸ **Armazenamento:** fornece recursos para armazenar dados.
+ ▸ **Rede:** permite a comunicação entre recursos.
