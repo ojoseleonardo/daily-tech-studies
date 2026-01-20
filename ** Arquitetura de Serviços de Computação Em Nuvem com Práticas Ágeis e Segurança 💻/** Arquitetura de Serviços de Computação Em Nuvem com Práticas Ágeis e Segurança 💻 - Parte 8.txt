@@ -1,0 +1,6 @@
+O Azure é uma plataforma de serviços em nuvem que permite às organizações criar, implantar e gerenciar aplicações de forma escalável e flexível. O Azure é uma opção comum para implementação de arquitetura de serviços de computação em nuvem.
+
+**Recursos-chave:**
+
+ ▸ **Virtual Machines:** fornece recursos de processamento e memória.
+ ▸ **Storage:** fornece recursos de armazenamento.
