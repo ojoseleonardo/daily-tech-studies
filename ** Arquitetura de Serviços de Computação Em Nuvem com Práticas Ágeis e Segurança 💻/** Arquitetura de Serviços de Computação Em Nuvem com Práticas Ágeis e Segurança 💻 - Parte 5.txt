@@ -1,0 +1,6 @@
+A infraestrutura como código é uma abordagem que permite às organizações criar, implantar e gerenciar infraestruturas de forma escalável e flexível. O Terraform é uma ferramenta que permite às organizações criar e gerenciar infraestruturas como código.
+
+**Benefícios-chave:**
+
+ ▸ **Escalabilidade:** permite às organizações criar e gerenciar infraestruturas escaláveis.
+ ▸ **Flexibilidade:** permite às organizações criar e gerenciar infraestruturas flexíveis.
