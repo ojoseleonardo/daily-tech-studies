@@ -1,0 +1,6 @@
+A implementação de serviços de computação em nuvem com o Azure é uma opção comum para as organizações que buscam criar, implantar e gerenciar aplicações de forma escalável e flexível. O Azure fornece recursos de processamento, memória, armazenamento e rede para apoiar as necessidades das aplicações.
+
+**Recursos-chave:**
+
+ ▸ **Virtual Machines:** fornece recursos de processamento e memória.
+ ▸ **Storage:** fornece recursos de armazenamento.
