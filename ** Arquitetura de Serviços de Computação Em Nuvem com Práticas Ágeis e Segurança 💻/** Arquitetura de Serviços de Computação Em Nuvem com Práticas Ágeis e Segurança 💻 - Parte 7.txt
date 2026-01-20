@@ -1,0 +1,6 @@
+O Google Cloud é uma plataforma de serviços em nuvem que permite às organizações criar, implantar e gerenciar aplicações de forma escalável e flexível. O Google Cloud é uma opção comum para implementação de arquitetura de serviços de computação em nuvem.
+
+**Recursos-chave:**
+
+ ▸ **Compute Engine:** fornece recursos de processamento e memória.
+ ▸ **Cloud Storage:** fornece recursos de armazenamento.
