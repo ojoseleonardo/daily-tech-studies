@@ -1,0 +1,6 @@
+A segurança é um aspecto fundamental em arquitetura de serviços de computação em nuvem. As organizações precisam garantir que os dados e sistemas sejam protegidos contra acessos não autorizados e que as aplicações sejam desenvolvidas e implantadas de forma segura.
+
+**Métodos-chave:**
+
+ ▸ **Autenticação e autorização:** garante que apenas pessoas autorizadas tenham acesso aos recursos.
+ ▸ **Criptografia:** protege os dados contra acessos não autorizados.
