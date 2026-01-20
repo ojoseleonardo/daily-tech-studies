@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web é um processo que envolve a criação, implementação e gerenciamento de aplicações web. As práticas ágeis e o teste drive desenvolvimento (TDD) são métodos e técnicas que buscam melhorar a eficiência e a qualidade do desenvolvimento de aplicativos web.
+
+**Técnicas-chave:**
+
+ ▸ **Desenvolvimento ágil:** permite às equipes desenvolver e implantar aplicações web rapidamente e com qualidade.
+ ▸ **Teste contínuo:** garante que as aplicações web sejam testadas e validadas em todos os estágios do desenvolvimento.
