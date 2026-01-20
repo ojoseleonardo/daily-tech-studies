@@ -1,0 +1,6 @@
+A Amazon Web Services (AWS) é uma plataforma de serviços em nuvem que permite às organizações criar, implantar e gerenciar aplicações de forma escalável e flexível. A AWS é uma opção comum para implementação de arquitetura de serviços de computação em nuvem.
+
+**Recursos-chave:**
+
+ ▸ **EC2:** fornece recursos de processamento e memória.
+ ▸ **S3:** fornece recursos de armazenamento.
