@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem moderna para desenvolver e implantar sistemas escaláveis e flexíveis. Com a ascensão do modelo de consumo de serviços em nuvem, as organizações estão investindo em tecnologias que permitam criar, implementar e gerenciar aplicações de forma eficiente e segura.
+
+**Parâmetros-chave:**
+
+ ▸ **Custo efetivo:** redução de custos com a eliminação de infraestrutura física e aquisição de recursos como necessários.
+ ▸ **Flexibilidade:** escalabilidade e ajustabilidade para atender às necessidades dinâmicas das aplicações.
+ ▸ **Segurança:** integração de recursos de segurança robustos para proteger dados e sistemas contra acessos não autorizados.
