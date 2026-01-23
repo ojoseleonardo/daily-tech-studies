@@ -1,0 +1,11 @@
+O teste de interface (TDD) é uma prática que envolve escrever testes antes do código. Isso garante que o código esteja correto e funcione como esperado.
+
+Os principais benefícios do TDD são:
+
+→ **Maior qualidade do código**: menos bugs e erros
+→ **Tempo de desenvolvimento reduzido**: escrever testes antes do código economiza tempo
+→ **Maior confiança**: sentir-se seguro de que o código está correto
+
+O TDD é uma prática fundamental para o desenvolvimento de aplicativos web modernos.
+
+═══════════════════
