@@ -1,0 +1,11 @@
+A infraestrutura como código com Terraform é uma prática que envolve a criação de infraestrutura em código, utilizando uma linguagem de modelagem de infraestrutura.
+
+Os principais benefícios da infraestrutura como código com Terraform são:
+
+→ **Maior flexibilidade**: adaptabilidade às mudanças
+→ **Maior segurança**: evitar a perda de dados
+→ **Maior confiança**: sentir-se seguro de que a infraestrutura está correta
+
+A infraestrutura como código com Terraform é uma prática fundamental para criar infraestrutura moderna.
+
+═══════════════════
