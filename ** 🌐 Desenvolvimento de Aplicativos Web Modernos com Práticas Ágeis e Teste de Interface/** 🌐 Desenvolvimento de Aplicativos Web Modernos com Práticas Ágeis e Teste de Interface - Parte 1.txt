@@ -1,0 +1,11 @@
+Os princípios ágeis são uma abordagem para desenvolvimento de software que prioriza a flexibilidade, a colaboração e a entrega contínua de valor. Isso inclui a iteratividade, a capacidade de se adaptar às mudanças e a entrega de valor em cada iteração.
+
+Os principais pilares dos princípios ágeis são:
+
+→ **Iteratividade**: entrega de valor em cada iteração
+→ **Flexibilidade**: adaptabilidade às mudanças
+→ **Colaboração**: trabalho em equipe e comunicação eficaz
+
+Esses princípios são fundamentais para o desenvolvimento de aplicativos web modernos.
+
+═══════════════════
