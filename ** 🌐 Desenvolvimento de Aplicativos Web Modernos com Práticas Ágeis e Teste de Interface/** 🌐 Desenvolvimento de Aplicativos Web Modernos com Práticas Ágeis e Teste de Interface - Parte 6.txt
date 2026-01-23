@@ -1,0 +1,11 @@
+A arquitetura de aplicativos web modernos é fundamental para criar aplicativos web escaláveis e seguros.
+
+Os principais benefícios da arquitetura de aplicativos web modernos são:
+
+→ **Maior escalabilidade**: capaz de lidar com grande tráfego
+→ **Maior segurança**: capaz de proteger os dados dos usuários
+→ **Maior confiança**: sentir-se seguro de que o aplicativo está correto
+
+A arquitetura de aplicativos web modernos é uma prática fundamental para criar aplicativos web modernos.
+
+═══════════════════
