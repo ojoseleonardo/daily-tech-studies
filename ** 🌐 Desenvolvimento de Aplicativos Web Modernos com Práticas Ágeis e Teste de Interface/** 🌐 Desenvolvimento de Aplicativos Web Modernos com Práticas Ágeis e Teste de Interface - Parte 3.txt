@@ -1,0 +1,11 @@
+O desenvolvimento de aplicativos web com práticas ágeis envolve a aplicação dos princípios ágeis e do TDD para criar aplicativos web modernos.
+
+Os principais benefícios do desenvolvimento de aplicativos web com práticas ágeis são:
+
+→ **Maior flexibilidade**: adaptabilidade às mudanças
+→ **Maior qualidade**: menos bugs e erros
+→ **Maior confiança**: sentir-se seguro de que o aplicativo está correto
+
+O desenvolvimento de aplicativos web com práticas ágeis é uma prática fundamental para criar aplicativos web modernos.
+
+═══════════════════
