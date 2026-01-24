@@ -1,0 +1,17 @@
+A integração de microserviços é fundamental para garantir a escalabilidade e a flexibilidade dos microserviços. Existem diferentes técnicas e ferramentas para integrar microserviços, incluindo:
+
+▸ API Gateway:
+  → Ferramentas de API Gateway, como NGINX e Amazon API Gateway
+  → Técnicas de API Gateway, como a criação de rotas de API
+
+→ Mesclando serviços:
+  → Ferramentas de mesclando serviços, como Docker e Kubernetes
+  → Técnicas de mesclando serviços, como a criação de deployments
+
+→ Utilizando técnicas de integração para microserviços:
+  → Criando arquiteturas de integração para proteger os microserviços
+  → Criando políticas de integração para proteger os microserviços
+
+⚠️ Atenção: a escolha das técnicas e ferramentas depende do tipo de aplicação e das necessidades específicas.
+
+═══════════════════
