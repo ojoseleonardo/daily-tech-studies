@@ -1,0 +1,17 @@
+A segurança é fundamental para garantir a confidencialidade, a integridade e a disponibilidade dos microserviços. Existem diferentes técnicas e ferramentas para garantir a segurança de microserviços, incluindo:
+
+▸ Autenticação e Autorização:
+  → Ferramentas de autenticação e autorização, como OAuth e JWT
+  → Técnicas de autenticação e autorização, como a criação de tokens de autenticação
+
+→ Criptografia:
+  → Ferramentas de criptografia, como SSL/TLS
+  → Técnicas de criptografia, como a criação de chaves de criptografia
+
+→ Utilizando técnicas de segurança para microserviços:
+  → Criando políticas de segurança para proteger os microserviços
+  → Criando arquiteturas de segurança para proteger os microserviços
+
+⚠️ Atenção: a escolha das técnicas e ferramentas depende do tipo de aplicação e das necessidades específicas.
+
+═══════════════════
