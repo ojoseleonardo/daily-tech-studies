@@ -1,0 +1,13 @@
+O design da arquitetura de microserviços é essencial para garantir a escalabilidade, a flexibilidade e a integração entre os serviços. Existem diferentes padrões de design de arquitetura, incluindo:
+
+▸ Arquitetura Monolítica: todos os serviços são implantados em um único processo
+→ Arquitetura de Camadas: os serviços são implantados em diferentes camadas, cada uma com sua própria responsabilidade
+→ Arquitetura de Microserviços: os serviços são implantados como independentes e autônomos
+
+→ Padrões de design para microserviços:
+  → Padrão de Reposta: cada serviço responde a requisições de outros serviços
+  → Padrão de Consulta: cada serviço consulta outros serviços para obter informações
+
+⚠️ Atenção: a escolha do padrão de design depende do tipo de aplicação e das necessidades específicas.
+
+═══════════════════
