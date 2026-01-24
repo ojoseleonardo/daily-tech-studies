@@ -1,0 +1,15 @@
+O Kubernetes é uma plataforma de gerenciamento de contêineres que pode ser usada para implantar e gerenciar microserviços. Com o Kubernetes, os desenvolvedores podem criar e gerenciar contêineres de forma independente e escalável.
+
+▸ Principais recursos do Kubernetes:
+  → Gerenciamento de contêineres: o Kubernetes gerencia contêineres de forma independente
+  → Orquestração: o Kubernetes orquestra a execução dos contêineres
+  → Escalabilidade: o Kubernetes escalona contêineres de forma independente
+
+→ Utilizando o Kubernetes para implantar microserviços:
+  → Criando imagens de contêineres para cada serviço
+  → Criando deployments para implantar os contêineres
+  → Criando serviços para expor os contêineres
+
+⚠️ Atenção: a implementação do Kubernetes exige conhecimento avançado de infraestrutura e gerenciamento de contêineres.
+
+═══════════════════
