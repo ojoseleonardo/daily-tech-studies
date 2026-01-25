@@ -1,0 +1,16 @@
+A autenticação e a autorização são dois dos principais componentes da segurança em aplicativos web. Aqui estão algumas práticas para implementar autenticação e autorização de forma segura:
+
+* **Autenticação:** verificar a identidade do usuário antes de permitir acesso ao sistema
+* **Autorização:** verificar se o usuário tem permissão para acessar recursos específicos
+
+**Tipos de autenticação:**
+
+* **Autenticação de usuário:** verificar a identidade do usuário
+* **Autenticação de senha:** verificar a senha do usuário
+
+**Tipos de autorização:**
+
+* **Autorização de rota:** verificar se o usuário tem permissão para acessar uma rota específica
+* **Autorização de recurso:** verificar se o usuário tem permissão para acessar um recurso específico
+
+═══════════════════
