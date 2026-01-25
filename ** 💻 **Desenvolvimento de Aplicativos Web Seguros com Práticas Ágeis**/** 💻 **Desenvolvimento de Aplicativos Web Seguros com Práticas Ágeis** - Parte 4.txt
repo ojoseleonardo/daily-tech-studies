@@ -1,0 +1,11 @@
+A criptografia é uma técnica para proteger dados sensíveis contra acesso não autorizado. Aqui estão algumas práticas para implementar criptografia de forma segura:
+
+* **Criptografia de dados:** proteger dados sensíveis durante o transporte e o armazenamento
+* **Criptografia de comunicação:** proteger a comunicação entre o cliente e o servidor
+
+**Tipos de criptografia:**
+
+* **Criptografia simétrica:** usar a mesma chave para cifrar e decifrar dados
+* **Criptografia assimétrica:** usar uma chave pública para cifrar e uma chave privada para decifrar dados
+
+═══════════════════
