@@ -1,0 +1,13 @@
+As práticas ágeis são uma abordagem flexível e iterativa para desenvolver software. No contexto de segurança em aplicativos web, as práticas ágeis podem ser aplicadas para melhorar a segurança de forma contínua. Aqui estão algumas práticas ágeis para segurança em aplicativos web:
+
+* **Integração de segurança desde o início:** incluir segurança na fase de planejamento e desenvolvimento
+* **Testes de segurança contínuos:** realizar testes de segurança regularmente para identificar vulnerabilidades
+* **Implementação de práticas de segurança:** implementar práticas de segurança como autenticação, autorização e criptografia
+
+**Benefícios das práticas ágeis para segurança em aplicativos web:**
+
+* **Melhoria contínua da segurança:** identificar e corrigir vulnerabilidades de forma regular
+* **Redução de riscos:** minimizar o risco de ataques cibernéticos e ameaças de segurança
+* **Melhoria da reputação:** demonstrar compromisso com a segurança e a privacidade
+
+═══════════════════
