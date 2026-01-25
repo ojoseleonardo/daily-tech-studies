@@ -1,0 +1,15 @@
+A segurança em aplicativos web é um tópico fundamental em desenvolvimento de software. Com a crescente dependência da internet e do acesso remoto, os aplicativos web se tornaram uma ferramenta essencial para negócios e indivíduos. No entanto, a exposição a ataques cibernéticos e ameaças de segurança aumentou significativamente. Esse capítulo introduzirá as principais conceitos de segurança em aplicativos web e explorará as práticas ágeis para garantir a segurança dos sistemas.
+
+**Principais conceitos de segurança em aplicativos web:**
+
+* **Confidencialidade:** proteger dados sensíveis contra acesso não autorizado
+* **Integridade:** garantir que os dados não sejam alterados indevidamente
+* **Disponibilidade:** garantir que o sistema permaneça acessível
+
+**Importância da segurança em aplicativos web:**
+
+* **Prevenção de ataques cibernéticos:** proteger contra ataques de injeção de SQL, XSS e outros tipos de ataques
+* **Manutenção da reputação:** evitar danos à reputação da empresa devido a incidentes de segurança
+* **Cumprimento de regulamentos:** garantir conformidade com regulamentos de segurança e privacidade
+
+═══════════════════
