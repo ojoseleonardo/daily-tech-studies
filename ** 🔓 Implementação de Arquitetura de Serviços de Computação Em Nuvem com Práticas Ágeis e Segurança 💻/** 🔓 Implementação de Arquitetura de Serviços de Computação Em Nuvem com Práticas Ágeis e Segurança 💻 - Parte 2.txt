@@ -1,0 +1,12 @@
+A arquitetura de serviços de computação em nuvem com práticas ágeis é uma abordagem que combina a flexibilidade e a escalabilidade da nuvem com as práticas ágeis de desenvolvimento de software. Isso permite que as organizações desenvolvam e implementem aplicativos mais rapidamente e de forma mais eficiente.
+
+As práticas ágeis incluem técnicas como a programação em pequenos ciclos, a entrega contínua e a reflexão contínua. Isso permite que as equipes desenvolvam e implementem aplicativos de forma mais eficiente e eficaz. Além disso, as práticas ágeis permitem que as equipes sejam mais flexíveis e se adaptem às mudanças nos requisitos de negócios.
+
+→ **Principais práticas ágeis para a arquitetura de serviços de computação em nuvem:**
+
+ ▸ Programação em pequenos ciclos
+ ▸ Entrega contínua
+ ▸ Reflexão contínua
+ ▸ Escalabilidade a medida que necessário
+
+⚠️ Atenção: a implementação de práticas ágeis requer uma abordagem planejada e executada para garantir o sucesso.
