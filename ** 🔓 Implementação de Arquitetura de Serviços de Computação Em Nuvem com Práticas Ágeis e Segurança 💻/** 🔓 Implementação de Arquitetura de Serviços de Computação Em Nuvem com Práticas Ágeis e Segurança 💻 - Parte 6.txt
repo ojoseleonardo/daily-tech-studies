@@ -1,0 +1,13 @@
+O Azure é uma plataforma de nuvem que oferece uma ampla gama de recursos para a implementação de arquitetura de serviços de computação em nuvem. O Azure fornece recursos de computação, armazenamento e rede que podem ser utilizados para desenvolver e implementar aplicativos em uma nuvem segura e escalável.
+
+O Azure oferece recursos de computação, incluindo instâncias Virtual Machines e Kubernetes Service. Além disso, o Azure fornece recursos de armazenamento, incluindo armazenamento Blob e banco de dados SQL. O Azure também oferece recursos de segurança, como firewalls e autenticação de usuário, para garantir a segurança dos aplicativos.
+
+→ **Principais recursos do Azure para a implementação de arquitetura de serviços de computação em nuvem:**
+
+ ▸ Instâncias Virtual Machines
+ ▸ Kubernetes Service
+ ▸ Armazenamento Blob
+ ▸ Banco de dados SQL
+ ▸ Firewalls e autenticação de usuário
+
+⚠️ Atenção: a implementação do Azure requer uma abordagem planejada e executada para garantir o sucesso.
