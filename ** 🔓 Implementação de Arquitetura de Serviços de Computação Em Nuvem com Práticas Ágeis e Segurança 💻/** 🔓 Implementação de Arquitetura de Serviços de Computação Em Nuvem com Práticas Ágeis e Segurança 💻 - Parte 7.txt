@@ -1,0 +1,12 @@
+O monitoramento de desempenho é uma das principais preocupações ao implementar uma arquitetura de serviços de computação em nuvem. É necessário monitorar o desempenho dos aplicativos e recursos para garantir que eles estejam funcionando corretamente e eficientemente.
+
+As ferramentas de monitoramento incluem métricas de desempenho, logs de aplicativos e alertas de desempenho. Além disso, é necessário implementar políticas de monitoramento e treinar os funcionários sobre as melhores práticas de monitoramento.
+
+→ **Principais ferramentas de monitoramento para a arquitetura de serviços de computação em nuvem:**
+
+ ▸ Métricas de desempenho
+ ▸ Logs de aplicativos
+ ▸ Alertas de desempenho
+ ▸ Políticas de monitoramento e treinamento de funcionários
+
+⚠️ Atenção: a implementação de ferramentas de monitoramento requer uma abordagem planejada e executada para garantir o sucesso.
