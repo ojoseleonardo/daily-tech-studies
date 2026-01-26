@@ -1,0 +1,12 @@
+A Amazon Web Services (AWS) é uma das principais plataformas de nuvem que oferece uma ampla gama de recursos para a implementação de arquitetura de serviços de computação em nuvem. A AWS fornece recursos de computação, armazenamento e rede que podem ser utilizados para desenvolver e implementar aplicativos em uma nuvem segura e escalável.
+
+A AWS oferece uma ampla gama de recursos, incluindo instâncias EC2, armazenamento S3 e banco de dados RDS. Além disso, a AWS fornece recursos de segurança, como firewalls e autenticação de usuário, para garantir a segurança dos aplicativos.
+
+→ **Principais recursos da AWS para a implementação de arquitetura de serviços de computação em nuvem:**
+
+ ▸ Instâncias EC2
+ ▸ Armazenamento S3
+ ▸ Banco de dados RDS
+ ▸ Firewalls e autenticação de usuário
+
+⚠️ Atenção: a implementação da AWS requer uma abordagem planejada e executada para garantir o sucesso.
