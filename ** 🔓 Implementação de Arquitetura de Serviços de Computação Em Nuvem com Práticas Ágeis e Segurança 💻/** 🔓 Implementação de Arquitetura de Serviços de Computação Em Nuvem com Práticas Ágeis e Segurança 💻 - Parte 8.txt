@@ -1,0 +1,12 @@
+O Docker é uma ferramenta de containerização que permite a implementação de aplicativos em containers isolados e seguros. Isso permite que os desenvolvedores desenvolvam e implementem aplicativos de forma mais eficiente e eficaz.
+
+As ferramentas de Docker incluem containers Docker, imagens Docker e volumes Docker. Além disso, é necessário implementar políticas de segurança e treinar os funcionários sobre as melhores práticas de segurança.
+
+→ **Principais ferramentas de Docker para a implementação de arquitetura de serviços de computação em nuvem:**
+
+ ▸ Containers Docker
+ ▸ Imagens Docker
+ ▸ Volumes Docker
+ ▸ Políticas de segurança e treinamento de funcionários
+
+⚠️ Atenção: a implementação de Docker requer uma abordagem planejada e executada para garantir o sucesso.
