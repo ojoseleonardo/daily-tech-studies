@@ -1,0 +1,13 @@
+O Google Cloud é outra principal plataforma de nuvem que oferece uma ampla gama de recursos para a implementação de arquitetura de serviços de computação em nuvem. O Google Cloud fornece recursos de computação, armazenamento e rede que podem ser utilizados para desenvolver e implementar aplicativos em uma nuvem segura e escalável.
+
+O Google Cloud oferece recursos de computação, incluindo instâncias Compute Engine e Kubernetes Engine. Além disso, o Google Cloud fornece recursos de armazenamento, incluindo armazenamento Cloud Storage e banco de dados Cloud SQL. O Google Cloud também oferece recursos de segurança, como firewalls e autenticação de usuário, para garantir a segurança dos aplicativos.
+
+→ **Principais recursos do Google Cloud para a implementação de arquitetura de serviços de computação em nuvem:**
+
+ ▸ Instâncias Compute Engine
+ ▸ Kubernetes Engine
+ ▸ Armazenamento Cloud Storage
+ ▸ Banco de dados Cloud SQL
+ ▸ Firewalls e autenticação de usuário
+
+⚠️ Atenção: a implementação do Google Cloud requer uma abordagem planejada e executada para garantir o sucesso.
