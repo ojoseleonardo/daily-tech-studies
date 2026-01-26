@@ -1,0 +1,14 @@
+A implementação de arquitetura de serviços de computação em nuvem com práticas ágeis e segurança é uma abordagem que combina a flexibilidade e a escalabilidade da nuvem com as práticas ágeis de desenvolvimento de software e as melhores práticas de segurança.
+
+As ferramentas incluem a programação em pequenos ciclos, a entrega contínua e a reflexão contínua, além de medidas de segurança como autenticação e autorização de usuário, criptografia de dados e firewalls.
+
+→ **Principais ferramentas para a implementação de arquitetura de serviços de computação em nuvem com práticas ágeis e segurança:**
+
+ ▸ Programação em pequenos ciclos
+ ▸ Entrega contínua
+ ▸ Reflexão contínua
+ ▸ Autenticação e autorização de usuário
+ ▸ Criptografia de dados
+ ▸ Firewalls
+
+⚠️ Atenção: a implementação de arquitetura de serviços de computação em nuvem com práticas ágeis e segurança requer uma abordagem planejada e executada para garantir o sucesso.
