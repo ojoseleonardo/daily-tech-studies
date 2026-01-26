@@ -1,0 +1,12 @@
+O Kubernetes é uma ferramenta de orquestração de contêineres que permite a implementação de arquitetura de serviços de computação em nuvem de forma segura e escalável. Isso permite que os desenvolvedores desenvolvam e implementem aplicativos de forma mais eficiente e eficaz.
+
+As ferramentas de Kubernetes incluem clusters Kubernetes, pods Kubernetes e serviços Kubernetes. Além disso, é necessário implementar políticas de segurança e treinar os funcionários sobre as melhores práticas de segurança.
+
+→ **Principais ferramentas de Kubernetes para a implementação de arquitetura de serviços de computação em nuvem:**
+
+ ▸ Clusters Kubernetes
+ ▸ Pods Kubernetes
+ ▸ Serviços Kubernetes
+ ▸ Políticas de segurança e treinamento de funcionários
+
+⚠️ Atenção: a implementação de Kubernetes requer uma abordagem planejada e executada para garantir o sucesso.
