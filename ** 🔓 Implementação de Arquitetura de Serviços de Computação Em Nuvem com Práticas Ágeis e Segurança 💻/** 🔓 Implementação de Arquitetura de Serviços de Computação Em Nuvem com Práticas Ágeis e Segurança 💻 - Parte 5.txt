@@ -1,0 +1,12 @@
+A segurança é uma das principais preocupações ao implementar uma arquitetura de serviços de computação em nuvem. É necessário implementar medidas de segurança para garantir a proteção dos dados e aplicativos contra acessos não autorizados.
+
+As medidas de segurança incluem autenticação e autorização de usuário, criptografia de dados, firewalls e monitoramento de rede. Além disso, é necessário implementar políticas de segurança e treinar os funcionários sobre as melhores práticas de segurança.
+
+→ **Principais medidas de segurança para a arquitetura de serviços de computação em nuvem:**
+
+ ▸ Autenticação e autorização de usuário
+ ▸ Criptografia de dados
+ ▸ Firewalls e monitoramento de rede
+ ▸ Políticas de segurança e treinamento de funcionários
+
+⚠️ Atenção: a implementação de medidas de segurança requer uma abordagem planejada e executada para garantir o sucesso.
