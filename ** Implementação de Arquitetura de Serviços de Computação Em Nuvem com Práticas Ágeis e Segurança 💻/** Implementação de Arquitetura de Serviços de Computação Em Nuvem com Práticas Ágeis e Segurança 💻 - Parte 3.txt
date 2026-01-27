@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem com segurança é uma abordagem que prioriza a proteção dos dados e serviços. Com essa abordagem, é possível criar serviços escaláveis e flexíveis que sejam protegidos por múltiplas camadas de segurança.
+
+▸ Principais medidas de segurança:
+  → Autenticação: serviços são protegidos por autenticação e autorização
+  → Criptografia: dados são protegidos por criptografia
+  → Monitoramento: serviços são monitorados em tempo real para detectar ameaças
+
+→ Ponto importante destacado: a arquitetura de serviços de computação em nuvem com segurança é uma abordagem que prioriza a proteção dos dados e serviços.
+
+═══════════════════
