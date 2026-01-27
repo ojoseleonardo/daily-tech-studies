@@ -1,0 +1,11 @@
+A implementação da arquitetura de serviços de computação em nuvem é um processo que envolve a criação de serviços escaláveis e flexíveis. Com essa abordagem, é possível criar serviços que sejam implantados em diferentes ambientes e plataformas.
+
+▸ Principais etapas:
+  → Planejamento: serviços são planejados e projetados
+  → Desenvolvimento: serviços são desenvolvidos
+  → Teste: serviços são testados
+  → Implantação: serviços são implantados
+
+→ Ponto importante destacado: a implementação da arquitetura de serviços de computação em nuvem é um processo que envolve a criação de serviços escaláveis e flexíveis.
+
+═══════════════════
