@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem com Kubernetes é uma abordagem que combina a flexibilidade da nuvem com a escalabilidade de Kubernetes. Com essa abordagem, é possível criar serviços escaláveis e flexíveis que sejam gerenciados de forma eficiente.
+
+▸ Principais características:
+  → Escalabilidade: serviços podem ser aumentados ou diminuídos à medida que necessário
+  → Flexibilidade: serviços podem ser implantados em diferentes ambientes e plataformas
+  → Gerenciamento: serviços são gerenciados de forma eficiente
+
+→ Ponto importante destacado: a arquitetura de serviços de computação em nuvem com Kubernetes é uma abordagem que combina a flexibilidade da nuvem com a escalabilidade de Kubernetes.
+
+═══════════════════
