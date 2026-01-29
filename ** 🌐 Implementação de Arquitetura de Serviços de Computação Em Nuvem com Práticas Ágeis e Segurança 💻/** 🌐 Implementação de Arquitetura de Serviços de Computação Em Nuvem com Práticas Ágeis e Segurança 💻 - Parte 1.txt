@@ -1,0 +1,11 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem moderna para desenvolver e implantar aplicações escaláveis e seguras. Ela permite que as organizações aproveitem as vantagens da nuvem, como recursos ilimitados, escalabilidade e flexibilidade. No entanto, a implementação de uma arquitetura de serviços de computação em nuvem requer conhecimento e habilidades específicas.
+
+▸ Principais pilares:
+  → Automação: automatizar processos para reduzir tempo e erro
+  → Segurança: proteger dados contra acessos não autorizados
+  → Escalabilidade: otimizar recursos para atender demandas crescentes
+  → Flexibilidade: permitir mudanças rápidas em resposta a mudanças no negócio
+
+⚠️ Atenção: a implementação de uma arquitetura de serviços de computação em nuvem é um processo contínuo, não um estado final.
+
+═══════════════════
