@@ -1,0 +1,15 @@
+A implementação de segurança em arquitetura de serviços de computação em nuvem é fundamental para proteger dados contra acessos não autorizados e garantir a confidencialidade, integridade e disponibilidade. Isso envolve o uso de tecnologias de segurança, como autenticação e autorização, criptografia e firewall, para proteger os dados e os serviços.
+
+▸ Tecnologias de segurança:
+  → Autenticação: verificar a identidade dos usuários e dos sistemas
+  → Autorização: permitir ou negar acesso a recursos e serviços com base na identidade e nos privilégios do usuário
+  → Criptografia: proteger dados em trânsito e em repouso com algoritmos de criptografia
+  → Firewall: controlar o tráfego de dados para proteger contra ataques cibernéticos
+
+→ Vantagens:
+  → Proteção de dados: proteger dados contra acessos não autorizados
+  → Garantia de confidencialidade: garantir que apenas as pessoas autorizadas tenham acesso a dados confidenciais
+  → Garantia de integridade: garantir que os dados sejam consistentes e precisos
+  → Garantia de disponibilidade: garantir que os serviços estejam sempre disponíveis
+
+═══════════════════
