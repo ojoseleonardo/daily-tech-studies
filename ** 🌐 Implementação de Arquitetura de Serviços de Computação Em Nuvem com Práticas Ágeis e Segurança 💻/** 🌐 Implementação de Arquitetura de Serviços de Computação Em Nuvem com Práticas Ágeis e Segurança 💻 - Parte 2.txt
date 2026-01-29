@@ -1,0 +1,12 @@
+A implementação de uma arquitetura de serviços de computação em nuvem com práticas ágeis envolve o uso de métodos ágeis, como desenvolvimento iterativo e entrega contínua, para desenvolver e implantar aplicações escaláveis e seguras. Isso permite que as organizações sejam mais rápidas e flexíveis em resposta a mudanças no negócio e no mercado.
+
+▸ Práticas ágeis:
+  → Desenvolvimento iterativo: desenvolver e testar aplicações em pequenos blocos
+  → Entrega contínua: entregar aplicações em pequenos blocos para que os usuários possam testá-las e fornecer feedback
+  → Teste contínuo: testar aplicações em todos os estágios do desenvolvimento
+
+→ Vantagens:
+  → Melhoria contínua: melhorar aplicações constantemente com base no feedback dos usuários
+  → Redução de risco: reduzir o risco de falha com testes contínuos e entregas incrementais
+
+═══════════════════
