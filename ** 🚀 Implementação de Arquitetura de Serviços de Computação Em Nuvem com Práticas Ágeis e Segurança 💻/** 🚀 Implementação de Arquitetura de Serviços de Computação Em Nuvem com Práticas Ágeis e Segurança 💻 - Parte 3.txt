@@ -1,0 +1,8 @@
+A implementação de arquitetura de serviços de computação em nuvem com práticas ágeis é uma abordagem que combina a flexibilidade e escalabilidade da nuvem com a agilidade e qualidade de práticas ágeis.
+
+▸ Principais benefícios:
+  → Aumento da agilidade: práticas ágeis permitem a entrega de valor mais rapidamente
+  → Melhoria da qualidade: práticas ágeis garantem a entrega de produtos de alta qualidade
+  → Redução de custos: práticas ágeis permitem a redução de custos ao longo do tempo
+
+✦ Exemplo de implementação: a utilização de ferramentas de desenvolvimento ágil como Scrum ou Kanban pode permitir a entrega de valor mais rapidamente e com maior qualidade.
