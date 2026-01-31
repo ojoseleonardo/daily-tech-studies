@@ -1,0 +1,8 @@
+Estruturas de dados em tempo real são projetadas para lidar com grandes volumes de dados em tempo real. Eles são úteis para operações que envolvem processamento de dados em tempo real.
+
+▸ Exemplos de uso de estruturas de dados em tempo real incluem:
+  → Implementar algoritmos de ordenação e busca em tempo O(log n)
+  → Armazenar informações de logs em um sistema de gerenciamento de logs
+  → Gerenciar uma lista de tarefas em um aplicativo de produtividade
+
+→ Estruturas de dados em tempo real têm vantagens em termos de eficiência e escalabilidade.
