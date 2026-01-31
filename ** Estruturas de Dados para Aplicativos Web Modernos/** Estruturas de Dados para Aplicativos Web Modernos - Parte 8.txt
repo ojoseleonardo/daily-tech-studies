@@ -1,0 +1,8 @@
+Estruturas de dados em memória são projetadas para lidar com grandes volumes de dados em memória. Eles são úteis para operações que envolvem processamento de dados em memória.
+
+▸ Exemplos de uso de estruturas de dados em memória incluem:
+  → Implementar algoritmos de ordenação e busca em tempo O(log n)
+  → Armazenar informações de produtos em um catálogo
+  → Gerenciar uma lista de tarefas em um aplicativo de produtividade
+
+→ Estruturas de dados em memória têm vantagens em termos de eficiência e escalabilidade.
