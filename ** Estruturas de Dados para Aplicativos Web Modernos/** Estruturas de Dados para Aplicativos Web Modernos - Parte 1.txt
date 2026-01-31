@@ -1,0 +1,11 @@
+Estruturas de dados são fundamentais para o desenvolvimento de aplicativos web modernos. Elas permitem que os desenvolvedores organizem e armazenem dados de forma eficiente, facilitando a execução de operações complexas. Existem várias estruturas de dados, cada uma com suas características únicas.
+
+▸ Algumas das principais estruturas de dados incluem:
+  → Vetores (Arrays)
+  → Listas Encadeadas
+  → Pilhas
+  → Filas
+  → Árvores Binárias
+  → Grafos
+
+⚠️ É importante escolher a estrutura de dados certa para o problema específico, pois cada uma tem suas vantagens e desvantagens.
