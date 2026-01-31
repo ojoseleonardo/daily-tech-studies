@@ -1,0 +1,8 @@
+Listas encadeadas são estruturas de dados que armazenam elementos em forma de lista com ligações entre eles. Eles são úteis para operações que envolvem inserção e remoção de elementos no meio da lista.
+
+▸ Exemplos de uso de listas encadeadas incluem:
+  → Armazenar informações de pedidos em um sistema de e-commerce
+  → Implementar algoritmos de ordenação e busca em tempo O(n)
+  → Gerenciar uma lista de tarefas em um aplicativo de produtividade
+
+→ Listas encadeadas têm vantagens em termos de flexibilidade e escalabilidade.
