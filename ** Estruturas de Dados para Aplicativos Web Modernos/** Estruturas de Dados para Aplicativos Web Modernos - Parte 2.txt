@@ -1,0 +1,8 @@
+Vetores são estruturas de dados lineares que armazenam elementos em sequência. Eles são úteis para operações que envolvem acesso aleatório a elementos.
+
+▸ Exemplos de uso de vetores incluem:
+  → Armazenar informações de produtos em um catálogo
+  → Processar grandes conjuntos de dados
+  → Implementar algoritmos de ordenação e busca
+
+→ Vetores têm vantagens em termos de velocidade de acesso e manipulação.
