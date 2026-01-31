@@ -1,0 +1,8 @@
+Pilhas e filas são estruturas de dados que seguem ordem específica de inserção e remoção de elementos. Eles são úteis para operações que envolvem acesso e manipulação de elementos em ordem.
+
+▸ Exemplos de uso de pilhas e filas incluem:
+  → Implementar algoritmos de ordenação e busca em tempo O(n)
+  → Gerenciar uma lista de tarefas em um aplicativo de produtividade
+  → Armazenar informações de logs em um sistema de gerenciamento de logs
+
+→ Pilhas e filas têm vantagens em termos de eficiência e escalabilidade.
