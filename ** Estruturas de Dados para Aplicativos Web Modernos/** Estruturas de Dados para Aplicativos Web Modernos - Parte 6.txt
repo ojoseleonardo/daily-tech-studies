@@ -1,0 +1,8 @@
+Grafos são estruturas de dados que armazenam elementos em forma de rede com nodos e arestas. Eles são úteis para operações que envolvem busca e ordenação de elementos em uma rede.
+
+▸ Exemplos de uso de grafos incluem:
+  → Implementar algoritmos de ordenação e busca em tempo O(n)
+  → Armazenar informações de relacionamentos em um sistema de redes sociais
+  → Gerenciar uma lista de tarefas em um aplicativo de produtividade
+
+→ Grafos têm vantagens em termos de flexibilidade e escalabilidade.
