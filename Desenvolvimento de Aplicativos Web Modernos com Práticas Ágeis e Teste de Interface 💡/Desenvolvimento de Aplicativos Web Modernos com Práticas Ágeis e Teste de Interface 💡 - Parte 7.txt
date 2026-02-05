@@ -1,0 +1,5 @@
+A implementação de infraestrutura como código com Terraform é uma abordagem moderna para criar e gerenciar infraestrutura de aplicativos. Algumas opções incluem:
+
+→ **Terraform**: uma ferramenta de infraestrutura como código líder
+→ **AWS CloudFormation**: uma ferramenta de infraestrutura como código para AWS
+→ **Azure Resource Manager**: uma ferramenta de infraestrutura como código para Azure
