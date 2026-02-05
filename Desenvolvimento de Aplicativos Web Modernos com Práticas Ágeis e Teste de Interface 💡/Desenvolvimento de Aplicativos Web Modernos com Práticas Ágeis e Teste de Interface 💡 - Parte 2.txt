@@ -1,0 +1,5 @@
+A arquitetura de aplicativos web é responsável por organizar e integrar os componentes de um aplicativo web, garantindo que ele seja escalável, seguro e fácil de manter. Existem várias arquiteturas de aplicativos web, incluindo:
+
+→ **Arquitetura Monolítica**: um único código base para todo o aplicativo
+→ **Arquitetura Microserviços**: múltiplos serviços independentes, cada um com sua própria funcionalidade
+→ **Arquitetura de Serviços de Computação Em Nuvem**: recursos computacionais em nuvem, como AWS, Azure e Google Cloud
