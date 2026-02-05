@@ -1,0 +1,8 @@
+Desenvolvimento ágil é uma abordagem iterativa e flexível para criar software de alta qualidade. Ao contrário do desenvolvimento tradicional, que segue um ciclo de planos e execução, o desenvolvimento ágil é adaptável e rápido, permitindo que as equipes respondam às mudanças no mercado e nos requisitos dos clientes.
+
+→ Principais pilares:
+  → **Iterações**: desenvolvimento em ciclos curtos, com entrega de valor frequente
+  → **Flexibilidade**: respostas rápidas às mudanças nos requisitos e no mercado
+  → **Colaboração**: equipe unida, trabalhando para atingir objetivos comuns
+
+Agora, vamos explorar como as práticas ágeis podem ser aplicadas ao desenvolvimento de aplicativos web modernos.
