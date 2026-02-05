@@ -1,0 +1,5 @@
+A implementação de arquitetura de serviços de computação em nuvem com Google Cloud é uma abordagem moderna para criar aplicativos escaláveis e seguros. Algumas opções incluem:
+
+→ **Google Cloud Platform**: uma plataforma de computação em nuvem completa
+→ **Cloud Functions**: uma ferramenta de funções de computação em nuvem
+→ **Cloud Run**: uma ferramenta de execução de contêineres em nuvem
