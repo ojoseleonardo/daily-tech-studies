@@ -1,0 +1,5 @@
+A documentação de código é uma prática importante para garantir que o código seja fácil de entender e manter. Algumas técnicas incluem:
+
+→ **Documentação de Código**: comentários e descrições para explicar o código
+→ **Documentação de Arquitetura**: descrever a arquitetura do aplicativo e como ele funciona
+→ **Documentação de Testes**: registrar os testes realizados e os resultados
