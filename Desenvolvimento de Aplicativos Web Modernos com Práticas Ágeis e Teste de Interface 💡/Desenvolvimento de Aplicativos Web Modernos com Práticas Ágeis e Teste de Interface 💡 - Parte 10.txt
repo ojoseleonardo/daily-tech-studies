@@ -1,0 +1,5 @@
+Em resumo, o desenvolvimento de aplicativos web modernos com práticas ágeis e teste de interface é uma abordagem crucial para criar aplicativos escaláveis, seguros e fáceis de usar. Algumas práticas importantes incluem:
+
+→ **Desenvolvimento Ágil**: uma abordagem iterativa e flexível para criar software de alta qualidade
+→ **Arquitetura de Aplicativos Web**: responsável por organizar e integrar os componentes de um aplicativo web
+→ **Segurança de Aplicativos Web**: fundamental para proteger os dados dos usuários e evitar ataques cibernéticos
