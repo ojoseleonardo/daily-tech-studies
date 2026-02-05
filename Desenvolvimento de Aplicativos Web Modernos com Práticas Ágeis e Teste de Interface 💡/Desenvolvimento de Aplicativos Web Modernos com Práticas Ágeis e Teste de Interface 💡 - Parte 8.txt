@@ -1,0 +1,5 @@
+A implementação de arquitetura de microserviços com Kubernetes é uma abordagem moderna para criar aplicativos escaláveis e seguros. Algumas opções incluem:
+
+→ **Kubernetes**: uma plataforma de contêinerização líder
+→ **Docker**: uma ferramenta de contêinerização popular
+→ **Podman**: uma ferramenta de contêinerização alternativa
