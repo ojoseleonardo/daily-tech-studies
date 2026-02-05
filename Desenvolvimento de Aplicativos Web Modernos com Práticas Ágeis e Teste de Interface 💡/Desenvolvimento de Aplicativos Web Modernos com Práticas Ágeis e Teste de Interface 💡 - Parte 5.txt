@@ -1,0 +1,5 @@
+A implementação de arquitetura de serviços de computação em nuvem é uma abordagem moderna para criar aplicativos escaláveis e seguros. Algumas opções incluem:
+
+→ **AWS**: Amazon Web Services, uma plataforma de computação em nuvem líder
+→ **Azure**: Microsoft Azure, uma plataforma de computação em nuvem completa
+→ **Google Cloud**: Google Cloud Platform, uma plataforma de computação em nuvem flexível
