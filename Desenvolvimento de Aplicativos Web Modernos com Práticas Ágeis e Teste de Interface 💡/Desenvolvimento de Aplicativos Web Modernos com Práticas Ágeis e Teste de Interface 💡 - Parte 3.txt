@@ -1,0 +1,5 @@
+A segurança de aplicativos web é fundamental para proteger os dados dos usuários e evitar ataques cibernéticos. Algumas práticas para garantir a segurança incluem:
+
+→ **Autenticação**: verificar a identidade dos usuários antes de conceder acesso
+→ **Autorização**: controlar o acesso a recursos e funcionalidades
+→ **CRIPTOGRAFIA**: proteger dados sensíveis com algoritmos de criptografia
