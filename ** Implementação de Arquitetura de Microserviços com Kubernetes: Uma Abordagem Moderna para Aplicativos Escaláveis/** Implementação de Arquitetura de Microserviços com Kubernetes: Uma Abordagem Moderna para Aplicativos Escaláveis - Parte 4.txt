@@ -1,0 +1,8 @@
+Para gerenciar serviços de microserviços com Kubernetes, você precisa:
+
+▸ Monitorar o desempenho: você precisa monitorar o desempenho dos serviços para garantir que estejam funcionando corretamente
+▸ Manter a integridade: você precisa manter a integridade dos dados e dos serviços para garantir que os usuários tenham acesso aos recursos necessários
+
+→ Exemplo: um sistema de gerenciamento de serviços pode ser implementado para monitorar o desempenho dos serviços e realizar atualizações automáticas para manter a integridade.
+
+═══════════════════
