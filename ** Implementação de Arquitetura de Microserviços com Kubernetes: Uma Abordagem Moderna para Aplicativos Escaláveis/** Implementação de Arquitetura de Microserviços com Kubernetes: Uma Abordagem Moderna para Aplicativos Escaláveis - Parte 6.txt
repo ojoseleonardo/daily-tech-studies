@@ -1,0 +1,8 @@
+Para garantir a segurança dos serviços de microserviços, você precisa:
+
+▸ Implementar autenticação e autorização: você precisa implementar mecanismos de autenticação e autorização para garantir que apenas usuários autorizados tenham acesso aos serviços
+▸ Proteger contra ataques: você precisa proteger contra ataques de segurança, como injeção de SQL e cross-site scripting
+
+→ Exemplo: um sistema de autenticação e autorização pode ser implementado para garantir que apenas usuários autorizados tenham acesso aos serviços.
+
+═══════════════════
