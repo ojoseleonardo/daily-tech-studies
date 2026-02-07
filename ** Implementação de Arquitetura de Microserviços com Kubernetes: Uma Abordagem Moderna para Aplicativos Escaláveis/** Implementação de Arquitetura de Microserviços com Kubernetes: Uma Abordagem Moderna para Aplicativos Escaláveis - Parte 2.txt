@@ -1,0 +1,9 @@
+Kubernetes é um gerenciador de containers que permite a orquestração e escalabilidade de aplicativos em nuvem. Alguns dos conceitos básicos de Kubernetes incluem:
+
+▸ Pods: unidades de execução que contêm um ou mais containers
+▸ Replicaset: garante que um certo número de instâncias de um pod estejam rodando
+▸ Seleção: permite a especificação de recursos e políticas de gerenciamento para pods e replicaset
+
+→ Exemplo: um aplicativo web pode ser dividido em três pods: um para o servidor web, outro para o banco de dados e um terceiro para o gerenciamento de logs.
+
+═══════════════════
