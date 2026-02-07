@@ -1,0 +1,10 @@
+A arquitetura de microserviços é uma abordagem moderna para o desenvolvimento de aplicativos escaláveis. Em vez de ter um único sistema monolítico, o microserviços divide o aplicativo em serviços independentes, cada um com sua própria função e responsabilidade.
+
+▸ Principais vantagens:
+  → Escalabilidade: serviços individuais podem ser escalados separadamente
+  → Flexibilidade: mudanças em um serviço não afetam outros serviços
+  → Reusabilidade: serviços podem ser reutilizados em diferentes aplicativos
+
+⚠️ Atenção: a implementação de microserviços requer habilidades em programação, design de sistemas e gerenciamento de infraestrutura.
+
+═══════════════════
