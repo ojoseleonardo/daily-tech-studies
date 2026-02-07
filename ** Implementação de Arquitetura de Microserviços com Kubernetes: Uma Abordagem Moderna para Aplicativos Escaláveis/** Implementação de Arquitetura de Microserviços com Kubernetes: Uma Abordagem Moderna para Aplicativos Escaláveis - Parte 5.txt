@@ -1,0 +1,8 @@
+Para integrar serviços de microserviços com outros serviços, você precisa:
+
+▸ Definir interfaces de comunicação: você precisa definir as interfaces de comunicação entre os serviços para garantir que eles possam se comunicar efetivamente
+▸ Implementar protocolos de comunicação: você precisa implementar os protocolos de comunicação necessários para que os serviços possam se comunicar
+
+→ Exemplo: um serviço de microserviços pode ser integrado com um serviço de gerenciamento de logs para que os logs sejam coletados e armazenados de forma eficiente.
+
+═══════════════════
