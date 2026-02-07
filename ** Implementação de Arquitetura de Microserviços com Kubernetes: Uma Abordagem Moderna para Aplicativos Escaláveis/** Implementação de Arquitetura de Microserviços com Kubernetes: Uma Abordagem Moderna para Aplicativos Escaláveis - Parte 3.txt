@@ -1,0 +1,9 @@
+Para implementar um serviço de microserviços com Kubernetes, você precisa criar:
+
+▸ Imagens dos containers: para cada serviço, você precisa criar uma imagem do container que contenha o código e as dependências do serviço
+▸ Ficheiros de configuração: para cada serviço, você precisa criar um ficheiro de configuração que defina as opções de execução do serviço
+▸ Definição de recursos: você precisa definir os recursos necessários para executar o serviço, como memória e CPU
+
+→ Exemplo: um serviço de microserviços pode ser implementado em Kubernetes usando um pod com um container do servidor web e outro container do banco de dados.
+
+═══════════════════
