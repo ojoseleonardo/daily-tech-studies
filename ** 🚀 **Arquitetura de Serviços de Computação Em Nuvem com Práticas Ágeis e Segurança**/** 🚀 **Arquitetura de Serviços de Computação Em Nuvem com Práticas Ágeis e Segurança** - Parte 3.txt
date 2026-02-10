@@ -1,0 +1,13 @@
+A segurança e confidencialidade são fundamentais na arquitetura de serviços de computação em nuvem. Com a nuvem, os desenvolvedores podem aproveitar recursos escaláveis e on-demand, mas também devem garantir que os dados sejam protegidos contra acessos não autorizados.
+
+→ Principais medidas de segurança:
+ → Utilização de autenticação e autorização
+ → Utilização de criptografia para proteger dados
+ → Utilização de firewalls e segurança de rede
+ → Utilização de práticas de segurança como o desenvolvimento de aplicativos seguros
+
+Essas medidas permitem que os desenvolvedores protejam os dados e garantam a confidencialidade dos aplicativos.
+
+⚠️ Atenção: a segurança e confidencialidade são fundamentais na arquitetura de serviços de computação em nuvem.
+
+═══════════════════
