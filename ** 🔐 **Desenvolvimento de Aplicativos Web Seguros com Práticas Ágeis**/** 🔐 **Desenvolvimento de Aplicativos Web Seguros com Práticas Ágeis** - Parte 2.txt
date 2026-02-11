@@ -1,0 +1,15 @@
+As práticas ágeis são fundamentais para desenhar e implementar aplicativos seguros. Isso inclui:
+
+▸ Desenvolvimento contínuo e integração contínua
+▸ Testes automatizados e manuais
+▸ Versionamento e controle de versões
+▸ Revisão de código e código limpo
+
+→ Implementação de práticas ágeis para segurança:
+  → Integração contínua e deployment contínuo
+  → Testes automatizados e manuais para segurança
+  → Revisão de código e código limpo para segurança
+
+⚠️ Atenção: as práticas ágeis são fundamentais para a segurança dos aplicativos.
+
+═══════════════════
