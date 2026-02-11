@@ -1,0 +1,15 @@
+Os desenvolvedores de aplicativos web precisam seguir práticas ágeis para criar aplicativos seguros. Isso inclui:
+
+▸ Desenvolvimento de código limpo e segurança
+▸ Implementação de autenticação e autorização
+▸ Uso de criptografia para proteger dados
+▸ Implementação de monitoramento e log para segurança
+
+→ Desenvolvimento de aplicativos web seguros com práticas ágeis:
+  → Implementação de autenticação e autorização
+  → Uso de criptografia para proteger dados
+  → Implementação de monitoramento e log para segurança
+
+⚠️ Atenção: os desenvolvedores de aplicativos web precisam seguir práticas ágeis para criar aplicativos seguros.
+
+═══════════════════
