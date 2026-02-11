@@ -1,0 +1,10 @@
+Os aplicativos web modernos exigem segurança robusta para proteger dados confidenciais e prevenir ataques cibernéticos. A segurança é um processo contínuo, não um estado final. É importante implementar práticas ágeis e testes de interface para garantir a segurança dos aplicativos.
+
+▸ Principais pilares da segurança de aplicativos:
+  → Confidencialidade: apenas pessoas autorizadas acessam
+  → Integridade: dados não são alterados indevidamente
+  → Disponibilidade: sistemas permanecem acessíveis
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
+
+═══════════════════
