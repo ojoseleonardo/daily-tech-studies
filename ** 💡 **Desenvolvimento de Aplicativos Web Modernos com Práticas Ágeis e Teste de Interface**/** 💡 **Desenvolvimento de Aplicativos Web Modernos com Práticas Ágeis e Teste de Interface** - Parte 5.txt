@@ -1,0 +1,17 @@
+A prática de desenvolvimento de aplicativos web com práticas de segurança é fundamental para proteger os dados dos usuários e prevenir ataques cibernéticos. Com as práticas de desenvolvimento de aplicativos web com práticas de segurança, os desenvolvedores podem criar soluções seguras e eficientes.
+
+**Principais Conceitos:**
+
+→ **Segurança de Dados:** a proteção dos dados dos usuários contra acessos não autorizados.
+→ **Segurança de Acesso:** a proteção contra acessos não autorizados ao aplicativo.
+→ **Segurança de Integridade:** a proteção contra alterações não autorizadas no aplicativo.
+
+**Ferramentas de Segurança:**
+
+→ **OWASP:** uma organização que fornece diretrizes e ferramentas para a segurança de aplicativos web.
+→ **Bastion:** uma ferramenta de segurança que permite a proteção contra acessos não autorizados ao aplicativo.
+
+**Exemplo:**
+
+* Um aplicativo web que usa OWASP para proteger contra ataques de injeção de SQL.
+* Um aplicativo web que usa Bastion para proteger contra acessos não autorizados ao aplicativo.
