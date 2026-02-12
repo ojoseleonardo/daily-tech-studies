@@ -1,0 +1,19 @@
+A prática de desenvolvimento ágil é uma abordagem que enfatiza a colaboração e a flexibilidade no desenvolvimento de software. Com a prática de desenvolvimento ágil, os desenvolvedores podem trabalhar em equipe para criar soluções que atendam às necessidades dos usuários.
+
+**Principais Conceitos:**
+
+→ **Sprints:** períodos de tempo em que os desenvolvedores trabalham em uma tarefa específica.
+→ **Reuniões de Equipe:** reuniões regulares para discutir o progresso e resolver problemas.
+→ **Priorização de Tarefas:** a identificação das tarefas mais importantes e urgentes.
+
+**Ferramentas de Desenvolvimento:**
+
+→ **Git:** um sistema de controle de versão que permite a colaboração e a rastreabilidade de alterações.
+→ **Jenkins:** uma ferramenta de automação de build e deploy que permite a integração contínua.
+
+**Exemplo:**
+
+* Um aplicativo web que usa o framework React para criar uma interface de usuário interativa.
+* Um aplicativo web que usa a linguagem de programação Python para realizar operações de análise de dados.
+
+═══════════════════
