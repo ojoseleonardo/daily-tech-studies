@@ -1,0 +1,19 @@
+O teste de software é uma etapa importante no desenvolvimento de aplicativos web modernos. Com o teste de software, os desenvolvedores podem identificar e corrigir erros antes que eles afetem a qualidade do produto.
+
+**Tipos de Teste:**
+
+→ **Teste de Unidade:** testes que verificam a funcionalidade de cada unidade de código.
+→ **Teste de Integração:** testes que verificam a interação entre diferentes unidades de código.
+→ **Teste de Aceitação:** testes que verificam a funcionalidade do aplicativo em um ambiente real.
+
+**Ferramentas de Teste:**
+
+→ **Jest:** uma ferramenta de teste de unidade para JavaScript.
+→ **Pytest:** uma ferramenta de teste de unidade para Python.
+
+**Exemplo:**
+
+* Um aplicativo web que usa Jest para testar a funcionalidade de um botão de cálculo.
+* Um aplicativo web que usa Pytest para testar a funcionalidade de um algoritmo de busca.
+
+═══════════════════
