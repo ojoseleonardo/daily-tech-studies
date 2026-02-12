@@ -1,0 +1,13 @@
+O desenvolvimento de infraestrutura como código é uma abordagem que enfatiza a criação de infraestrutura de software como código. Com o desenvolvimento de infraestrutura como código, os desenvolvedores podem criar e gerenciar a infraestrutura de software de forma automatizada.
+
+**Ferramentas de Desenvolvimento:**
+
+→ **Terraform:** uma ferramenta de infraestrutura como código que permite a criação e gerenciamento de infraestrutura de software.
+→ **Ansible:** uma ferramenta de automatização de tarefas que permite a criação e gerenciamento de infraestrutura de software.
+
+**Exemplo:**
+
+* Um aplicativo web que usa Terraform para criar e gerenciar a infraestrutura de rede.
+* Um aplicativo web que usa Ansible para automatizar a criação e gerenciamento de infraestrutura de rede.
+
+═══════════════════
