@@ -1,0 +1,9 @@
+O desenvolvimento de aplicativos web com práticas ágeis envolve a adoção de métodos e ferramentas para garantir a qualidade e a entrega rápida do sistema. As principais práticas incluem:
+
+→ **Desenvolvimento ágil**: a divisão do trabalho em iterações curtas e a entrega de funcionalidades em cada iteração
+→ **Testes de interface**: a verificação da funcionalidade e a validação da experiência do usuário
+→ **Integração contínua**: a automatização da integração e a validação do código em cada iteração
+
+Essas práticas garantem a qualidade e a entrega rápida do sistema, além de proporcionar flexibilidade e escalabilidade.
+
+═════════════════════
