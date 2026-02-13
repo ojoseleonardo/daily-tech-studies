@@ -1,0 +1,9 @@
+A arquitetura de microserviços é uma abordagem para desenvolver e implementar sistemas complexos em componentes menores e independentes. Os principais benefícios incluem:
+
+→ **Escalabilidade**: a capacidade de aumentar a capacidade do sistema para atender a demanda crescente
+→ **Flexibilidade**: a facilidade de atualizar e modificar o sistema sem afetar a estabilidade e a performance
+→ **Segurança**: a proteção contra ameaças cibernéticas e a garantia da confidencialidade, integridade e disponibilidade dos dados
+
+A adesão a arquitetura de microserviços garante a escalabilidade, flexibilidade e segurança do sistema.
+
+═════════════════════
