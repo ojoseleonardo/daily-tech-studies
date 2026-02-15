@@ -1,0 +1,13 @@
+A segurança e conformidade são fundamentais para garantir que a arquitetura de serviços de computação em nuvem seja segura e cumpra com as regulamentações. Isso inclui a implementação de medidas de segurança, como autenticação e autorização, além de cumprir com as regulamentações de dados e privacidade. 🔒
+
+**Principais medidas de segurança:**
+
+→ Autenticação e autorização de usuários
+→ Criptografia de dados em repouso e em trânsito
+→ Monitoramento e resposta a incidentes de segurança
+
+**Desafios:**
+
+→ Garantia de conformidade com regulamentações
+→ Gerenciamento de riscos de segurança
+→ Manutenção de medidas de segurança atualizadas
