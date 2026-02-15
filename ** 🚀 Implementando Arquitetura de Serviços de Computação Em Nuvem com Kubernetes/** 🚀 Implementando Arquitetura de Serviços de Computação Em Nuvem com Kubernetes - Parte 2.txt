@@ -1,0 +1,13 @@
+A implementação de arquitetura de microserviços com Kubernetes é uma abordagem popular para criar sistemas escaláveis e flexíveis. Cada microserviço é responsável por uma funcionalidade específica e pode ser desenvolvido, testado e implantado independentemente dos outros. 🌐
+
+**Principais características:**
+
+→ Isolamento e independência de cada microserviço
+→ Gerenciamento de recursos e escalabilidade
+→ Automatização de processos com scripts e ferramentas
+
+**Desafios:**
+
+→ Comunicação e coordenação entre microserviços
+→ Gerenciamento de dependências e interfaces
+→ Garantia de consistência e integridade entre microserviços
