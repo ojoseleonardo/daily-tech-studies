@@ -1,0 +1,19 @@
+Os aplicativos web modernos são projetados para serem escaláveis, flexíveis e seguros. Com a crescente demanda por soluções de tecnologia, os desenvolvedores precisam estar preparados para criar aplicativos que atendam às necessidades dos usuários. Nesta parte, vamos explorar as práticas ágeis e segurança que são fundamentais para o desenvolvimento de aplicativos web modernos.
+
+**Parágrafo introdutório**
+
+Os aplicativos web modernos são baseados em tecnologias como HTML5, CSS3 e JavaScript. Eles precisam ser capazes de lidar com grandes volumes de dados e fornecer uma experiência de usuário imersiva. Além disso, os aplicativos web modernos precisam ser seguros e protegidos contra ameaças como ataques de segurança e perda de dados.
+
+**Parágragra explicativo**
+
+As práticas ágeis são fundamentais para o desenvolvimento de aplicativos web modernos. Elas permitem que os desenvolvedores trabalhem de forma colaborativa e iterativa, criando soluções que atendam às necessidades dos usuários. Além disso, as práticas ágeis permitem que os desenvolvedores sejam mais flexíveis e adaptem-se às mudanças no mercado.
+
+→ **Ponto importante destacado:** as práticas ágeis permitem que os desenvolvedores criem soluções personalizadas e escaláveis.
+
+→ **Outro ponto relevante:** as práticas ágeis permitem que os desenvolvedores sejam mais flexíveis e adaptem-se às mudanças no mercado.
+
+**Parágrafo de fechamento**
+
+Em resumo, os aplicativos web modernos são projetados para serem escaláveis, flexíveis e seguros. Com a crescente demanda por soluções de tecnologia, os desenvolvedores precisam estar preparados para criar aplicativos que atendam às necessidades dos usuários. Nesta parte, exploramos as práticas ágeis e segurança que são fundamentais para o desenvolvimento de aplicativos web modernos.
+
+═══════════════════
