@@ -1,0 +1,19 @@
+As práticas ágeis são fundamentais para o desenvolvimento de aplicativos web modernos. Nesta parte, vamos explorar as práticas ágeis que são usadas para criar aplicativos web modernos.
+
+**Parágrafo introdutório**
+
+As práticas ágeis permitem que os desenvolvedores trabalhem de forma colaborativa e iterativa, criando soluções que atendam às necessidades dos usuários. Além disso, as práticas ágeis permitem que os desenvolvedores sejam mais flexíveis e adaptem-se às mudanças no mercado.
+
+**Parágrafo explicativo**
+
+As práticas ágeis permitem que os desenvolvedores criem soluções personalizadas e escaláveis. Elas também permitem que os desenvolvedores sejam mais transparentes e responsáveis pela proteção dos dados dos usuários.
+
+→ **Ponto importante destacado:** as práticas ágeis permitem que os desenvolvedores criem soluções personalizadas e escaláveis.
+
+→ **Outro ponto relevante:** as práticas ágeis permitem que os desenvolvedores sejam mais transparentes e responsáveis pela proteção dos dados dos usuários.
+
+**Parágrafo de fechamento**
+
+Em resumo, as práticas ágeis são fundamentais para o desenvolvimento de aplicativos web modernos. Nesta parte, exploramos as práticas ágeis que são usadas para criar aplicativos web modernos.
+
+═══════════════════
