@@ -1,0 +1,19 @@
+Os aplicativos web modernos precisam ser seguros e protegidos contra ameaças como ataques de segurança e perda de dados. Nesta parte, vamos explorar as práticas de segurança que são fundamentais para o desenvolvimento de aplicativos web modernos.
+
+**Parágrafo introdutório**
+
+Os aplicativos web modernos são vulneráveis a ataques de segurança como SQL injection, cross-site scripting (XSS) e cross-site request forgery (CSRF). Além disso, os aplicativos web modernos precisam ser protegidos contra perda de dados e violação de dados.
+
+**Parágrafo explicativo**
+
+As práticas de segurança são fundamentais para o desenvolvimento de aplicativos web modernos. Elas permitem que os desenvolvedores criem soluções que sejam seguras e protegidas contra ameaças. Além disso, as práticas de segurança permitem que os desenvolvedores sejam mais transparentes e responsáveis pela proteção dos dados dos usuários.
+
+→ **Ponto importante destacado:** as práticas de segurança permitem que os desenvolvedores criem soluções seguras e protegidas contra ameaças.
+
+→ **Outro ponto relevante:** as práticas de segurança permitem que os desenvolvedores sejam mais transparentes e responsáveis pela proteção dos dados dos usuários.
+
+**Parágrafo de fechamento**
+
+Em resumo, os aplicativos web modernos precisam ser seguros e protegidos contra ameaças como ataques de segurança e perda de dados. Nesta parte, exploramos as práticas de segurança que são fundamentais para o desenvolvimento de aplicativos web modernos.
+
+═══════════════════
