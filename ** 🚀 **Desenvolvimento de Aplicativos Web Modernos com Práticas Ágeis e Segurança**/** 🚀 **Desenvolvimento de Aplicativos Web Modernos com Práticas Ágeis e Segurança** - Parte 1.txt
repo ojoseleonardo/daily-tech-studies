@@ -1,0 +1,8 @@
+A segurança da informação é um dos principais desafios enfrentados pelos desenvolvedores de aplicativos web modernos. Isso é especialmente verdadeiro à medida que os aplicativos web se tornam mais complexos e dependentes de múltiplas tecnologias. A segurança não é apenas um aspecto importante, mas também uma responsabilidade ética que os desenvolvedores devem assumir ao criar aplicativos web seguros para seus usuários.
+
+▸ Principais pilares da segurança em aplicativos web:
+  → Confidencialidade: apenas pessoas autorizadas acessam os dados
+  → Integridade: dados não são alterados indevidamente
+  → Disponibilidade: sistemas permanecem acessíveis
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
