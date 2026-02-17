@@ -1,0 +1,6 @@
+As práticas ágeis são métodos de desenvolvimento de software que enfatizam a colaboração, a flexibilidade e a entrega contínua. Elas são especialmente adequadas para o desenvolvimento de aplicativos web modernos, que precisam ser escaláveis, flexíveis e capazes de responder rapidamente às mudanças no mercado.
+
+▸ Principais benefícios das práticas ágeis:
+  → Melhoria contínua: aplicativos web são sempre melhorados e atualizados
+  → Flexibilidade: aplicativos web podem ser adaptados rapidamente às mudanças no mercado
+  → Colaboração: equipe de desenvolvimento trabalha de forma colaborativa e eficaz
