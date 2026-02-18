@@ -1,0 +1,6 @@
+A implementação do desenvolvimento de aplicativos web modernos com práticas ágeis e infraestrutura como código requer uma abordagem cuidadosa e planejada. É importante que as equipes sejam treinadas e capacitadas para trabalhar com essa abordagem, e que a infraestrutura seja configurada e automatizada corretamente.
+
+▸ Principais etapas para implementar o desenvolvimento de aplicativos web modernos com práticas ágeis e infraestrutura como código:
+ → **Planejamento**: planejar a implementação e os recursos necessários
+ → **Treinamento**: treinar as equipes para trabalhar com a abordagem
+ → **Configuração**: configurar a infraestrutura e automatizar a configuração
