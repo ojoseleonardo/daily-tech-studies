@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web modernos com práticas ágeis e infraestrutura como código permite que as equipes sejam mais ágeis e respostivas às mudanças no mercado e nos requisitos do cliente. Além disso, essa abordagem permite que as equipes sejam mais produtivas e reduzam os erros humanos.
+
+▸ Principais benefícios do desenvolvimento de aplicativos web modernos com práticas ágeis e infraestrutura como código:
+ → **Flexibilidade**: as equipes podem adaptar-se rapidamente às mudanças no mercado e nos requisitos do cliente
+ → **Produtividade**: as equipes podem ser mais produtivas e reduzir os erros humanos
+ → **Reusabilidade**: a configuração da infraestrutura pode ser reutilizada em diferentes ambientes
