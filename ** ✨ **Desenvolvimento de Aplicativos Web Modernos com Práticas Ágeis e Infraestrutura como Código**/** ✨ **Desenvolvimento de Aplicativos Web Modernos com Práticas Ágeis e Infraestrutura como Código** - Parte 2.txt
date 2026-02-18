@@ -1,0 +1,6 @@
+A infraestrutura como código é uma abordagem que permite que a configuração da infraestrutura seja automatizada e versionada, utilizando ferramentas de código como Terraform e Ansible. Isso permite que as equipes sejam mais produtivas e reduzam os erros humanos.
+
+▸ Principais benefícios da infraestrutura como código:
+ → **Automatização**: a configuração da infraestrutura é automatizada, reduzindo os erros humanos
+ → **Versão**: a configuração da infraestrutura é versionada, permitindo que as equipes rastreiem as mudanças
+ → **Reusabilidade**: a configuração da infraestrutura pode ser reutilizada em diferentes ambientes
