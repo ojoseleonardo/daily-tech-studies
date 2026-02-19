@@ -1,0 +1,8 @@
+A integração contínua e entrega é uma abordagem que permite a integração contínua de código e a entrega contínua de valor para o cliente. Isso inclui a implementação de pipelines de CI/CD.
+
+▸ Principais benefícios:
+  → Integração contínua de código
+  → Entrega contínua de valor para o cliente
+  → Maior confiabilidade e disponibilidade
+
+→ Exemplo de uso da integração contínua e entrega: Jenkins
