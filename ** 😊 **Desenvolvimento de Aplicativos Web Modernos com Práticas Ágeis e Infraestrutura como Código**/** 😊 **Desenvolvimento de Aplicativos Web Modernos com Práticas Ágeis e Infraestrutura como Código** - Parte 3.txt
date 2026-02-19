@@ -1,0 +1,8 @@
+A containerização é uma abordagem que permite a criação de ambientes isolados para aplicativos, utilizando containers. Isso permite a criação de ambientes padronizados e escaláveis.
+
+▸ Principais benefícios:
+  → Ambientes isolados e padronizados
+  → Maior confiabilidade e disponibilidade
+  → Menor tempo de implementação
+
+→ Exemplo de uso da containerização: Docker
