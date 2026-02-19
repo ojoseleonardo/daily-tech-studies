@@ -1,0 +1,8 @@
+Desenvolver aplicativos web modernos com práticas ágeis é uma abordagem que prioriza a flexibilidade, a colaboração e a entrega contínua. Isso significa que os desenvolvedores trabalham em equipe para criar software de alta qualidade em um curto período de tempo.
+
+▸ Principais benefícios:
+  → Maior flexibilidade para mudanças no mercado
+  → Melhor colaboração entre equipes
+  → Entrega contínua de valor para o cliente
+
+⚠️ Atenção: a prática ágil requer uma abordagem diferente da tradicional.
