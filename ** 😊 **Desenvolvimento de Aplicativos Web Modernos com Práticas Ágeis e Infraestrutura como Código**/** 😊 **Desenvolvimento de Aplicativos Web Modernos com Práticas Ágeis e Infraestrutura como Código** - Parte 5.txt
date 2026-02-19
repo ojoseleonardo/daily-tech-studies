@@ -1,0 +1,8 @@
+O monitoramento e acompanhamento de desempenho é uma abordagem que permite a monitorar o desempenho dos sistemas em tempo real. Isso permite a identificação de problemas e a tomada de decisões informadas.
+
+▸ Principais benefícios:
+  → Identificação de problemas em tempo real
+  → Melhor tomada de decisões
+  → Maior confiabilidade e disponibilidade
+
+→ Exemplo de uso do monitoramento: Prometheus
