@@ -1,0 +1,6 @@
+Os testes e a depuração são fundamentais ao desenvolver e implantar microserviços. Os desenvolvedores devem garantir que os serviços sejam testados e depurados para garantir que eles funcionem corretamente.
+
+▸ Exemplos de técnicas de teste:
+  → Testes unitários: serviços devem ser testados individualmente para garantir que eles funcionem corretamente
+  → Testes de integração: serviços devem ser testados em conjunto para garantir que eles funcionem corretamente
+  → Testes de performance: serviços devem ser testados para garantir que eles sejam escaláveis e eficientes
