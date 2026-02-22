@@ -1,0 +1,6 @@
+O desenvolvimento de aplicativos web modernos com práticas ágeis e microserviços é uma abordagem que ganhou popularidade nos últimos anos. O objetivo é criar aplicativos escaláveis, flexíveis e fácil de manter. Nesta parte, vamos explorar a definição e os benefícios dos microserviços.
+
+▸ Principais características:
+  → Independência: cada serviço é independente e pode ser desenvolvido e mantido separadamente
+  → Autonomia: cada serviço tem suas próprias dependências e pode ser escalado individualmente
+  → Flexibilidade: serviços podem ser desenvolvidos em diferentes linguagens e tecnologias
