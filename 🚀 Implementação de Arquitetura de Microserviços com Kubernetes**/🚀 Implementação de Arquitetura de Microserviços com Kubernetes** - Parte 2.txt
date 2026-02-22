@@ -1,0 +1,6 @@
+A arquitetura de microserviços é uma abordagem que divide o aplicativo em serviços menores e independentes. Cada serviço tem sua própria responsabilidade e pode ser desenvolvido e mantido separadamente. Isso permite que os desenvolvedores trabalhem em paralelo e que o aplicativo seja escalado de forma mais eficiente.
+
+▸ Exemplos de serviços:
+  → Autenticação: serviço responsável por realizar a autenticação de usuários
+  → Comércio eletrônico: serviço responsável por realizar as transações financeiras
+  → Notificações: serviço responsável por enviar notificações para os usuários
