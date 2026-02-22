@@ -1,0 +1,6 @@
+O monitoramento e o ajuste são fundamentais ao desenvolver e implantar microserviços. Os desenvolvedores devem garantir que os serviços sejam monitorados e ajustados para garantir que eles funcionem corretamente.
+
+▸ Exemplos de ferramentas de monitoramento:
+  → Logs: serviços devem ser monitorados para detectar erros e problemas
+  → Métricas: serviços devem ser monitorados para detectar problemas de performance
+  → Monitoramento de saúde: serviços devem ser monitorados para detectar problemas de saúde
