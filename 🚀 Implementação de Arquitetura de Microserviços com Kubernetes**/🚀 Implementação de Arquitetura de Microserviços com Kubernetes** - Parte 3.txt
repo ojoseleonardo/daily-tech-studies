@@ -1,0 +1,6 @@
+Kubernetes é um gerenciador de container que permite que os serviços sejam implantados e gerenciados de forma escalável e eficiente. Com Kubernetes, os desenvolvedores podem criar e deployar serviços de forma rápida e fácil.
+
+▸ Benefícios de usar Kubernetes:
+  → Escalabilidade: serviços podem ser escalados automaticamente com base na demanda
+  → Garantia de recursos: Kubernetes garante que os serviços tenham os recursos necessários para funcionar corretamente
+  → Monitoramento e diagnóstico: Kubernetes fornece ferramentas para monitorar e diagnosticar problemas nos serviços
