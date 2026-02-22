@@ -1,0 +1,6 @@
+A segurança é um aspecto importante ao desenvolver e implantar microserviços. Os desenvolvedores devem garantir que os serviços sejam seguros e que os dados dos usuários sejam protegidos.
+
+▸ Exemplos de medidas de segurança:
+  → Autenticação: serviços devem realizar a autenticação de usuários para garantir que apenas pessoas autorizadas tenham acesso
+  → Criptografia: serviços devem usar criptografia para proteger os dados dos usuários
+  → Monitoramento de segurança: serviços devem ser monitorados para detectar e prevenir ataques de segurança
