@@ -1,0 +1,8 @@
+A implementação de arquitetura de serviços de computação em nuvem com práticas ágeis é um processo que envolve a criação de sistemas escaláveis e flexíveis utilizando a nuvem como plataforma. Com práticas ágeis, é possível criar sistemas que sejam mais rápidos e eficientes.
+
+▸ Principais práticas:
+  → Desenvolvimento ágil: sistemas são desenvolvidos em iterativas curtos
+  → Testes contínuos: sistemas são testados em cada etapa do desenvolvimento
+  → Integração contínua: sistemas são integrados em cada etapa do desenvolvimento
+
+📈 Com a combinação de arquitetura de serviços de computação em nuvem e práticas ágeis, é possível criar sistemas que sejam mais rápidos, eficientes e escaláveis.
