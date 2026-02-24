@@ -1,0 +1,8 @@
+A segurança da informação é fundamental para proteger dados contra acessos não autorizados. Organizações investem em múltiplas camadas de proteção para garantir confidencialidade, integridade e disponibilidade.
+
+▸ Principais pilares:
+  → Confidencialidade: apenas pessoas autorizadas acessam
+  → Integridade: dados não são alterados indevidamente
+  → Disponibilidade: sistemas permanecem acessíveis
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
