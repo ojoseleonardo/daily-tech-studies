@@ -1,0 +1,8 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem em que os recursos de computação, armazenamento e rede são fornecidos como serviços em nuvem, em vez de serem gerenciados localmente. Isso permite uma maior flexibilidade, escalabilidade e eficiência em termos de recursos.
+
+A implementação de arquitetura de serviços de computação em nuvem com Kubernetes é uma abordagem popular, pois oferece uma plataforma de orquestração de containers escalável e segura. Kubernetes permite a criação de ambientes de desenvolvimento, teste e produção, de forma automatizada e eficiente.
+
+**Pontos-chave:**
+→ **Automatização de processos**: Kubernetes automatiza a criação, escalonamento e gerenciamento de ambientes de desenvolvimento, teste e produção.
+→ **Escalabilidade**: Kubernetes permite a escalabilidade dos ambientes de desenvolvimento, teste e produção, de forma automatizada.
+→ **Segurança**: Kubernetes oferece mecanismos de segurança robustos para proteger os ambientes de desenvolvimento, teste e produção.
