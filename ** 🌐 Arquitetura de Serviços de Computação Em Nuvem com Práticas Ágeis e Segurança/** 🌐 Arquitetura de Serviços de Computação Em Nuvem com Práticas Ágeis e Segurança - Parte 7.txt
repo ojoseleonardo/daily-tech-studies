@@ -1,0 +1,5 @@
+Kubernetes é uma plataforma de orquestração de contêineres que permite a gestão de aplicativos escaláveis e flexíveis. Aqui estão algumas vantagens de usar Kubernetes:
+
+→ **Escalabilidade**: A escalabilidade envolve a capacidade de aumentar ou diminuir a capacidade de processamento e armazenamento em resposta às necessidades do negócio.
+→ **Flexibilidade**: A flexibilidade envolve a capacidade de escolher entre diferentes provedores de nuvem e modelos de implantação.
+→ **Segurança**: A segurança envolve a proteção de dados e aplicativos com medidas de segurança avançadas.
