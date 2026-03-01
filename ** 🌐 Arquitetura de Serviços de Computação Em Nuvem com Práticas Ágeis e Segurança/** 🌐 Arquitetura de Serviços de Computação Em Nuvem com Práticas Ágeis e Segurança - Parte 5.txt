@@ -1,0 +1,5 @@
+O gerenciamento de recursos em nuvem é fundamental para garantir que os aplicativos sejam eficientes e escaláveis. Aqui estão algumas práticas de gerenciamento de recursos em nuvem:
+
+→ **Alocação de Recursos**: A alocação de recursos envolve a alocação de recursos de computação, armazenamento e rede para os aplicativos.
+→ **Monitoramento de Desempenho**: O monitoramento de desempenho envolve a monitorização do desempenho dos aplicativos e a identificação de áreas de melhoria.
+→ **Planejamento de Capacidade**: O planejamento de capacidade envolve a previsão da demanda de recursos e a alocação de recursos para atender às necessidades do negócio.
