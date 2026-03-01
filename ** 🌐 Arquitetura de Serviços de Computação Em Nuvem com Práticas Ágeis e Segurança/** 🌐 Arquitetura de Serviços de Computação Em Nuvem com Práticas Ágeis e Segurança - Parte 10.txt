@@ -1,0 +1,6 @@
+Aqui estão algumas recomendações finais para implementar a arquitetura de serviços de computação em nuvem com práticas ágeis e segurança:
+
+→ **Avalie as necessidades do negócio**: Avalie as necessidades do negócio e defina as metas e objetivos.
+→ **Escolha uma plataforma de nuvem**: Escolha uma plataforma de nuvem que atenda às necessidades do negócio.
+→ **Implemente práticas ágeis**: Implemente práticas ágeis, como desenvolvimento contínuo, teste contínuo e integração contínua.
+→ **Implemente segurança em nuvem**: Implemente segurança em nuvem, como autenticação e autorização, cifragem de dados e monitoramento de segurança.
