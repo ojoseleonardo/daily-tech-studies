@@ -1,0 +1,5 @@
+As práticas ágeis são uma abordagem para desenvolver e implantar aplicativos de forma rápida e flexível. Aqui estão algumas práticas ágeis para arquitetura de nuvem:
+
+→ **Desenvolvimento Contínuo**: O desenvolvimento contínuo envolve a entrega contínua de valor ao cliente, permitindo que as organizações sejam mais rápidas e responsivas às necessidades do mercado.
+→ **Teste Contínuo**: O teste contínuo envolve a execução de testes automatizados e manuais para garantir a qualidade dos aplicativos.
+→ **Integração Contínua**: A integração contínua envolve a integração contínua de mudanças de código para garantir que os aplicativos sejam sempre estáveis e funcionais.
