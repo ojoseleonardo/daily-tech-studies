@@ -1,0 +1,5 @@
+A segurança em nuvem é fundamental para proteger dados e aplicativos. Aqui estão algumas práticas de segurança em nuvem:
+
+→ **Autenticação e Autorização**: A autenticação e autorização envolvem a verificação da identidade dos usuários e a concessão de acesso a recursos específicos.
+→ **Cifragem de Dados**: A cifragem de dados envolve a proteção de dados sensíveis com algoritmos de cifragem.
+→ **Monitoramento de Segurança**: O monitoramento de segurança envolve a detecção de ameaças e incidentes de segurança.
