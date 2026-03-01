@@ -1,0 +1,5 @@
+Existem três principais modelos de implantação de nuvem:
+
+→ **Nuvem Pública**: A nuvem pública é fornecida por um provedor de nuvem (como Amazon Web Services, Microsoft Azure ou Google Cloud Platform) e é acessível por meio da Internet.
+→ **Nuvem Privada**: A nuvem privada é uma infraestrutura de nuvem que é exclusiva para uma organização e é hospedada em um data center próprio ou em um provedor de nuvem.
+→ **Nuvem Híbrida**: A nuvem híbrida é uma combinação de nuvem pública e privada, permitindo que as organizações aproveitem as vantagens de ambas as opções.
