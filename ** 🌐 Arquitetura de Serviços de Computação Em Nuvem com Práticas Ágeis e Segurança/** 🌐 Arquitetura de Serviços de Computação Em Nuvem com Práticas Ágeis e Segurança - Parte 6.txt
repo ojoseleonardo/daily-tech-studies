@@ -1,0 +1,5 @@
+A Infraestrutura como Código (IaC) é uma abordagem para gerenciar a infraestrutura de nuvem como código. Aqui estão algumas vantagens da IaC:
+
+→ **Automatização**: A automatização envolve a automatização da criação e gerenciamento de infraestrutura.
+→ **Repetibilidade**: A repetibilidade envolve a criação de infraestrutura idêntica em diferentes ambientes.
+→ **Segurança**: A segurança envolve a proteção de infraestrutura com medidas de segurança avançadas.
