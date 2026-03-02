@@ -1,0 +1,5 @@
+O teste de interface é uma prática importante para garantir que os aplicativos web sejam fáceis de usar e fornecem uma experiência de usuário agradável. Isso envolve a criação de cenários de teste, a execução de testes manuais e automatizados, e a análise dos resultados.
+
+📊 Análise de dados para identificar problemas
+🔍 Criação de cenários de teste para cobrir diferentes casos
+📈 Melhoria contínua do aplicativo com base nos resultados dos testes
