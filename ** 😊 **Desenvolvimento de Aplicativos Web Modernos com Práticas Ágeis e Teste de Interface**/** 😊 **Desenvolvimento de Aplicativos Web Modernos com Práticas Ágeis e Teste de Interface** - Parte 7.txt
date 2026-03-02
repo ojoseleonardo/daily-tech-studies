@@ -1,0 +1,5 @@
+O desenvolvimento de aplicativos web com práticas ágeis envolve a utilização de métodos como Scrum e Kanban para gerenciar o desenvolvimento do aplicativo. Isso permite que as equipes de desenvolvimento trabalhem de forma colaborativa e flexível para criar soluções de alta qualidade.
+
+💻 Utilização de métodos ágeis para gerenciar o desenvolvimento do aplicativo
+🤝 Colaboração e comunicação entre os membros da equipe
+📈 Aumento da produtividade e redução do tempo de entrega
