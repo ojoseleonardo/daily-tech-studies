@@ -1,0 +1,9 @@
+O monitoramento e a logística são fundamentais para a implementação de arquitetura de serviços de computação em nuvem. Isso inclui a monitorização de recursos, a detecção de problemas e a manutenção de sistemas.
+
+▸ Exemplos de ferramentas de monitoramento:
+  → Prometheus
+  → Grafana
+  → New Relic
+
+📊 Exemplo: uma empresa pode utilizar ferramentas de monitoramento para monitorizar recursos e detectar problemas em sua arquitetura de serviços de computação em nuvem.
+═══════════════════
