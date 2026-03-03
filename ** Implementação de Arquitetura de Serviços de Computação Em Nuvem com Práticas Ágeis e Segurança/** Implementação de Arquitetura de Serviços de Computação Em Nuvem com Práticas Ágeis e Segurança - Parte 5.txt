@@ -1,0 +1,9 @@
+A infraestrutura como código (IaC) é um método de gerenciamento de infraestrutura que utiliza código para definir e implementar a infraestrutura. Isso pode ser utilizado para implementar uma arquitetura de serviços de computação em nuvem com recursos compartilhados, escaláveis e gerenciados remotamente.
+
+▸ Exemplos de ferramentas IaC:
+  → Terraform
+  → AWS CloudFormation
+  → Azure Resource Manager
+
+📈 Exemplo: uma empresa pode utilizar uma ferramenta IaC para implementar uma arquitetura de serviços de computação em nuvem com recursos compartilhados, escaláveis e gerenciados remotamente.
+═══════════════════
