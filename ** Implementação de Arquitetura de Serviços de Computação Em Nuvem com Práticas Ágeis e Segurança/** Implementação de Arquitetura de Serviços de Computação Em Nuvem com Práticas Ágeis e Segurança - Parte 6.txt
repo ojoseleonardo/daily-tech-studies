@@ -1,0 +1,9 @@
+O Kubernetes é um sistema de gerenciamento de container que pode ser utilizado para implementar uma arquitetura de serviços de computação em nuvem com recursos compartilhados, escaláveis e gerenciados remotamente. Isso pode ser utilizado para melhorar a escalabilidade, a flexibilidade e a eficiência do desenvolvimento.
+
+▸ Exemplos de recursos do Kubernetes:
+  → Deployment
+  → Service
+  → Persistent Volume
+
+🔧 Exemplo: uma empresa pode utilizar o Kubernetes para implementar uma arquitetura de serviços de computação em nuvem com recursos compartilhados, escaláveis e gerenciados remotamente.
+═══════════════════
