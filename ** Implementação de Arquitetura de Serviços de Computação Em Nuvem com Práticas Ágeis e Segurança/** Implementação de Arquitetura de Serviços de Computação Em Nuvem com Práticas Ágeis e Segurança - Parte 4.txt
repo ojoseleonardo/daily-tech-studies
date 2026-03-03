@@ -1,0 +1,9 @@
+A segurança é um dos principais aspectos a considerar na implementação de arquitetura de serviços de computação em nuvem. Isso inclui a proteção de dados contra acessos não autorizados, a integridade e a disponibilidade dos sistemas.
+
+▸ Exemplos de medidas de segurança:
+  → Autenticação e autorização
+  → Criptografia de dados
+  → Monitoramento de atividades
+
+🔒 Exemplo: uma empresa pode implementar medidas de segurança para proteger os dados e sistemas de sua arquitetura de serviços de computação em nuvem.
+═══════════════════
