@@ -1,0 +1,9 @@
+As práticas ágeis são métodos e técnicas que visam melhorar a velocidade, flexibilidade e resiliência do desenvolvimento de software. Na implementação de arquitetura de serviços de computação em nuvem, práticas ágeis podem ser utilizadas para melhorar a eficiência e a eficácia do desenvolvimento.
+
+▸ Exemplos de práticas ágeis:
+  → Desenvolvimento em pequenas iterações
+  → Testes contínuos e feedback
+  → Priorização de requisitos com base em valor
+
+💻 Exemplo: uma empresa pode utilizar práticas ágeis para implementar uma arquitetura de serviços de computação em nuvem com recursos compartilhados, escaláveis e gerenciados remotamente.
+═══════════════════
