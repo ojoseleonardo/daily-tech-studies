@@ -1,0 +1,10 @@
+A segurança em microserviços com Kubernetes exige uma abordagem proativa e contínua. Com Kubernetes, é possível implementar políticas de segurança robustas, como autenticação e autorização, para garantir a integridade e a confidencialidade dos dados.
+
+▸ Principais recursos de segurança em Kubernetes:
+  → Pod Security Policies: políticas de segurança para pods
+  → Network Policies: políticas de rede para microserviços
+  → Secret Management: gerenciamento de segredos nos microserviços
+
+💻 Observando que a implementação de segurança em microserviços com Kubernetes exige conhecimento avançado em segurança de rede e segurança de aplicativos.
+
+═══════════════════
