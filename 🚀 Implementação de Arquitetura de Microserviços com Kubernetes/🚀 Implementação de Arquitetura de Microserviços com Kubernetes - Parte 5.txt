@@ -1,0 +1,10 @@
+Prometheus e Grafana são ferramentas populares para monitorar e acompanhar microserviços. Com essas ferramentas, é possível criar dashboards personalizados para visualizar métricas de desempenho e outros dados importantes dos microserviços.
+
+▸ Principais recursos de Prometheus e Grafana:
+  → Scraping: coletar métricas dos microserviços
+  → Alerting: gerenciar alertas para problemas nos microserviços
+  → Dashboards: criar visualizações personalizadas para os microserviços
+
+📈 Observando que a implementação de Prometheus e Grafana exige conhecimento avançado em monitoramento de desempenho e análise de dados.
+
+═══════════════════
