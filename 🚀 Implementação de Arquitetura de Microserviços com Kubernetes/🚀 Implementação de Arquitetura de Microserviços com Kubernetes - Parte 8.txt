@@ -1,0 +1,8 @@
+As práticas ágeis são fundamentais para o desenvolvimento de microserviços. Com práticas ágeis, é possível criar microserviços escaláveis e robustos, que podem ser implantados em ambientes de produção com confiança.
+
+▸ Principais práticas ágeis para desenvolvimento de microserviços:
+  → Desenvolvimento contínuo: iterativas de desenvolvimento
+  → Testes: garantir a qualidade dos microserviços
+  → Integração contínua: implantar e testar os microserviços regularmente
+
+✨ Observando que a implementação de práticas ágeis para desenvolvimento de microserviços exige conhecimento avançado em desenvolvimento de software e gerenciamento de projetos.
