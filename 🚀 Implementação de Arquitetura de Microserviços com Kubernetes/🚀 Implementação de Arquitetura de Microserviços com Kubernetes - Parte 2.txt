@@ -1,0 +1,10 @@
+Kubernetes é uma ferramenta de gerenciamento de container que permite implantar, gerenciar e escalonar microserviços de forma eficiente. Com Kubernetes, é possível criar e gerenciar clusters de containers, garantindo a escalabilidade e a disponibilidade dos microserviços.
+
+▸ Principais recursos de Kubernetes:
+  → Deployment: implantar e gerenciar containers
+  → Service: expor serviços de microserviços para outros microserviços ou aplicativos
+  → Persistent Volume: armazenar dados persistentes nos microserviços
+
+💻 Observando que a implementação de Kubernetes exige conhecimento avançado em gerenciamento de containers e orquestração de aplicações.
+
+═══════════════════
