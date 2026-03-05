@@ -1,0 +1,10 @@
+Java e Spring Boot são tecnologias populares para desenvolver microserviços. Com essas tecnologias, é possível criar microserviços escaláveis e robustos, que podem ser implantados em ambientes de produção com confiança.
+
+▸ Principais recursos de Java e Spring Boot:
+  → Anotações: simplificar o desenvolvimento de microserviços
+  → Dependency Injection: injeção de dependências entre microserviços
+  → RestTemplate: criar chamadas de API para outros microserviços
+
+✨ Observando que a integração de Java e Spring Boot com Kubernetes é uma abordagem comum para implementar microserviços escaláveis.
+
+═══════════════════
