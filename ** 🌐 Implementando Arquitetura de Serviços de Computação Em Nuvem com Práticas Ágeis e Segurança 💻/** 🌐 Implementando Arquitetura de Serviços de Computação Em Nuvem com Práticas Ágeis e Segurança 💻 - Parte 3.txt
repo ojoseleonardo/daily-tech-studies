@@ -1,0 +1,12 @@
+A implementação da arquitetura de serviços de computação em nuvem é um processo contínuo. Organizações devem considerar a seguir:
+
+▸ Máquina virtual (VM): recursos são alocados em uma VM
+▸ Container: recursos são alocados em um container
+▸ Serviço de gerenciamento de conteúdo (CMS): recursos são alocados em um CMS
+
+→ Vantagens da implementação com VM:
+  → Escalabilidade: recursos podem ser escalados dinamicamente
+  → Flexibilidade: recursos podem ser alocados e realocados rapidamente
+  → Segurança: dados são protegidos por múltiplas camadas de segurança
+
+─────────────
