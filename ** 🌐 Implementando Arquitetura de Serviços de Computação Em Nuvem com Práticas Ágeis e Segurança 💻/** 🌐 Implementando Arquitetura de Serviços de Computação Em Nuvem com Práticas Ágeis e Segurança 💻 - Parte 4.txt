@@ -1,0 +1,12 @@
+As práticas ágeis são fundamentais para a implementação da arquitetura de serviços de computação em nuvem. Organizações devem considerar a seguir:
+
+▸ DevOps: desenvolvimento e operação são integrados
+▸ Infraestrutura como código (IaC): recursos são gerenciados por código
+▸ Segurança como código (SbC): segurança é integrada ao código
+
+→ Vantagens das práticas ágeis:
+  → Escalabilidade: recursos podem ser escalados dinamicamente
+  → Flexibilidade: recursos podem ser alocados e realocados rapidamente
+  → Segurança: dados são protegidos por múltiplas camadas de segurança
+
+─────────────
