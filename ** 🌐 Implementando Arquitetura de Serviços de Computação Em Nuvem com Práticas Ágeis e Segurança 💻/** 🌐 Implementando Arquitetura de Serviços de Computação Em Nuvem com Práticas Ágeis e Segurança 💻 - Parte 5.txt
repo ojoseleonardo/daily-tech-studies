@@ -1,0 +1,5 @@
+A implementação da arquitetura de serviços de computação em nuvem é um processo contínuo. Organizações devem considerar a seguir as práticas ágeis, a escalabilidade, a flexibilidade e a segurança. Além disso, é fundamental ter em mente que a arquitetura de serviços de computação em nuvem é uma abordagem moderna para a implementação de aplicativos escaláveis e seguros.
+
+→ Conclusão: a implementação da arquitetura de serviços de computação em nuvem é um processo contínuo que exige práticas ágeis, escalabilidade, flexibilidade e segurança.
+
+═══════════════════
