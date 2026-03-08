@@ -1,0 +1,11 @@
+O design da arquitetura de serviços de computação em nuvem é crucial para garantir a escalabilidade, a flexibilidade e a segurança dos sistemas. Organizações devem considerar a seguir:
+
+▸ Arquitetura de microserviços: cada serviço é uma unidade independente
+▸ Arquitetura de monolitos: todos os serviços estão em um único sistema
+
+→ Vantagens da arquitetura de microserviços:
+  → Escalabilidade: cada serviço pode ser escalado independentemente
+  → Flexibilidade: cada serviço pode ser alocado e realocado rapidamente
+  → Segurança: cada serviço pode ser protegido por múltiplas camadas de segurança
+
+─────────────
