@@ -1,0 +1,11 @@
+O deploy e a manutenção de aplicativos são fundamentais para garantir que as aplicações sejam escaláveis e fáceis de manter. O desenvolvedor deve trabalhar em estreita colaboração com o time de operações para garantir que as aplicações sejam implantadas e manejadas corretamente.
+
+**Principais Conceitos**
+
+▸ **Deploy de Aplicativos**: implantação de aplicações em produção.
+▸ **Manutenção de Aplicativos**: garantia de que as aplicações sejam escaláveis e fáceis de manter.
+▸ **Desenvolvimento de Aplicativos Web Modernos**: criação de software escalável e flexível.
+
+✓ O deploy e a manutenção são processos contínuos que envolvem a monitorização e a otimização de desempenho.
+
+═══════════════════
