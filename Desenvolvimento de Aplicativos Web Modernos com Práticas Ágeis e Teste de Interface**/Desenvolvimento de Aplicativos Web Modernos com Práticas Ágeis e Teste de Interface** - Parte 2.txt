@@ -1,0 +1,11 @@
+A análise de requisitos e o design de aplicativos são fundamentais para garantir que as aplicações sejam funcionais, escaláveis e fáceis de manter. O desenvolvedor deve trabalhar em estreita colaboração com o cliente para entender os requisitos e criar um design que atenda às necessidades.
+
+**Principais Conceitos**
+
+▸ **Análise de Requisitos**: identificação dos requisitos do projeto.
+▸ **Design de Aplicativos**: criação de um design que atenda às necessidades do cliente.
+▸ **Desenvolvimento de Aplicativos Web Modernos**: criação de software escalável e flexível.
+
+✓ O design é um processo contínuo que envolve a criação de protótipos e testes.
+
+═══════════════════
