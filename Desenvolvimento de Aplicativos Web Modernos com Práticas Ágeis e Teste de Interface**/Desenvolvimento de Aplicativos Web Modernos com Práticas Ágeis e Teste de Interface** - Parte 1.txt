@@ -1,0 +1,11 @@
+O desenvolvimento de aplicativos web modernos envolve a criação de software escalável, flexível e fácil de manter. Práticas ágeis como o Scrum e o Kanban são utilizadas para gerenciar os projetos e garantir a entrega de valor contínuo. Além disso, o teste de interface (UI) é fundamental para garantir que as aplicações sejam intuitivas e fáceis de usar.
+
+**Principais Conceitos**
+
+▸ **Desenvolvimento Ágil**: abordagem para gerenciar projetos que enfatiza a flexibilidade e a entrega contínua.
+▸ **Teste de Interface (UI)**: verifica se a interface do usuário é fácil de usar e intuitiva.
+▸ **Desenvolvimento de Aplicativos Web Modernos**: criação de software escalável e flexível.
+
+⚠️ Atenção: a prática ágil é um processo contínuo, não um estado final.
+
+═══════════════════
