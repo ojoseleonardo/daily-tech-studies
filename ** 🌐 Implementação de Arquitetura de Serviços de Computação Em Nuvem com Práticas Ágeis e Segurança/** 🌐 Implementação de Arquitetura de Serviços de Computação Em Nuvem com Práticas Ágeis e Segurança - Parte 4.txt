@@ -1,0 +1,9 @@
+A segurança da nuvem é fundamental para proteger os dados e sistemas implantados em nuvem. Algumas das principais medidas de segurança incluem:
+
+▸ Autenticação e autorização
+▸ Criptografia
+▸ Monitoramento e detecção de intrusões
+
+→ Exemplo: uma empresa pode utilizar a autenticação e autorização para proteger os dados de seus usuários.
+
+═══════════════════
