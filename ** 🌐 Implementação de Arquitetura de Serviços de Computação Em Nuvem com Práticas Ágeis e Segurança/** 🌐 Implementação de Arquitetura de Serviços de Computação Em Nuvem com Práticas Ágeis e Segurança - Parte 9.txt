@@ -1,0 +1,9 @@
+O monitoramento da nuvem é fundamental para garantir que as empresas possam monitorar os sistemas escaláveis e flexíveis em nuvem. Algumas das principais medidas para melhorar o monitoramento incluem:
+
+▸ Realizar uma análise de necessidades
+▸ Utilizar tecnologias de monitoramento escalável
+▸ Monitorar e ajustar o monitoramento em tempo real
+
+→ Exemplo: uma empresa pode utilizar a tecnologia de monitoramento escalável para monitorar um sistema de gerenciamento de estoque em nuvem.
+
+═══════════════════
