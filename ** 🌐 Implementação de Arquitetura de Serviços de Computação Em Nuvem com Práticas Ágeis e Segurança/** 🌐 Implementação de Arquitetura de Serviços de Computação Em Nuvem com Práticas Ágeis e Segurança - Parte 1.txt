@@ -1,0 +1,10 @@
+A arquitetura de serviços de computação em nuvem é uma abordagem moderna para desenvolver e implantar sistemas escaláveis e flexíveis. É fundamental entender os fundamentos dessa arquitetura para criar soluções eficazes e seguras.
+
+▸ Principais características:
+  → Escalabilidade: sistemas podem ser escalados facilmente para atender às necessidades de carga
+  → Flexibilidade: sistemas podem ser configurados e implantados de forma rápida e fácil
+  → Segurança: sistemas podem ser protegidos com medidas de segurança robustas
+
+⚠️ Atenção: a arquitetura de nuvem é uma escolha crítica para organizações que buscam inovação e competitividade.
+
+═══════════════════
