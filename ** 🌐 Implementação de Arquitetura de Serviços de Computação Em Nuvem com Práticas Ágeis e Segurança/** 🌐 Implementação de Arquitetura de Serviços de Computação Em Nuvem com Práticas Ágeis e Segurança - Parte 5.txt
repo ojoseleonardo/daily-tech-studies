@@ -1,0 +1,9 @@
+O desempenho da nuvem é fundamental para garantir que os sistemas implantados em nuvem sejam escaláveis e flexíveis. Algumas das principais medidas para melhorar o desempenho incluem:
+
+▸ Optimize os recursos de hardware e software
+▸ Utilizar tecnologias de armazenamento escalável
+▸ Monitorar e ajustar o desempenho em tempo real
+
+→ Exemplo: uma empresa pode utilizar a tecnologia de armazenamento escalável para melhorar o desempenho de um sistema de gerenciamento de estoque em nuvem.
+
+═══════════════════
