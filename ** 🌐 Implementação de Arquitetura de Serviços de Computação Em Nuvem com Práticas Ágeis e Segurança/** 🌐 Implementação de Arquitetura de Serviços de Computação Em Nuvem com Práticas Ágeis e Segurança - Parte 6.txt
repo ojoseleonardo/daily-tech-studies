@@ -1,0 +1,9 @@
+O orçamento da nuvem é fundamental para garantir que as empresas tenham uma visão clara dos custos associados à implementação e manutenção de sistemas em nuvem. Algumas das principais medidas para melhorar o orçamento incluem:
+
+▸ Realizar um cálculo preciso dos custos
+▸ Utilizar tecnologias de orçamento escalável
+▸ Monitorar e ajustar o orçamento em tempo real
+
+→ Exemplo: uma empresa pode utilizar a tecnologia de orçamento escalável para melhorar o orçamento de um sistema de gerenciamento de estoque em nuvem.
+
+═══════════════════
