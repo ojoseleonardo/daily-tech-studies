@@ -1,0 +1,9 @@
+A arquitetura de serviços de computação em nuvem oferece vários benefícios, incluindo:
+
+▸ Redução de custos: sistemas podem ser implantados e gerenciados sem a necessidade de investir em infraestrutura física
+▸ Melhoria da escalabilidade: sistemas podem ser escalados facilmente para atender às necessidades de carga
+▸ Aumento da flexibilidade: sistemas podem ser configurados e implantados de forma rápida e fácil
+
+→ Exemplo: uma empresa pode implantar um sistema de gerenciamento de estoque em nuvem para reduzir os custos de infraestrutura e melhorar a escalabilidade.
+
+═══════════════════
