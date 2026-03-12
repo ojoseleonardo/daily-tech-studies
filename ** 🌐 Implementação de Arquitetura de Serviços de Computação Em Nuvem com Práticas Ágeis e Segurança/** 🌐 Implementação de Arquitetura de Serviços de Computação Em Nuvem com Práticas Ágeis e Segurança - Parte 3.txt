@@ -1,0 +1,9 @@
+Existem várias tecnologias de nuvem que podem ser utilizadas para desenvolver e implantar sistemas escaláveis e flexíveis. Algumas das principais tecnologias incluem:
+
+▸ Amazon Web Services (AWS)
+▸ Microsoft Azure
+▸ Google Cloud Platform (GCP)
+
+→ Exemplo: uma empresa pode utilizar a AWS para implantar um sistema de gerenciamento de estoque em nuvem.
+
+═══════════════════
