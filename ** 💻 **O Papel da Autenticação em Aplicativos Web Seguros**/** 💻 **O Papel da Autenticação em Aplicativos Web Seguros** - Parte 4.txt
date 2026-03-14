@@ -1,0 +1,9 @@
+A autenticação é apenas um dos componentes de uma estratégia de segurança completa em aplicativos web. Outros componentes incluem a criptografia, a firewall e a monitorização de segurança.
+
+▸ Criptografia:
+  → Proteção de dados em trânsito
+  → Proteção de dados em repouso
+
+▸ Firewall:
+  → Bloqueio de acessos não autorizados
+  → Proteção de recursos da aplicação
