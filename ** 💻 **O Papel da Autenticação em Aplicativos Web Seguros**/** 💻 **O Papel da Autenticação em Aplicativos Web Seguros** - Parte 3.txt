@@ -1,0 +1,9 @@
+A implementação de autenticação em aplicativos web envolve várias etapas, incluindo a criação de uma política de autenticação, a configuração de um mecanismo de autenticação e a integração com o sistema de gerenciamento de usuários.
+
+▸ Política de Autenticação:
+  → Definição de critérios de autenticação
+  → Configuração de regras de acesso
+
+▸ Mecanismo de Autenticação:
+  → Utilização de tokens ou certificados digitais
+  → Integração com o sistema de gerenciamento de usuários
