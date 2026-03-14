@@ -1,0 +1,9 @@
+Existem dois principais tipos de autenticação em aplicativos web: autenticação básica e autenticação avançada. A autenticação básica utiliza um nome de usuário e senha, enquanto a autenticação avançada utiliza tokens ou certificados digitais.
+
+▸ Autenticação Básica:
+  → Nome de usuário e senha
+  → Vulnerável a ataques de brute-force
+
+▸ Autenticação Avançada:
+  → Tokens ou certificados digitais
+  → Mais seguro do que a autenticação básica
