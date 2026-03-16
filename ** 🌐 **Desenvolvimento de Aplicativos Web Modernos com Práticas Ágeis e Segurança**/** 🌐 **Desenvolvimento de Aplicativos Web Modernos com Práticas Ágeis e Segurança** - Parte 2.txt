@@ -1,0 +1,10 @@
+A segurança em aplicativos web é fundamental para proteger dados e sistemas contra ameaças cibernéticas. As práticas ágeis devem incluir a implementação de medidas de segurança, como autenticação e autorização, criptografia e testes de segurança.
+
+▸ Principais medidas de segurança em aplicativos web:
+  → **Autenticação**: verificação de identidade dos usuários
+  → **Autorização**: controle de acesso aos recursos e dados
+  → **Criptografia**: proteção de dados em trânsito e armazenamento
+
+→ Importante: a segurança em aplicativos web é um processo contínuo e deve ser monitorado e atualizado regularmente.
+
+═══════════════════
