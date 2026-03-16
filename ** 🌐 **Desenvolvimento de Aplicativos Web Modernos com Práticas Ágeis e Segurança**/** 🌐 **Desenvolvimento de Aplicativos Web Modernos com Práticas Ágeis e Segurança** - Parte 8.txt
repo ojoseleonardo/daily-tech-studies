@@ -1,0 +1,10 @@
+A integração com outras tecnologias é fundamental para criar soluções escaláveis e eficientes. As práticas ágeis permitem que os desenvolvedores criem aplicativos que se integram com outras tecnologias e sejam adaptados à mudança constante do mercado de tecnologia.
+
+▸ Principais tecnologias para integração:
+  → **API**: interface de programação de aplicações para integração com outras tecnologias
+  → **Microserviços**: arquitetura de software para criar aplicativos escaláveis e flexíveis
+  → **Banco de dados**: sistema de armazenamento de dados para suportar as necessidades do aplicativo
+
+→ Importante: a escolha das tecnologias depende do projeto e das necessidades específicas do cliente.
+
+═══════════════════
