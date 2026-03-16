@@ -1,0 +1,10 @@
+O teste de interface é um processo crucial no desenvolvimento de aplicativos web modernos. O objetivo é garantir que a interface seja fácil de usar, intuitiva e eficaz para os usuários.
+
+▸ Principais fases do teste de interface:
+  → **Desenvolvimento de cenários**: criação de cenários de uso para simular o comportamento dos usuários
+  → **Execução de testes**: execução dos testes para identificar problemas e melhorar a interface
+  → **Análise e correção**: análise dos resultados e correção dos problemas identificados
+
+→ Importante: o teste de interface deve ser realizado em diferentes plataformas e dispositivos para garantir a compatibilidade.
+
+═══════════════════
