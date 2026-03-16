@@ -1,0 +1,10 @@
+A análise de desempenho é fundamental para garantir que os aplicativos web modernos sejam eficientes e escaláveis. A análise de desempenho deve ser realizada regularmente para identificar problemas e melhorar a performance do aplicativo.
+
+▸ Principais indicadores de desempenho:
+  → **Velocidade de carregamento**: tempo necessário para carregar os recursos do aplicativo
+  → **Uso de memória**: quantidade de memória utilizada pelo aplicativo
+  → **Taxa de resposta**: tempo necessário para responder às requisições do usuário
+
+→ Importante: a análise de desempenho deve ser realizada em diferentes cenários e plataformas para garantir a consistência.
+
+═══════════════════
