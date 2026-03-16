@@ -1,0 +1,10 @@
+A evolução da tecnologia e a crescente demanda por soluções de software levaram ao surgimento de práticas ágeis, que se caracterizam por ser flexíveis, iterativas e centradas no cliente. As práticas ágeis permitem que os desenvolvedores criem soluções que atendam às necessidades dos usuários e sejam adaptadas à mudança constante do mercado de tecnologia.
+
+▸ Principais principios das práticas ágeis:
+  → **Iteração**: desenvolvimento em ciclos curtos e contínuo
+  → **Flexibilidade**: adaptação às mudanças e necessidades do cliente
+  → **Colaboração**: trabalho em equipe e comunicação eficaz
+
+⚠️ A segurança é um aspecto crucial na aplicação das práticas ágeis, pois requer a proteção de dados e sistemas contra ameaças cibernéticas.
+
+═══════════════════
