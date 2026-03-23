@@ -1,0 +1,8 @@
+A segurança é fundamental para garantir a confidencialidade, integridade e disponibilidade dos dados e dos sistemas.
+
+▸ Principais medidas:
+ → Utilização de autenticação e autorização robustas
+ → Implementação de critérios de segurança (OWASP, etc.)
+ → Utilização de tecnologias de segurança (SSL/TLS, etc.)
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
