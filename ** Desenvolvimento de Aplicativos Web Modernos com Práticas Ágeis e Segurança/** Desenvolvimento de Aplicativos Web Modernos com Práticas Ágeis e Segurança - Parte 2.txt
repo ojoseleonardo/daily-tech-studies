@@ -1,0 +1,11 @@
+A prática ágil é uma abordagem flexível que permite adaptar-se às mudanças no projeto e priorizar as tarefas mais importantes.
+
+▸ Principais ferramentas:
+ → Utilização de Scrum e Kanban
+ → Integração contínua e entrega contínua
+ → Testes automatizados e integração contínua
+
+→ Benefícios:
+ → Maior flexibilidade e adaptação às mudanças
+ → Priorização das tarefas mais importantes
+ → Melhoria contínua da qualidade dos produtos
