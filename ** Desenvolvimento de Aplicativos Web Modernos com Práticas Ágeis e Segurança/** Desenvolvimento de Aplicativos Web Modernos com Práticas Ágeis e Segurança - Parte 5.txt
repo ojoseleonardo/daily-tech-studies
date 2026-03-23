@@ -1,0 +1,11 @@
+A infraestrutura como código é uma abordagem que permite gerenciar e automatizar a infraestrutura dos sistemas.
+
+▸ Principais ferramentas:
+ → Utilização de Terraform e AWS CloudFormation
+ → Utilização de Ansible e Puppet
+ → Utilização de Docker e Kubernetes
+
+→ Benefícios:
+ → Maior flexibilidade e adaptação às mudanças
+ → Melhoria contínua da eficiência e escalabilidade
+ → Redução dos custos e aumento da produtividade
