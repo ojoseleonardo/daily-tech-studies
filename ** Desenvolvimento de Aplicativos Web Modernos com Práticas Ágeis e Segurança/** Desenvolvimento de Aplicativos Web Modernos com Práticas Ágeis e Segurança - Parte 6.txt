@@ -1,0 +1,8 @@
+A autenticação e autorização são fundamentais para garantir a segurança e a confidencialidade dos dados e dos sistemas.
+
+▸ Principais medidas:
+ → Utilização de autenticação e autorização robustas
+ → Implementação de critérios de segurança (OWASP, etc.)
+ → Utilização de tecnologias de segurança (SSL/TLS, etc.)
+
+⚠️ Atenção: a autenticação e autorização são processos contínuos, não estados finais.
