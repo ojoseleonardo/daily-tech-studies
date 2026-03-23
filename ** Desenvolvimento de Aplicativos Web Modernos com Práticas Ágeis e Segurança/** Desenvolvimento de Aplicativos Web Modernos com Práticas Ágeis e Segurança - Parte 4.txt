@@ -1,0 +1,11 @@
+A análise de desempenho e monitoramento são fundamentais para garantir que os sistemas estejam funcionando de forma eficiente e escalável.
+
+▸ Principais ferramentas:
+ → Utilização de ferramentas de monitoramento (e.g. Prometheus, Grafana)
+ → Análise de logs e métricas
+ → Utilização de ferramentas de desempenho (e.g. New Relic)
+
+→ Benefícios:
+ → Melhoria contínua da eficiência e escalabilidade
+ → Identificação de problemas e resolução de problemas
+ → Melhoria da experiência do usuário
