@@ -1,0 +1,11 @@
+A análise de dados e inteligência artificial são fundamentais para garantir que os sistemas estejam funcionando de forma eficiente e escalável.
+
+▸ Principais ferramentas:
+ → Utilização de ferramentas de análise de dados (e.g. Tableau, Power BI)
+ → Utilização de ferramentas de inteligência artificial (e.g. TensorFlow, PyTorch)
+ → Utilização de ferramentas de machine learning (e.g. scikit-learn, Keras)
+
+→ Benefícios:
+ → Melhoria contínua da eficiência e escalabilidade
+ → Identificação de problemas e resolução de problemas
+ → Melhoria da experiência do usuário
