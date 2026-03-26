@@ -1,0 +1,14 @@
+As práticas de segurança para a arquitetura de serviços de computação em nuvem incluem:
+
+• **Segurança da Informação**: segurança da informação para proteger os dados e os aplicativos contra ameaças e ataques.
+• **Autenticação e Autorização**: autenticação e autorização para garantir que apenas as pessoas autorizadas tenham acesso aos aplicativos e dados.
+• **Monitoramento e Análise de Amostras**: monitoramento e análise de amostras para detectar e prevenir ameaças e ataques.
+
+Além disso, as práticas de segurança também incluem:
+
+• **Implantação de Segurança**: implantação de segurança para garantir que os aplicativos sejam implantados em ambientes de produção com segurança.
+• **Treinamento de Equipe**: treinamento de equipe para garantir que as equipes estejam treinadas para gerenciar e cumprir com as práticas de segurança.
+
+A seguir, vamos explorar as principais ferramentas e tecnologias para a arquitetura de serviços de computação em nuvem.
+
+═══════════════════
