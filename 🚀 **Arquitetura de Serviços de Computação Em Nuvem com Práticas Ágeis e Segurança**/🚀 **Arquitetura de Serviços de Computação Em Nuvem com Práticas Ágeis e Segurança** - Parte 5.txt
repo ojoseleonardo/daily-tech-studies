@@ -1,0 +1,10 @@
+As ferramentas e tecnologias para a arquitetura de serviços de computação em nuvem incluem:
+
+• **AWS**: AWS é uma plataforma de nuvem que oferece uma ampla gama de serviços, incluindo máquinas virtuais, armazenamento em nuvem e serviços em nuvem.
+• **Azure**: Azure é uma plataforma de nuvem que oferece uma ampla gama de serviços, incluindo máquinas virtuais, armazenamento em nuvem e serviços em nuvem.
+• **Google Cloud**: Google Cloud é uma plataforma de nuvem que oferece uma ampla gama de serviços, incluindo máquinas virtuais, armazenamento em nuvem e serviços em nuvem.
+
+Além disso, as ferramentas e tecnologias também incluem:
+
+• **Kubernetes**: Kubernetes é um gerenciador de contêineres que pode ser usado para gerenciar e implantar aplicativos em ambientes de nuvem.
+• **Docker**: Docker é um container que pode ser usado para gerenciar e implantar aplicativos em ambientes de nuvem.
