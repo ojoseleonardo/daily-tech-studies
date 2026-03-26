@@ -1,0 +1,14 @@
+A arquitetura de serviços de computação em nuvem é caracterizada por:
+
+• **Serviços em Nuvem**: serviços gerenciados e escaláveis que podem ser acessados por meio de APIs e interfaces de programação de aplicativos (APIs e IAPIs).
+• **Máquinas Virtuais**: máquinas virtuais que podem ser criadas e destruídas em resposta às necessidades do aplicativo.
+• **Armazenamento em Nuvem**: armazenamento em nuvem que pode ser acessado por meio de APIs e interfaces de programação de aplicativos (APIs e IAPIs).
+
+Além disso, a arquitetura de serviços de computação em nuvem também inclui:
+
+• **Gerenciamento de Conformidade**: capacidade de gerenciar e cumprir com as regulamentações e diretrizes de conformidade.
+• **Segurança**: capacidade de proteger os dados e os aplicativos contra ameaças e ataques.
+
+A seguir, vamos explorar as principais práticas ágeis e segurança para a arquitetura de serviços de computação em nuvem.
+
+═══════════════════
