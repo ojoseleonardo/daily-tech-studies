@@ -1,0 +1,14 @@
+As práticas ágeis para a arquitetura de serviços de computação em nuvem incluem:
+
+• **Desenvolvimento Ágil**: desenvolvimento de aplicativos com um foco em flexibilidade e adaptação.
+• **Infraestrutura como Código**: infraestrutura como código para gerenciar e implantar a infraestrutura de aplicativos.
+• **Integração Contínua**: integração contínua para garantir que os aplicativos sejam implantados em ambientes de produção.
+
+Além disso, as práticas ágeis também incluem:
+
+• **Teste de Interface**: teste de interface para garantir que os aplicativos sejam testados em diferentes ambientes e cenários.
+• **Monitoramento em Tempo Real**: monitoramento em tempo real para garantir que os aplicativos sejam monitorados e ajustados em resposta às necessidades do aplicativo.
+
+A seguir, vamos explorar as principais práticas de segurança para a arquitetura de serviços de computação em nuvem.
+
+═══════════════════
