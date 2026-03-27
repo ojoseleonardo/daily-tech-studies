@@ -1,0 +1,15 @@
+As práticas ágeis são fundamentais para o desenvolvimento de aplicativos web modernos. Elas incluem:
+
+▸ Desenvolvimento incrementado
+▸ Testes automatizados
+▸ Integração contínua
+▸ Entrega contínua
+
+📊 **Principais Benefícios:**
+
+▸ Aumento da agilidade
+▸ Redução de erros
+▸ Melhoria da qualidade
+▸ Aumento da satisfação do cliente
+
+→ Observe que as práticas ágeis são fundamentais para o sucesso do desenvolvimento de aplicativos web modernos.
