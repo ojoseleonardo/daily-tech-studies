@@ -1,0 +1,14 @@
+A infraestrutura como código é uma abordagem que permite criar e gerenciar a infraestrutura de aplicativos web de forma automatizada. Isso inclui:
+
+▸ Criação de máquinas virtuais
+▸ Configuração de redes
+▸ Gestão de armazenamento
+
+📈 **Principais Benefícios:**
+
+▸ Redução de custos
+▸ Aumento da eficiência
+▸ Melhoria da segurança
+▸ Aumento da escalabilidade
+
+→ Observe que a infraestrutura como código é uma ferramenta poderosa para o desenvolvimento de aplicativos web modernos.
