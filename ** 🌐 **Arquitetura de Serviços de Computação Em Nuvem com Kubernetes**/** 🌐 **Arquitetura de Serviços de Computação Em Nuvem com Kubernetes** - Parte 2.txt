@@ -1,0 +1,5 @@
+A arquitetura de serviços de computação em nuvem com Kubernetes oferece vários benefícios, incluindo:
+
+**Melhoria da escalabilidade**: a arquitetura pode ser escalada facilmente para atender a demanda crescente de usuários.
+**Melhoria da flexibilidade**: a arquitetura permite a escolha de diferentes tecnologias e plataformas.
+**Melhoria da automatização**: a arquitetura pode ser automatizada para reduzir a necessidade de intervenção humana.
