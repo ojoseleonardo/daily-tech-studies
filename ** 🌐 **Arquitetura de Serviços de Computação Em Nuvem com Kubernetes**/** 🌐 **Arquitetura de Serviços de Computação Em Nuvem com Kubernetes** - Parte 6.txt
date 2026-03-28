@@ -1,0 +1,5 @@
+As tendências atuais na arquitetura de serviços de computação em nuvem com Kubernetes incluem:
+
+**Uso de Container**: o uso de container é uma tendência crescente na arquitetura de serviços de computação em nuvem.
+**Uso de Orquestração**: o uso de orquestração é uma tendência crescente na arquitetura de serviços de computação em nuvem.
+**Uso de Serviços**: o uso de serviços é uma tendência crescente na arquitetura de serviços de computação em nuvem.
