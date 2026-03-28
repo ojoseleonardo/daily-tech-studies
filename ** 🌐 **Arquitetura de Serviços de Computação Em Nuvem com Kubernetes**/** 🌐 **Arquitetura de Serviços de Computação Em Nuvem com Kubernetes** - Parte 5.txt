@@ -1,0 +1,5 @@
+A implementação da arquitetura de serviços de computação em nuvem com Kubernetes pode apresentar alguns desafios, incluindo:
+
+**Complexidade**: a arquitetura pode ser complexa e difícil de entender.
+**Requisitos de escalabilidade**: a arquitetura pode requerer requisitos de escalabilidade específicos.
+**Requisitos de segurança**: a arquitetura pode requerer requisitos de segurança específicos.
