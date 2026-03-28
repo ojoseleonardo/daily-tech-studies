@@ -1,0 +1,5 @@
+A segurança é um dos aspectos mais importantes na arquitetura de serviços de computação em nuvem com Kubernetes. Os riscos mais comuns incluem:
+
+**Acesso não autorizado**: o acesso não autorizado é um risco comum na arquitetura.
+**Perda de dados**: a perda de dados é outro risco comum na arquitetura.
+**Ameaças de segurança**: as ameaças de segurança são um dos riscos mais complexos na arquitetura.
