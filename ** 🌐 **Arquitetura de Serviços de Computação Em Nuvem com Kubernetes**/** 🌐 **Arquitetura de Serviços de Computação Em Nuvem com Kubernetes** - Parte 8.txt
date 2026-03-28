@@ -1,0 +1,5 @@
+Os cenários mais comuns na arquitetura de serviços de computação em nuvem com Kubernetes incluem:
+
+**Aplicação Web**: a aplicação Web é um dos cenários mais comuns na arquitetura.
+**Aplicação de Negócios**: a aplicação de negócios é outro cenário comum na arquitetura.
+**Aplicação de Real-time**: a aplicação de real-time é um dos cenários mais complexos na arquitetura.
