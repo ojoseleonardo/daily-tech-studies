@@ -1,0 +1,5 @@
+A implementação da arquitetura de serviços de computação em nuvem com Kubernetes envolve os seguintes passos:
+
+**Instalação do Kubernetes**: a instalação do Kubernetes é a base para a implementação da arquitetura.
+**Configuração do cluster**: a configuração do cluster é essencial para garantir a escalabilidade e a flexibilidade da arquitetura.
+**Implementação das aplicações**: a implementação das aplicações é o passo final para a criação da arquitetura.
