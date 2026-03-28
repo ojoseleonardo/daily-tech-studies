@@ -1,0 +1,5 @@
+As ferramentas mais comuns utilizadas na arquitetura de serviços de computação em nuvem com Kubernetes incluem:
+
+**Kubernetes**: o Kubernetes é a ferramenta de orquestração mais comum utilizada na arquitetura.
+**Docker**: o Docker é a ferramenta de container mais comum utilizada na arquitetura.
+**Terraform**: o Terraform é a ferramenta de infraestrutura como código mais comum utilizada na arquitetura.
