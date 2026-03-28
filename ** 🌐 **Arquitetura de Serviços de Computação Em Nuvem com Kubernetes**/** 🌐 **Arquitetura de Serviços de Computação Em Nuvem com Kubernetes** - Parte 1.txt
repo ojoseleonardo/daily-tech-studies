@@ -1,0 +1,7 @@
+A arquitetura de serviços de computação em nuvem com Kubernetes é uma abordagem moderna para desenvolver aplicações escaláveis e eficientes. Neste conteúdo, vamos explorar os princípios e benefícios dessa arquitetura.
+
+**Principais características:**
+
+→ **Escalabilidade**: a arquitetura pode ser escalada facilmente para atender a demanda crescente de usuários.
+→ **Flexibilidade**: a arquitetura permite a escolha de diferentes tecnologias e plataformas.
+→ **Automatização**: a arquitetura pode ser automatizada para reduzir a necessidade de intervenção humana.
