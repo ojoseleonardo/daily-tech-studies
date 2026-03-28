@@ -1,0 +1,6 @@
+A arquitetura de serviços de computação em nuvem com Kubernetes é composta por vários componentes, incluindo:
+
+**Cluster de Kubernetes**: o cluster é o ambiente onde as aplicações são executadas.
+**Pods**: os pods são as unidades básicas de execução das aplicações.
+**Serviços**: os serviços são os componentes que fornecem acesso às aplicações.
+**Volumes**: os volumes são os componentes que fornecem armazenamento para as aplicações.
