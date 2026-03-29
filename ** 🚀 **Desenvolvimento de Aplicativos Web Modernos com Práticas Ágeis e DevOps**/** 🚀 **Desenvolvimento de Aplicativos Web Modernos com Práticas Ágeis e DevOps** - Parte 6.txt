@@ -1,0 +1,31 @@
+A implantação de aplicativos web modernos exige uma abordagem de implantação contínua e automática. Jenkins é uma ferramenta de automação de implantação que permite criar pipelines de implantação personalizados, enquanto Docker é uma ferramenta de containerização que permite criar ambientes de implantação isolados e eficientes.
+
+▸ Benefícios da implantação de aplicativos web modernos com Jenkins e Docker:
+  → Criação de pipelines de implantação personalizados
+  → Isolamento e eficiência dos ambientes de implantação
+  → Melhoria da experiência do usuário
+
+🚀 Exemplo de pipeline Jenkins:
+```groovy
+pipeline {
+  agent { docker { image 'maven:3-jdk-8' } }
+  stages {
+    stage('Build') {
+      steps {
+        sh 'mvn clean package'
+      }
+    }
+    stage('Test') {
+      steps {
+        sh 'mvn test'
+      }
+    }
+    stage('Deploy') {
+      steps {
+        sh 'docker build -t myapp .'
+        sh 'docker run -p 8080:8080 myapp'
+      }
+    }
+  }
+}
+```
