@@ -1,0 +1,25 @@
+O monitoramento e a análise de desempenho são fundamentais para entender como o aplicativo está se comportando e identificar áreas de melhoria. Prometheus é uma ferramenta de monitoramento que permite coletar e armazenar métricas de desempenho, enquanto Grafana é uma ferramenta de análise de dados que permite criar visualizações personalizadas.
+
+▸ Benefícios do monitoramento e análise de desempenho com Prometheus e Grafana:
+  → Identificação de problemas de desempenho em tempo real
+  → Melhoria da compreensão do comportamento do aplicativo
+  → Redução dos custos e melhoria da eficiência
+
+📈 Exemplo de dashboard Grafana:
+```json
+{
+  "title": "Desempenho do Aplicativo",
+  "panels": [
+    {
+      "type": "timeseries",
+      "title": "Requisições por Segundo",
+      "datasource": "prometheus"
+    },
+    {
+      "type": "gauge",
+      "title": "Tempo de Resposta Médio",
+      "datasource": "prometheus"
+    }
+  ]
+}
+```
