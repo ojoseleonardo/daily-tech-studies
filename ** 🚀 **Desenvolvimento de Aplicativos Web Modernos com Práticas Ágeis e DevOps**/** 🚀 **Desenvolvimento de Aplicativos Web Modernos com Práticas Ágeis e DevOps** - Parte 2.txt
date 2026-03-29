@@ -1,0 +1,14 @@
+A infraestrutura como código é uma prática que envolve a criação de uma descrição automatizada da infraestrutura do aplicativo, permitindo que os times gerenciem e automatizem a criação e a atualização da infraestrutura. Terraform é uma ferramenta que permite criar e gerenciar a infraestrutura como código, utilizando um modelo de linguagem declarativa.
+
+▸ Benefícios da infraestrutura como código com Terraform:
+  → Automatização da criação e atualização da infraestrutura
+  → Melhoria da consistência e da confiabilidade da infraestrutura
+  → Redução do tempo de implementação e dos custos
+
+✨ Exemplo de código Terraform:
+```terraform
+resource "aws_instance" "example" {
+  ami           = "ami-abc123"
+  instance_type = "t2.micro"
+}
+```
