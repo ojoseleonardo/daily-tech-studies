@@ -1,0 +1,10 @@
+O desenvolvimento de aplicativos web modernos é um processo contínuo que exige uma abordagem de desenvolvimento de software de ponta a ponta. As práticas ágeis, a infraestrutura como código, o monitoramento e a análise de desempenho, a segurança do aplicativo, o desenvolvimento de aplicativos web modernos com React e Redux, e a implantação de aplicativos web modernos com Jenkins e Docker são apenas alguns dos tópicos que você precisa abordar para criar aplicativos web modernos escaláveis e eficientes.
+
+▸ Próximos passos:
+  → Implementar as práticas ágeis e a infraestrutura como código
+  → Monitorar e analisar o desempenho do aplicativo
+  → Implementar a segurança do aplicativo
+  → Desenvolver aplicativos web modernos com React e Redux
+  → Implementar a implantação de aplicativos web modernos com Jenkins e Docker
+
+🎉 Parabéns! Você alcançou o final do curso de desenvolvimento de aplicativos web modernos.
