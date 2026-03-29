@@ -1,0 +1,17 @@
+A segurança do aplicativo é fundamental para proteger os dados dos usuários e prevenir ataques mal-intencionados. OAuth é um protocolo de autenticação que permite que os usuários sejam autenticados em diferentes aplicativos sem compartilhar suas credenciais, enquanto JWT é um padrão de segurança que permite criar tokens de autenticação seguros.
+
+▸ Benefícios da segurança do aplicativo com OAuth e JWT:
+  → Proteção dos dados dos usuários
+  → Prevenção de ataques mal-intencionados
+  → Melhoria da experiência do usuário
+
+🔒 Exemplo de código OAuth:
+```java
+@RestController
+public class OAuthController {
+  @GetMapping("/login")
+  public String login(@RequestParam("code") String code) {
+    // Autenticação com OAuth
+  }
+}
+```
