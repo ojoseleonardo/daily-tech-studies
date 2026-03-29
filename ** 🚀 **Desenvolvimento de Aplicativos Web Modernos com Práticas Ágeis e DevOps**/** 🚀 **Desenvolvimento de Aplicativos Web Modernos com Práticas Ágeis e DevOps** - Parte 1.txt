@@ -1,0 +1,8 @@
+O desenvolvimento de aplicativos web modernos exige uma abordagem ágil e flexível para atender às necessidades dos usuários. As práticas ágeis são uma maneira de abordar o desenvolvimento de software de forma iterativa e incrementativa, permitindo que os times sejam mais flexíveis e respondam às mudanças do mercado.
+
+▸ Principais características das práticas ágeis:
+  → Foco em pessoas e processos, em vez de processos e ferramentas
+  → Desenvolvimento iterativo e incrementativo
+  → Priorização de funcionalidades com base em sua valor para o negócio
+
+⚠️ Atenção: as práticas ágeis não são uma receita pronta, mas sim uma abordagem que requer adaptação e evolução contínua.
