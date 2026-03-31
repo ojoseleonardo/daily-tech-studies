@@ -1,0 +1,10 @@
+A implementação de segurança em aplicativos web envolve várias etapas. Algumas das principais incluem:
+
+▸ Análise de riscos: identificação de vulnerabilidades
+▸ Desenvolvimento de controlos de segurança: implementação de medidas de proteção
+▸ Testes de segurança: verificação da eficácia dos controlos
+▸ Monitoramento de segurança: garantia de que os sistemas estão atualizados e seguros
+
+📊 É importante manter os sistemas atualizados e seguros para evitar ataques cibernéticos.
+
+═══════════════════
