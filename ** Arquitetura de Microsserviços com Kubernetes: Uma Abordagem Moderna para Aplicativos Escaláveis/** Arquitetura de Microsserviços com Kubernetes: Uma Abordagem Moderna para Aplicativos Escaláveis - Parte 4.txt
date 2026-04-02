@@ -1,0 +1,9 @@
+O monitoramento e a análise de desempenho são fundamentais para garantir que os microsserviços estejam funcionando corretamente. Isso pode ser feito usando ferramentas como Prometheus, Grafana e New Relic.
+
+▸ Principais recursos:
+  → Monitoramento: a ferramenta monitora o desempenho dos microsserviços
+  → Análise de desempenho: a ferramenta analisa os dados de desempenho para identificar problemas
+
+✨ Atenção: a implementação de monitoramento e análise de desempenho exige conhecimento de ferramentas de monitoramento e análise de dados.
+
+═══════════════════
