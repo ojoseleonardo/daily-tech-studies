@@ -1,0 +1,9 @@
+A segurança é fundamental para garantir que os microsserviços estejam protegidos contra acessos não autorizados. Isso pode ser feito usando ferramentas como Kubernetes Network Policies e Istio.
+
+▸ Principais recursos:
+  → Redes: a ferramenta gerencia as redes dos microsserviços
+  → Autenticação: a ferramenta autentica os usuários e os microsserviços
+
+💡 Atenção: a implementação de segurança exige conhecimento de segurança de rede e autenticação.
+
+═══════════════════
