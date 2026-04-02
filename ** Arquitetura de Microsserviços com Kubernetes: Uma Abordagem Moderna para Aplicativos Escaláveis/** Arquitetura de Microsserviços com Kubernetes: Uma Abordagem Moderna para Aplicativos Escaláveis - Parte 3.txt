@@ -1,0 +1,10 @@
+A arquitetura de microsserviços com Kubernetes é uma combinação de microsserviços e Kubernetes. Os microsserviços são implementados como containers e gerenciados por Kubernetes. Isso permite que os desenvolvedores trabalhem em paralelo e que os sistemas sejam escalados e gerenciados de forma eficiente.
+
+▸ Principais vantagens:
+  → Escalabilidade: os microsserviços podem ser escalados independentemente
+  → Flexibilidade: os microsserviços podem ser desenvolvidos e implantados separadamente
+  → Resiliência: os microsserviços podem ser desligados ou atualizados sem afetar o sistema
+
+💡 Atenção: a implementação de arquitetura de microsserviços com Kubernetes exige conhecimento de containers, gerenciamento de infraestrutura e arquitetura de software.
+
+═══════════════════
