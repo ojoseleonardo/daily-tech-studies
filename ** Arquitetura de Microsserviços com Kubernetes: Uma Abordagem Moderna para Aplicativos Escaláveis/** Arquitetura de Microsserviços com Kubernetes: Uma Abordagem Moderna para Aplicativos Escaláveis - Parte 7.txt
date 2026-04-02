@@ -1,0 +1,9 @@
+A implementação em nuvem é fundamental para garantir que os microsserviços estejam escalados e gerenciados de forma eficiente. Isso pode ser feito usando ferramentas como AWS, Google Cloud e Azure.
+
+▸ Principais recursos:
+  → Escalabilidade: a ferramenta escalona os microsserviços automaticamente
+  → Gerenciamento de infraestrutura: a ferramenta gerencia a infraestrutura dos microsserviços
+
+💡 Atenção: a implementação em nuvem exige conhecimento de nuvem e gerenciamento de infraestrutura.
+
+═══════════════════
