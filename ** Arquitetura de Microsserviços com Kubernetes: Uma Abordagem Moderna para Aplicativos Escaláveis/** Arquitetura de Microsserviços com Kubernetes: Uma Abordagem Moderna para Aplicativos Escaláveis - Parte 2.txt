@@ -1,0 +1,10 @@
+Kubernetes é um gerenciador de containers que permite a implementação e gerenciamento de microsserviços. Ele fornece recursos como escalabilidade, auto-recovery e gerenciamento de configurações, tornando mais fácil a implementação de microsserviços.
+
+▸ Principais recursos:
+  → Orquestração: Kubernetes organiza e gerencia os containers
+  → Escalabilidade: Kubernetes escalona os containers automaticamente
+  → Auto-recovery: Kubernetes restaura os containers em caso de falha
+
+✨ Atenção: a implementação de Kubernetes exige conhecimento de containers e gerenciamento de infraestrutura.
+
+═══════════════════
