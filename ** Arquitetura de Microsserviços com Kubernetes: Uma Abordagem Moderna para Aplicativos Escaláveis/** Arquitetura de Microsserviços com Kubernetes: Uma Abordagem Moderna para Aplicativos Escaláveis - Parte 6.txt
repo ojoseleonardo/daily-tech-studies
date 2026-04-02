@@ -1,0 +1,9 @@
+A orquestração de contêineres é fundamental para gerenciar os containers dos microsserviços. Isso pode ser feito usando ferramentas como Kubernetes e Docker.
+
+▸ Principais recursos:
+  → Orquestração: a ferramenta organiza e gerencia os containers
+  → Escalabilidade: a ferramenta escalona os containers automaticamente
+
+✨ Atenção: a implementação de orquestração de contêineres exige conhecimento de containers e gerenciamento de infraestrutura.
+
+═══════════════════
