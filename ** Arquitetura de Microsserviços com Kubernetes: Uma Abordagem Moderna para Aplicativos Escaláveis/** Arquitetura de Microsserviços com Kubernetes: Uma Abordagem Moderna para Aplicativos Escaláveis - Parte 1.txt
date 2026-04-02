@@ -1,0 +1,10 @@
+Os microsserviços são uma abordagem de desenvolvimento de software que visa criar sistemas escaláveis e flexíveis. Eles são pequenos serviços independentes que executam tarefas específicas e se comunicam entre si por meio de APIs. Isso permite que os desenvolvedores trabalhem em paralelo, reduzindo o tempo de desenvolvimento e melhorando a escalabilidade dos sistemas.
+
+▸ Principais vantagens:
+  → Escalabilidade: os microsserviços podem ser escalados independentemente
+  → Flexibilidade: os microsserviços podem ser desenvolvidos e implantados separadamente
+  → Resiliência: os microsserviços podem ser desligados ou atualizados sem afetar o sistema
+
+⚠️ Atenção: a implementação de microsserviços exige uma arquitetura e um gerenciamento de configuração adequados.
+
+═══════════════════
