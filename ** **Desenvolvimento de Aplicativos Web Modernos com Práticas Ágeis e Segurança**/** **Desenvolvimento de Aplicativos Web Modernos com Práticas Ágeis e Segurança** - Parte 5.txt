@@ -1,0 +1,11 @@
+O desenvolvimento de aplicativos web modernos é um processo complexo que envolve a criação de soluções escaláveis, seguras e eficientes que atendam às necessidades dos usuários. Para alcançar isso, é fundamental entender os fundamentos da arquitetura de software, do desenvolvimento ágil e da segurança da informação.
+
+A aplicação de práticas ágeis e segurança da informação é essencial para o desenvolvimento de aplicativos web modernos, pois permite que a infraestrutura seja gerenciada de forma automatizada e consistente, reduzindo erros e aumentando a eficiência.
+
+**Conclusão:**
+
+→ **Desenvolvimento de aplicativos web modernos**: é um processo complexo que envolve a criação de soluções escaláveis, seguras e eficientes que atendam às necessidades dos usuários.
+
+→ **Práticas ágeis**: são abordagens que visam entregar valor rapidamente e incrementarmente, através de ciclos de desenvolvimento curtos e iterações contínuas.
+
+→ **Segurança da informação**: é a proteção de dados contra acessos não autorizados, alterações indevidas e perda ou destruição de informações.
