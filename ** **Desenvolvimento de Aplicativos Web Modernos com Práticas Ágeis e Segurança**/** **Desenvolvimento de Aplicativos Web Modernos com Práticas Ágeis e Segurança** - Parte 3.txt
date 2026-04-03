@@ -1,0 +1,11 @@
+O desenvolvimento de aplicativos web modernos envolve a criação de soluções escaláveis, seguras e eficientes que atendam às necessidades dos usuários. Isso inclui a utilização de tecnologias como HTML5, CSS3, JavaScript e frameworks como React, Angular e Vue.js.
+
+A escalabilidade é a capacidade de um sistema de software aumentar ou diminuir sua capacidade de processamento em resposta às necessidades do usuário. Isso é alcançado através da utilização de tecnologias como a horizontalização, a verticalização e a escalabilidade auto-suficiente.
+
+**Principais pilares:**
+
+→ **Escalabilidade**: é a capacidade de um sistema de software aumentar ou diminuir sua capacidade de processamento em resposta às necessidades do usuário.
+
+→ **Desempenho**: é a capacidade de um sistema de software processar informações e executar funções de forma eficiente.
+
+→ **Segurança**: é a proteção de dados contra acessos não autorizados, alterações indevidas e perda ou destruição de informações.
