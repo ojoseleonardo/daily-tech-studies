@@ -1,0 +1,11 @@
+O desenvolvimento de aplicativos web modernos envolve a criação de soluções escaláveis, seguras e eficientes que atendam às necessidades dos usuários. Para alcançar isso, é fundamental entender os fundamentos da arquitetura de software, do desenvolvimento ágil e da segurança da informação.
+
+A arquitetura de software é a estrutura organizacional e funcional de um sistema de software. Ela define como os componentes interagem entre si e como se comunicam. Existem várias arquiteturas de software, incluindo arquiteturas de microserviços, arquiteturas monolíticas e arquiteturas de eventos.
+
+**Principais pilares:**
+
+→ **Desenvolvimento ágil**: é uma abordagem que visa entregar valor rapidamente e incrementarmente, através de ciclos de desenvolvimento curtos e iterações contínuas.
+
+→ **Segurança da informação**: é a proteção de dados contra acessos não autorizados, alterações indevidas e perda ou destruição de informações.
+
+→ **Desenvolvimento de aplicativos web modernos**: envolve a criação de soluções escaláveis, seguras e eficientes que atendam às necessidades dos usuários.
