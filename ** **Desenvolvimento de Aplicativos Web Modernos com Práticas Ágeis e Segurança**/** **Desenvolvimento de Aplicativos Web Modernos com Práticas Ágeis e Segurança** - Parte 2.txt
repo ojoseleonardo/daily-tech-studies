@@ -1,0 +1,11 @@
+O desenvolvimento ágil é uma abordagem que visa entregar valor rapidamente e incrementarmente, através de ciclos de desenvolvimento curtos e iterações contínuas. Isso inclui a utilização de técnicas como a Scrum, Kanban e Lean.
+
+A segurança da informação é a proteção de dados contra acessos não autorizados, alterações indevidas e perda ou destruição de informações. Isso inclui a utilização de técnicas como a autenticação, autorização, criptografia e firewall.
+
+**Principais pilares:**
+
+→ **Autenticação**: é o processo de verificar a identidade de um usuário ou sistema.
+
+→ **Autorização**: é o processo de verificar se um usuário ou sistema tem permissão para acessar um recurso.
+
+→ **Criptografia**: é o processo de proteger dados através da conversão em um código secreto.
