@@ -1,0 +1,11 @@
+A infraestrutura como código é a prática de criar e gerenciar infraestrutura de computação como código, utilizando ferramentas como Terraform, Ansible e Puppet. Isso permite que a infraestrutura seja gerenciada de forma automática e consistente, reduzindo erros e aumentando a eficiência.
+
+A infraestrutura como código é essencial para o desenvolvimento de aplicativos web modernos, pois permite que a infraestrutura seja gerenciada de forma automatizada e consistente, reduzindo erros e aumentando a eficiência.
+
+**Principais pilares:**
+
+→ **Terraform**: é uma ferramenta de infraestrutura como código que permite que a infraestrutura seja gerenciada de forma automatizada e consistente.
+
+→ **Ansible**: é uma ferramenta de infraestrutura como código que permite que a infraestrutura seja gerenciada de forma automatizada e consistente.
+
+→ **Puppet**: é uma ferramenta de infraestrutura como código que permite que a infraestrutura seja gerenciada de forma automatizada e consistente.
