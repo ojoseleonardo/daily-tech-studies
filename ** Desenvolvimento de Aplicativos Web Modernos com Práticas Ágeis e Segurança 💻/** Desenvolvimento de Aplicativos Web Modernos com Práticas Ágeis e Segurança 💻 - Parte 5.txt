@@ -1,0 +1,10 @@
+A segurança em aplicativos web é fundamental para proteger dados contra acessos não autorizados e garantir a confidencialidade, a integridade e a disponibilidade dos dados.
+
+▸ Principais ameaças:
+  → Acesso não autorizado
+  → Ataques de injeção de código
+  → Ataques de SQL injection
+
+🔒 A segurança em aplicativos web é essencial para proteger dados contra acessos não autorizados e garantir a confidencialidade, a integridade e a disponibilidade dos dados.
+
+═══════════════════
