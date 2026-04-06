@@ -1,0 +1,10 @@
+As práticas ágeis são uma abordagem flexível e adaptável para desenvolvimento de software. Elas incluem:
+
+  ▸ Desenvolvimento Iterativo
+  ▸ Priorização de Requisitos
+  ▸ Testes Automatizados
+  ▸ Integração Contínua
+
+📈 Com as práticas ágeis, os times podem se adaptar rapidamente às mudanças do mercado e entregar soluções de alta qualidade em um tempo mais curto.
+
+═══════════════════
