@@ -1,0 +1,7 @@
+Existem vários protocolos de autenticação que podem ser usados em aplicativos web. Alguns dos mais comuns são:
+
+▸ **Protocolo de Autenticação de Usuário** (HTTP Basic Auth)
+  → **Autenticação de Usuário** com HTTPS
+  → **Autenticação de Senha** com SSL/TLS
+
+⚡ O uso de SSL/TLS é fundamental para proteger a autenticação de ataques de eavesdropping.
