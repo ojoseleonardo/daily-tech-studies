@@ -1,0 +1,9 @@
+A autenticação é um dos aspectos mais importantes da segurança em aplicativos web. É o processo de verificar a identidade de um usuário antes de permitir que ele acesse recursos ou sistemas. A autenticação é essencial para proteger os dados dos usuários e evitar acessos não autorizados.
+
+▸ **Tipos de Autenticação:**
+
+  → **Autenticação de Usuário** (username/password)
+  → **Autenticação de Senha** (senha única)
+  → **Autenticação de Dois Fatores** (senha + código de segurança)
+
+⚠️ A autenticação deve ser implementada de forma segura para evitar ataques de força bruta ou phishing.
