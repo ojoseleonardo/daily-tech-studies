@@ -1,0 +1,7 @@
+A implementação da autenticação é crucial para garantir a segurança dos dados dos usuários. Alguns passos importantes incluem:
+
+▸ **Desenvolver uma política de autenticação**
+  → **Implementar a autenticação em todos os pontos de acesso**
+  → **Monitorar e atualizar a autenticação regularmente**
+
+📢 A autenticação deve ser implementada de forma apropriada para a aplicação e os requisitos de segurança.
