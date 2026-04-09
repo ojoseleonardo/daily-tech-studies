@@ -1,0 +1,8 @@
+O monitoramento de aplicativos web é fundamental para garantir a disponibilidade e a segurança do aplicativo. Ele inclui:
+
+▸ Monitoramento de Desempenho: monitoramento do desempenho do aplicativo
+▸ Monitoramento de Segurança: monitoramento de possíveis vulnerabilidades
+
+→ Monitoramento de aplicativos web melhora a disponibilidade e a segurança do aplicativo.
+
+═══════════════════
