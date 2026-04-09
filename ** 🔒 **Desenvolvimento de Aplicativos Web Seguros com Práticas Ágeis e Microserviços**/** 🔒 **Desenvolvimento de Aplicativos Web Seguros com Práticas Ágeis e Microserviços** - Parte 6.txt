@@ -1,0 +1,8 @@
+A implementação de arquitetura de microserviços com Kubernetes é uma abordagem moderna e escalável. Ela inclui:
+
+▸ Criação de Microserviços: criação de serviços independentes
+▸ Implementação de Kubernetes: implementação do gerenciador de contêineres
+
+→ Implementação de arquitetura de microserviços com Kubernetes melhora a escalabilidade e a segurança do aplicativo.
+
+═══════════════════
