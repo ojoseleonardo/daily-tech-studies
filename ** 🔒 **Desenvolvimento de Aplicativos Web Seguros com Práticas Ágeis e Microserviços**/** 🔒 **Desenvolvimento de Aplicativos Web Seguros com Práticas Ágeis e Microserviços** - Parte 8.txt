@@ -1,0 +1,8 @@
+A análise de riscos em aplicativos web é fundamental para identificar potenciais ameaças à segurança. Ela inclui:
+
+▸ Identificação de Riscos: identificação de potenciais ameaças à segurança
+▸ Avaliação de Riscos: avaliação da probabilidade e do impacto de cada risco
+
+→ Análise de riscos em aplicativos web melhora a segurança e a confiabilidade do aplicativo.
+
+═══════════════════
