@@ -1,0 +1,8 @@
+A arquitetura de microserviços é uma abordagem moderna para desenvolver aplicativos web escaláveis e seguros. Ela inclui:
+
+▸ Microserviços: serviços independentes que podem ser desenvolvidos e implantados separadamente
+▸ Comunicação entre Serviços: comunicação entre microserviços através de APIs
+
+→ Arquitetura de microserviços melhoria a escalabilidade e a segurança do aplicativo.
+
+═══════════════════
