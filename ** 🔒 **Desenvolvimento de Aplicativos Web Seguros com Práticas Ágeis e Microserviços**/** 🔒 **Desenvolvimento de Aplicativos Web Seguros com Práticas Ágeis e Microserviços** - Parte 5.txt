@@ -1,0 +1,9 @@
+A segurança em aplicativos web com práticas ágeis e microserviços é fundamental para proteger dados contra acessos não autorizados. Ela inclui:
+
+▸ Autenticação: garantia da identidade do usuário
+▸ Autorização: controle de acesso aos recursos da aplicação
+▸ Criptografia: proteção dos dados em repouso e em trânsito
+
+→ Segurança em aplicativos web com práticas ágeis e microserviços melhoria a confidencialidade, a integridade e a disponibilidade dos dados.
+
+═══════════════════
