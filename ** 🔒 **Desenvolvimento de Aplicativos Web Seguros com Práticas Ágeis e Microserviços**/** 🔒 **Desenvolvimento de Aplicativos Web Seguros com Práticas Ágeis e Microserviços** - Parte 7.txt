@@ -1,0 +1,9 @@
+O desenvolvimento de aplicativos web seguros com práticas ágeis e microserviços é uma abordagem moderna e segura. Ela inclui:
+
+▸ Desenvolvimento Incremental: entrega de funcionalidades em incrementos
+▸ Testes Contínuos: garantia da qualidade do código
+▸ Integração Contínua: integração do código com o ambiente de produção
+
+→ Desenvolvimento de aplicativos web seguros com práticas ágeis e microserviços melhoria a qualidade e a segurança do aplicativo.
+
+═══════════════════
