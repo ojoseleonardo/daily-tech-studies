@@ -1,0 +1,9 @@
+As práticas ágeis são fundamentais para desenvolver aplicativos web de alta qualidade e segurança. Elas incluem:
+
+▸ Desenvolvimento Incremental: entrega de funcionalidades em incrementos
+▸ Testes Contínuos: garantia da qualidade do código
+▸ Integração Contínua: integração do código com o ambiente de produção
+
+→ Práticas ágeis melhoram a qualidade do código e reduzem o tempo de desenvolvimento.
+
+═══════════════════
