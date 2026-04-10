@@ -1,0 +1,8 @@
+O desenvolvimento de aplicativos web seguros com práticas ágeis envolve a criação de soluções que protejam os dados do cliente e garantam a confidencialidade e a integridade dos dados. Isso inclui a implementação de práticas de segurança, como a autenticação e a autorização, e a escolha da tecnologia apropriada.
+
+▸ Principais considerações:
+  → Implementação de práticas de segurança
+  → Escolha da tecnologia apropriada
+  → Proteção dos dados do cliente
+
+A implementação de práticas de segurança pode ajudar a reduzir o risco de ataques cibernéticos e proteger os dados do cliente.
