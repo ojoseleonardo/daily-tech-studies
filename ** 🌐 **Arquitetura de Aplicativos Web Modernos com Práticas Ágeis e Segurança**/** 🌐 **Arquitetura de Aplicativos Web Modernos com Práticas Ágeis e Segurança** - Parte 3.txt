@@ -1,0 +1,8 @@
+A segurança em aplicativos web é fundamental para proteger os dados do cliente e garantir a confidencialidade e a integridade dos dados. Isso inclui a implementação de práticas de segurança, como a autenticação e a autorização, e a escolha da tecnologia apropriada.
+
+▸ Principais considerações:
+  → Autenticação: a identificação do usuário
+  → Autorização: a permissão de acesso aos recursos
+  → Tecnologia apropriada: escolha da tecnologia que melhor atende às necessidades
+
+A implementação de práticas de segurança pode ajudar a reduzir o risco de ataques cibernéticos e proteger os dados do cliente.
