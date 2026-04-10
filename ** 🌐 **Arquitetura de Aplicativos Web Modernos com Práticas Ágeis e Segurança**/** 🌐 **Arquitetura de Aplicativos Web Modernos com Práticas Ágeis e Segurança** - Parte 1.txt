@@ -1,0 +1,8 @@
+As práticas ágeis são uma abordagem flexível e colaborativa para o desenvolvimento de software, que busca maximizar a entrega de valor ao cliente. Elas se baseiam em princípios como a flexibilidade, a colaboração e a entrega contínua. Com as práticas ágeis, os times de desenvolvimento podem se adaptar rapidamente às mudanças no mercado e nos requisitos do cliente.
+
+▸ Principais características:
+  → Flexibilidade: a capacidade de se adaptar às mudanças
+  → Colaboração: a equipe trabalha juntos para alcançar os objetivos
+  → Entrega contínua: a entrega de valor ao cliente de forma contínua
+
+A adoção de práticas ágeis pode melhorar a qualidade do software, reduzir o custo de desenvolvimento e aumentar a satisfação do cliente.
