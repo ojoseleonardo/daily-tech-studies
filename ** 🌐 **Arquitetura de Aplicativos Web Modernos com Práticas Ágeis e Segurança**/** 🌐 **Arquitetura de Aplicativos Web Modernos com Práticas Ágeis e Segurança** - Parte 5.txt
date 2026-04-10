@@ -1,0 +1,8 @@
+A implementação de arquitetura de microserviços é uma abordagem para o desenvolvimento de aplicativos web que envolve a criação de serviços separados e independentes que trabalham juntos para alcançar os objetivos do aplicativo.
+
+▸ Principais considerações:
+  → Independência dos serviços
+  → Comunicação entre os serviços
+  → Escalabilidade
+
+A implementação de arquitetura de microserviços pode ajudar a melhorar a escalabilidade e a flexibilidade do aplicativo.
