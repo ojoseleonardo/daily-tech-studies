@@ -1,0 +1,9 @@
+Para gerenciamento de recursos de microsserviços com Kubernetes, é necessário seguir os seguintes passos:
+  1. Configurar a alocação de recursos do cluster de Kubernetes
+  2. Configurar a monitorização de recursos do cluster de Kubernetes
+  3. Gerenciar os recursos do cluster de Kubernetes
+
+▸ Exemplo de gerenciamento de recursos de microsserviços com Kubernetes:
+  → Configure a alocação de recursos do cluster de Kubernetes com o comando `kubectl taint nodes meu-servico node-role.kubernetes.io/master:NoSchedule`
+  → Configure a monitorização de recursos do cluster de Kubernetes com o comando `kubectl top nodes`
+  → Gerencie os recursos do cluster de Kubernetes com o comando `kubectl get nodes`
