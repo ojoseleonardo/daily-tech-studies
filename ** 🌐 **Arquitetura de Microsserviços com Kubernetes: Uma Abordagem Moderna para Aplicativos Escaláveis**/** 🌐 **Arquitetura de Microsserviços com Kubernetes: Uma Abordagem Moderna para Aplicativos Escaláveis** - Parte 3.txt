@@ -1,0 +1,8 @@
+Para configurar um cluster de Kubernetes, é necessário seguir os seguintes passos:
+  1. Instalar o software de gerenciamento de contêineres Docker no servidor
+  2. Instalar o software de gerenciamento de clusters Kubernetes
+  3. Conectar o cluster de Kubernetes à rede
+
+▸ Exemplo de configuração de um cluster de Kubernetes:
+  → Crie um cluster de Kubernetes com o comando `kubectl cluster create`
+  → Conecte o cluster de Kubernetes à rede com o comando `kubectl cluster connect`
