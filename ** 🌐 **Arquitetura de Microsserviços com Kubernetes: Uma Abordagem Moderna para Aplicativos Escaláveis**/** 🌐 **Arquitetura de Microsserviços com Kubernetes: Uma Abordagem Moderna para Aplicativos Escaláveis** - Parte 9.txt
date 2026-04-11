@@ -1,0 +1,9 @@
+Para integração de microsserviços com outros sistemas, é necessário seguir os seguintes passos:
+  1. Configurar a comunicação entre microsserviços e outros sistemas
+  2. Configurar a integração de dados entre microsserviços e outros sistemas
+  3. Monitorar a integração de microsserviços com outros sistemas
+
+▸ Exemplo de integração de microsserviços com outros sistemas:
+  → Configure a comunicação entre microsserviços e outros sistemas com o comando `kubectl expose deployment meu-servico --type=LoadBalancer`
+  → Configure a integração de dados entre microsserviços e outros sistemas com o comando `kubectl create secret generic meu-servico --from-literal=SENHA=meu-servico`
+  → Monitore a integração de microsserviços com outros sistemas com o comando `kubectl get events`
