@@ -1,0 +1,6 @@
+Kubernetes é um sistema de gerenciamento de contêineres que permite automatizar a implantação, escalabilidade e gerenciamento de aplicativos em ambientes de produção. Com Kubernetes, é possível criar, executar e gerenciar contêineres de forma eficiente e escalável.
+
+▸ Principais características de Kubernetes:
+  → Orquestração: Kubernetes organiza e gerencia contêineres em clusters de servidores
+  → Escalabilidade: Kubernetes permite escalabilidade vertical e horizontal para contêineres
+  → Segurança: Kubernetes fornece recursos de segurança para proteger contêineres e clusters
