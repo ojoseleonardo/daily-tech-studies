@@ -1,0 +1,6 @@
+A arquitetura de microsserviços com Kubernetes é uma abordagem moderna para desenvolver e gerenciar sistemas escaláveis e flexíveis. Com a integração de microsserviços com outros sistemas e a monitorização de desempenho, escalabilidade e segurança, é possível criar sistemas mais robustos e escaláveis.
+
+▸ Futuras tendências na arquitetura de microsserviços com Kubernetes:
+  → Aumento da adoção de Kubernetes em produção
+  → Desenvolvimento de ferramentas de monitorização e debugagem mais avançadas
+  → Integração de microsserviços com outras arquiteturas de sistemas
