@@ -1,0 +1,9 @@
+Para monitorar e debugar microsserviços com Kubernetes, é necessário seguir os seguintes passos:
+  1. Instalar o software de monitoramento Prometheus
+  2. Instalar o software de debugação Grafana
+  3. Conectar o cluster de Kubernetes à ferramenta de monitoramento
+
+▸ Exemplo de monitoramento e debugagem de microsserviços com Kubernetes:
+  → Instale o software de monitoramento Prometheus com o comando `kubectl apply -f prometheus.yml`
+  → Instale o software de debugação Grafana com o comando `kubectl apply -f grafana.yml`
+  → Conecte o cluster de Kubernetes à ferramenta de monitoramento com o comando `kubectl port-forward prometheus 9090`
