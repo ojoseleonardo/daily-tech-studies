@@ -1,0 +1,9 @@
+Para escalabilidade e desempenho de microsserviços com Kubernetes, é necessário seguir os seguintes passos:
+  1. Configurar a escalabilidade horizontal do cluster de Kubernetes
+  2. Configurar a escalabilidade vertical do cluster de Kubernetes
+  3. Monitorar o desempenho do cluster de Kubernetes
+
+▸ Exemplo de escalabilidade e desempenho de microsserviços com Kubernetes:
+  → Configure a escalabilidade horizontal do cluster de Kubernetes com o comando `kubectl scale deployment meu-servico --replicas=5`
+  → Configure a escalabilidade vertical do cluster de Kubernetes com o comando `kubectl autoscale deployment meu-servico --min=1 --max=10`
+  → Monitore o desempenho do cluster de Kubernetes com o comando `kubectl top nodes`
