@@ -1,0 +1,9 @@
+Para segurança de microsserviços com Kubernetes, é necessário seguir os seguintes passos:
+  1. Configurar a autenticação e autorização do cluster de Kubernetes
+  2. Configurar a criptografia do cluster de Kubernetes
+  3. Monitorar a segurança do cluster de Kubernetes
+
+▸ Exemplo de segurança de microsserviços com Kubernetes:
+  → Configure a autenticação e autorização do cluster de Kubernetes com o comando `kubectl create rolebinding meu-servico --clusterrole=cluster-admin`
+  → Configure a criptografia do cluster de Kubernetes com o comando `kubectl create secret generic meu-servico --from-literal=SENHA=meu-servico`
+  → Monitore a segurança do cluster de Kubernetes com o comando `kubectl get events`
