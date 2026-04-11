@@ -1,0 +1,6 @@
+As arquiteturas de microsserviços são uma abordagem moderna para desenvolver e gerenciar sistemas escaláveis e flexíveis. Em vez de uma única aplicação monolítica, as arquiteturas de microsserviços dividem a aplicação em múltiplos serviços independentes, cada um com sua própria funcionalidade e responsabilidade.
+
+▸ Principais características das arquiteturas de microsserviços:
+  → Independência: cada serviço é autônomo e pode ser desenvolvido e gerenciado separadamente
+  → Escalabilidade: serviços individuais podem ser escalados independentemente da aplicação como um todo
+  → Flexibilidade: serviços podem ser substituídos ou atualizados sem afetar a aplicação como um todo
