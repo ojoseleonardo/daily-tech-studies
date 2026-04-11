@@ -1,0 +1,9 @@
+Para implementar microsserviços com Kubernetes, é necessário seguir os seguintes passos:
+  1. Criar um manifesto de aplicação que descreva a estrutura do serviço
+  2. Criar um contêiner para o serviço
+  3. Criar um deployment para o serviço
+
+▸ Exemplo de implementação de um microsserviço com Kubernetes:
+  → Crie um manifesto de aplicação com o comando `kubectl apply -f manifesto.yml`
+  → Crie um contêiner para o serviço com o comando `docker build -t meu-servico`
+  → Crie um deployment para o serviço com o comando `kubectl apply -f deployment.yml`
