@@ -1,0 +1,10 @@
+O desenvolvimento de aplicativos web seguros é uma abordagem que se baseia em princípios de segurança e privacidade. Isso inclui a proteção de dados, a autenticação e autorização, e a prevenção de ataques.
+
+▸ Principais características:
+  → Proteção de dados e privacidade
+  → Autenticação e autorização seguras
+  → Prevenção de ataques e vulnerabilidades
+
+→ Exemplo de desenvolvimento seguro: OWASP, SANS
+
+═══════════════════
