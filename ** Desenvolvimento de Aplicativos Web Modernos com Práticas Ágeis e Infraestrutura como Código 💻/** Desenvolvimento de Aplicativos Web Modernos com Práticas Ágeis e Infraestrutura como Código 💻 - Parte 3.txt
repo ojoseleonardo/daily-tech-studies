@@ -1,0 +1,10 @@
+A integração de desenvolvimento ágil e IaC permite criar uma abordagem de desenvolvimento de software mais eficaz e eficiente. A combinação dos dois permite que as equipes trabalhem de forma mais colaborativa e automatizada, reduzindo o tempo de entrega e aumentando a qualidade do software.
+
+▸ Principais benefícios:
+  → Maior colaboração e comunicação entre equipes
+  → Maior automação e eficiência
+  → Menor tempo de entrega e maior qualidade do software
+
+→ Exemplo de integração: Jenkins, GitLab CI/CD
+
+═══════════════════
