@@ -1,0 +1,10 @@
+O código e as práticas de desenvolvimento ágil são fundamentais para criar aplicativos web modernos. Isso inclui a adoção de linguagens de programação modernas, a utilização de frameworks e bibliotecas, e a aplicação de práticas de desenvolvimento ágil.
+
+▸ Principais características:
+  → Linguagens de programação modernas
+  → Frameworks e bibliotecas
+  → Práticas de desenvolvimento ágil
+
+→ Exemplo de código e práticas: Git, GitHub, Agile
+
+═══════════════════
