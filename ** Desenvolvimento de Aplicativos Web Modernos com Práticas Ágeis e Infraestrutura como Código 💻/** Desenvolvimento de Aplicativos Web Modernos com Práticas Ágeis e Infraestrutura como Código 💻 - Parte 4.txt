@@ -1,0 +1,10 @@
+A arquitetura de aplicativos web modernos é uma abordagem que se baseia em microserviços, containerização e orquestração de contêineres. Essa abordagem permite criar aplicativos escaláveis, flexíveis e seguros.
+
+▸ Principais características:
+  → Microserviços e comunicação entre eles
+  → Containerização e orquestração de contêineres
+  → Segurança e controles de acesso
+
+→ Exemplo de arquitetura: Microserviços com Kubernetes
+
+═══════════════════
