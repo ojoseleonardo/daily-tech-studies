@@ -1,0 +1,10 @@
+A infraestrutura como código (IaC) e segurança são fundamentais para criar aplicativos web seguros. Isso inclui a proteção de dados, a autenticação e autorização, e a prevenção de ataques.
+
+▸ Principais características:
+  → Proteção de dados e privacidade
+  → Autenticação e autorização seguras
+  → Prevenção de ataques e vulnerabilidades
+
+→ Exemplo de IaC e segurança: Ansible, Chef, Puppet
+
+═══════════════════
