@@ -1,0 +1,10 @@
+Infraestrutura como código (IaC) é uma abordagem que permite definir e gerenciar a infraestrutura de computação como código, em vez de depender de ferramentas de gerenciamento manual. Isso permite uma maior automação, consistência e segurança na configuração da infraestrutura.
+
+▸ Principais benefícios:
+  → Maior automação e consistência
+  → Menos erros e inconsistências
+  → Maior segurança e controle
+
+→ Exemplo de IaC: Ansible, Chef, Puppet
+
+═══════════════════
