@@ -1,0 +1,10 @@
+A conclusão e o futuro da tecnologia de desenvolvimento de aplicativos web modernos são promissores. A integração de desenvolvimento ágil e IaC, a arquitetura de aplicativos web modernos, e a segurança são fundamentais para criar aplicativos escaláveis, flexíveis e seguros.
+
+▸ Principais características:
+  → Integração de desenvolvimento ágil e IaC
+  → Arquitetura de aplicativos web modernos
+  → Segurança e controles de acesso
+
+→ Exemplo de futuro: IA, Machine Learning, Blockchain
+
+═══════════════════
