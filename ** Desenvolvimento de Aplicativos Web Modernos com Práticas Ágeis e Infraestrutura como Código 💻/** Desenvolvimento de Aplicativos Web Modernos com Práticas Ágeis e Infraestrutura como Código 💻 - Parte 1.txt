@@ -1,0 +1,10 @@
+Desenvolvimento ágil é uma abordagem de desenvolvimento de software que enfatiza a colaboração, a flexibilidade e a entrega contínua de valor. É uma abordagem que se opõe ao desenvolvimento tradicional, que se baseia em um processo linear e predeterminado.
+
+▸ Principais características:
+  → Foco na entrega contínua de valor
+  → Colaboração entre equipes
+  → Flexibilidade e adaptação ao ambiente de negócios
+
+⚠️ Atenção: o desenvolvimento ágil não é uma solução mágica, mas sim uma abordagem que exige comprometimento e colaboração de toda a equipe.
+
+═══════════════════
