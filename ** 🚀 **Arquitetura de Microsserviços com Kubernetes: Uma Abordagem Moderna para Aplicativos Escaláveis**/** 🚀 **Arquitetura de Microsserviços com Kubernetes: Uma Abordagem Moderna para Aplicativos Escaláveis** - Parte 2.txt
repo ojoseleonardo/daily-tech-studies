@@ -1,0 +1,15 @@
+Agora que entendemos os conceitos básicos da arquitetura de microsserviços e como Kubernetes pode ajudar a implementá-la, vamos explorar como implementar a arquitetura de microsserviços com Kubernetes.
+
+**Criando Microsserviços com Kubernetes**
+
+→ Criar um projeto de microsserviços com Kubernetes envolve a criação de um manifesto YAML que descreve a estrutura do sistema.
+→ O manifesto YAML é usado por Kubernetes para implantar e gerenciar os microsserviços.
+→ O manifesto YAML também pode ser usado para definir as dependências entre os microsserviços e para configurar as configurações de rede e de segurança.
+
+**Gerenciando Microsserviços com Kubernetes**
+
+→ Kubernetes fornece recursos para gerenciar os microsserviços, como orquestração, escalabilidade e auto-reparação.
+→ Kubernetes também fornece recursos para monitorar e diagnosticar os microsserviços, como logs e métricas.
+→ Kubernetes também é capaz de gerenciar a comunicação entre os microsserviços, permitindo que os desenvolvedores criem sistemas escaláveis e flexíveis.
+
+═══════════════════
