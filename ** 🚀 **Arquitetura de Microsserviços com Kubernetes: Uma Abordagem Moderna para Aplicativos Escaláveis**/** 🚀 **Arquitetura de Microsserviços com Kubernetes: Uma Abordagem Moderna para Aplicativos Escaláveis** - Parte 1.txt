@@ -1,0 +1,16 @@
+A arquitetura de microsserviços é uma abordagem moderna de desenvolvimento de software que enfatiza a construção de sistemas escaláveis e flexíveis. Com a introdução de Kubernetes, os desenvolvedores podem facilmente gerenciar e orquestrar microsserviços em nuvem. Nesta parte, vamos explorar os conceitos básicos da arquitetura de microsserviços e como Kubernetes pode ajudar a implementá-la.
+
+**Características da Arquitetura de Microsserviços**
+
+→ Autonomia: cada microsserviço é uma unidade independente que pode ser desenvolvido, implantado e gerenciado de forma isolada.
+→ Independência: microsserviços podem ser desenvolvidos em diferentes linguagens de programação e frameworks.
+→ Escalabilidade: microsserviços podem ser escalados individualmente, permitindo que os desenvolvedores ajustem a capacidade de cada serviço de acordo com a demanda.
+→ Flexibilidade: microsserviços podem ser facilmente substituídos ou atualizados sem afetar outros serviços.
+
+**Kubernetes e a Arquitetura de Microsserviços**
+
+→ Kubernetes é um gerenciador de contêineres que permite que os desenvolvedores implantem e gerenciem microsserviços de forma escalável e flexível.
+→ Kubernetes fornece recursos como orquestração, escalabilidade e auto-reparação, permitindo que os desenvolvedores se concentrem na construção de microsserviços.
+→ Kubernetes também é capaz de gerenciar a comunicação entre microsserviços, permitindo que os desenvolvedores criem sistemas escaláveis e flexíveis.
+
+═══════════════════
