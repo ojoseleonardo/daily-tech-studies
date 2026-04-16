@@ -1,0 +1,8 @@
+As práticas ágeis, como o Scrum e Kanban, permitem que os times de desenvolvimento trabalhem de forma colaborativa e iterativa. Isso ajuda a identificar e resolver problemas de segurança antes que eles se tornem críticos.
+
+▸ Benefícios das práticas ágeis:
+  → Melhoria contínua da qualidade do código
+  → Redução do risco de erros de segurança
+  → Aumento da produtividade e eficiência do time
+
+✓ Exemplo: o uso de testes automatizados e integração contínua pode ajudar a detectar e corrigir problemas de segurança antes que eles se tornem críticos.
