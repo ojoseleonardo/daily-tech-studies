@@ -1,0 +1,10 @@
+Ao implementar uma arquitetura de rede segura, é fundamental considerar as seguintes questões de segurança:
+
+▸ Autenticação e autorização
+▸ Criptografia
+▸ Monitoramento e gerenciamento
+▸ Atualizações e manutenção
+
+🔒 A segurança é um processo contínuo, não um estado final.
+
+═══════════════════
