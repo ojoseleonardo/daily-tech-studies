@@ -1,0 +1,10 @@
+O firewall é uma barreira de segurança que controla o tráfego de rede entre redes. Ele pode bloquear ou permitir o acesso a recursos da rede, dependendo das configurações. A configuração de firewall é fundamental para proteger a rede contra ataques maliciosos.
+
+▸ Tipos de firewall:
+  → Firewall de rede
+  → Firewall de aplicativos
+  → Firewall de sistema operacional
+
+🔒 O firewall é uma ferramenta essencial para proteger a rede contra acessos não autorizados.
+
+═══════════════════
