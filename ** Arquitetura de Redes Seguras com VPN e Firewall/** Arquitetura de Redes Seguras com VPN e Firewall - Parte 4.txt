@@ -1,0 +1,11 @@
+A arquitetura de rede segura é uma combinação de tecnologias de segurança para proteger a rede contra acessos não autorizados. Ela inclui a configuração de VPN e firewall, além de outras tecnologias de segurança.
+
+▸ Principais componentes:
+  → VPN
+  → Firewall
+  → Autenticação e autorização
+  → Monitoramento e gerenciamento
+
+🔒 A arquitetura de rede segura é uma solução completa para proteger a rede contra acessos não autorizados.
+
+═══════════════════
