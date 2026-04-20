@@ -1,0 +1,10 @@
+A VPN (Virtual Private Network) é uma tecnologia que cria uma conexão segura entre redes remotas. Ela cifra os dados em trânsito, tornando-os inacessíveis para atacantes. A configuração de VPN é fundamental para proteger a rede contra acessos não autorizados.
+
+▸ Benefícios da VPN:
+  → Autenticação e autorização robustas
+  → Criptografia forte para proteger dados
+  → Conexão segura para redes remotas
+
+🔒 A VPN é uma opção segura para proteger a rede contra acessos não autorizados.
+
+═══════════════════
