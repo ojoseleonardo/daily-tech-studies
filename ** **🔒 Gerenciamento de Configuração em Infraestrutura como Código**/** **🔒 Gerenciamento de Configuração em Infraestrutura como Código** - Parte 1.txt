@@ -1,0 +1,17 @@
+O gerenciamento de configuração é um processo essencial em infraestrutura como código (IaC). Ele garante que as configurações de sistemas e aplicativos sejam consistentes e eficientes. Em IaC, as configurações são geradas automaticamente e versionadas, facilitando a colaboração e a segurança.
+
+**Por que o Gerenciamento de Configuração é Importante?**
+
+▸ Reduz a complexidade de gerenciar configurações manuais
+▸ Melhora a consistência e a eficiência das configurações
+▸ Facilita a colaboração e a segurança
+
+**Tipos de Gerenciamento de Configuração**
+
+▸ **Configuração de Servidor**: gerencia configurações de servidores, como IP, porta e firewall
+▸ **Configuração de Aplicativo**: gerencia configurações de aplicativos, como banco de dados e ambiente de execução
+▸ **Configuração de Rede**: gerencia configurações de rede, como subredes e roteamento
+
+⚠️ Atenção: o gerenciamento de configuração é um processo contínuo e deve ser monitorado regularmente para garantir a consistência e a eficiência.
+
+═══════════════════
