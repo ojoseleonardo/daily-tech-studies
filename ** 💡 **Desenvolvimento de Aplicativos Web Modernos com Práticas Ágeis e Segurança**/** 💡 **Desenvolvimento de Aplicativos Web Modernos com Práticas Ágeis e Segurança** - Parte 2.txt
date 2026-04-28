@@ -1,0 +1,11 @@
+A segurança é um aspecto crucial em qualquer aplicativo web moderno. Isso porque os aplicativos web são frequentemente alvos de ataques cibernéticos, e uma falha de segurança pode comprometer a confidencialidade, a integridade e a disponibilidade dos dados dos usuários. 🔒
+
+**Principais medidas de segurança em aplicativos web modernos:**
+
+ → **Autenticação**: É fundamental garantir que somente usuários autorizados tenham acesso ao aplicativo.
+ → **Autorização**: É necessário garantir que os usuários tenham permissões adequadas para executar ações no aplicativo.
+ → **Cifragem**: É importante cifrar os dados dos usuários para protegê-los contra acesso não autorizado.
+
+**Exemplo de aplicação de medidas de segurança:**
+
+Imagine que você está desenvolvendo um aplicativo web para uma empresa que precisa de uma solução para gerenciar seus estoques. Em vez de armazenar as credenciais dos usuários em texto plano, você pode usar a autenticação e a autorização para garantir que somente usuários autorizados tenham acesso ao aplicativo. Além disso, você pode usar a cifragem para proteger os dados dos usuários contra acesso não autorizado. 🛠️
