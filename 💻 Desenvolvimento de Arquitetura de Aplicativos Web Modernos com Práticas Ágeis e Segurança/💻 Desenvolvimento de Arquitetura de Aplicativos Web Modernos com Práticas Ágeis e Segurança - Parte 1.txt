@@ -1,0 +1,8 @@
+A arquitetura de aplicativos web é fundamental para a construção de sistemas escaláveis, seguros e flexíveis. Com a evolução da tecnologia, as práticas ágeis e a segurança se tornaram essenciais para o sucesso de qualquer projeto web.
+
+▸ Principais pilares:
+  → Escalabilidade: sistemas que crescem com a demanda
+  → Segurança: proteção de dados e prevenção de ataques
+  → Flexibilidade: capacidade de mudar e adaptar-se às necessidades
+
+⚠️ Atenção: a arquitetura de aplicativos web é um processo contínuo, não um estado final.
