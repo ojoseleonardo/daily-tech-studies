@@ -1,0 +1,9 @@
+A segurança é um aspecto crucial da arquitetura de aplicativos web. É fundamental proteger dados contra acessos não autorizados, evitar ataques e garantir a confidencialidade e integridade dos dados.
+
+▸ Principais medidas de segurança:
+  → Autenticação: verificar a identidade do usuário
+  → Autorização: controlar o acesso aos recursos
+  → Criptografia: proteger dados em trânsito e armazenamento
+  → Monitoramento: verificar o sistema por possíveis ameaças
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
