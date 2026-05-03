@@ -1,0 +1,16 @@
+A configuração de VPN é fundamental para garantir a segurança da rede. Existem dois principais métodos de configuração de VPN: o P2P (Ponto a Ponto) e o Site-to-Site.
+
+▸ Métodos de configuração:
+  → P2P: permite a conexão entre dois pontos de rede
+  → Site-to-Site: permite a conexão entre dois ou mais sites de rede
+
+A escolha do método de configuração depende das necessidades específicas da rede e da quantidade de usuários.
+
+📊 Exemplo de configuração de VPN:
+
+| Método | Descrição |
+| --- | --- |
+| P2P | Conexão entre dois pontos de rede |
+| Site-to-Site | Conexão entre dois ou mais sites de rede |
+
+═══════════════════
