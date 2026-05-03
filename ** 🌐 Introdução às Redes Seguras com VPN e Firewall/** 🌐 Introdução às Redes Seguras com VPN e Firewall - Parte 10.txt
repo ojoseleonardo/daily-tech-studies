@@ -1,0 +1,16 @@
+Existem recursos adicionais que podem ser utilizados para garantir a segurança da rede. Existem dois principais recursos: o recurso de monitoramento e o recurso de atualização.
+
+▸ Recursos adicionais:
+  → Recurso de monitoramento: monitoramento da rede
+  → Recurso de atualização: atualização das configurações de segurança
+
+A escolha do recurso depende das necessidades específicas da rede e da quantidade de usuários.
+
+📊 Exemplo de recursos adicionais:
+
+| Recurso | Descrição |
+| --- | --- |
+| Recurso de monitoramento | Monitoramento da rede |
+| Recurso de atualização | Atualização das configurações de segurança |
+
+═══════════════════
