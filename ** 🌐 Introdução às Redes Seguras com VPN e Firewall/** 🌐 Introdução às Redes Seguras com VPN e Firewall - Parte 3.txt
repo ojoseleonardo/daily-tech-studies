@@ -1,0 +1,16 @@
+O Firewall é uma ferramenta essencial para proteger a rede contra acessos não autorizados. Existem dois principais tipos de Firewall: o Firewall de Rede e o Firewall de Aplicativo.
+
+▸ Tipos de Firewall:
+  → Firewall de Rede: protege a rede contra acessos não autorizados
+  → Firewall de Aplicativo: protege os aplicativos contra acessos não autorizados
+
+A configuração de Firewall é fundamental para garantir a segurança da rede.
+
+✨ Exemplo de configuração de Firewall:
+
+| Tipo | Descrição |
+| --- | --- |
+| Firewall de Rede | Protege a rede contra acessos não autorizados |
+| Firewall de Aplicativo | Protege os aplicativos contra acessos não autorizados |
+
+═══════════════════
