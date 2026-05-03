@@ -1,0 +1,16 @@
+O monitoramento da rede é fundamental para garantir a segurança da rede. Existem dois principais métodos de monitoramento: o método de análise de rede e o método de análise de aplicativos.
+
+▸ Métodos de monitoramento:
+  → Método de análise de rede: análise de tráfego de rede
+  → Método de análise de aplicativos: análise de aplicativos
+
+A escolha do método de monitoramento depende das necessidades específicas da rede e da quantidade de usuários.
+
+📊 Exemplo de monitoramento da rede:
+
+| Método | Descrição |
+| --- | --- |
+| Método de análise de rede | Análise de tráfego de rede |
+| Método de análise de aplicativos | Análise de aplicativos |
+
+═══════════════════
