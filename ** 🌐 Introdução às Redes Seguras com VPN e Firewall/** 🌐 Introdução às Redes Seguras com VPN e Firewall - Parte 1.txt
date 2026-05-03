@@ -1,0 +1,12 @@
+Redes seguras são fundamentais para proteger dados e sistemas contra acessos não autorizados. A VPN (Rede Privada Virtual) e o Firewall são ferramentas essenciais para garantir a segurança da rede.
+
+▸ Principais objetivos:
+  → Proteger dados contra interceptação e roubo
+  → Bloquear acessos não autorizados à rede
+  → Garantir a integridade e a confidencialidade dos dados
+
+A VPN é uma tecnologia que permite a criação de uma rede privada virtual entre dois ou mais pontos de rede, protegendo os dados em trânsito.
+
+⚠️ Atenção: a segurança da rede é um processo contínuo, não um estado final.
+
+═══════════════════
