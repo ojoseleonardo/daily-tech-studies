@@ -1,0 +1,16 @@
+A atualização das configurações de segurança é fundamental para garantir a proteção dos dados e sistemas. Existem dois principais métodos de atualização: o método de atualização de software e o método de atualização de configurações.
+
+▸ Métodos de atualização:
+  → Método de atualização de software: atualização do software de segurança
+  → Método de atualização de configurações: atualização das configurações de segurança
+
+A escolha do método de atualização depende das necessidades específicas da rede e da quantidade de usuários.
+
+📊 Exemplo de atualização das configurações de segurança:
+
+| Método | Descrição |
+| --- | --- |
+| Método de atualização de software | Atualização do software de segurança |
+| Método de atualização de configurações | Atualização das configurações de segurança |
+
+═══════════════════
