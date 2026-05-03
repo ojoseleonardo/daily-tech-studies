@@ -1,0 +1,18 @@
+A segurança da rede é um processo contínuo, não um estado final. É fundamental monitorar a rede regularmente e atualizar as configurações de segurança para garantir a proteção dos dados.
+
+▸ Tipos de ameaças:
+  → Acessos não autorizados
+  → Interceptação de dados
+  → Roubo de dados
+
+A segurança da rede é fundamental para garantir a confidencialidade, a integridade e a disponibilidade dos dados.
+
+📊 Exemplo de plano de segurança:
+
+| Tipo de ameaça | Descrição |
+| --- | --- |
+| Acessos não autorizados | Proteger a rede contra acessos não autorizados |
+| Interceptação de dados | Proteger os dados em trânsito |
+| Roubo de dados | Proteger os dados armazenados |
+
+═══════════════════
