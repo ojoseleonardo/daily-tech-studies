@@ -1,0 +1,15 @@
+O gerenciamento de serviços com Kubernetes envolve a monitorização e a manutenção dos serviços. Isso inclui a monitorização de métricas, a detecção de problemas e a execução de ações de manutenção.
+
+**Principais recursos:**
+
+→ Monitorização de métricas: Kubernetes fornece recursos para monitorizar métricas de desempenho e saúde dos serviços
+→ Detecção de problemas: Kubernetes fornece recursos para detectar problemas nos serviços
+→ Execução de ações de manutenção: Kubernetes fornece recursos para executar ações de manutenção nos serviços
+
+**Exemplo de gerenciamento:**
+
+→ Monitorizar métricas de desempenho e saúde dos serviços
+→ Detectar problemas nos serviços
+→ Executar ações de manutenção nos serviços
+
+═══════════════════
