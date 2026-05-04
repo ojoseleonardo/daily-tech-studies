@@ -1,0 +1,14 @@
+A arquitetura de microsserviços é uma abordagem moderna para desenvolver aplicativos escaláveis e flexíveis. Ela consiste em dividir o aplicativo em pequenos serviços independentes, cada um responsável por uma funcionalidade específica. Isso permite que os serviços sejam desenvolvidos, testados e implantados de forma independente, o que melhora a escalabilidade e a resiliência do aplicativo.
+
+**Principais benefícios:**
+
+→ Flexibilidade: os serviços podem ser desenvolvidos e implantados de forma independente
+→ Escalabilidade: os serviços podem ser escalados separadamente, o que melhora a eficiência do aplicativo
+→ Resiliência: se um serviço falhar, os outros serviços podem continuar funcionando normalmente
+
+**Desafios:**
+
+→ Complexidade: a arquitetura de microsserviços pode ser complexa e difícil de gerenciar
+→ Comunicação: os serviços precisam se comunicar entre si de forma eficiente e segura
+
+═══════════════════
