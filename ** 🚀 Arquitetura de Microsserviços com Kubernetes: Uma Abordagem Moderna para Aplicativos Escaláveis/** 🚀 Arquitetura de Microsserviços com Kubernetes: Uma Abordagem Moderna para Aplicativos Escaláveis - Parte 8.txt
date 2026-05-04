@@ -1,0 +1,15 @@
+A integração com outros serviços com Kubernetes envolve a capacidade de integrar os serviços com outros sistemas e aplicativos. Isso inclui a configuração de integração, a monitorização de integração e a execução de ações de integração.
+
+**Principais recursos:**
+
+→ Configuração de integração: Kubernetes fornece recursos para configurar integração
+→ Monitorização de integração: Kubernetes fornece recursos para monitorizar integração
+→ Execução de ações de integração: Kubernetes fornece recursos para executar ações de integração
+
+**Exemplo de integração:**
+
+→ Configurar integração com outros serviços
+→ Monitorizar integração para garantir que os serviços sejam integrados corretamente
+→ Executar ações de integração para garantir que os serviços sejam integrados corretamente
+
+═══════════════════
