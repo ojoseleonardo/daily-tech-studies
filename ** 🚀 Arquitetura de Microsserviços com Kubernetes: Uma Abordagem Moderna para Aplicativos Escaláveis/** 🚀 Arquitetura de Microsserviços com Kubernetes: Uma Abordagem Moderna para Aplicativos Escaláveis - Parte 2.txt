@@ -1,0 +1,15 @@
+Kubernetes é um gerenciador de contêineres que permite que os serviços sejam implantados e gerenciados de forma escalável e eficiente. Ele fornece recursos como orquestração de contêineres, gerenciamento de recursos e escalabilidade.
+
+**Principais recursos:**
+
+→ Orquestração de contêineres: Kubernetes permite que os serviços sejam implantados e gerenciados de forma escalável e eficiente
+→ Gerenciamento de recursos: Kubernetes fornece recursos como gerenciamento de memória, CPU e armazenamento
+→ Escalabilidade: Kubernetes permite que os serviços sejam escalados separadamente, o que melhora a eficiência do aplicativo
+
+**Exemplo de implantação:**
+
+→ Criar um cluster de Kubernetes com 3 nós
+→ Criar um serviço de autenticação com Kubernetes
+→ Criar um serviço de autorização com Kubernetes
+
+═══════════════════
