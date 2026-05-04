@@ -1,0 +1,15 @@
+A escalabilidade com Kubernetes envolve a capacidade de aumentar ou diminuir a capacidade de processamento dos serviços de acordo com a demanda. Isso inclui a criação de serviços adicionais, a escalada de recursos e a alocação de recursos.
+
+**Principais recursos:**
+
+→ Criação de serviços adicionais: Kubernetes fornece recursos para criar serviços adicionais
+→ Escalada de recursos: Kubernetes fornece recursos para escalada de recursos
+→ Alocação de recursos: Kubernetes fornece recursos para alocar recursos
+
+**Exemplo de escalabilidade:**
+
+→ Criar serviços adicionais para atender a demanda
+→ Escalada de recursos para aumentar a capacidade de processamento
+→ Alocar recursos para otimizar a capacidade de processamento
+
+═══════════════════
