@@ -1,0 +1,15 @@
+A segurança com Kubernetes envolve a proteção dos serviços contra ameaças e vulnerabilidades. Isso inclui a configuração de segurança, a monitorização de segurança e a execução de ações de segurança.
+
+**Principais recursos:**
+
+→ Configuração de segurança: Kubernetes fornece recursos para configurar segurança
+→ Monitorização de segurança: Kubernetes fornece recursos para monitorizar segurança
+→ Execução de ações de segurança: Kubernetes fornece recursos para executar ações de segurança
+
+**Exemplo de segurança:**
+
+→ Configurar segurança para proteger os serviços
+→ Monitorizar segurança para detectar ameaças e vulnerabilidades
+→ Executar ações de segurança para proteger os serviços
+
+═══════════════════
