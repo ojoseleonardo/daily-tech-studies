@@ -1,0 +1,15 @@
+A monitorização e análise de desempenho com Kubernetes envolve a capacidade de monitorizar e analisar o desempenho dos serviços. Isso inclui a coleta de dados, a análise de dados e a execução de ações de otimização.
+
+**Principais recursos:**
+
+→ Coleta de dados: Kubernetes fornece recursos para coletar dados de desempenho
+→ Análise de dados: Kubernetes fornece recursos para analisar dados de desempenho
+→ Execução de ações de otimização: Kubernetes fornece recursos para executar ações de otimização
+
+**Exemplo de monitorização e análise:**
+
+→ Coletar dados de desempenho dos serviços
+→ Analisar dados de desempenho para identificar problemas e oportunidades de otimização
+→ Executar ações de otimização para melhorar o desempenho dos serviços
+
+═══════════════════
