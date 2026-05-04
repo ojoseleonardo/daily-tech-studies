@@ -1,0 +1,15 @@
+A análise de desempenho com Kubernetes envolve a avaliação do desempenho dos serviços. Isso inclui a análise de métricas de desempenho, a identificação de problemas e a execução de ações de otimização.
+
+**Principais recursos:**
+
+→ Análise de métricas de desempenho: Kubernetes fornece recursos para analisar métricas de desempenho dos serviços
+→ Identificação de problemas: Kubernetes fornece recursos para identificar problemas nos serviços
+→ Execução de ações de otimização: Kubernetes fornece recursos para executar ações de otimização nos serviços
+
+**Exemplo de análise:**
+
+→ Analisar métricas de desempenho dos serviços
+→ Identificar problemas nos serviços
+→ Executar ações de otimização nos serviços
+
+═══════════════════
