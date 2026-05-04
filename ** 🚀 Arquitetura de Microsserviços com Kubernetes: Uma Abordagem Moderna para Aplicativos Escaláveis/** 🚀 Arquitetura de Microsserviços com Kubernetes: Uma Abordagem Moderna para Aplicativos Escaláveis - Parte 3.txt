@@ -1,0 +1,15 @@
+A implementação de uma arquitetura de microsserviços com Kubernetes envolve várias etapas, incluindo a criação de serviços, a configuração de Kubernetes e a implantação dos serviços.
+
+**Principais etapas:**
+
+→ Criar serviços: criar serviços independentes para cada funcionalidade do aplicativo
+→ Configurar Kubernetes: configurar Kubernetes para gerenciar os serviços
+→ Implantar serviços: implantar os serviços em Kubernetes
+
+**Exemplo de implementação:**
+
+→ Criar um serviço de autenticação com Kubernetes
+→ Criar um serviço de autorização com Kubernetes
+→ Implantar os serviços em Kubernetes
+
+═══════════════════
