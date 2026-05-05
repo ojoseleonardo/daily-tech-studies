@@ -1,0 +1,10 @@
+O monitoramento e ajuste são fundamentais para a manutenção e melhoria da arquitetura de microsserviços. Eles incluem a coleta de dados, a análise e a aplicação de ajustes.
+
+▸ Principais etapas:
+  → Coleta de dados: reunião de dados sobre o desempenho dos microsserviços
+  → Análise: interpretação dos dados e identificação de problemas
+  → Ajuste: aplicação de mudanças nos microsserviços para melhorar o desempenho
+
+→ Importante: o monitoramento e ajuste são processos contínuos e requerem a colaboração da equipe.
+
+═══════════════════
