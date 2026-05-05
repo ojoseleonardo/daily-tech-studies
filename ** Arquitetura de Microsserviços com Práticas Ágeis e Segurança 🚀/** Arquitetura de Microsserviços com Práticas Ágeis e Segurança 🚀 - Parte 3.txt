@@ -1,0 +1,10 @@
+A segurança é um dos principais desafios na arquitetura de microsserviços. Cada microsserviço precisa ter sua própria segurança para evitar ataques e proteger os dados.
+
+▸ Principais medidas de segurança:
+  → Autenticação: identificação dos usuários e autorização
+  → Autorização: controle de acesso aos recursos
+  → Criptografia: proteção dos dados em repouso e em trânsito
+
+→ Importante: a segurança é um processo contínuo e requer a atualização constante das medidas de segurança.
+
+═══════════════════
