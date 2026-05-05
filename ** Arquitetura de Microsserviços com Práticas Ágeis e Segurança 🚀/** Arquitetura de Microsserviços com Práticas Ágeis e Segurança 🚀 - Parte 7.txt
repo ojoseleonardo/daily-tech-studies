@@ -1,0 +1,10 @@
+As práticas de desenvolvimento de microsserviços com Kubernetes são essenciais para a implementação e manutenção de sistemas escaláveis e flexíveis.
+
+▸ Principais práticas:
+  → Abordagem incremental: desenvolvimento em pequenas etapas
+  → Entrega contínua: entrega de funcionalidades em cada ciclo
+  → Colaboração: integração contínua dos times
+
+→ Importante: as práticas de desenvolvimento de microsserviços com Kubernetes requerem uma mudança na cultura da equipe.
+
+═══════════════════
