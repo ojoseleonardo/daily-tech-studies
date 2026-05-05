@@ -1,0 +1,10 @@
+A infraestrutura como código é uma abordagem moderna para a configuração e gerenciamento da infraestrutura. Ela se baseia na ideia de definir a configuração da infraestrutura em códigos reutilizáveis.
+
+▸ Principais benefícios:
+  → Automatização: configuração e gerenciamento automatizado
+  → Reutilização: códigos reutilizáveis para diferentes ambientes
+  → Maior segurança: configuração da infraestrutura é auditrada e rastreada
+
+→ Importante: a infraestrutura como código para microsserviços com Kubernetes requer uma abordagem diferente de gerenciamento da infraestrutura.
+
+═══════════════════
