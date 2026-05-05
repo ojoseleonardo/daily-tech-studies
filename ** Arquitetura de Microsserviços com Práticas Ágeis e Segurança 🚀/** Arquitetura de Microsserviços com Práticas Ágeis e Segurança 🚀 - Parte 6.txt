@@ -1,0 +1,10 @@
+Kubernetes é uma plataforma de gerenciamento de contêineres que pode ser usada para implementar microsserviços de forma escalável e flexível.
+
+▸ Principais benefícios:
+  → Escalabilidade: Kubernetes pode escalar microsserviços automaticamente
+  → Flexibilidade: Kubernetes pode ser configurado para diferentes ambientes
+  → Maior segurança: Kubernetes fornece recursos de segurança para os microsserviços
+
+→ Importante: a implementação de microsserviços com Kubernetes requer uma abordagem diferente de desenvolvimento e gerenciamento.
+
+═══════════════════
