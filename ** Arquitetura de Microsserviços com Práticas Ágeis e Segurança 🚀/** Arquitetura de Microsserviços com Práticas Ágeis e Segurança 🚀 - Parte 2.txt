@@ -1,0 +1,10 @@
+As práticas ágeis são fundamentais para o desenvolvimento de microsserviços. Elas incluem a abordagem incremental, a entrega contínua e a colaboração.
+
+▸ Principais práticas:
+  → Abordagem incremental: desenvolvimento em pequenas etapas
+  → Entrega contínua: entrega de funcionalidades em cada ciclo
+  → Colaboração: integração contínua dos times
+
+→ Importante: a abordagem ágil requer uma mudança na cultura da equipe.
+
+═══════════════════
