@@ -1,0 +1,8 @@
+A arquitetura de microsserviços é uma abordagem moderna para desenvolvimento de sistemas escaláveis e flexíveis. Ela se baseia na ideia de dividir um sistema em múltiplas unidades independentes, cada uma com sua própria responsabilidade e função.
+
+▸ Principais conclusões:
+  → Arquitetura de microsserviços é escalável e flexível
+  → Práticas ágeis são fundamentais para o desenvolvimento de microsserviços
+  → Segurança é um dos principais desafios na arquitetura de microsserviços
+
+→ Importante: a arquitetura de microsserviços é um processo contínuo e requer a colaboração da equipe.
