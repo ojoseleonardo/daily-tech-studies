@@ -1,0 +1,10 @@
+A segurança de microsserviços com Kubernetes é fundamental para proteger os dados e evitar ataques.
+
+▸ Principais medidas de segurança:
+  → Autenticação: identificação dos usuários e autorização
+  → Autorização: controle de acesso aos recursos
+  → Criptografia: proteção dos dados em repouso e em trânsito
+
+→ Importante: a segurança de microsserviços com Kubernetes é um processo contínuo e requer a atualização constante das medidas de segurança.
+
+═══════════════════
