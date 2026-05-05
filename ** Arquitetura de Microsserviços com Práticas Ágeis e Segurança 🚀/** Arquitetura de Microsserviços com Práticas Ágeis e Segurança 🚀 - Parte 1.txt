@@ -1,0 +1,10 @@
+A arquitetura de microsserviços é uma abordagem moderna para desenvolvimento de sistemas escaláveis e flexíveis. Ela se baseia na ideia de dividir um sistema em múltiplas unidades independentes, cada uma com sua própria responsabilidade e função.
+
+▸ Principais benefícios:
+  → Escalabilidade: cada microsserviço pode ser escalado individualmente
+  → Flexibilidade: mudanças em um microsserviço não afetam os outros
+  → Maior segurança: cada microsserviço tem sua própria segurança
+
+⚠️ Atenção: a arquitetura de microsserviços requer uma abordagem diferente de desenvolvimento e manutenção.
+
+═══════════════════
