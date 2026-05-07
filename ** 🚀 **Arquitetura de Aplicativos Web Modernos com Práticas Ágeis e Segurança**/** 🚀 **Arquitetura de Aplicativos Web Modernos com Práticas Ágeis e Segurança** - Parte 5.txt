@@ -1,0 +1,10 @@
+A arquitetura de microserviços é uma abordagem que divide o aplicativo em pequenos serviços independentes que podem ser desenvolvidos, testados e implantados separadamente. Alguns dos principais benefícios incluem:
+
+→ **Escalabilidade**: permitir que os serviços sejam escalados individualmente
+→ **Flexibilidade**: permitir que os serviços sejam desenvolvidos em diferentes linguagens e tecnologias
+→ **Segurança**: melhorar a segurança do aplicativo com políticas e regras
+
+▸ Dicas práticas:
+  → Use ferramentas como Docker ou Kubernetes para gerenciar os serviços
+  → Desenvolva políticas de segurança claras e concisas
+  → Use regras e políticas para gerenciar os serviços
