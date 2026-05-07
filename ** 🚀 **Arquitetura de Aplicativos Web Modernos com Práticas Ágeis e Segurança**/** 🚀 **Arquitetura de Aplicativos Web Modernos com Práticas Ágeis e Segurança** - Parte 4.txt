@@ -1,0 +1,10 @@
+A infraestrutura como código é uma abordagem que permite que a infraestrutura seja gerenciada como código, em vez de como um processo manual. Isso inclui a criação de infraestrutura com ferramentas como Terraform ou CloudFormation. Alguns dos principais benefícios incluem:
+
+→ **Automatização**: automatizar a criação e gerenciamento da infraestrutura
+→ **Reutilização**: reutilizar a infraestrutura em diferentes ambientes
+→ **Segurança**: melhorar a segurança da infraestrutura com políticas e regras
+
+▸ Dicas práticas:
+  → Use ferramentas como Terraform ou CloudFormation para gerenciar a infraestrutura
+  → Desenvolva políticas de segurança claras e concisas
+  → Use regras e políticas para gerenciar a infraestrutura
