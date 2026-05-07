@@ -1,0 +1,10 @@
+A segurança é fundamental para a criação de aplicativos web modernos. Isso inclui proteger contra ameaças cibernéticas, violações de segurança e acessos não autorizados. Alguns dos principais aspectos de segurança incluem:
+
+→ **Autenticação**: garantir que apenas usuários autorizados tenham acesso
+→ **Autorização**: garantir que apenas usuários autorizados tenham permissões para realizar ações
+→ **Criptografia**: proteger dados sensíveis com criptografia
+
+▸ Dicas práticas:
+  → Use técnicas de autenticação como OAuth ou JWT
+  → Desenvolva políticas de autorização claras e concisas
+  → Use criptografia para proteger dados sensíveis
