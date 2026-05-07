@@ -1,0 +1,10 @@
+O monitoramento e a atribuição de problemas é um processo que envolve a identificação e resolução de problemas no aplicativo. Alguns dos principais aspectos incluem:
+
+→ **Monitoramento**: monitorar o desempenho do aplicativo com ferramentas como Prometheus ou Grafana
+→ **Atribuição de problemas**: atribuir problemas ao desenvolvedor correto com ferramentas como JIRA ou Trello
+→ **Resolução de problemas**: resolver problemas com técnicas de depuração e teste
+
+▸ Dicas práticas:
+  → Use ferramentas como Prometheus ou Grafana para monitorar o desempenho
+  → Desenvolva políticas de atribuição de problemas claras e concisas
+  → Use técnicas de depuração e teste para resolver problemas
