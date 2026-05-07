@@ -1,0 +1,10 @@
+A implantação de arquitetura de aplicativos web modernos é um processo que envolve a criação de uma arquitetura moderna e escalável. Alguns dos principais aspectos incluem:
+
+→ **Implantação de infraestrutura**: implantar a infraestrutura com ferramentas como Terraform ou CloudFormation
+→ **Implantação de aplicativos**: implantar os aplicativos em uma plataforma como Kubernetes ou Docker
+→ **Implantação de segurança**: implantar políticas e regras de segurança para garantir a segurança do aplicativo
+
+▸ Dicas práticas:
+  → Use ferramentas como Terraform ou CloudFormation para implantar a infraestrutura
+  → Desenvolva políticas de segurança claras e concisas
+  → Use regras e políticas para implantar a segurança
