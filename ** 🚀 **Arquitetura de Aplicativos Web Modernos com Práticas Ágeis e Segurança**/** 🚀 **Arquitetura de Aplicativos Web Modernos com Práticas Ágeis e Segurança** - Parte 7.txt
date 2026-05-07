@@ -1,0 +1,10 @@
+O gerenciamento de configuração é um processo que envolve a gestão das configurações do aplicativo. Alguns dos principais aspectos incluem:
+
+→ **Gerenciamento de configuração**: gerenciar as configurações do aplicativo com ferramentas como Ansible ou Puppet
+→ **Reutilização**: reutilizar as configurações em diferentes ambientes
+→ **Segurança**: melhorar a segurança das configurações com políticas e regras
+
+▸ Dicas práticas:
+  → Use ferramentas como Ansible ou Puppet para gerenciar as configurações
+  → Desenvolva políticas de segurança claras e concisas
+  → Use regras e políticas para gerenciar as configurações
