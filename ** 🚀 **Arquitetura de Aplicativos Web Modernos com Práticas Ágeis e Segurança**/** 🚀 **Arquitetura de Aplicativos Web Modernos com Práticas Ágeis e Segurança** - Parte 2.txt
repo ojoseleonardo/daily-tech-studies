@@ -1,0 +1,10 @@
+Os princípios ágeis são fundamentais para a criação de aplicativos web modernos. Eles permitem que os desenvolvedores sejam flexíveis e rápidos em resposta às mudanças do mercado e dos usuários. Alguns dos principais princípios ágeis incluem:
+
+→ **Priorização**: priorizar as funcionalidades e requisitos mais importantes
+→ **Iteração**: desenvolver em iterações curtas e constantes
+→ **Flexibilidade**: ser capaz de mudar e adaptar-se às necessidades mudáveis
+
+▸ Dicas práticas:
+  → Use técnicas de priorização como Kanban ou Scrum
+  → Desenvolva em iterações curtas e constantes
+  → Seja flexível e pronto para mudar
