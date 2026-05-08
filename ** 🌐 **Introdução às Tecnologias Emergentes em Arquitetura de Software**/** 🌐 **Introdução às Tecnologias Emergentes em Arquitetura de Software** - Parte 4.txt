@@ -1,0 +1,12 @@
+As tecnologias emergentes podem trazer desafios e riscos, incluindo:
+
+▸ Instabilidade e falhas
+▸ Complexidade e dificuldade de manutenção
+▸ Riscos de segurança e privacidade
+
+→ Exemplos de desafios e riscos:
+  → Ataques cibernéticos
+  → Perda de dados e confidencialidade
+  → Problemas de escalabilidade
+
+═══════════════════
