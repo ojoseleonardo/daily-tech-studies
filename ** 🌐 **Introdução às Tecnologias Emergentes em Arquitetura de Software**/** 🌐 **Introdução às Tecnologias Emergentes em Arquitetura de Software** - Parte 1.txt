@@ -1,0 +1,10 @@
+As tecnologias emergentes são aquelas que estão em desenvolvimento ou que começam a ganhar popularidade e são consideradas inovadoras. Elas podem ser aplicadas em várias áreas, incluindo a arquitetura de software. A importância de tecnologias emergentes é que elas podem proporcionar soluções inovadoras e eficientes para problemas complexos.
+
+▸ Exemplos de tecnologias emergentes:
+  → Blockchain
+  → Internet das Coisas (IoT)
+  → Realidade Aumentada (RA) e Realidade Virtual (RV)
+
+⚠️ Atenção: as tecnologias emergentes podem ser arriscadas, pois ainda não estão amplamente testadas e podem ter falhas.
+
+═══════════════════
