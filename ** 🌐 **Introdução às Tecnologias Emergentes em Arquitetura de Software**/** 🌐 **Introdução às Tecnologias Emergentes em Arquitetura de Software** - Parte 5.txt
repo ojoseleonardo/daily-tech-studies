@@ -1,0 +1,11 @@
+A adoção e implementação de tecnologias emergentes requer cuidado e planejamento, incluindo:
+
+▸ Análise de necessidades e requisitos
+▸ Seleção e avaliação de tecnologias
+▸ Treinamento e capacitação de equipes
+
+→ Exemplos de adoção e implementação:
+  → Implementação de blockchain em um sistema de gestão de supply chain
+  → Desenvolvimento de um aplicativo móvel utilizando tecnologias de realidade aumentada e realidade virtual
+
+═══════════════════
