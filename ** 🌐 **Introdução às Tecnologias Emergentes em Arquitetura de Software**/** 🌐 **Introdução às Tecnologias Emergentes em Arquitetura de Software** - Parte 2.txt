@@ -1,0 +1,18 @@
+Existem vários tipos de tecnologias emergentes, incluindo:
+
+▸ Tecnologias de hardware:
+  → Processadores de alta velocidade
+  → Memória de alta capacidade
+  → Dispositivos de armazenamento de dados
+
+▸ Tecnologias de software:
+  → Linguagens de programação novas
+  → Frameworks e bibliotecas de software
+  → Ferramentas de desenvolvimento de software
+
+→ Exemplos de tecnologias de software:
+  → Python
+  → Java
+  → C++
+
+═══════════════════
