@@ -1,0 +1,12 @@
+As tecnologias emergentes podem ser aplicadas em várias áreas da arquitetura de software, incluindo:
+
+▸ Desenvolvimento de aplicativos web
+▸ Desenvolvimento de aplicativos móveis
+▸ Desenvolvimento de sistemas de informação
+
+→ Exemplos de tecnologias emergentes em arquitetura de software:
+  → Arquitetura de microsserviços
+  → Arquitetura de software como um serviço (SaaS)
+  → Arquitetura de realidade aumentada e realidade virtual
+
+═══════════════════
