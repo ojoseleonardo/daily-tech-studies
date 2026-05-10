@@ -1,0 +1,10 @@
+A segurança é um aspecto fundamental da arquitetura de aplicativos web modernos. É necessário proteger os dados dos usuários contra acessos não autorizados e ataques maliciosos.
+
+🔒 Técnicas de Segurança:
+  → Autenticação: verificar a identidade dos usuários
+  → Autorização: controlar o acesso aos recursos
+  → Criptografia: proteger os dados em trânsito e armazenamento
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
+
+═══════════════════
