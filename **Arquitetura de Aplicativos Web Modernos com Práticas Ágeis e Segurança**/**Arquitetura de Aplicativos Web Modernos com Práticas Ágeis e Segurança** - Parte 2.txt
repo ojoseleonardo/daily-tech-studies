@@ -1,0 +1,13 @@
+As práticas ágeis são uma abordagem de desenvolvimento de software que enfatiza a colaboração, a flexibilidade e a entrega contínua de valor. Essas práticas ajudam a criar aplicativos web modernos que sejam escaláveis, seguros e manuteníveis.
+
+👥 Equipe de Desenvolvimento:
+  → Desenvolvedores: responsáveis pela criação do código
+  → Testadores: responsáveis pela verificação da qualidade do código
+  → Arquitetos: responsáveis pela definição da arquitetura do sistema
+
+💻 Ferramentas de Desenvolvimento:
+  → Linguagens de programação (JavaScript, Python, etc.)
+  → Frameworks de desenvolvimento (React, Angular, etc.)
+  → Ferramentas de gerenciamento de versionamento (Git, etc.)
+
+═══════════════════
