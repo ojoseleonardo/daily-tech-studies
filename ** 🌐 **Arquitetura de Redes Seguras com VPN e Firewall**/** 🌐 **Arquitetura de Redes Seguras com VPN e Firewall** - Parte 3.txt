@@ -1,0 +1,10 @@
+O Firewall é uma tecnologia que controla o tráfego de dados entre a rede interna e a rede externa, bloqueando acessos não autorizados e protegendo a rede contra ataques. Existem dois tipos principais de Firewall: Hardware e Software.
+
+▸ Configuração de Firewall:
+  → Hardware: configurado em dispositivos de rede
+  → Software: configurado em servidores e clientes
+
+📌 Exemplo de configuração de Firewall:
+
+*   Criar uma regra de bloqueio para acessos não autorizados
+*   Configurar o Firewall para permitir apenas tráfego de dados necessário
