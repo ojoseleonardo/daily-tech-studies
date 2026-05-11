@@ -1,0 +1,10 @@
+A VPN é uma tecnologia que criptografa a comunicação entre dois pontos de rede, garantindo que os dados sejam protegidos contra eavesdropping e interceptação. Existem dois tipos principais de VPN: Site-to-Site e Client-to-Site.
+
+▸ Configuração de VPN:
+  → Site-to-Site: conecta duas redes privadas
+  → Client-to-Site: conecta um cliente a uma rede privada
+
+📌 Exemplo de configuração de VPN:
+
+*   Criar um túnel VPN entre duas redes privadas
+*   Configurar o cliente VPN para se conectar à rede privada
