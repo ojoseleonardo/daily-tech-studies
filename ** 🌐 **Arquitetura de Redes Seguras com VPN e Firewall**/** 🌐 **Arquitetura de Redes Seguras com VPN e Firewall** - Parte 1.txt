@@ -1,0 +1,8 @@
+Redes seguras são fundamentais para proteger dados e sistemas contra acessos não autorizados. A VPN (Rede Privada Virtual) e o Firewall são ferramentas cruciais para garantir a confidencialidade, integridade e disponibilidade dos dados.
+
+▸ Principais pilares:
+  → Confidencialidade: apenas pessoas autorizadas acessam
+  → Integridade: dados não são alterados indevidamente
+  → Disponibilidade: sistemas permanecem acessíveis
+
+⚠️ Atenção: a segurança é um processo contínuo, não um estado final.
