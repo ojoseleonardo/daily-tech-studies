@@ -1,0 +1,10 @@
+A infraestrutura como código é uma abordagem que permite a definição de infraestrutura de computador como código. 💻
+
+→ **Benefícios da Infraestrutura como Código**:
+  → Maior flexibilidade e adaptação às mudanças no mercado
+  → Redução do tempo de implementação
+  → Melhoria da colaboração e da comunicação entre equipes
+
+☁️ **Apoio ao Contínuo**: a infraestrutura como código deve ser projetada para apoiar o contínuo com recursos como contêinerização, orquestração de contêineres e implantação contínua.
+
+═══════════════════
