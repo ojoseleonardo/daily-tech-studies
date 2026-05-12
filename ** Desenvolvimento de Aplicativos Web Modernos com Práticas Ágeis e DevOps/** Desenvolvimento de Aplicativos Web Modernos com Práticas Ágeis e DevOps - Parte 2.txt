@@ -1,0 +1,10 @@
+Uma arquitetura de aplicativos web modernos com práticas ágeis e DevOps deve ser escalável, flexível e segura. 🚀
+
+→ **Características de Arquitetura Moderna**:
+  → Escalabilidade
+  → Flexibilidade
+  → Segurança
+
+☁️ **Apoio ao Contínuo**: a arquitetura deve ser projetada para apoiar o contínuo com recursos como contêinerização, orquestração de contêineres e implantação contínua.
+
+═══════════════════
