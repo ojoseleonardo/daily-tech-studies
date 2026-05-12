@@ -1,0 +1,10 @@
+A contêinerização é uma abordagem que permite a criação e gerenciamento de ambientes de desenvolvimento e produção isolados. 🌐
+
+→ **Benefícios da Contêinerização**:
+  → Maior flexibilidade e adaptação às mudanças no mercado
+  → Redução do tempo de implementação
+  → Melhoria da colaboração e da comunicação entre equipes
+
+→ **Implementação de Contêinerização**: a implementação de contêinerização deve incluir a utilização de ferramentas de contêinerização, como Docker, e a criação de imagens de contêiner.
+
+═══════════════════
