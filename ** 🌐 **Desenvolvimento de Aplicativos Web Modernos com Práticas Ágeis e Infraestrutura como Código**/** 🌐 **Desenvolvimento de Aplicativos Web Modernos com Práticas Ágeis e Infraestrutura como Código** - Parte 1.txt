@@ -1,0 +1,6 @@
+A evolução da tecnologia e as necessidades dos usuários têm impulsionado a criação de aplicativos web cada vez mais complexos e escaláveis. As práticas ágeis, desenvolvidas a partir do modelo ágil de desenvolvimento de software, permitem que as equipes trabalhem de forma colaborativa e flexível, ajustando o processo de desenvolvimento ao longo do tempo para atender às necessidades em constante mudança.
+
+▸ Principais características das práticas ágeis:
+  → **Flexibilidade**: capacidade de se adaptar às mudanças no mercado e nas necessidades dos usuários
+  → **Colaboração**: integração das equipes de desenvolvimento, marketing, design e outros stakeholders
+  → **Priorização**: foco em entregar valor ao usuário de forma rápida e eficaz
