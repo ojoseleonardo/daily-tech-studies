@@ -1,0 +1,5 @@
+A integração de práticas ágeis e infraestrutura como código permite que as equipes de desenvolvimento trabalhem de forma mais eficaz e eficiente. Isso inclui a automação da configuração e gerenciamento da infraestrutura, bem como a integração de ferramentas de versionamento e testes.
+
+▸ Principais benefícios da integração de práticas ágeis e IaC:
+  → **Melhoria da eficiência**: redução da necessidade de intervenção manual e aumento da produtividade
+  → **Aumento da qualidade**: melhoria da qualidade da infraestrutura e dos aplicativos desenvolvidos
