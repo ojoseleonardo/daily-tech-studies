@@ -1,0 +1,6 @@
+A infraestrutura como código (IaC) é uma abordagem que permite que a infraestrutura seja definida e gerenciada como código, em vez de ser configurada manualmente. Isso permite que a infraestrutura seja versionada, testada e implantada de forma automatizada, reduzindo a complexidade e aumentando a eficiência.
+
+▸ Benefícios da IaC:
+  → **Automatização**: redução da necessidade de intervenção manual na configuração e gerenciamento da infraestrutura
+  → **Versionamento**: capacidade de controlar e rastrear as alterações na infraestrutura
+  → **Testabilidade**: possibilidade de testar a infraestrutura antes de implantá-la
