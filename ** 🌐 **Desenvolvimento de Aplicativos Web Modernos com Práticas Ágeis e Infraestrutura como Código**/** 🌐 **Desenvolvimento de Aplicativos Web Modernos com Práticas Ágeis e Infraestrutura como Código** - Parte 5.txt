@@ -1,0 +1,6 @@
+Existem várias ferramentas e tecnologias que podem ser utilizadas para implementar práticas ágeis e infraestrutura como código. Isso inclui frameworks de desenvolvimento, ferramentas de versionamento e gerenciamento de infraestrutura, bem como plataformas de orquestração de contêineres.
+
+▸ Principais ferramentas e tecnologias:
+  → **Frameworks de desenvolvimento**: exemplos incluem Ruby on Rails, Django e Laravel
+  → **Ferramentas de versionamento**: exemplos incluem Git e SVN
+  → **Gerenciamento de infraestrutura**: exemplos incluem Ansible e Terraform
