@@ -1,0 +1,6 @@
+A implementação de práticas ágeis e infraestrutura como código envolve a escolha de ferramentas e tecnologias adequadas, a configuração da infraestrutura e a integração de ferramentas de versionamento e testes.
+
+▸ Principais considerações na implementação:
+  → **Escolha de ferramentas**: seleção das ferramentas e tecnologias mais adequadas para o projeto
+  → **Configuração da infraestrutura**: configuração da infraestrutura para atender às necessidades do projeto
+  → **Integração de ferramentas**: integração de ferramentas de versionamento e testes para garantir a qualidade do projeto
