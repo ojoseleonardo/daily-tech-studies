@@ -1,0 +1,6 @@
+O monitoramento e ajustes são fundamentais para garantir que as práticas ágeis e infraestrutura como código sejam eficazes e eficientes. Isso inclui a monitorização da infraestrutura e dos aplicativos desenvolvidos, bem como a realização de ajustes e melhorias contínuas.
+
+▸ Principais considerações no monitoramento e ajustes:
+  → **Monitorização da infraestrutura**: monitorização da infraestrutura para garantir a disponibilidade e a segurança
+  → **Monitorização dos aplicativos**: monitorização dos aplicativos para garantir a qualidade e a eficiência
+  → **Ajustes e melhorias contínuas**: realização de ajustes e melhorias contínuas para garantir a eficácia e eficiência das práticas ágeis e IaC
