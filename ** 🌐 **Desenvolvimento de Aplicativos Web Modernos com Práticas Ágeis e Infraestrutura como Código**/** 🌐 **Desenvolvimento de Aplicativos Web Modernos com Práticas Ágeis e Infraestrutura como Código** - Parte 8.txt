@@ -1,0 +1,6 @@
+Em resumo, o desenvolvimento de aplicativos web modernos com práticas ágeis e infraestrutura como código é uma abordagem que permite que as equipes de desenvolvimento trabalhem de forma mais eficaz e eficiente. Isso inclui a automação da configuração e gerenciamento da infraestrutura, bem como a integração de ferramentas de versionamento e testes.
+
+▸ Principais lições aprendidas:
+  → **Importância da automação**: automatização da configuração e gerenciamento da infraestrutura para reduzir a necessidade de intervenção manual
+  → **Importância da integração**: integração de ferramentas de versionamento e testes para garantir a qualidade do projeto
+  → **Importância da monitorização**: monitorização da infraestrutura e dos aplicativos desenvolvidos para garantir a disponibilidade e a segurança
