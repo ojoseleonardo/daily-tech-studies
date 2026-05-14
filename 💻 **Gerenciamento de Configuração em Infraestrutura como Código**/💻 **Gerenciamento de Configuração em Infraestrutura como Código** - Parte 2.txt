@@ -1,0 +1,11 @@
+Existem várias técnicas para gerenciar configuração em infraestrutura como código, incluindo:
+
+→ **Infraestrutura como Código (IaC)**: usar linguagens de programação para definir e gerenciar a configuração da infraestrutura.
+
+→ **Gerenciamento de Configuração com Ansible**: usar Ansible para gerenciar a configuração de sistemas e aplicativos.
+
+→ **Gerenciamento de Configuração com Terraform**: usar Terraform para gerenciar a configuração de recursos em nuvem.
+
+⚠️ A escolha da técnica correta depende do ambiente e das necessidades específicas do projeto. 🔍
+
+═══════════════════
