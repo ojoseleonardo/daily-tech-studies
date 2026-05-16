@@ -1,0 +1,7 @@
+Para implantar microserviços com Kubernetes, você precisa seguir os seguintes passos:
+
+▸ Criar o cluster de Kubernetes: crie o cluster de Kubernetes no ambiente de produção
+▸ Criar o manifesto de Kubernetes: crie o manifesto de Kubernetes para implantar o microserviço
+▸ Executar o comando de implantação: execute o comando de implantação para implantar o microserviço
+
+→ A implantação de microserviços com Kubernetes exige conhecimento em Kubernetes e gerenciamento de contêineres.
