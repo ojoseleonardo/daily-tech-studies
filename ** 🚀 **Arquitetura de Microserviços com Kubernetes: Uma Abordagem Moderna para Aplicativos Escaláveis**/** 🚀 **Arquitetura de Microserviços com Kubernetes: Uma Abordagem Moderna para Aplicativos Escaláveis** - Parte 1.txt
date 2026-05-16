@@ -1,0 +1,8 @@
+A arquitetura de microserviços é uma abordagem de design de software que visa criar sistemas escaláveis e flexíveis, dividindo a aplicação em pequenos serviços independentes. Cada microserviço é responsável por uma funcionalidade específica e pode ser desenvolvido, testado e implantado de forma independente.
+
+▸ Principais características:
+  → Independência: microserviços podem ser desenvolvidos e implantados de forma independente
+  → Escalabilidade: microserviços podem ser escalados individualmente para atender a demanda
+  → Flexibilidade: microserviços podem ser desenvolvidos em diferentes linguagens e frameworks
+
+⚠️ Atenção: a arquitetura de microserviços exige uma abordagem de desenvolvimento e infraestrutura diferente da tradicional.
