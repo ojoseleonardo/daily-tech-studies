@@ -1,0 +1,7 @@
+A arquitetura de microserviços tem alguns desafios e limitações, incluindo:
+
+▸ Complexidade: a arquitetura de microserviços pode ser complexa e difícil de gerenciar
+▸ Concorrência: a concorrência entre microserviços pode causar problemas de desempenho
+▸ Segurança: a segurança da arquitetura de microserviços pode ser um problema
+
+→ É importante considerar os desafios e limitações da arquitetura de microserviços ao desenvolver aplicativos escaláveis e flexíveis.
