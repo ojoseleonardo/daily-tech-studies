@@ -1,0 +1,7 @@
+Kubernetes é um sistema de gerenciamento de contêineres que pode ser usado para implantar e gerenciar microserviços. Ele oferece recursos como:
+
+▸ Orquestração: Kubernetes pode implantar e gerenciar microserviços de forma automatizada
+▸ Escalabilidade: Kubernetes pode escalar microserviços individualmente para atender a demanda
+▸ Segurança: Kubernetes pode fornecer segurança para microserviços, incluindo autenticação e autorização
+
+→ Kubernetes é uma opção popular para gerenciar microserviços em produção.
