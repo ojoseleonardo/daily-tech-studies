@@ -1,0 +1,7 @@
+A arquitetura de microserviços oferece vários benefícios, incluindo:
+
+▸ Maior escalabilidade: microserviços podem ser escalados individualmente para atender a demanda
+▸ Flexibilidade: microserviços podem ser desenvolvidos em diferentes linguagens e frameworks
+▸ Maior resistência a falhas: se um microserviço falhar, os outros continuam funcionando
+
+✓ A arquitetura de microserviços é uma opção viável para aplicações escaláveis e flexíveis.
