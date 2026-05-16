@@ -1,0 +1,7 @@
+Para desenvolver microserviços com Kubernetes, você precisa seguir os seguintes passos:
+
+▸ Criar o serviço: crie o microserviço em uma linguagem de programação escolhida
+▸ Criar o Dockerfile: crie o Dockerfile para criar a imagem do microserviço
+▸ Criar o manifesto de Kubernetes: crie o manifesto de Kubernetes para implantar o microserviço
+
+→ O desenvolvimento de microserviços com Kubernetes exige conhecimento em programação, Docker e Kubernetes.
