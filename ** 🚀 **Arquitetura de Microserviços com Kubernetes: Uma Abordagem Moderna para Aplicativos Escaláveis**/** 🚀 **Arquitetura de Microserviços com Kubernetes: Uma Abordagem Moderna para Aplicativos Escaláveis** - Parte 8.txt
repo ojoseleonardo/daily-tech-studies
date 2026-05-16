@@ -1,0 +1,3 @@
+A arquitetura de microserviços é uma abordagem moderna e escalável de design de software que pode ser usada para desenvolver aplicativos escaláveis e flexíveis. O uso de Kubernetes pode ajudar a gerenciar microserviços de forma eficiente e escalável. No entanto, é importante considerar os desafios e limitações da arquitetura de microserviços ao desenvolver aplicativos escaláveis e flexíveis.
+
+✓ A arquitetura de microserviços é uma opção viável para aplicações escaláveis e flexíveis.
