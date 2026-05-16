@@ -1,0 +1,7 @@
+Para gerenciar microserviços com Kubernetes, você precisa seguir os seguintes passos:
+
+▸ Monitore o desempenho: monitore o desempenho do microserviço para identificar problemas
+▸ Faça atualizações: faça atualizações no microserviço para corrigir problemas
+▸ Escalando: escalando o microserviço para atender a demanda
+
+→ O gerenciamento de microserviços com Kubernetes exige conhecimento em Kubernetes e gerenciamento de contêineres.
