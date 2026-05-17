@@ -1,0 +1,12 @@
+Os aplicativos web modernos são vulneráveis a ataques de segurança, desde a infecção por malware até a exfiltração de dados sensíveis. Organizações investem em segurança para proteger seus aplicativos e dados contra ameaças cibernéticas.
+
+A segurança em aplicativos web é um processo contínuo que envolve a identificação e mitigação de riscos, a implementação de medidas de segurança e a monitorização contínua do aplicativo. É importante que os desenvolvedores de aplicativos web tenham uma compreensão profunda da segurança e das melhores práticas de segurança para garantir que seus aplicativos sejam seguros e confiáveis.
+
+→ **Principais pilares de segurança:**
+ ▸ **Confidencialidade:** garantir que apenas pessoas autorizadas tenham acesso aos dados sensíveis.
+ ▸ **Integridade:** garantir que os dados não sejam alterados indevidamente.
+ ▸ **Disponibilidade:** garantir que os aplicativos estejam sempre acessíveis e funcionando corretamente.
+
+⚠️ **Atenção:** a segurança é um processo contínuo, não um estado final.
+
+═══════════════════
