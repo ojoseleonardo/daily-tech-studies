@@ -1,0 +1,9 @@
+A Implementação de Arquitetura de Serviços de Computação Em Nuvem com Kubernetes é uma abordagem moderna para desenvolver e implantar sistemas escaláveis, flexíveis e seguros. O Kubernetes é uma plataforma de gerenciamento de contêineres que permite que os desenvolvedores criem e impliquem microserviços de forma mais eficiente e escalável.
+
+▸ Principais benefícios:
+ → Flexibilidade e escalabilidade
+ → Economia de recursos
+ → Segurança e confiabilidade
+
+→ Exemplo de microserviço:
+ → **Serviço de Autenticação**: desenvolvido com Node.js e Docker, com segurança integrada e entrega de valor contínuo.
