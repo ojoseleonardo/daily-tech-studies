@@ -1,0 +1,9 @@
+Desenvolver aplicativos web modernos com práticas ágeis e segurança é essencial para garantir a confidencialidade, integridade e disponibilidade dos dados. A prática ágeis envolve a criação de equipes cross-funcionais, a priorização de requisitos e a entrega de valor contínuo.
+
+▸ Principais práticas:
+ → Desenvolvimento ágil
+ → Teste contínuo
+ → Segurança integrada
+
+→ Exemplo de aplicativo web moderno:
+ → **App de E-commerce**: desenvolvido com tecnologias como React, Node.js e MongoDB, com segurança integrada e entrega de valor contínuo.
