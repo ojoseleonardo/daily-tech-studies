@@ -1,0 +1,9 @@
+A Arquitetura de Serviços de Computação Em Nuvem é uma abordagem moderna para desenvolver e implantar sistemas escaláveis, flexíveis e seguros. A prática ágeis envolve a criação de equipes cross-funcionais, a priorização de requisitos e a entrega de valor contínuo.
+
+▸ Principais conclusões:
+ → Flexibilidade e escalabilidade
+ → Economia de recursos
+ → Segurança e confiabilidade
+
+→ Futuro da Arquitetura de Serviços de Computação Em Nuvem:
+ → Continuaremos a evoluir e melhorar a arquitetura de serviços de computação em nuvem, com a ajuda de tecnologias emergentes e práticas ágeis.
