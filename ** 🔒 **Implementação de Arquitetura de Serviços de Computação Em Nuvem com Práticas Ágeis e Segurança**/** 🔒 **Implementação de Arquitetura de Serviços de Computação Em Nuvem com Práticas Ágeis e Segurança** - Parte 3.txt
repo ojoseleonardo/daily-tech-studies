@@ -1,0 +1,9 @@
+O Gerenciamento de Configuração em Infraestrutura como Código (IaC) é uma prática que envolve a criação e gerenciamento de infraestrutura como código. Isso permite que os desenvolvedores criem e impliquem infraestrutura de forma mais eficiente e escalável.
+
+▸ Principais ferramentas:
+ → Terraform
+ → Ansible
+ → Puppet
+
+→ Exemplo de IaC:
+ → **Infraestrutura de Aplicativo**: criada com Terraform e Ansible, com configuração de rede e segurança integrada.
