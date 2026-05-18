@@ -1,0 +1,9 @@
+A Arquitetura de Serviços de Computação Em Nuvem com Práticas Ágeis e Segurança é uma abordagem moderna para desenvolver e implantar sistemas escaláveis, flexíveis e seguros. A prática ágeis envolve a criação de equipes cross-funcionais, a priorização de requisitos e a entrega de valor contínuo.
+
+▸ Principais práticas:
+ → Desenvolvimento ágil
+ → Teste contínuo
+ → Segurança integrada
+
+→ Exemplo de aplicativo web moderno:
+ → **App de E-commerce**: desenvolvido com tecnologias como React, Node.js e MongoDB, com segurança integrada e entrega de valor contínuo.
