@@ -1,0 +1,9 @@
+A Implementação de Arquitetura de Microserviços com Práticas Ágeis e Segurança é uma abordagem moderna para desenvolver e implantar sistemas escaláveis, flexíveis e seguros. A prática ágeis envolve a criação de equipes cross-funcionais, a priorização de requisitos e a entrega de valor contínuo.
+
+▸ Principais benefícios:
+ → Flexibilidade e escalabilidade
+ → Economia de recursos
+ → Segurança e confiabilidade
+
+→ Exemplo de microserviço:
+ → **Serviço de Autenticação**: desenvolvido com Node.js e Docker, com segurança integrada e entrega de valor contínuo.
