@@ -1,0 +1,10 @@
+A arquitetura de aplicativos web modernos visa fornecer uma solução escalável, flexível e segura. Isso é alcançado através da utilização de microserviços, containers e orquestradores.
+
+▸ Principais características:
+  → Escalabilidade: aplicativos podem ser escalados com facilidade
+  → Flexibilidade: aplicativos podem ser desenvolvidos e implantados rapidamente
+  → Segurança: aplicativos são protegidos contra acessos não autorizados
+
+✓ Exemplo de uso: uma empresa pode desenvolver um aplicativo web moderno para fornecer serviços de e-commerce, utilizando microserviços para gerenciar pedidos, inventário e pagamento.
+
+═══════════════════
