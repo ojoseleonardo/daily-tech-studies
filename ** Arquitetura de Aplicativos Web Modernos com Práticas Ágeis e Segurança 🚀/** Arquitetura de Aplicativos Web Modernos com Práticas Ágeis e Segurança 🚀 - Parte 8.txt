@@ -1,0 +1,10 @@
+As práticas ágeis são uma abordagem que visa melhorar a velocidade e a qualidade do desenvolvimento de aplicativos. Isso pode ser alcançado através da utilização de técnicas ágeis, como desenvolvimento incremental e refatoração.
+
+▸ Principais características:
+  → Velocidade: aplicativos são desenvolvidos e implantados rapidamente
+  → Qualidade: aplicativos são mais seguros e confiáveis
+  → Flexibilidade: aplicativos podem ser desenvolvidos e implantados rapidamente
+
+✓ Exemplo de uso: uma empresa pode utilizar práticas ágeis para desenvolver e implantar aplicativos web modernos de forma rápida e segura.
+
+═══════════════════
