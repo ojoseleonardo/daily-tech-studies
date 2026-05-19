@@ -1,0 +1,10 @@
+O teste de interface é crucial para garantir que os aplicativos web modernos sejam funcionais e seguros. Isso pode ser alcançado através da utilização de técnicas de teste de interface, como teste de usabilidade e teste de segurança.
+
+▸ Principais características:
+  → Funcionalidade: aplicativos são testados para garantir que sejam funcionais
+  → Segurança: aplicativos são testados para garantir que sejam seguros
+  → Usabilidade: aplicativos são testados para garantir que sejam usáveis
+
+✓ Exemplo de uso: uma empresa pode utilizar técnicas de teste de interface para garantir que aplicativos web modernos sejam funcionais e seguros.
+
+═══════════════════
