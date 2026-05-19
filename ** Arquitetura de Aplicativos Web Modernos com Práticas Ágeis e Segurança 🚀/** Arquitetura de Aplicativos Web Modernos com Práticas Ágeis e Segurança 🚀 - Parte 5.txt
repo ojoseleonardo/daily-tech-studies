@@ -1,0 +1,10 @@
+O DevOps é uma abordagem que visa melhorar a colaboração entre desenvolvedores e operadores de sistemas. Isso melhora a velocidade e a qualidade do desenvolvimento de aplicativos.
+
+▸ Principais características:
+  → Colaboração: desenvolvedores e operadores de sistemas trabalham em equipe
+  → Velocidade: aplicativos são desenvolvidos e implantados rapidamente
+  → Qualidade: aplicativos são mais seguros e confiáveis
+
+✓ Exemplo de uso: uma empresa pode utilizar DevOps para desenvolver e implantar aplicativos web modernos de forma rápida e segura.
+
+═══════════════════
