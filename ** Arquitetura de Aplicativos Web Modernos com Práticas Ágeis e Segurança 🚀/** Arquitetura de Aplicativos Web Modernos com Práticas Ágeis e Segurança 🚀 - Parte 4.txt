@@ -1,0 +1,10 @@
+A infraestrutura como código (IaC) permite que os desenvolvedores definam e gerenciem a infraestrutura de aplicativos em código. Isso melhora a consistência e a confiabilidade da infraestrutura.
+
+▸ Principais características:
+  → Consistência: a infraestrutura é definida e gerenciada em código
+  → Confiabilidade: a infraestrutura é mais confiável e menos propensa a erros
+  → Escalabilidade: a infraestrutura pode ser escalada com facilidade
+
+✓ Exemplo de uso: uma empresa pode utilizar IaC para gerenciar a infraestrutura de aplicativos web modernos.
+
+═══════════════════
