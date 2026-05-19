@@ -1,0 +1,10 @@
+A segurança de aplicativos é crucial para proteger contra acessos não autorizados e ataques cibernéticos. Isso pode ser alcançado através da utilização de técnicas de segurança, como autenticação e autorização.
+
+▸ Principais características:
+  → Proteção: aplicativos são protegidos contra acessos não autorizados
+  → Confidencialidade: dados são protegidos contra acesso não autorizado
+  → Disponibilidade: sistemas permanecem acessíveis
+
+✓ Exemplo de uso: uma empresa pode utilizar técnicas de segurança para proteger aplicativos web modernos contra acessos não autorizados.
+
+═══════════════════
