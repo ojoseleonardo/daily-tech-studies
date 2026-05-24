@@ -1,0 +1,10 @@
+Implementar uma arquitetura de segurança em aplicativos web modernos envolve várias etapas:
+
+▸ Definição de necessidades de segurança
+▸ Análise de riscos
+▸ Implementação de medidas de segurança (firewalls, VPN, etc.)
+▸ Treinamento de funcionários
+
+→ Ponto importante destacado: a arquitetura de segurança deve ser adaptável às mudanças no ambiente e na legislação.
+
+→ Outro ponto relevante: a implementação de medidas de segurança é apenas o primeiro passo, é necessário também monitorar e manter a segurança.
