@@ -1,0 +1,10 @@
+A implementação de arquitetura de segurança em aplicativos web modernos com práticas ágeis envolve a utilização de técnicas como:
+
+▸ CI/CD: automatiza a integração e deploy de código, garantindo que as alterações sejam testadas e implantadas rapidamente.
+▸ TDD: garante que o código seja testado antes de ser implantado.
+▸ DevOps: promove a colaboração entre desenvolvedores e operadores, garantindo que os aplicativos sejam implantados e monitorados de forma eficiente.
+
+🔒 A implementação de arquitetura de segurança em aplicativos web modernos com práticas ágeis também envolve a utilização de ferramentas como:
+
+▸ Docker: permite a criação de ambientes isolados e seguros para os aplicativos.
+▸ Kubernetes: permite a automatização da implantação e gerenciamento de aplicativos.
