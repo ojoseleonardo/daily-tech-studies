@@ -1,0 +1,10 @@
+A arquitetura de segurança em aplicativos web modernos envolve várias camadas de proteção, incluindo:
+
+▸ Autenticação: verifica a identidade do usuário e autoriza acesso aos recursos.
+▸ Autorização: controla o acesso aos recursos baseado nas permissões do usuário.
+▸ Controle de acesso: protege os recursos contra acessos não autorizados.
+
+🔒 A implementação de arquitetura de segurança em aplicativos web modernos também envolve a utilização de tecnologias como:
+
+▸ API Gateway: controla o acesso às APIs e protege contra ataques de injeção de SQL.
+▸ WAF (Web Application Firewall): protege contra ataques de injeção de SQL, XSS e outros tipos de ataques.
