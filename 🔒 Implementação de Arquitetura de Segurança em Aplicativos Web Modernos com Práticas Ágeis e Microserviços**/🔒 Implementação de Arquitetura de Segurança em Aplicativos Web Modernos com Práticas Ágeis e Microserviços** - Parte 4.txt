@@ -1,0 +1,9 @@
+A implementação de arquitetura de segurança em aplicativos web modernos com microserviços envolve a utilização de técnicas como:
+
+▸ Decomposição de monolitos: quebra os aplicativos em serviços independentes e autônomos.
+▸ Comunicação entre serviços: utiliza protocolos como REST, gRPC ou Message Queue para a comunicação entre serviços.
+
+🔒 A implementação de arquitetura de segurança em aplicativos web modernos com microserviços também envolve a utilização de ferramentas como:
+
+▸ Service Mesh: permite a automatização da comunicação entre serviços.
+▸ API Gateway: controla o acesso às APIs e protege contra ataques de injeção de SQL.
