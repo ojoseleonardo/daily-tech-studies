@@ -1,0 +1,10 @@
+O desenvolvimento de aplicativos web modernos envolve a criação de sistemas escaláveis, seguros e escaláveis. Algumas técnicas incluem:
+
+▸ *DevOps*: integrar desenvolvimento e operações
+▸ *Infraestrutura como Código*: gerenciar ambientes com código
+▸ *Contêinerização*: executar aplicativos em containers
+
+→ Benefícios:
+  → Melhoria da produtividade
+  → Redução de custos
+  → Aumento da escalabilidade
