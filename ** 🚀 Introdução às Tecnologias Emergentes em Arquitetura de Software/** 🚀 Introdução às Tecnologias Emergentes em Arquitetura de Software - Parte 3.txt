@@ -1,0 +1,10 @@
+A segurança é fundamental em arquitetura de software. Algumas medidas incluem:
+
+▸ *Autenticação*: identificar usuários e verificar permissões
+▸ *Autorização*: controlar acesso a recursos e dados
+▸ *Cifragem*: proteger dados e comunicação
+
+→ Riscos:
+  → Insegurança de dados
+  → Ataques cibernéticos
+  → Perda de confiança
