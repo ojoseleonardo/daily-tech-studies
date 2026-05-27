@@ -1,0 +1,10 @@
+Algumas tecnologias emergentes em arquitetura de software incluem:
+
+▸ *Microserviços*: dividir o sistema em pequenos serviços independentes
+▸ *Kubernetes*: gerenciar containers e aplicativos escaláveis
+▸ *Serverless*: executar código sem gerenciar ambientes
+
+→ Vantagens:
+  → Flexibilidade
+  → Escalabilidade
+  → Melhoria da segurança
