@@ -1,0 +1,8 @@
+A arquitetura de software é a estrutura básica de um sistema de software, definindo como os componentes interagem e se comunicam. Isso inclui a divisão do sistema em módulos independentes, a definição de interfaces entre eles e a escolha de padrões de arquitetura.
+
+▸ Princípios fundamentais:
+  → Abstração: simplificar complexidade
+  → Encapsulamento: esconder detalhes internos
+  → Composição: combinar componentes
+
+⚠️ Atenção: a arquitetura de software é essencial para uma boa manutenção, escalabilidade e segurança.
