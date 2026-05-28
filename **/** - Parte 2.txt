@@ -1,0 +1,13 @@
+Uma arquitetura de segurança eficaz é baseada em uma combinação de tecnologias e práticas. Isso inclui:
+
+* Autenticação e autorização robustas
+* Criptografia de dados em repouso e em trânsito
+* Monitoramento e detecção de ameaças em tempo real
+* Resposta a incidentes e recuperação de dados
+
+→ Exemplo de implementação:
+Implementar uma solução de autenticação baseada em tokens JWT para garantir a autenticidade dos usuários.
+
+▸ Ferramentas e tecnologias:
+  → Utilizar o framework de segurança OWASP para garantir a segurança do aplicativo
+  → Implementar o protocolo HTTPS para proteger a comunicação entre o aplicativo e o cliente
