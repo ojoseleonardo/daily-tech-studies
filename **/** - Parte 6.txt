@@ -1,0 +1,12 @@
+A implementação de arquitetura de redes seguras é baseada em uma abordagem de segurança de rede. Isso inclui:
+
+* Utilizar protocolos de segurança como VPN e Firewall
+* Implementar uma gestão de redes de segurança como código
+* Monitorar e avaliar a eficácia da gestão de redes de segurança
+
+→ Exemplo de implementação:
+Implementar uma solução de gestão de redes de segurança como código utilizando Ansible para garantir a entrega rápida e segura da rede.
+
+▸ Ferramentas e tecnologias:
+  → Utilizar o framework de desenvolvimento OpenShift para criar a rede
+  → Implementar o protocolo SSL/TLS para proteger a comunicação entre o aplicativo e o cliente
