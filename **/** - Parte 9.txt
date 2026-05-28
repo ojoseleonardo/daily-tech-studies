@@ -1,0 +1,12 @@
+A análise de dados e avaliação de desempenho é fundamental para garantir a entrega rápida e segura do aplicativo. Isso inclui:
+
+* Identificar e avaliar os padrões de uso do aplicativo
+* Implementar medidas de controle para melhorar o desempenho do aplicativo
+* Monitorar e avaliar a eficácia das medidas de controle
+
+→ Exemplo de implementação:
+Realizar uma análise de dados utilizando o software de análise de dados Tableau para identificar e avaliar os padrões de uso do aplicativo.
+
+▸ Ferramentas e tecnologias:
+  → Utilizar o software de análise de dados Power BI para criar relatórios de desempenho do aplicativo
+  → Implementar o protocolo SSL/TLS para proteger a comunicação entre o aplicativo e o cliente
