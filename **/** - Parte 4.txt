@@ -1,0 +1,12 @@
+A análise de riscos e avaliação de segurança é fundamental para garantir a segurança do aplicativo. Isso inclui:
+
+* Identificar e avaliar os riscos de segurança
+* Implementar medidas de controlo para mitigar os riscos
+* Monitorar e avaliar a eficácia das medidas de controlo
+
+→ Exemplo de implementação:
+Realizar uma análise de riscos utilizando o framework de segurança NIST para identificar e avaliar os riscos de segurança do aplicativo.
+
+▸ Ferramentas e tecnologias:
+  → Utilizar o software de análise de riscos OWASP ZAP para identificar vulnerabilidades no aplicativo
+  → Implementar o protocolo SSL/TLS para proteger a comunicação entre o aplicativo e o cliente
