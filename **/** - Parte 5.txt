@@ -1,0 +1,12 @@
+A implementação de arquitetura de serviços de computação em nuvem é baseada em uma abordagem de infraestrutura como código. Isso inclui:
+
+* Utilizar serviços de computação em nuvem como AWS ou Azure
+* Implementar uma gestão de configuração de infraestrutura como código
+* Monitorar e avaliar a eficácia da gestão de configuração
+
+→ Exemplo de implementação:
+Implementar uma solução de gestão de configuração de infraestrutura como código utilizando Terraform para garantir a entrega rápida e segura da infraestrutura.
+
+▸ Ferramentas e tecnologias:
+  → Utilizar o framework de desenvolvimento CloudFormation para criar a infraestrutura
+  → Implementar o banco de dados Amazon RDS para armazenar os dados do aplicativo
