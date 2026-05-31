@@ -1,0 +1,6 @@
+A infraestrutura como código é uma abordagem popular para gerenciar infraestrutura de aplicativos web. Existem várias ferramentas e técnicas para a infraestrutura como código, incluindo Terraform e Ansible.
+
+✓ Infraestrutura como código: gerenciar infraestrutura
+✓ Ferramentas: Terraform, Ansible
+
+A escolha da ferramenta certa depende do tipo de infraestrutura e das necessidades de segurança.
