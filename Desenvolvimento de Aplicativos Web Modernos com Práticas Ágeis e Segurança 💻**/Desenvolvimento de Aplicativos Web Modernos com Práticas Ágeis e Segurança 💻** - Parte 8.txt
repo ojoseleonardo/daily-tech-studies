@@ -1,0 +1,6 @@
+O DevOps é uma abordagem popular para gerenciar aplicativos web de forma eficiente e segura. Existem várias ferramentas e técnicas para o DevOps, incluindo Docker e Kubernetes.
+
+✓ DevOps: gerenciar aplicativos
+✓ Ferramentas: Docker, Kubernetes
+
+A escolha da ferramenta certa depende do tipo de aplicativo web e das necessidades de segurança.
