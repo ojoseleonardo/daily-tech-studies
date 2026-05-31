@@ -1,0 +1,6 @@
+A criptografia é essencial para proteger dados sensíveis em aplicativos web. Existem várias técnicas de criptografia, incluindo AES, RSA e SHA.
+
+✓ Criptografia: proteger dados sensíveis
+✓ Algoritmos: AES, RSA, SHA
+
+A escolha da técnica certa depende do tipo de dados e das necessidades de segurança.
