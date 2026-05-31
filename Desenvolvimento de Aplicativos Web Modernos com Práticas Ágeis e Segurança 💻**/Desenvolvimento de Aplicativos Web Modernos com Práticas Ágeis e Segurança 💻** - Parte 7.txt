@@ -1,0 +1,6 @@
+A segurança de dados é crucial para garantir que os dados sensíveis sejam protegidos em aplicativos web. Existem várias técnicas de segurança de dados, incluindo criptografia e autenticação.
+
+✓ Segurança de dados: proteger dados sensíveis
+✓ Técnicas: criptografia, autenticação
+
+A escolha da técnica certa depende do tipo de dados e das necessidades de segurança.
