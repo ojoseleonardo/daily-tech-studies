@@ -1,0 +1,6 @@
+A arquitetura de aplicativos web modernos é essencial para garantir a escalabilidade, a segurança e a flexibilidade. A arquitetura de microsserviços é uma abordagem popular atualmente.
+
+✓ Microsserviços: escalabilidade, autonomia, flexibilidade
+✓ Arquitetura de rede: balanceamento de carga, segurança
+
+A arquitetura de aplicativos web modernos deve ser projetada com segurança em mente, incluindo a autenticação, autorização e criptografia.
