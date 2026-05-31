@@ -1,0 +1,6 @@
+O teste de interface é crucial para garantir que os aplicativos web sejam seguros e funcionem corretamente. Existem várias técnicas de teste de interface, incluindo teste de usabilidade e teste de segurança.
+
+✓ Teste de interface: verificar funcionalidade e segurança
+✓ Técnicas: teste de usabilidade, teste de segurança
+
+A escolha da técnica certa depende do tipo de aplicativo web e das necessidades de segurança.
