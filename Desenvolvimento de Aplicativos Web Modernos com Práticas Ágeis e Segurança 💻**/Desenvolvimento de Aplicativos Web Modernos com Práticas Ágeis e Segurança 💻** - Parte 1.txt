@@ -1,0 +1,6 @@
+Desenvolver aplicativos web modernos é um desafio constante. As práticas ágeis fornecem uma abordagem mais flexível e adaptável para lidar com mudanças e incertezas. A segurança é um aspecto crucial nesse contexto.
+
+✓ Práticas ágeis: flexibilidade, adaptação, entrega contínua
+✓ Segurança: proteger dados, sistemas e usuários
+
+A segurança é um processo contínuo, não um estado final. É fundamental incorporar práticas ágeis e segurança desde o início do desenvolvimento de aplicativos web.
