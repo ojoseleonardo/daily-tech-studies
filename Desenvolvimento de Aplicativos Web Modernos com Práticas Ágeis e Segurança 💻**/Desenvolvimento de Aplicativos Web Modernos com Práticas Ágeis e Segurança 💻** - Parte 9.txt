@@ -1,0 +1,6 @@
+O monitoramento e a análise são fundamentais para garantir que os aplicativos web sejam seguros e funcionem corretamente. Existem várias ferramentas e técnicas para o monitoramento e a análise, incluindo Prometheus e Grafana.
+
+✓ Monitoramento e análise: verificar funcionalidade e segurança
+✓ Ferramentas: Prometheus, Grafana
+
+A escolha da ferramenta certa depende do tipo de aplicativo web e das necessidades de segurança.
