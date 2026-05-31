@@ -1,0 +1,6 @@
+A autenticação e autorização são fundamentais para garantir que apenas usuários autorizados acessam os aplicativos web. Existem várias abordagens para a autenticação e autorização, incluindo tokens, sessões e direitos.
+
+✓ Autenticação: verificar identidade do usuário
+✓ Autorização: verificar permissões do usuário
+
+A escolha da abordagem certa depende do tipo de aplicativo web e das necessidades de segurança.
